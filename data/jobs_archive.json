@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "dedup_key": "597d54b19f03fc54",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "【北斗】Agent构建算法研究员",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4531268543",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-10-31T06:31:33.924292+00:00",
+    "archived_at": "2026-10-31T12:21:36.167089+00:00",
+    "match_score": 174
+  },
+  {
+    "dedup_key": "22bb77ef77251ac5",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "收退库维主管",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4808874035",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-10-31T06:31:33.924292+00:00",
+    "archived_at": "2026-10-31T12:21:36.167089+00:00",
+    "match_score": 68
+  }
+]

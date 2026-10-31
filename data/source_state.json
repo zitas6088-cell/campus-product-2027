@@ -2,7 +2,7 @@
   "watch-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:31:44.507572+00:00",
+    "last_success_at": "2026-10-31T12:21:46.680024+00:00",
     "last_error": "",
     "last_count": 888,
     "peak_count": 888,
@@ -11,7 +11,7 @@
   "watch-byte": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:32:42.190409+00:00",
+    "last_success_at": "2026-10-31T12:22:58.299534+00:00",
     "last_error": "",
     "last_count": 2298,
     "peak_count": 2298,
@@ -20,7 +20,7 @@
   "watch-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:32:45.635332+00:00",
+    "last_success_at": "2026-10-31T12:23:01.375348+00:00",
     "last_error": "",
     "last_count": 132,
     "peak_count": 132,
@@ -29,16 +29,16 @@
   "watch-meituan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:33:49.452496+00:00",
+    "last_success_at": "2026-10-31T12:24:10.799999+00:00",
     "last_error": "",
-    "last_count": 3295,
+    "last_count": 3293,
     "peak_count": 3295,
     "alert": ""
   },
   "watch-xhs": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:33:55.595490+00:00",
+    "last_success_at": "2026-10-31T12:24:17.763380+00:00",
     "last_error": "",
     "last_count": 210,
     "peak_count": 210,
@@ -47,7 +47,7 @@
   "watch-pdd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:33:59.747436+00:00",
+    "last_success_at": "2026-10-31T12:24:21.563966+00:00",
     "last_error": "",
     "last_count": 34,
     "peak_count": 34,
