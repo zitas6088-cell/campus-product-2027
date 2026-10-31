@@ -110,6 +110,22 @@ class PaginationTests(unittest.TestCase):
 
 
 class DeliveryTests(unittest.TestCase):
+    def test_feishu_signature_payload_and_fresh_timestamp(self):
+        class Response:
+            status=200
+            def __enter__(self): return self
+            def __exit__(self,*args): pass
+            def read(self): return b'{"code":0}'
+        env={'NOTIFY_CHANNEL':'feishu','FEISHU_WEBHOOK_URL':'https://example.com/test',
+             'FEISHU_SIGN_SECRET':'test-sign-secret'}
+        with patch.dict('os.environ',env),patch('time.time',return_value=1599360473),patch('urllib.request.urlopen',return_value=Response()) as send:
+            campus_watch.deliver('2027 test')
+        body=json.loads(send.call_args.args[0].data)
+        self.assertEqual(body['timestamp'],'1599360473')
+        self.assertEqual(body['sign'],'IguO2D+OUoxoId7q5yiQoWCADK2fpcXqxir8wy4Nbnc=')
+        self.assertEqual(body['content']['text'],'2027 test')
+        self.assertNotIn('test-sign-secret',json.dumps(body))
+
     def test_product_notifications_go_first_and_are_separate(self):
         def job(title): return {'title':title}
         batches=list(campus_watch.notification_batches([job('算法工程师'),job('产品运营'),job('产品经理')]))

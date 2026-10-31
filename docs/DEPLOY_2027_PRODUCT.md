@@ -18,6 +18,7 @@
 仓库 Settings → Secrets and variables → Actions 添加 Secret：
 
 - 飞书（本部署默认）：FEISHU_WEBHOOK_URL；仓库 Variable NOTIFY_CHANNEL=feishu。
+- 飞书机器人开启签名校验时，同时添加 FEISHU_SIGN_SECRET，值为机器人安全设置中的签名密钥；每次发送自动生成新时间戳和签名。Webhook 和签名密钥是两个不同的值。
 - 企业微信：WECOM_WEBHOOK_URL；Variable NOTIFY_CHANNEL=wecom。
 - PushPlus（可选，个人微信）：PUSHPLUS_TOKEN；Variable NOTIFY_CHANNEL=pushplus。
 

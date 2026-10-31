@@ -3,11 +3,15 @@
 from __future__ import annotations
 
 import argparse
+import base64
 import datetime as dt
+import hashlib
+import hmac
 import json
 import os
 from pathlib import Path
 import sys
+import time
 import urllib.error
 import urllib.request
 
@@ -37,6 +41,12 @@ def deliver(text):
     if channel == "feishu":
         url = os.getenv("FEISHU_WEBHOOK_URL", "").strip()
         body = {"msg_type": "text", "content": {"text": text}}
+        secret = os.getenv("FEISHU_SIGN_SECRET", "").strip()
+        if secret:
+            timestamp = str(int(time.time()))
+            key = (timestamp + "\n" + secret).encode("utf-8")
+            body.update(timestamp=timestamp,
+                sign=base64.b64encode(hmac.new(key, b"", hashlib.sha256).digest()).decode("ascii"))
     elif channel == "wecom":
         url = os.getenv("WECOM_WEBHOOK_URL", "").strip()
         body = {"msgtype": "markdown", "markdown": {"content": text}}
@@ -58,6 +68,8 @@ def deliver(text):
         raise RuntimeError("通知请求失败：" + type(e).__name__) from None
     code = data.get("StatusCode", data.get("code", data.get("errcode")))
     success_code = 200 if channel == "pushplus" else 0
+    if channel == "feishu" and str(code) == "19021":
+        raise RuntimeError("飞书签名校验失败：请在仓库 Actions Secrets 配置正确的 FEISHU_SIGN_SECRET。未标记已发送，下一轮会重试。")
     if status != 200 or str(code) != str(success_code):
         raise RuntimeError(f"通知服务未确认成功（HTTP {status}，业务码 {code}）")
 
