@@ -1,8 +1,8 @@
-name: 2027届校招监控（产品优先）
+name: 2027届产品岗监控（表格全部公司）
 on:
   schedule:
-    # UTC -> Asia/Shanghai 09:17, 14:17, 20:17
-    - cron: '17 1,6,12 * * *'
+    # UTC -> Asia/Shanghai 09:00, 15:00
+    - cron: '0 1,7 * * *'
   workflow_dispatch:
     inputs:
       test_notification:
@@ -17,7 +17,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 90
     env:
       PYTHONUTF8: '1'
       NOTIFY_CHANNEL: ${{ vars.NOTIFY_CHANNEL || 'feishu' }}
@@ -30,12 +30,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: 安装官网渲染依赖
+        run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
       - name: 验证筛选和推送状态逻辑
         run: python -m unittest discover -s tests
+      - name: 运行仓库必需的抓取与去重自检
+        if: inputs.test_notification != true
+        run: python scripts/smoke_test.py
       - name: 测试通知连接
         if: inputs.test_notification == true
         run: python scripts/campus_watch.py --test-notification
-      - name: 检查官网新增校招岗（产品优先）
+      - name: 检查全部公司新增产品校招岗
         if: inputs.test_notification != true
         run: python scripts/campus_watch.py
       - name: 保存数据及已推记录
@@ -57,4 +64,6 @@ jobs:
             data/campus_product.md
             data/campus_product.json
             data/health_report.json
+            data/company_monitor_coverage.json
+            data/official_board_snapshot.json
           retention-days: 14
