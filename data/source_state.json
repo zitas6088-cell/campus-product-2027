@@ -2,7 +2,7 @@
   "watch-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:19:59.964615+00:00",
+    "last_success_at": "2026-10-31T06:31:44.507572+00:00",
     "last_error": "",
     "last_count": 888,
     "peak_count": 888,
@@ -11,7 +11,7 @@
   "watch-byte": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:20:56.313551+00:00",
+    "last_success_at": "2026-10-31T06:32:42.190409+00:00",
     "last_error": "",
     "last_count": 2298,
     "peak_count": 2298,
@@ -20,7 +20,7 @@
   "watch-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:20:59.427647+00:00",
+    "last_success_at": "2026-10-31T06:32:45.635332+00:00",
     "last_error": "",
     "last_count": 132,
     "peak_count": 132,
@@ -29,17 +29,17 @@
   "watch-meituan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:22:08.485512+00:00",
+    "last_success_at": "2026-10-31T06:33:49.452496+00:00",
     "last_error": "",
     "last_count": 3295,
     "peak_count": 3295,
     "alert": ""
   },
   "watch-xhs": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T03:49:44.573125+00:00",
-    "last_error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+    "last_success_at": "2026-10-31T06:33:55.595490+00:00",
+    "last_error": "",
     "last_count": 210,
     "peak_count": 210,
     "alert": ""
@@ -47,7 +47,7 @@
   "watch-pdd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-31T06:23:57.375197+00:00",
+    "last_success_at": "2026-10-31T06:33:59.747436+00:00",
     "last_error": "",
     "last_count": 34,
     "peak_count": 34,

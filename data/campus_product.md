@@ -1,4 +1,4 @@
-# 2027届校招监控｜2026-10-31 14:23（北京时间）
+# 2027届校招监控｜2026-10-31 14:34（北京时间）
 
 已核实届别的各类正式校招岗位均进入新增提醒；产品相关加星并优先推送。未确认届别与实习单列。
 
@@ -304,15 +304,15 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668304295008438581/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】产品经理（Trust&Safety）-rednote国际化
-  地点：新加坡
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21999
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（商家资金方向） - TikTok Shop
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668336305839376693/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】产品经理（Trust&Safety）-rednote国际化
+  地点：新加坡
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21999
 
 - ⭐ 产品重点｜字节跳动｜大模型评测产品经理 - 抖音AI
   地点：北京
@@ -439,11 +439,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667380186237716741/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】产品经理（AI Coding）-AI 应用
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22065
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（AI平台产品方向） - 体验与服务
   地点：北京
   官网届别文字：2027届
@@ -493,6 +488,11 @@
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667800162559641909/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】产品经理（AI Coding）-AI 应用
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22065
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（模板方向） - 剪映CapCut
   地点：北京
@@ -1489,11 +1489,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669357192973355317/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-电商营销&增长
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22478
-
 - ⭐ 产品重点｜字节跳动｜广告产品经理 - 国际化广告业务
   地点：北京、上海
   官网届别文字：2027届
@@ -1508,6 +1503,11 @@
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667576106895689989/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-电商营销&增长
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22478
 
 - ⭐ 产品重点｜字节跳动｜商家产品经理 - 抖音生活服务
   地点：上海、北京
@@ -1524,26 +1524,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665585566877436213/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（全栈）-小程序酒旅方向
-  地点：上海市，北京市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22538
-
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-快捷售卖
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22484
-
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（Agent开发方向）-智能客服
-  地点：上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22481
-
-- ⭐ 产品重点｜小红书｜【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22064
-
 - ⭐ 产品重点｜字节跳动｜AI Agent开发工程师 - 抖音平台产品
   地点：杭州、上海
   官网届别文字：2027届
@@ -1553,6 +1533,26 @@
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665994129960651061/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（全栈）-小程序酒旅方向
+  地点：上海市，北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22538
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（Agent开发方向）-智能客服
+  地点：上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22481
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-快捷售卖
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22484
+
+- ⭐ 产品重点｜小红书｜【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22064
 
 - ⭐ 产品重点｜字节跳动｜全栈开发工程师 - Seed 产品研发
   地点：上海
@@ -1744,11 +1744,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667031222274590981/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商
-  地点：上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22483
-
 - ⭐ 产品重点｜字节跳动｜客户端开发工程师 - 抖音用户产品
   地点：北京、上海、深圳、成都、杭州
   官网届别文字：2027届
@@ -1783,6 +1778,11 @@
   地点：北京、上海、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668203832703781125/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商
+  地点：上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22483
 
 - ⭐ 产品重点｜字节跳动｜广告产品经理 - 广告度量信号与隐私保护
   地点：北京
@@ -1934,11 +1934,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669711027556305157/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-社区工程
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21486
-
 - ⭐ 产品重点｜字节跳动｜前端开发工程师 - Seed 产品研发
   地点：深圳
   官网届别文字：2027届
@@ -1974,10 +1969,25 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668269763351185669/detail
 
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-社区工程
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21486
+
 - ⭐ 产品重点｜字节跳动｜大模型产品运营 - 火山引擎
   地点：北京、上海、深圳、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7674877631139039493/detail
+
+- ⭐ 产品重点｜字节跳动｜抖音产品设计师 - 抖音平台
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667785976785307909/detail
+
+- ⭐ 产品重点｜字节跳动｜后端开发工程师 - Seed 产品研发
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668309416727480629/detail
 
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-增长产品
   地点：北京市，上海市
@@ -1993,16 +2003,6 @@
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22026
-
-- ⭐ 产品重点｜字节跳动｜抖音产品设计师 - 抖音平台
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667785976785307909/detail
-
-- ⭐ 产品重点｜字节跳动｜后端开发工程师 - Seed 产品研发
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668309416727480629/detail
 
 - ⭐ 产品重点｜字节跳动｜产品营销经理 - TikTok Shop
   地点：上海
@@ -2199,11 +2199,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669720483260647733/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】AI产品设计师
-  地点：上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22181
-
 - ⭐ 产品重点｜字节跳动｜AI产品设计师 - TikTok设计
   地点：上海、北京
   官网届别文字：2027届
@@ -2213,6 +2208,11 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667869276644083973/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】AI产品设计师
+  地点：上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22181
 
 - ⭐ 产品重点｜字节跳动｜AI综合研发工程师（金融产品方向） - 国际支付
   地点：上海、杭州
@@ -2254,20 +2254,15 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2443
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商&交易平台
-  地点：杭州市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22025
-
 - ⭐ 产品重点｜京东｜产品运营
   地点：四川省-成都市、北京市-北京市、上海市-上海市、广东省-深圳市、天津市-天津市、江苏省-宿迁市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2387
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（基建方向）
-  地点：上海市，北京市
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商&交易平台
+  地点：杭州市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22077
+  https://job.xiaohongshu.com/campus/position?positionId=22025
 
 - ⭐ 产品重点｜字节跳动｜产品设计师 - 番茄小说
   地点：深圳、北京
@@ -2284,15 +2279,15 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4695054266
 
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（基建方向）
+  地点：上海市，北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22077
+
 - ⭐ 产品重点｜拼多多｜产品管培生（广东省）
   地点：广东省（如肇庆、东莞）
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=3bbb35c8-c711-4f8e-8735-2362c97fc2c5
-
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI全栈）-企业智能方向
-  地点：上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22002
 
 - ⭐ 产品重点｜字节跳动｜AI产品设计师 - 抖音基础体验
   地点：北京
@@ -2313,6 +2308,11 @@
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667869209695242501/detail
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI全栈）-企业智能方向
+  地点：上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22002
 
 - ⭐ 产品重点｜字节跳动｜AI Agent研发质量效能工程师 - Seed 产品研发质量效能
   地点：上海、北京、杭州
@@ -2441,20 +2441,15 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669724758153824565/detail
 
-- 小红书｜【2027校招】rednote全球内容运营/Global Content Operations
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22000
-
 - 字节跳动｜算法工程师 - Global Ads Core
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668565372075051269/detail
 
-- 小红书｜【2027校招】AI agent算法工程师（企业智能）
-  地点：北京市，上海市，深圳市
+- 小红书｜【2027校招】rednote全球内容运营/Global Content Operations
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22001
+  https://job.xiaohongshu.com/campus/position?positionId=22000
 
 - 字节跳动｜Agent自动评测（ToB方向） - AI数据与安全
   地点：北京
@@ -2475,6 +2470,11 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672719365292198197/detail
+
+- 小红书｜【2027校招】AI agent算法工程师（企业智能）
+  地点：北京市，上海市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22001
 
 - 字节跳动｜Agent研发工程师（社交） - TikTok研发
   地点：北京
@@ -2526,11 +2526,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667422913738819893/detail
 
-- 小红书｜【2027校招】Dots-Post-Training算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22069
-
 - 字节跳动｜用户增长运营（AMS） - TikTok Shop
   地点：上海
   官网届别文字：2027届
@@ -2581,10 +2576,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669694605223332149/detail
 
-- 小红书｜【2027校招】点点 Agent研发工程师
+- 小红书｜【2027校招】Dots-Post-Training算法工程师
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22020
+  https://job.xiaohongshu.com/campus/position?positionId=22069
 
 - 字节跳动｜Agent开发工程师（评测技术） - 抖音
   地点：北京
@@ -2595,6 +2590,11 @@
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665691286032156933/detail
+
+- 小红书｜【2027校招】点点 Agent研发工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22020
 
 - 字节跳动｜大模型法律垂搜数据运营（法律方向） - AI数据与安全
   地点：北京
@@ -2635,16 +2635,6 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7663061734682052869/detail
-
-- 小红书｜【2027校招】智能平台开发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22082
-
-- 小红书｜【2027校招】内容增长策略算法工程师-内容增长方向
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22004
 
 - 字节跳动｜推荐算法工程师（全球化优质内容与创作者生态） - TikTok算法
   地点：北京、上海
@@ -2710,6 +2700,16 @@
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667852385482311989/detail
+
+- 小红书｜【2027校招】智能平台开发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22082
+
+- 小红书｜【2027校招】内容增长策略算法工程师-内容增长方向
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22004
 
 - 字节跳动｜AI搜索算法工程师 - 搜索
   地点：北京
@@ -2946,11 +2946,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7700841772486084917/detail
 
-- 小红书｜【2027校招】国际化搜索、推荐算法工程师 - rednote
-  地点：北京市，杭州市，新加坡，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22458
-
 - 字节跳动｜机器学习算法工程师 - 抖音电商
   地点：北京、上海、杭州
   官网届别文字：2027届
@@ -2960,6 +2955,11 @@
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664482237097806133/detail
+
+- 小红书｜【2027校招】国际化搜索、推荐算法工程师 - rednote
+  地点：北京市，杭州市，新加坡，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22458
 
 - 字节跳动｜基础推荐算法工程师 - TikTok算法
   地点：北京、上海
@@ -3161,16 +3161,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669782118945114373/detail
 
-- 小红书｜【2027校招】数据与AI应用研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21985
-
-- 小红书｜【2027校招】混合云 FinOPS 研发工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22052
-
 - 字节跳动｜安全运营工程师 - 安全与风控
   地点：深圳
   官网届别文字：2027届
@@ -3220,6 +3210,16 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667856928326502661/detail
+
+- 小红书｜【2027校招】数据与AI应用研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21985
+
+- 小红书｜【2027校招】混合云 FinOPS 研发工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22052
 
 - 字节跳动｜全栈开发工程师（生活服务-治理平台） - TikTok研发
   地点：北京、上海
@@ -3386,11 +3386,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667854448622602549/detail
 
-- 小红书｜【2027校招】rednote策略运营
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22504
-
 - 字节跳动｜大模型推荐算法工程师（交互式推荐方向） - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
@@ -3446,20 +3441,10 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4683995941
 
-- 小红书｜【2027校招】体验运营
-  地点：上海市，北京市
+- 小红书｜【2027校招】rednote策略运营
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22525
-
-- 小红书｜【2027校招】电商算法工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21006
-
-- 小红书｜【2027校招】Agent/大模型算法工程师-rednote国际化
-  地点：北京市，上海市，新加坡
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21907
+  https://job.xiaohongshu.com/campus/position?positionId=22504
 
 - 字节跳动｜全栈开发工程师 - TikTok研发
   地点：北京、杭州
@@ -3686,6 +3671,21 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4694862735
 
+- 小红书｜【2027校招】体验运营
+  地点：上海市，北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22525
+
+- 小红书｜【2027校招】电商算法工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21006
+
+- 小红书｜【2027校招】Agent/大模型算法工程师-rednote国际化
+  地点：北京市，上海市，新加坡
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21907
+
 - 字节跳动｜大模型数据运营（VLA方向） - AI数据与安全
   地点：北京
   官网届别文字：2027届
@@ -3735,11 +3735,6 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669704438625995061/detail
-
-- 小红书｜【2027校招】Agent/大模型算法工程师 - rednote
-  地点：北京市，杭州市，新加坡，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21936
 
 - 字节跳动｜大数据开发工程师（抖音&直播） - 数据BP
   地点：北京、杭州、深圳、上海
@@ -3800,6 +3795,11 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668265081256380725/detail
+
+- 小红书｜【2027校招】Agent/大模型算法工程师 - rednote
+  地点：北京市，杭州市，新加坡，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21936
 
 - 字节跳动｜直播数据科学 - 音视频技术
   地点：上海、北京
@@ -3865,11 +3865,6 @@
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628600431010187525/detail
-
-- 小红书｜【2027校招】AI安全算法工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22219
 
 - 字节跳动｜校园关系与活动 - 人力与管理部
   地点：北京
@@ -3961,10 +3956,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683420356470720773/detail
 
-- 小红书｜【2027校招】AI商业营销科学工程师（灵犀agent研发）
-  地点：上海市，北京市
+- 小红书｜【2027校招】AI安全算法工程师
+  地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22410
+  https://job.xiaohongshu.com/campus/position?positionId=22219
 
 - 字节跳动｜大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-番茄（北京/上海/杭州/深圳）
   地点：杭州
@@ -4150,6 +4145,11 @@
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666106415873886517/detail
+
+- 小红书｜【2027校招】AI商业营销科学工程师（灵犀agent研发）
+  地点：上海市，北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22410
 
 - 字节跳动｜服务策略 - 体验与服务
   地点：北京
@@ -4476,11 +4476,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7678943572557383989/detail
 
-- 小红书｜【2027校招】智能标注策略工程师
-  地点：北京市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22066
-
 - 字节跳动｜达人策略运营（平台撮合方向） - 抖音生活服务
   地点：上海、北京
   官网届别文字：2027届
@@ -4565,6 +4560,11 @@
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669715540863207685/detail
+
+- 小红书｜【2027校招】智能标注策略工程师
+  地点：北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22066
 
 - 字节跳动｜大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-今日头条（北京/上海/杭州）
   地点：上海
@@ -4651,11 +4651,6 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531268543
 
-- 小红书｜【2027校招】多模态基础模型算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21008
-
 - 字节跳动｜Agent数据&评测工程师 - AI Platform
   地点：北京、上海、杭州
   官网届别文字：2027届
@@ -4706,10 +4701,10 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2403
 
-- 小红书｜【2027校招】Product Engineer-开发工程师-rednote国际化
-  地点：北京市，上海市，深圳市，新加坡
+- 小红书｜【2027校招】多模态基础模型算法工程师
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21998
+  https://job.xiaohongshu.com/campus/position?positionId=21008
 
 - 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳）
   地点：深圳
@@ -4806,15 +4801,10 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2389
 
-- 小红书｜【2027校招】AI Agent算法工程师
-  地点：北京市，上海市
+- 小红书｜【2027校招】Product Engineer-开发工程师-rednote国际化
+  地点：北京市，上海市，深圳市，新加坡
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21007
-
-- 小红书｜【2027校招】AI Agent 工程师（大模型 AI 应用开发方向）-质效研发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21966
+  https://job.xiaohongshu.com/campus/position?positionId=21998
 
 - 字节跳动｜大模型技术与应用算法工程师（用户智能） - TikTok算法
   地点：北京、上海
@@ -4866,10 +4856,15 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628936353382189317/detail
 
-- 小红书｜【2027校招】智能流媒体传输算法工程师
+- 小红书｜【2027校招】AI Agent算法工程师
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22006
+  https://job.xiaohongshu.com/campus/position?positionId=21007
+
+- 小红书｜【2027校招】AI Agent 工程师（大模型 AI 应用开发方向）-质效研发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21966
 
 - 字节跳动｜AI全栈研发工程师 - 模型数据工程
   地点：北京、深圳
@@ -4936,10 +4931,10 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531687048
 
-- 小红书｜【2027校招】AI视觉效果设计师（发布创意方向）
-  地点：北京市，深圳市
+- 小红书｜【2027校招】智能流媒体传输算法工程师
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22180
+  https://job.xiaohongshu.com/campus/position?positionId=22006
 
 - 字节跳动｜AIGC Agent开发工程师 - 火山引擎
   地点：北京、上海
@@ -5005,6 +5000,11 @@
   地点：北京市-北京市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2412
+
+- 小红书｜【2027校招】AI视觉效果设计师（发布创意方向）
+  地点：北京市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22180
 
 - 字节跳动｜AI Infra工程师 - 国际支付
   地点：杭州、上海、深圳
@@ -5100,11 +5100,6 @@
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680939538105043205/detail
-
-- 小红书｜【2027校招】全栈研发工程师（AI 智能投放方向）
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22407
 
 - 字节跳动｜联网大模型数据运营 - AI数据与安全
   地点：北京
@@ -5391,20 +5386,10 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530177703
 
-- 小红书｜【2027校招】数据引擎AIOps/Agent研发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21991
-
-- 小红书｜【2027校招】Growth Builder-Product & Experimentation
+- 小红书｜【2027校招】全栈研发工程师（AI 智能投放方向）
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22267
-
-- 小红书｜【2027校招】决策洞察分析师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22150
+  https://job.xiaohongshu.com/campus/position?positionId=22407
 
 - 字节跳动｜AI效果设计师 - 剪映CapCut
   地点：北京、深圳
@@ -5431,10 +5416,20 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7696081131490281781/detail
 
-- 小红书｜【2027校招】体验设计师
-  地点：上海市
+- 小红书｜【2027校招】数据引擎AIOps/Agent研发
+  地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22179
+  https://job.xiaohongshu.com/campus/position?positionId=21991
+
+- 小红书｜【2027校招】Growth Builder-Product & Experimentation
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22267
+
+- 小红书｜【2027校招】决策洞察分析师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22150
 
 - 字节跳动｜广告场景下的生成式搜广推大模型技术研究-国际化电商广告（北京/上海/杭州）
   地点：北京
@@ -5601,6 +5596,11 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4533253122
 
+- 小红书｜【2027校招】体验设计师
+  地点：上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22179
+
 - 字节跳动｜前端开发工程师 - TRAE
   地点：杭州、广州
   官网届别文字：2027届
@@ -5695,11 +5695,6 @@
   地点：北京市-北京市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2436
-
-- 小红书｜【2027校招】增长算法工程师-社区增长
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21010
 
 - 字节跳动｜多模态算法工程师 - TikTok内容安全算法
   地点：北京
@@ -5850,6 +5845,11 @@
   地点：北京市
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530034109
+
+- 小红书｜【2027校招】增长算法工程师-社区增长
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21010
 
 - 字节跳动｜数据合规治理工程师 - 安全与风控
   地点：北京
@@ -6156,11 +6156,6 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2352
 
-- 小红书｜【2027校招】AI 应用开发工程师（大模型 AI 质效研发方向）
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22063
-
 - 字节跳动｜基于LLM的软件缺陷检测技术的探索和研究-质量技术
   地点：杭州
   官网届别文字：2027届
@@ -6386,15 +6381,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628513051758725381/detail
 
-- 小红书｜【2027校招】测试开发
-  地点：杭州市
+- 小红书｜【2027校招】AI 应用开发工程师（大模型 AI 质效研发方向）
+  地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22046
-
-- 小红书｜【2027校招】Growth Builder-Creator & Community
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22274
+  https://job.xiaohongshu.com/campus/position?positionId=22063
 
 - 字节跳动｜大数据引擎SRE工程师 - 数据平台
   地点：上海、北京、杭州
@@ -6420,6 +6410,16 @@
   地点：北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667551281497737525/detail
+
+- 小红书｜【2027校招】测试开发
+  地点：杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22046
+
+- 小红书｜【2027校招】Growth Builder-Creator & Community
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22274
 
 - 字节跳动｜AI全栈开发工程师 - 抖音音乐
   地点：北京、杭州
@@ -6621,41 +6621,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628836902196889909/detail
 
-- 小红书｜【2027校招】AI算法工程师（AI4SEC方向）
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22220
-
-- 小红书｜【2027校招】AI数据infra工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22491
-
-- 小红书｜【2027校招】AI治理运营
-  地点：上海市，北京市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22523
-
-- 小红书｜【2027校招】安全运营校招生
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22159
-
-- 小红书｜【2027校招】推荐算法工程师-流量分发
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21693
-
-- 小红书｜【2027校招】社区推荐算法工程师
-  地点：北京市，上海市，深圳市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21000
-
-- 小红书｜【2027校招】AI Agent工程师（大模型 AI 应用开发方向）-审核研发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21969
-
 - 字节跳动｜基于多模态大模型的视频分析/理解/画质评估及增强与视频智能编码/表达-音视频技术（杭州）
   地点：杭州
   官网届别文字：2027届
@@ -6836,15 +6801,40 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667874145279559989/detail
 
-- 小红书｜【2027校招】全栈工程师（AI native）-Lab 1327
+- 小红书｜【2027校招】AI算法工程师（AI4SEC方向）
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22220
+
+- 小红书｜【2027校招】AI数据infra工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22491
+
+- 小红书｜【2027校招】AI治理运营
   地点：上海市，北京市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21868
+  https://job.xiaohongshu.com/campus/position?positionId=22523
 
-- 小红书｜【2027校招】Agent 应用算法工程师-创新业务
-  地点：北京市，杭州市，上海市
+- 小红书｜【2027校招】安全运营校招生
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22486
+  https://job.xiaohongshu.com/campus/position?positionId=22159
+
+- 小红书｜【2027校招】社区推荐算法工程师
+  地点：北京市，上海市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21000
+
+- 小红书｜【2027校招】推荐算法工程师-流量分发
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21693
+
+- 小红书｜【2027校招】AI Agent工程师（大模型 AI 应用开发方向）-审核研发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21969
 
 - 字节跳动｜客户端开发工程师（AI全栈方向） - 抖音音乐
   地点：北京、上海
@@ -7006,15 +6996,15 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2380
 
-- 小红书｜【2027校招】视觉与多模态算法工程师
-  地点：北京市，上海市
+- 小红书｜【2027校招】全栈工程师（AI native）-Lab 1327
+  地点：上海市，北京市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21269
+  https://job.xiaohongshu.com/campus/position?positionId=21868
 
-- 小红书｜【2027校招】NLP/多模态算法工程师-交易/商业化治理
-  地点：北京市，上海市，杭州市
+- 小红书｜【2027校招】Agent 应用算法工程师-创新业务
+  地点：北京市，杭州市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=20999
+  https://job.xiaohongshu.com/campus/position?positionId=22486
 
 - 字节跳动｜AgentOps平台研发工程师 - AI Platform
   地点：上海、北京
@@ -7211,6 +7201,16 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2489
 
+- 小红书｜【2027校招】视觉与多模态算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21269
+
+- 小红书｜【2027校招】NLP/多模态算法工程师-交易/商业化治理
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=20999
+
 - 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
   地点：广州
   官网届别文字：2027届
@@ -7381,16 +7381,6 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697470220
 
-- 小红书｜【2027校招】AI安全研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22038
-
-- 小红书｜【2027校招】媒体处理研发工程师-媒体引擎
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22016
-
 - 字节跳动｜算法工程师 - 今日头条
   地点：北京、上海、杭州
   官网届别文字：2027届
@@ -7546,6 +7536,16 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664642260550322485/detail
 
+- 小红书｜【2027校招】AI安全研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22038
+
+- 小红书｜【2027校招】媒体处理研发工程师-媒体引擎
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22016
+
 - 拼多多｜用户体验运营（多语种优势-上海）
   地点：上海
   官网毕业年份字段：2027
@@ -7555,11 +7555,6 @@
   地点：上海
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=ba49c098-6493-4b55-a4d5-3af01d362fc7
-
-- 小红书｜【2027校招】多媒体设计师
-  地点：上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22157
 
 - 字节跳动｜直播推荐算法工程师 - 中国交易与广告
   地点：北京、上海、深圳
@@ -7636,10 +7631,10 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530431783
 
-- 小红书｜【2027校招】网络系统开发工程师
-  地点：北京市，杭州市
+- 小红书｜【2027校招】多媒体设计师
+  地点：上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22588
+  https://job.xiaohongshu.com/campus/position?positionId=22157
 
 - 字节跳动｜Agent算法工程师 - App Infra
   地点：北京、上海、杭州
@@ -7771,25 +7766,10 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2370
 
-- 小红书｜【2027校招】智能客服算法工程师（LLM Agent方向）
-  地点：北京市，杭州市，上海市
+- 小红书｜【2027校招】网络系统开发工程师
+  地点：北京市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21002
-
-- 小红书｜【2027校招】AI Agent工程师-社区工程
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22018
-
-- 小红书｜【2027校招】搜广推 × AI 应用工程师
-  地点：深圳市，北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22027
-
-- 小红书｜【2027校招】Agent平台全栈研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22059
+  https://job.xiaohongshu.com/campus/position?positionId=22588
 
 - 字节跳动｜智能对话大模型算法工程师 - TikTok Shop
   地点：上海、杭州、北京
@@ -8061,6 +8041,26 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531751053
 
+- 小红书｜【2027校招】智能客服算法工程师（LLM Agent方向）
+  地点：北京市，杭州市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21002
+
+- 小红书｜【2027校招】AI Agent工程师-社区工程
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22018
+
+- 小红书｜【2027校招】搜广推 × AI 应用工程师
+  地点：深圳市，北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22027
+
+- 小红书｜【2027校招】Agent平台全栈研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22059
+
 - 字节跳动｜机器学习/检测算法工程师 - 安全与风控
   地点：北京、杭州
   官网届别文字：2027届
@@ -8236,31 +8236,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665704152723523893/detail
 
-- 小红书｜【2027校招】AI全栈研发工程师（AI4Sec方向）
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22041
-
-- 小红书｜【2027校招】用户理解算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21270
-
-- 小红书｜【2027校招】社区风控算法工程师-社区治理
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22070
-
-- 小红书｜【2027校招】AI Agent Infra 工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22062
-
-- 小红书｜【2027校招】大模型 Infra 工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22061
-
 - 字节跳动｜机器学习平台研发工程师 - Data AML
   地点：北京、上海
   官网届别文字：2027届
@@ -8326,15 +8301,30 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2391
 
-- 小红书｜【2027校招】AI审核研发工程师-Trust&Safety
-  地点：北京市，上海市，武汉市
+- 小红书｜【2027校招】AI全栈研发工程师（AI4Sec方向）
+  地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22072
+  https://job.xiaohongshu.com/campus/position?positionId=22041
 
-- 小红书｜【2027校招】交互技术研究员/Agent 工程师
+- 小红书｜【2027校招】用户理解算法工程师
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22022
+  https://job.xiaohongshu.com/campus/position?positionId=21270
+
+- 小红书｜【2027校招】社区风控算法工程师-社区治理
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22070
+
+- 小红书｜【2027校招】AI Agent Infra 工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22062
+
+- 小红书｜【2027校招】大模型 Infra 工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22061
 
 - 字节跳动｜离线架构工程师 - Data-抖音/直播/电商/剪映
   地点：北京、上海、深圳
@@ -8856,6 +8846,16 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530676544
 
+- 小红书｜【2027校招】AI审核研发工程师-Trust&Safety
+  地点：北京市，上海市，武汉市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22072
+
+- 小红书｜【2027校招】交互技术研究员/Agent 工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22022
+
 - 字节跳动｜安全BP（中国商业化） - 安全与风控
   地点：深圳
   官网届别文字：2027届
@@ -8981,11 +8981,6 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530904994
 
-- 小红书｜【2027校招】AI 应用研发工程师-社区工程
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22021
-
 - 字节跳动｜服务端研发工程师（Agent方向） - 抖音直播
   地点：北京
   官网届别文字：2027届
@@ -9036,50 +9031,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665970752073025845/detail
 
-- 小红书｜【2027校招】Dots-大语言模型基础技术研究员
+- 小红书｜【2027校招】AI 应用研发工程师-社区工程
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=20734
-
-- 小红书｜【2027校招】电商算法工程师-内容理解方向
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21003
-
-- 小红书｜【2027校招】Dots-大模型预训练数据算法研究员
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22067
-
-- 小红书｜【2027校招】业务网关开发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22051
-
-- 小红书｜【2027校招】Dots-大模型评测算法研究员
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22596
-
-- 小红书｜【2027校招】网络传输算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22080
-
-- 小红书｜【2027校招】大模型训练框架研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22055
-
-- 小红书｜【2027校招】大模型算力平台研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22058
-
-- 小红书｜【2027校招】大模型推理加速研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22056
+  https://job.xiaohongshu.com/campus/position?positionId=22021
 
 - 字节跳动｜业务解决方案 - IT
   地点：北京
@@ -9231,15 +9186,50 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2374
 
-- 小红书｜【2027校招】全栈工程师-直播业务
-  地点：深圳市，北京市，上海市
+- 小红书｜【2027校招】Dots-大语言模型基础技术研究员
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22076
+  https://job.xiaohongshu.com/campus/position?positionId=20734
 
-- 小红书｜【2027校招】机器学习框架工程师-搜广推方向
-  地点：北京市，上海市，深圳市
+- 小红书｜【2027校招】电商算法工程师-内容理解方向
+  地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22029
+  https://job.xiaohongshu.com/campus/position?positionId=21003
+
+- 小红书｜【2027校招】Dots-大模型预训练数据算法研究员
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22067
+
+- 小红书｜【2027校招】业务网关开发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22051
+
+- 小红书｜【2027校招】Dots-大模型评测算法研究员
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22596
+
+- 小红书｜【2027校招】网络传输算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22080
+
+- 小红书｜【2027校招】大模型训练框架研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22055
+
+- 小红书｜【2027校招】大模型算力平台研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22058
+
+- 小红书｜【2027校招】大模型推理加速研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22056
 
 - 字节跳动｜IDC项目设计工程师 - AI算力基础设施
   地点：北京、上海
@@ -9346,10 +9336,15 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530808139
 
-- 小红书｜【2027校招】Agentic ops 研发工程师
-  地点：上海市，杭州市
+- 小红书｜【2027校招】全栈工程师-直播业务
+  地点：深圳市，北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22042
+  https://job.xiaohongshu.com/campus/position?positionId=22076
+
+- 小红书｜【2027校招】机器学习框架工程师-搜广推方向
+  地点：北京市，上海市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22029
 
 - 字节跳动｜AI芯片的架构/物理实现和系统设计（3DIC-存算与AI） - 芯片研发
   地点：北京、上海、深圳
@@ -9446,30 +9441,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628565829302765877/detail
 
-- 小红书｜【2027校招】大模型算法工程师-内容理解方向
-  地点：北京市，上海市
+- 小红书｜【2027校招】Agentic ops 研发工程师
+  地点：上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21011
-
-- 小红书｜【2027校招】商业广告算法工程师
-  地点：北京市，杭州市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=20904
-
-- 小红书｜【2027校招】图像渲染算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21013
-
-- 小红书｜【2027校招】全栈工程师-媒体服务
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22015
-
-- 小红书｜【2027校招】大模型平台全栈研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22060
+  https://job.xiaohongshu.com/campus/position?positionId=22042
 
 - 字节跳动｜AI Agent前端开发工程师 - 开发者服务
   地点：北京、上海、杭州、广州
@@ -9701,6 +9676,31 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530632100
 
+- 小红书｜【2027校招】大模型算法工程师-内容理解方向
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21011
+
+- 小红书｜【2027校招】商业广告算法工程师
+  地点：北京市，杭州市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=20904
+
+- 小红书｜【2027校招】图像渲染算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21013
+
+- 小红书｜【2027校招】全栈工程师-媒体服务
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22015
+
+- 小红书｜【2027校招】大模型平台全栈研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22060
+
 - 字节跳动｜Agent开发工程师（用户平台方向） - 抖音直播
   地点：北京、杭州
   官网届别文字：2027届
@@ -9750,11 +9750,6 @@
   地点：深圳、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7675998510207207733/detail
-
-- 小红书｜【2027校招】多模态传输研发工程师-多媒体技术
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22425
 
 - 字节跳动｜内容理解算法工程师 - Data AML
   地点：北京、杭州
@@ -9901,15 +9896,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7623001709032704261/detail
 
-- 小红书｜【2027校招】搜广推索引存储架构工程师
+- 小红书｜【2027校招】多模态传输研发工程师-多媒体技术
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22030
-
-- 小红书｜【2027校招】中间件研发工程师
-  地点：北京市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22053
+  https://job.xiaohongshu.com/campus/position?positionId=22425
 
 - 字节跳动｜出海大客户/渠道销售（非电商-应用） - Global Business Solutions
   地点：北京、深圳
@@ -10146,6 +10136,16 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2381
 
+- 小红书｜【2027校招】搜广推索引存储架构工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22030
+
+- 小红书｜【2027校招】中间件研发工程师
+  地点：北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22053
+
 - 拼多多｜AI Infra研发工程师
   地点：上海
   官网毕业年份字段：2027
@@ -10180,41 +10180,6 @@
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667163020699257141/detail
-
-- 小红书｜【2027校招】AI音频算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21014
-
-- 小红书｜【2027校招】Dots-大模型高性能计算工程师- AI infra
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21829
-
-- 小红书｜【2027校招】流式视频理解算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22010
-
-- 小红书｜【2027校招】云原生开发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22048
-
-- 小红书｜【2027校招】AI 数据库工程师 
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22493
-
-- 小红书｜【2027校招】大模型MaaS架构研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22057
-
-- 小红书｜【2027校招】媒体处理研发工程师-音频AI算法引擎
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22434
 
 - 字节跳动｜AI全栈研发工程师 - Seed 安全研发
   地点：上海
@@ -10471,6 +10436,41 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530913541
 
+- 小红书｜【2027校招】AI音频算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21014
+
+- 小红书｜【2027校招】Dots-大模型高性能计算工程师- AI infra
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21829
+
+- 小红书｜【2027校招】流式视频理解算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22010
+
+- 小红书｜【2027校招】云原生开发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22048
+
+- 小红书｜【2027校招】AI 数据库工程师 
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22493
+
+- 小红书｜【2027校招】大模型MaaS架构研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22057
+
+- 小红书｜【2027校招】媒体处理研发工程师-音频AI算法引擎
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22434
+
 - 拼多多｜运营管培生（区域业务）
   地点：全国多省区
   官网毕业年份字段：2027
@@ -10485,11 +10485,6 @@
   地点：上海
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=0c949a90-196a-4383-b0fb-2a3870b4b79f
-
-- 小红书｜【2027校招】基础模型算法工程师-Post-training
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21005
 
 - 字节跳动｜SRE工程师 - 国际化广告SRE
   地点：北京
@@ -10506,15 +10501,10 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2409
 
-- 小红书｜【2027校招】规则运营
-  地点：北京市，上海市
+- 小红书｜【2027校招】基础模型算法工程师-Post-training
+  地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22073
-
-- 小红书｜【2027校招】社区搜索算法工程师
-  地点：北京市，上海市，深圳市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21001
+  https://job.xiaohongshu.com/campus/position?positionId=21005
 
 - 字节跳动｜智能创作全栈开发工程师（编辑模版方向） - TikTok研发
   地点：北京
@@ -10576,15 +10566,15 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667505474326776069/detail
 
-- 小红书｜【2027校招】全栈研发工程师（线索广告方向）
+- 小红书｜【2027校招】规则运营
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22539
+  https://job.xiaohongshu.com/campus/position?positionId=22073
 
-- 小红书｜【2027校招】全栈研发工程师（AIGC 营销与创作者工具方向）
-  地点：北京市，上海市
+- 小红书｜【2027校招】社区搜索算法工程师
+  地点：北京市，上海市，深圳市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22411
+  https://job.xiaohongshu.com/campus/position?positionId=21001
 
 - 字节跳动｜渠道销售（全域经营） - 商业化
   地点：北京、上海、广州、杭州
@@ -10736,25 +10726,20 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622227192430610693/detail
 
+- 小红书｜【2027校招】全栈研发工程师（线索广告方向）
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22539
+
+- 小红书｜【2027校招】全栈研发工程师（AIGC 营销与创作者工具方向）
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22411
+
 - 小红书｜【2027校招】系统软件开发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22049
-
-- 小红书｜【2027校招】大模型数据工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22492
-
-- 小红书｜【2027校招】SRE工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22045
-
-- 小红书｜【2027校招】Agent Harness工程师  - 企业智能方向
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22074
 
 - 字节跳动｜大模型推荐算法工程师 - Data AML
   地点：北京、杭州
@@ -10876,6 +10861,21 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2373
 
+- 小红书｜【2027校招】大模型数据工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22492
+
+- 小红书｜【2027校招】SRE工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22045
+
+- 小红书｜【2027校招】Agent Harness工程师  - 企业智能方向
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22074
+
 - 字节跳动｜芯片工程师（CPU芯片） - 芯片研发
   地点：北京、上海、杭州、深圳
   官网届别文字：2027届
@@ -10885,16 +10885,6 @@
   地点：北京市-北京市、天津市-天津市、四川省-成都市、上海市-上海市、江苏省-苏州市、陕西省-西安市、广东省-深圳市、海南省-三亚市-吉阳区
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2362
-
-- 小红书｜【2027校招】研发工程师-安全技术
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22040
-
-- 小红书｜【2027校招】大模型 Agent 开发工程师（AI Coding方向）
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22079
 
 - 字节跳动｜后端开发工程师 - 火山引擎
   地点：北京
@@ -10986,10 +10976,15 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531238976
 
-- 小红书｜【2027校招】终端管理工程师
+- 小红书｜【2027校招】研发工程师-安全技术
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22040
+
+- 小红书｜【2027校招】大模型 Agent 开发工程师（AI Coding方向）
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22032
+  https://job.xiaohongshu.com/campus/position?positionId=22079
 
 - 字节跳动｜大客户销售（餐饮） - 抖音生活服务
   地点：深圳
@@ -11116,20 +11111,15 @@
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531099128
 
+- 小红书｜【2027校招】终端管理工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22032
+
 - 拼多多｜设计管培生（上海）
   地点：上海
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=e1d2925a-9895-4495-aad1-e7178c0a4c31
-
-- 小红书｜【2027校招】网络工程师-基础技术
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22047
-
-- 小红书｜【2027 校招】Agent 研发工程师-跨境电商 & 交易平台
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027 校招
-  https://job.xiaohongshu.com/campus/position?positionId=22866
 
 - 字节跳动｜渠道策略运营 - 商业化
   地点：北京、上海、广州
@@ -11146,20 +11136,15 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669686538323020037/detail
 
-- 小红书｜【2027校招】对象&文件存储研发
+- 小红书｜【2027校招】网络工程师-基础技术
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22036
+  https://job.xiaohongshu.com/campus/position?positionId=22047
 
-- 小红书｜【2027校招】业务架构研发工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22044
-
-- 小红书｜【2027校招】多模态数据库研发
+- 小红书｜【2027 校招】Agent 研发工程师-跨境电商 & 交易平台
   地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22037
+  官网届别文字：2027 校招
+  https://job.xiaohongshu.com/campus/position?positionId=22866
 
 - 字节跳动｜大语言模型算法工程师（交互智能方向） - Seed大模型人才校招
   地点：北京、上海
@@ -11186,45 +11171,20 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2406
 
-- 小红书｜【2027校招】Dots-视觉语言大模型算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22068
-
-- 小红书｜【2027校招】流式视频生成算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22009
-
-- 小红书｜【2027校招】安全合规治理与数据安全工程师
+- 小红书｜【2027校招】对象&文件存储研发
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22039
+  https://job.xiaohongshu.com/campus/position?positionId=22036
 
-- 小红书｜【2027校招】AI Infra网络通信工程师
-  地点：北京市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22054
-
-- 小红书｜【2027校招】媒体网络研发工程师-CDN方向
-  地点：北京市，深圳市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22014
-
-- 小红书｜【2027校招】公共事务校招生
+- 小红书｜【2027校招】业务架构研发工程师
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22158
+  https://job.xiaohongshu.com/campus/position?positionId=22044
 
-- 小红书｜【2027校招】内容治理算法工程师-T&S
+- 小红书｜【2027校招】多模态数据库研发
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22071
-
-- 小红书｜【2027校招】数据计算引擎研发工程师-搜广推
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22028
+  https://job.xiaohongshu.com/campus/position?positionId=22037
 
 - 字节跳动｜云与AI解决方案架构师 - 火山引擎
   地点：北京
@@ -11311,6 +11271,46 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668223467760699653/detail
 
+- 小红书｜【2027校招】Dots-视觉语言大模型算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22068
+
+- 小红书｜【2027校招】流式视频生成算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22009
+
+- 小红书｜【2027校招】安全合规治理与数据安全工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22039
+
+- 小红书｜【2027校招】AI Infra网络通信工程师
+  地点：北京市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22054
+
+- 小红书｜【2027校招】媒体网络研发工程师-CDN方向
+  地点：北京市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22014
+
+- 小红书｜【2027校招】公共事务校招生
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22158
+
+- 小红书｜【2027校招】内容治理算法工程师-T&S
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22071
+
+- 小红书｜【2027校招】数据计算引擎研发工程师-搜广推
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22028
+
 - 拼多多｜质控管培生（区域业务）
   地点：全国多省区
   官网毕业年份字段：2027
@@ -11371,11 +11371,6 @@
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=c73b17a3-ffee-4643-ae00-b1cb06f98b0b
 
-- 小红书｜【2027校招】NLP/多模态内容理解算法工程师-社区治理
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21293
-
 - 字节跳动｜隐私合规工程师 - 安全与风控
   地点：北京
   官网届别文字：2027届
@@ -11386,15 +11381,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669734253245106485/detail
 
-- 小红书｜【2027校招】全栈研发工程师（广告投放平台方向）
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22408
-
-- 小红书｜【2027校招】大数据引擎研发工程师
+- 小红书｜【2027校招】NLP/多模态内容理解算法工程师-社区治理
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21992
+  https://job.xiaohongshu.com/campus/position?positionId=21293
 
 - 字节跳动｜音频多模态推理工程师-Seed大模型人才校招
   地点：北京
@@ -11531,10 +11521,15 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2343
 
-- 小红书｜【2027校招】PMO
+- 小红书｜【2027校招】全栈研发工程师（广告投放平台方向）
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22031
+  https://job.xiaohongshu.com/campus/position?positionId=22408
+
+- 小红书｜【2027校招】大数据引擎研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21992
 
 - 字节跳动｜后端研发工程师 - 火山引擎
   地点：北京、上海
@@ -11546,25 +11541,15 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2383
 
+- 小红书｜【2027校招】PMO
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22031
+
 - 拼多多｜算法工程师
   地点：上海
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=2419da10-0696-4325-acd1-df6878169071
-
-- 小红书｜【2027校招】NoSQL&KVCache 分布式缓存数据库研发
-  地点：上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22035
-
-- 小红书｜【2027校招】多媒体SDK研发工程师-网络方向
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22012
-
-- 小红书｜【2027校招】端智能图像算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22011
 
 - 字节跳动｜工艺器件工程师（存算与AI） - 芯片研发
   地点：北京、上海
@@ -11660,6 +11645,21 @@
   地点：江苏省-泰州市、北京市-北京市、上海市-上海市、广东省-深圳市、江苏省-南京市、四川省-成都市、重庆市-重庆市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2446
+
+- 小红书｜【2027校招】NoSQL&KVCache 分布式缓存数据库研发
+  地点：上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22035
+
+- 小红书｜【2027校招】多媒体SDK研发工程师-网络方向
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22012
+
+- 小红书｜【2027校招】端智能图像算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22011
 
 - 字节跳动｜数字人生成算法工程师 - 抖音直播
   地点：北京、深圳
@@ -11856,21 +11856,6 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2402
 
-- 小红书｜【2027校招】视频编解码算法工程师
-  地点：北京市，上海市，深圳市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22008
-
-- 小红书｜【2027校招】Java平台开发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21986
-
-- 小红书｜【2027校招】图像增强算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22007
-
 - 字节跳动｜安全工程师（电商商家） - 中国交易与广告
   地点：杭州
   官网届别文字：2027届
@@ -11905,6 +11890,21 @@
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665257107653986613/detail
+
+- 小红书｜【2027校招】视频编解码算法工程师
+  地点：北京市，上海市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22008
+
+- 小红书｜【2027校招】Java平台开发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21986
+
+- 小红书｜【2027校招】图像增强算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22007
 
 - 字节跳动｜国际物流服务体验运营 - TikTok Shop
   地点：杭州
@@ -11996,11 +11996,6 @@
   官网届别文字：27届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4673652343
 
-- 小红书｜【2027校招】AI可观测研发工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22043
-
 - 字节跳动｜3DIC系统工程师（存算与AI） - 芯片研发
   地点：北京、上海、深圳
   官网届别文字：2027届
@@ -12061,6 +12056,11 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2349
 
+- 小红书｜【2027校招】AI可观测研发工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22043
+
 - 字节跳动｜前端开发工程师 - 抖音直播
   地点：深圳
   官网届别文字：2027届
@@ -12085,11 +12085,6 @@
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669851694968965381/detail
-
-- 小红书｜【2027校招】网络优化工程师 - 客户端基础技术方向
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22078
 
 - 字节跳动｜大数据开发工程师（数据湖方向） - Data-抖音/直播/电商/剪映
   地点：北京、上海
@@ -12176,20 +12171,15 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2375
 
+- 小红书｜【2027校招】网络优化工程师 - 客户端基础技术方向
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22078
+
 - 京东｜物流方向
   地点：北京市-北京市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2344
-
-- 小红书｜【2027校招】接入层开发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22050
-
-- 小红书｜【2027校招】公共品牌与公众沟通校招生
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22160
 
 - 字节跳动｜企业文化活动运营 - 人力与管理部
   地点：上海
@@ -12230,6 +12220,16 @@
   地点：上海市-上海市、广东省-广州市、广西壮族自治区-南宁市、广西壮族自治区-柳州市、陕西省-西安市、重庆市-重庆市、海南省-澄迈县、浙江省-杭州市、新疆维吾尔自治区-乌鲁木齐市、福建省-厦门市、广东省-佛山市、山东省-德州市、山东省-青岛市、福建省-泉州市、山东省-济南市、福建省-福州市、贵州省-贵阳市、河北省-石家庄市、湖北省-武汉市、湖南省-长沙市、江西省-南昌市、河南省-郑州市、甘肃省-兰州市、山西省-太原市、四川省-成都市、辽宁省-沈阳市、北京市-北京市、江苏省-南京市、江苏省-苏州市、江苏省-泰州市、江苏省-常州市、江苏省-南通市、江苏省-宿迁市、江苏省-镇江市、江苏省-无锡市、江苏省-苏州市-昆山市、云南省-昆明市、广东省-深圳市、广东省-东莞市、宁夏回族自治区-银川市、黑龙江省-哈尔滨市、吉林省-长春市、广东省-惠州市、广东省-江门市、广东省-肇庆市、安徽省-合肥市、安徽省-阜阳市、安徽省-芜湖市、安徽省-安庆市、安徽省-蚌埠市、安徽省-滁州市、浙江省-嘉兴市、浙江省-绍兴市、广东省-中山市、广东省-揭阳市、浙江省-金华市、浙江省-宁波市、浙江省-金华市-义乌市、辽宁省-大连市、辽宁省-锦州市、天津市-天津市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2448
+
+- 小红书｜【2027校招】接入层开发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22050
+
+- 小红书｜【2027校招】公共品牌与公众沟通校招生
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22160
 
 - 拼多多｜物流运营管培生（上海）
   地点：上海
@@ -12361,26 +12361,6 @@
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=0d991fc6-38f2-432a-808e-b20c02d08ec2
 
-- 小红书｜【2027校招】综合创意写作
-  地点：上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22156
-
-- 小红书｜【2027校招】AI创意影像制作
-  地点：上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22152
-
-- 小红书｜【2027校招】REDébuilt HR校招生
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22145
-
-- 小红书｜【2027校招】媒体网络研发工程师-流媒体方向
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22013
-
 - 字节跳动｜存算研发工程师（设计方向/存算与AI） - 芯片研发
   地点：北京、上海、杭州
   官网届别文字：2027届
@@ -12425,6 +12405,26 @@
   地点：北京市
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4877797178
+
+- 小红书｜【2027校招】综合创意写作
+  地点：上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22156
+
+- 小红书｜【2027校招】AI创意影像制作
+  地点：上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22152
+
+- 小红书｜【2027校招】REDébuilt HR校招生
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22145
+
+- 小红书｜【2027校招】媒体网络研发工程师-流媒体方向
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22013
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京
@@ -12496,11 +12496,6 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2474
 
-- 小红书｜【2027校招】网络工程师-IT
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22033
-
 - 字节跳动｜芯片性能分析工程师（CPU芯片） - 芯片研发
   地点：北京、上海、杭州、深圳
   官网届别文字：2027届
@@ -12530,6 +12525,11 @@
   地点：四川省-成都市、海南省-海口市、云南省-昆明市、山西省-大同市、江苏省-宿迁市、天津市-天津市、山东省-青岛市-市南区
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2463
+
+- 小红书｜【2027校招】网络工程师-IT
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22033
 
 - 拼多多｜消费者服务运营管培生（上海）
   地点：上海
@@ -12981,15 +12981,15 @@
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2462
 
-- 小红书｜【2027校招】视觉设计师（UED)
-  地点：北京市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22192
-
 - 字节跳动｜品牌创意视觉设计师 - 抖音效果与创作
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667923692567300357/detail
+
+- 小红书｜【2027校招】视觉设计师（UED)
+  地点：北京市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22192
 
 - 字节跳动｜CDN服务端开发工程师 - 音视频技术
   地点：北京、深圳
@@ -13653,11 +13653,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4736433701
 
-- 小红书｜【REDstar】AI agent算法工程师（企业智能）
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21129
-
 - 美团｜智能商业分析师（BA/DS）
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
@@ -13712,6 +13707,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4685450398
+
+- 小红书｜【REDstar】AI agent算法工程师（企业智能）
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21129
 
 - ⭐ 产品重点｜美团｜AI产品经理
   地点：北京市
@@ -13788,11 +13788,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4798450784
 
-- 小红书｜【REDstar】Dots-Post-Training算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=16684
-
 - ⭐ 产品重点｜美团｜门店产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -13827,6 +13822,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4687739175
+
+- 小红书｜【REDstar】Dots-Post-Training算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=16684
 
 - ⭐ 产品重点｜美团｜闪购搜索体验产品运营
   地点：北京市
@@ -13883,11 +13883,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3841316741
 
-- 小红书｜【REDstar】点点 Agent研发工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21822
-
 - ⭐ 产品重点｜美团｜外卖-AI产品运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -13912,6 +13907,11 @@
   地点：北京市、成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4701960271
+
+- 小红书｜【REDstar】点点 Agent研发工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21822
 
 - ⭐ 产品重点｜美团｜无人机-软件产品经理
   地点：深圳市、北京市
@@ -13993,11 +13993,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4604248811
 
-- 小红书｜【REDstar】内容增长策略算法工程师-内容增长方向
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20880
-
 - 美团｜外卖-商业分析师-目标绩效方向
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14022,6 +14017,11 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4539597869
+
+- 小红书｜【REDstar】内容增长策略算法工程师-内容增长方向
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20880
 
 - ⭐ 产品重点｜美团｜美团闪购导购产品经理
   地点：北京市
@@ -14158,11 +14158,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3186218207
 
-- 小红书｜【REDstar】国际化搜索、推荐算法工程师 - rednote
-  地点：北京市，杭州市，新加坡，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=22457
-
 - ⭐ 产品重点｜美团｜外卖流量策略产品经理（商业化）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14202,6 +14197,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3131927474
+
+- 小红书｜【REDstar】国际化搜索、推荐算法工程师 - rednote
+  地点：北京市，杭州市，新加坡，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=22457
 
 - ⭐ 产品重点｜美团｜AI产品运营岗
   地点：北京市、科威特城、上海市、深圳市
@@ -14663,11 +14663,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4406606879
 
-- ⭐ 产品重点｜小红书｜【REDstar】Product Engineer-产品工程师-社区内容方向
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21861
-
 - ⭐ 产品重点｜美团｜商家解决方案产品经理-外卖
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14682,6 +14677,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2939515504
+
+- ⭐ 产品重点｜小红书｜【REDstar】Product Engineer-产品工程师-社区内容方向
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21861
 
 - 美团｜Picker策略运营  Picker Strategy Operations
   地点：科威特城
@@ -14737,16 +14737,6 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4695142159
-
-- 小红书｜【REDstar】电商算法工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20886
-
-- 小红书｜【REDstar】Agent/大模型算法工程师-rednote国际化
-  地点：北京市，上海市，新加坡
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20876
 
 - 美团｜算法工程师｜LLM / AI Agent 方向
   地点：北京市
@@ -14918,6 +14908,16 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4486327664
 
+- 小红书｜【REDstar】电商算法工程师
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20886
+
+- 小红书｜【REDstar】Agent/大模型算法工程师-rednote国际化
+  地点：北京市，上海市，新加坡
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20876
+
 - ⭐ 产品重点｜美团｜无人机产品运营工程师
   地点：迪拜
   官网信息未明确适用于2027届，待确认
@@ -14967,11 +14967,6 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4357930350
-
-- 小红书｜【REDstar】Agent/大模型算法工程师 - rednote
-  地点：北京市，杭州市，新加坡，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20871
 
 - ⭐ 产品重点｜美团｜外卖-AI产品经理
   地点：北京市
@@ -15027,6 +15022,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4224993663
+
+- 小红书｜【REDstar】Agent/大模型算法工程师 - rednote
+  地点：北京市，杭州市，新加坡，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20871
 
 - 美团｜特团业务专家
   地点：北京市
@@ -15092,11 +15092,6 @@
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697316570
-
-- 小红书｜【REDstar】AI安全算法工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20883
 
 - 美团｜外卖-KA品类经理
   地点：上海市
@@ -15262,6 +15257,11 @@
   地点：北京市、上海市、杭州市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3296374909
+
+- 小红书｜【REDstar】AI安全算法工程师
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20883
 
 - 美团｜Agent 开发工程师（全栈）
   地点：北京市
@@ -15553,11 +15553,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4358157629
 
-- 小红书｜【REDstar】多模态基础模型算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20887
-
 - 美团｜歪马商业分析师（歪马鲜酒铺方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15652,6 +15647,11 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3970603311
+
+- 小红书｜【REDstar】多模态基础模型算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20887
 
 - 美团｜SaaS技术部-AI全栈工程师
   地点：成都市
@@ -15753,21 +15753,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2917570547
 
-- 小红书｜【REDstar】AI Agent 工程师（大模型 AI Coding方向）-质效研发
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21828
-
-- ⭐ 产品重点｜小红书｜【REDstar】Product Engineer-产品工程师（AI与全栈方向）-增长产品
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21824
-
-- 小红书｜【REDstar】AI Agent算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20889
-
 - 美团｜战略规划分析专家（交通业务）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15788,10 +15773,20 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4727162964
 
-- 小红书｜【REDstar】智能流媒体传输算法工程师
+- 小红书｜【REDstar】AI Agent 工程师（大模型 AI Coding方向）-质效研发
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21828
+
+- ⭐ 产品重点｜小红书｜【REDstar】Product Engineer-产品工程师（AI与全栈方向）-增长产品
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21953
+  https://job.xiaohongshu.com/campus/position?positionId=21824
+
+- 小红书｜【REDstar】AI Agent算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20889
 
 - 美团｜酒旅AI Agent算法工程师
   地点：北京市
@@ -15832,6 +15827,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3893377167
+
+- 小红书｜【REDstar】智能流媒体传输算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21953
 
 - ⭐ 产品重点｜美团｜Logistics Product-产品经理（劳动力方向）
   地点：北京市
@@ -16428,11 +16428,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4211247850
 
-- 小红书｜【REDstar】增长算法工程师-社区增长
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20884
-
 - 美团｜AI Agent 工程师｜工程架构 / 业务应用开发方向
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16497,6 +16492,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4707496370
+
+- 小红书｜【REDstar】增长算法工程师-社区增长
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20884
 
 - 美团｜绩效策略
   地点：北京市
@@ -17138,21 +17138,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3167054220
 
-- 小红书｜【REDstar】AI算法工程师（AI4SEC方向）
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21825
-
-- 小红书｜【REDstar】社区推荐算法工程师
-  地点：北京市，上海市，深圳市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20873
-
-- 小红书｜【REDstar】推荐算法工程师-流量分发
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21814
-
 - 美团｜企业业务大客户销售经理 (Key Account Manager of Keeta Corporate Business)
   地点：香港特别行政区
   官网信息未明确适用于2027届，待确认
@@ -17288,10 +17273,20 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4491091941
 
-- 小红书｜【REDstar】Agent 应用算法工程师-创新业务
-  地点：北京市，杭州市，上海市
+- 小红书｜【REDstar】AI算法工程师（AI4SEC方向）
+  地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=22487
+  https://job.xiaohongshu.com/campus/position?positionId=21825
+
+- 小红书｜【REDstar】社区推荐算法工程师
+  地点：北京市，上海市，深圳市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20873
+
+- 小红书｜【REDstar】推荐算法工程师-流量分发
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21814
 
 - 美团｜外卖-策略分析（代运营业务）
   地点：北京市
@@ -17358,15 +17353,10 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4020739699
 
-- 小红书｜【REDstar】视觉与多模态算法工程师
-  地点：北京市，上海市
+- 小红书｜【REDstar】Agent 应用算法工程师-创新业务
+  地点：北京市，杭州市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20878
-
-- 小红书｜【REDstar】NLP/多模态算法工程师-交易/商业化治理
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20870
+  https://job.xiaohongshu.com/campus/position?positionId=22487
 
 - 美团｜Experience Operation
   地点：科威特城
@@ -17502,6 +17492,16 @@
   地点：圣保罗
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3709635184
+
+- 小红书｜【REDstar】视觉与多模态算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20878
+
+- 小红书｜【REDstar】NLP/多模态算法工程师-交易/商业化治理
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20870
 
 - 美团｜工程财务BP
   地点：北京市
@@ -18048,21 +18048,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3300336612
 
-- 小红书｜【REDstar】AI Agent工程师-社区工程
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21821
-
-- 小红书｜【REDstar】智能客服算法工程师（LLM Agent方向）
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20875
-
-- 小红书｜【REDstar】搜广推 × AI 应用工程师
-  地点：北京市，上海市，深圳市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21820
-
 - 美团｜推荐大模型算法工程师/专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18162,6 +18147,21 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3802835253
+
+- 小红书｜【REDstar】AI Agent工程师-社区工程
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21821
+
+- 小红书｜【REDstar】智能客服算法工程师（LLM Agent方向）
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20875
+
+- 小红书｜【REDstar】搜广推 × AI 应用工程师
+  地点：北京市，上海市，深圳市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21820
 
 - 美团｜闪购歪马财务BP（FPA方向）
   地点：北京市
@@ -18518,21 +18518,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2034698307
 
-- 小红书｜【REDstar】用户理解算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20868
-
-- 小红书｜【REDstar】AI Agent Infra 工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21899
-
-- 小红书｜【REDstar】大模型 Infra 工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20622
-
 - 美团｜运力调度策略专家
   地点：香港特别行政区
   官网信息未明确适用于2027届，待确认
@@ -18653,20 +18638,20 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4158083555
 
-- 小红书｜【REDstar】交互技术研究员/Agent 工程师
+- 小红书｜【REDstar】用户理解算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21823
+  https://job.xiaohongshu.com/campus/position?positionId=20868
 
-- 小红书｜【REDstar】端智能图像算法工程师
-  地点：北京市，上海市
+- 小红书｜【REDstar】AI Agent Infra 工程师
+  地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21819
+  https://job.xiaohongshu.com/campus/position?positionId=21899
 
-- 小红书｜【REDstar】图像增强算法工程师
-  地点：北京市，上海市
+- 小红书｜【REDstar】大模型 Infra 工程师
+  地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21304
+  https://job.xiaohongshu.com/campus/position?positionId=20622
 
 - 美团｜闪购-垂类连锁KA 商品运营
   地点：北京市
@@ -18752,6 +18737,21 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3545041592
+
+- 小红书｜【REDstar】交互技术研究员/Agent 工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21823
+
+- 小红书｜【REDstar】端智能图像算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21819
+
+- 小红书｜【REDstar】图像增强算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21304
 
 - 美团｜外卖-华北大区策略运营
   地点：北京市
@@ -19118,31 +19118,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4686627348
 
-- 小红书｜【REDstar】Dots-大语言模型基础技术研究员
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=16670
-
-- 小红书｜【REDstar】Dots-大模型预训练数据算法研究员
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20365
-
-- 小红书｜【REDstar】网络传输算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21867
-
-- 小红书｜【REDstar】Dots-大模型评测算法研究员
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=22428
-
-- 小红书｜【REDstar】电商算法工程师-内容理解方向
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20885
-
 - 美团｜车辆运营主管
   地点：南宁市
   官网信息未明确适用于2027届，待确认
@@ -19313,10 +19288,30 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3934765291
 
-- 小红书｜【REDstar】机器学习框架工程师-搜广推方向
-  地点：北京市，上海市，深圳市
+- 小红书｜【REDstar】Dots-大语言模型基础技术研究员
+  地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20877
+  https://job.xiaohongshu.com/campus/position?positionId=16670
+
+- 小红书｜【REDstar】Dots-大模型预训练数据算法研究员
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20365
+
+- 小红书｜【REDstar】网络传输算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21867
+
+- 小红书｜【REDstar】Dots-大模型评测算法研究员
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=22428
+
+- 小红书｜【REDstar】电商算法工程师-内容理解方向
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20885
 
 - 美团｜机器人-Linux内核/平台软件工程专家
   地点：北京市、深圳市
@@ -19372,6 +19367,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3629309975
+
+- 小红书｜【REDstar】机器学习框架工程师-搜广推方向
+  地点：北京市，上海市，深圳市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20877
 
 - 美团｜KA大客户品牌经理
   地点：上海市
@@ -19558,21 +19558,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2195843141
 
-- 小红书｜【REDstar】大模型算法工程师-内容理解方向
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21815
-
-- 小红书｜【REDstar】商业广告算法工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20867
-
-- 小红书｜【REDstar】图像渲染算法工程师
-  地点：上海市，北京市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20872
-
 - 美团｜美团酒旅目的地城市营销
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19753,6 +19738,21 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3524445451
 
+- 小红书｜【REDstar】大模型算法工程师-内容理解方向
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21815
+
+- 小红书｜【REDstar】商业广告算法工程师
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20867
+
+- 小红书｜【REDstar】图像渲染算法工程师
+  地点：上海市，北京市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20872
+
 - 美团｜无人车财务BP（资产管理方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19893,15 +19893,15 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4535111708
 
-- 美团｜【LongCat大模型人才校招】多模态交互算法研究员
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531804534
-
 - 美团｜【LongCat大模型人才校招】具身智能算法研究员
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531804398
+
+- 美团｜【LongCat大模型人才校招】多模态交互算法研究员
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531804534
 
 - 美团｜【LongCat大模型人才校招】基座大模型工程架构专家
   地点：北京市、上海市
@@ -19932,11 +19932,6 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3496647624
-
-- 小红书｜【REDstar】搜广推索引存储架构工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20609
 
 - 美团｜美团企业版-方案交付顾问（上海）
   地点：上海市、北京市、深圳市、广州市
@@ -19982,6 +19977,11 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4540405080
+
+- 小红书｜【REDstar】搜广推索引存储架构工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20609
 
 - 腾讯｜混元多模态-大模型数据挖掘与合成技术研究
   地点：深圳总部 
@@ -20062,26 +20062,6 @@
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4257395428
-
-- 小红书｜【REDstar】Dots-大模型高性能计算工程师- AI infra
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=16673
-
-- 小红书｜【REDstar】流式视频理解算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21818
-
-- 小红书｜【REDstar】云原生开发工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21826
-
-- 小红书｜【REDstar】AI音频算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20869
 
 - 美团｜Keeta Drone 履约管理负责人
   地点：迪拜
@@ -20278,10 +20258,25 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3346904295
 
-- 小红书｜【REDstar】基础模型算法工程师-Post-training
+- 小红书｜【REDstar】Dots-大模型高性能计算工程师- AI infra
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=16673
+
+- 小红书｜【REDstar】流式视频理解算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21818
+
+- 小红书｜【REDstar】云原生开发工程师
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20888
+  https://job.xiaohongshu.com/campus/position?positionId=21826
+
+- 小红书｜【REDstar】AI音频算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20869
 
 - 美团｜配送安全经理
   地点：天津市、石家庄市、唐山市、秦皇岛市、邯郸市、保定市、廊坊市、太原市、西安市
@@ -20413,10 +20408,10 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4601767612
 
-- 小红书｜【REDstar】社区搜索算法工程师
-  地点：北京市，上海市，深圳市
+- 小红书｜【REDstar】基础模型算法工程师-Post-training
+  地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20874
+  https://job.xiaohongshu.com/campus/position?positionId=20888
 
 - 腾讯｜算法-数据科学方向
   地点：深圳总部 北京 上海 广州 成都 
@@ -20588,6 +20583,11 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4085917492
 
+- 小红书｜【REDstar】社区搜索算法工程师
+  地点：北京市，上海市，深圳市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20874
+
 - 美团｜餐饮业务平台-AI开发工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -20647,11 +20647,6 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4435336958
-
-- 小红书｜【REDstar】系统软件开发工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21827
 
 - 美团｜美团骑行-运营主管（佛山）
   地点：佛山市
@@ -20902,6 +20897,11 @@
   地点：南昌市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3464484946
+
+- 小红书｜【REDstar】系统软件开发工程师
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21827
 
 - 美团｜财务科技（ERP方向）- 全栈开发工程师
   地点：北京市
@@ -21278,11 +21278,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530698258
 
-- 小红书｜【REDstar】大模型 Agent 开发工程师（AI Coding方向）
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20960
-
 - 美团｜具身智能可靠性工程师
   地点：深圳市
   官网信息未明确适用于2027届，待确认
@@ -21487,6 +21482,11 @@
   地点：济南市、青岛市、太原市、沈阳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4237927186
+
+- 小红书｜【REDstar】大模型 Agent 开发工程师（AI Coding方向）
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20960
 
 - 美团｜餐饮系统-销售策略运营（渠道方向-成都）
   地点：成都市
@@ -21737,16 +21737,6 @@
   地点：圣保罗
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4453551472
-
-- 小红书｜【REDstar】Dots-视觉语言大模型算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=16671
-
-- 小红书｜【REDstar】流式视频生成算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21817
 
 - 腾讯｜微信-WeLM多模态大模型Agentic RL研究
   地点：上海 
@@ -22168,6 +22158,16 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3751279174
 
+- 小红书｜【REDstar】Dots-视觉语言大模型算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=16671
+
+- 小红书｜【REDstar】流式视频生成算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21817
+
 - 美团｜2027秋招-Account Management Associate
   地点：迪拜
   官网信息未明确适用于2027届，待确认
@@ -22177,16 +22177,6 @@
   地点：北京市、上海市、成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697314686
-
-- 小红书｜【REDstar】NLP/多模态内容理解算法工程师-社区治理
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20882
-
-- 小红书｜【REDstar】AI搜索广告算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=22172
 
 - 美团｜无人机-物流履约高级经理
   地点：深圳市
@@ -22397,6 +22387,16 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4016269129
+
+- 小红书｜【REDstar】NLP/多模态内容理解算法工程师-社区治理
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20882
+
+- 小红书｜【REDstar】AI搜索广告算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=22172
 
 - 美团｜餐饮系统-销售策略运营专家
   地点：北京市、成都市
@@ -23318,11 +23318,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3997039078
 
-- 小红书｜【REDstar】视频编解码算法工程师
-  地点：北京市，上海市，深圳市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20881
-
 - 腾讯｜算法-机器学习方向
   地点：深圳总部 北京 上海 广州 成都 
   官网信息未明确适用于2027届，待确认
@@ -23647,6 +23642,11 @@
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3536535694
+
+- 小红书｜【REDstar】视频编解码算法工程师
+  地点：北京市，上海市，深圳市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20881
 
 - 腾讯｜安全策略
   地点：深圳总部 北京 广州 
@@ -31285,15 +31285,15 @@
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4570930537
 
-- 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
-
 - 美团｜【LongCat实习】原生多模态大模型研究
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4600051151
+
+- 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
 
 - 美团｜具身智能前沿研究实习
   地点：上海市、北京市
@@ -31600,15 +31600,15 @@
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4348841233
 
-- 美团｜【基座大模型北斗实习】多模态推理前沿研究
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4347161746
-
 - 美团｜【基座大模型北斗实习】虚拟人交互前沿路线研究
   地点：北京市、上海市、深圳市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4346603206
+
+- 美团｜【基座大模型北斗实习】多模态推理前沿研究
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4347161746
 
 - 美团｜JAVA开发工程师（实习）
   地点：上海市
@@ -34031,5 +34031,5 @@
 - watch-byte：抓取 2298 条
 - watch-jd：抓取 132 条
 - watch-meituan：抓取 3295 条
-- watch-xhs：URLError: <urlopen error _ssl.c:993: The handshake operation timed out>
+- watch-xhs：抓取 210 条
 - watch-pdd：抓取 34 条
