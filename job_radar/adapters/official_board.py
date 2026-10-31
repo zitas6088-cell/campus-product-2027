@@ -12,7 +12,7 @@ import hashlib
 import json
 from pathlib import Path
 import re
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from . import register
 from ..models import RawJob
@@ -24,7 +24,7 @@ CACHE = ROOT / 'data/official_board_snapshot.json'
 PRODUCT = re.compile(r'产品|\bproduct\b', re.I)
 JOB_URL = re.compile(r'(?:job|position|vacanc|career|requisition|detail|post)[^\s]*[0-9]|[?&](?:job|post|position|req)(?:Id|id|ID|Code)=', re.I)
 JOB_TITLE = re.compile(r'经理|工程师|专员|策划|分析师|管培|培训生|助理|研究员|设计师|运营|manager|engineer|analyst|associate|graduate|intern|designer|specialist', re.I)
-NAV = re.compile(r'校园招聘|应届生|校招职位|招聘职位|全部职位|职位列表|岗位投递|招聘岗位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings', re.I)
+NAV = re.compile(r'校园招聘|应届生|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings', re.I)
 FORBIDDEN = re.compile(r'验证码|安全验证|访问过于频繁|人机验证|Access Denied|Verify you are human|captcha', re.I)
 EMPTY = re.compile(r'暂无(?:相关)?(?:职位|岗位)|没有找到相关职位|无匹配职位|no (?:matching |open |available )?(?:jobs|positions)|0 (?:jobs|positions)', re.I)
 ATS = ('mokahr.com', 'zhiye.com', 'hotjob.cn', 'jobs.feishu.cn', 'myworkdayjobs.com', 'successfactors.com', 'oraclecloud.com', 'avature.net', 'smartrecruiters.com', 'eightfold.ai')
@@ -32,7 +32,17 @@ _snapshot = None
 
 
 def canonical(url):
-    return str(url or '').strip().rstrip('/')
+    parts = urlsplit(str(url or '').strip())
+    tracking = {'sourcetoken', 'source', 'ref', 'referralcode', 'spread', 'spm', 'from', 'timestamp', 't'}
+    def query(value):
+        return urlencode(sorted((k,v) for k,v in parse_qsl(value, keep_blank_values=True)
+                                if k.lower() not in tracking and not k.lower().startswith('utm_')))
+    fragment = parts.fragment
+    if '?' in fragment:
+        route, suffix = fragment.split('?',1)
+        fragment = route + ('?' + query(suffix) if query(suffix) else '')
+    return urlunsplit(('https' if parts.scheme in ('http','https') else parts.scheme,
+                      parts.netloc.lower(),parts.path.rstrip('/'),query(parts.query),fragment)).rstrip('/')
 
 
 def own_or_linked(url, seeds):
@@ -59,7 +69,7 @@ def record_from_link(company, link, jd='', batch=''):
         return None
     return RawJob(company_name=company, title=title, official_url=url,
                   jd_text=jd or link.get('context', ''),
-                  raw={'identifier': hashlib.sha256(url.encode()).hexdigest()[:24],
+                  raw={'identifier': hashlib.sha256(canonical(url).encode()).hexdigest()[:24],
                        'platform': 'official_board', 'batch_text': batch})
 
 
@@ -78,11 +88,11 @@ def specific_batch(headings, url):
 DOM_SNAPSHOT = r'''() => {
  const visible = e => !!(e.offsetWidth || e.offsetHeight || e.getClientRects().length);
  const links = Array.from(document.querySelectorAll('a[href]')).filter(visible).map(e => ({
-   text: (e.innerText || e.getAttribute('aria-label') || e.getAttribute('title') || '').trim(),
+   text: (e.innerText || e.getAttribute('aria-label') || e.getAttribute('title') || e.querySelector('img')?.alt || '').trim(),
    href: e.href, context: (e.closest('article,li,[class*="job-item"],[class*="position-item"],[class*="jobItem"],[class*="positionItem"]') || e.parentElement).innerText.slice(0,1800)
  }));
  const headings = Array.from(document.querySelectorAll('h1,h2,[class*="banner"] img,[class*="Banner"] img')).filter(visible).map(e => e.innerText || e.alt || '');
- const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"]')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120);
+ const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"]')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120);
  return {links, headings, titles, text: document.body.innerText.slice(0,100000)};
 }'''
 
@@ -117,7 +127,9 @@ async def collect_company(browser, spec):
             try:
                 data = await response.json()
                 captures.extend(json_jobs(data))
-            except (ValueError, TypeError):
+            except Exception:
+                # Navigation can evict an auxiliary response body; the visible
+                # DOM/detail readers remain required, so this is not success.
                 return
 
     def on_response(response):
@@ -138,12 +150,42 @@ async def collect_company(browser, spec):
                 response = await page.goto(url, wait_until='domcontentloaded', timeout=25000)
                 if response and response.status >= 400:
                     reasons.append(f'HTTP {response.status}'); continue
+                try:
+                    await page.wait_for_load_state('networkidle', timeout=8000)
+                except Exception:
+                    # Some employer pages poll continuously. Visible listings
+                    # still have to pass the checks below.
+                    pass
                 await page.wait_for_timeout(1600)
                 snapshot = await page.evaluate(DOM_SNAPSHOT)
                 if FORBIDDEN.search(snapshot['text'][:6000]):
                     reasons.append('官网安全验证或访问限制，未绕过'); continue
                 pages_read += 1
                 headings.extend(snapshot['headings'])
+                if not snapshot['titles'] and not any(title_from_text(x['text']) and JOB_URL.search(x['href']) for x in snapshot['links']):
+                    # Several official portals use navigation controls without
+                    # href attributes. Only open listing/campus navigation;
+                    # never click a job's apply/submit control.
+                    nav_controls = page.get_by_text(re.compile(r'^(校园招聘|应届生招聘|校招职位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看所有职位|Campus Recruitment|Graduate Jobs|View all jobs)$',re.I))
+                    for nav in (await nav_controls.all())[:8]:
+                        if not await nav.is_visible(): continue
+                        before = page.url
+                        old_pages = set(context.pages)
+                        try:
+                            await nav.click(timeout=3000)
+                            await page.wait_for_timeout(500)
+                            opened = [p for p in context.pages if p not in old_pages]
+                            target = opened[-1] if opened else page
+                            await target.wait_for_load_state('domcontentloaded',timeout=12000)
+                            if canonical(target.url) != canonical(before) and own_or_linked(target.url,spec['urls']):
+                                if canonical(target.url) not in visited and target.url not in queue: queue.append(target.url)
+                            if opened:
+                                for popup in opened: await popup.close()
+                            if canonical(page.url) != canonical(before):
+                                await page.go_back(wait_until='domcontentloaded',timeout=15000)
+                            break
+                        except Exception:
+                            continue
                 for job in parse_jobs(await page.content(), page.url):
                     if PRODUCT.search(job.title):
                         job.company_name = spec['company']; known[canonical(job.official_url)] = job
@@ -157,12 +199,62 @@ async def collect_company(browser, spec):
                             if title and JOB_URL.search(link['href']):
                                 all_listings.add(canonical(link['href']))
                                 if PRODUCT.search(title): links[canonical(link['href'])] = link
-                            elif NAV.search(link['text']) and len(link['text']) < 85 and own_or_linked(link['href'], spec['urls']):
+                            elif (NAV.search(link['text']) or re.search(r'(?:#/|/)(?:jobs|positions)(?:[/?#]|$)', link['href'], re.I)) and len(link['text']) < 85 and own_or_linked(link['href'], spec['urls']):
                                 if canonical(link['href']) not in visited and link['href'] not in queue:
                                     queue.append(link['href'])
+                        # Beisen and other boards use clickable title controls
+                        # and open the real detail in a new tab instead of <a>.
+                        for title in dict.fromkeys(current['titles']):
+                            if not title_from_text(title): continue
+                            all_listings.add('title:' + canonical(page.url) + ':' + title)
+                            if not PRODUCT.search(title): continue
+                            if any(title_from_text(link['text']) == title for link in links.values()): continue
+                            before = page.url
+                            opened = []
+                            try:
+                                candidates = await page.get_by_text(title, exact=True).all()
+                                for candidate in candidates:
+                                    if not await candidate.is_visible(): continue
+                                    old_pages = set(context.pages)
+                                    await candidate.click()
+                                    await page.wait_for_timeout(600)
+                                    opened = [p for p in context.pages if p not in old_pages]
+                                    target = opened[-1] if opened else page
+                                    await target.wait_for_load_state('domcontentloaded', timeout=15000)
+                                    if canonical(target.url) == canonical(before) or not JOB_URL.search(target.url): break
+                                    try:
+                                        await target.get_by_text(re.compile(r'工作职责|职位描述|任职要求|任职资格|Responsibilities|Qualifications',re.I)).first.wait_for(timeout=8000)
+                                    except Exception:
+                                        await target.wait_for_timeout(700)
+                                    jd = await target.locator('body').inner_text()
+                                    terms = spec.get('require_company_terms', [])
+                                    if not FORBIDDEN.search(jd[:6000]) and (not terms or any(t.lower() in (title+' '+jd).lower() for t in terms)):
+                                        link = {'text':title,'href':target.url,'context':jd}
+                                        job = record_from_link(spec['company'],link,jd,specific_batch(headings,target.url))
+                                        if job:
+                                            links[canonical(target.url)] = link
+                                            known[canonical(target.url)] = job
+                                    break
+                            except Exception as exc:
+                                reasons.append('标题详情未读: ' + type(exc).__name__)
+                            finally:
+                                for popup in opened: await popup.close()
+                                if canonical(page.url) != canonical(before):
+                                    await page.go_back(wait_until='domcontentloaded',timeout=15000)
+                                    await page.wait_for_timeout(500)
                         next_page = page.locator('button[aria-label="Next page"],button[aria-label="下一页"],li.ant-pagination-next:not(.ant-pagination-disabled),button.btn-next:not([disabled]),a.next:not(.disabled)').first
                         if not await next_page.count() or not await next_page.is_visible() or not await next_page.is_enabled():
-                            return
+                            titles = page.locator('[class*="JobTitle"],[class*="job-title"],[class*="jobName"],[class*="positionName"]')
+                            if not await titles.count(): return
+                            await titles.last.scroll_into_view_if_needed()
+                            await page.mouse.wheel(0,1000)
+                            await page.wait_for_timeout(850)
+                            following = await page.evaluate(DOM_SNAPSHOT)
+                            if following['links'] == current['links'] and following['titles'] == current['titles']:
+                                return
+                            if number == 29: raise RuntimeError('职位滚动分页超过30页，拒绝不完整基线')
+                            current = following
+                            continue
                         if number == 29: raise RuntimeError('职位分页超过30页，拒绝不完整基线')
                         await next_page.click()
                         await page.wait_for_timeout(900)
@@ -202,6 +294,7 @@ async def collect_company(browser, spec):
             raise RuntimeError('官网存在产品职位，但未取得可验证详情链接；需适配该招聘系统')
         if len(links) > 120: raise RuntimeError('产品职位超过详情读取上限，拒绝不完整基线')
         for key, link in links.items():
+            if key in known: continue
             meta = metadata.get(key, {})
             jd = meta.get('jd', '')
             batch = meta.get('batch', '') or specific_batch(headings, link['href'])
@@ -215,6 +308,8 @@ async def collect_company(browser, spec):
                     jd = re.split(r'相似职位|相关职位|推荐职位|Similar Jobs|Related Jobs', text, flags=re.I)[0][-25000:]
                 terms = spec.get('require_company_terms', [])
                 if terms and not any(term.lower() in (link['text']+' '+jd).lower() for term in terms): continue
+                if re.search(r'职位已停止招聘|职位已下线|招聘已结束|job (?:is |has |)(?:no longer available|expired)|position is no longer available', jd, re.I):
+                    continue
                 job = record_from_link(spec['company'], link, jd, batch)
                 if job:
                     job.location = meta.get('location', '')

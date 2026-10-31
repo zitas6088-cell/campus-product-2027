@@ -65,8 +65,9 @@ def classify(job, cfg=None, today=None):
         return "excluded", "已超过官网截止时间"
     extra = job.get("extra") or {}
     labels = title + " " + str(extra.get("batch_text", "")).lower()
+    internship_labels = re.sub(r'可提前实习|可以实习|接受实习|可实习', '', labels)
     if (not cfg.get("include_internships") and
-        ("实习" in labels or "intern" in labels or "INTERN" in str(job.get("employment_type", "")))):
+        ("实习" in internship_labels or "intern" in internship_labels or "INTERN" in str(job.get("employment_type", "")))):
         return "internship", "实习单列，不发正式校招提醒"
     if re.search(r"社招|社会招聘|资深|总监|senior|principal|head of", labels):
         return "excluded", "社招或资深职位"

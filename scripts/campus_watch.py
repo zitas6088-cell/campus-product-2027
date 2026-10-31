@@ -99,6 +99,19 @@ def notification_batches(jobs):
         yield "⭐ 2027届产品相关岗位新增", selected[start:start + 3]
 
 
+def migrate_official_identities(state, prior_jobs):
+    """Preserve sent/baselined jobs when removing referral/tracking URL fields."""
+    from job_radar.adapters.official_board import canonical
+    for job in prior_jobs:
+        if (job.get('extra') or {}).get('platform') != 'official_board':
+            continue
+        old = identity(job)
+        ident = hashlib.sha256(canonical(job.get('official_url')).encode()).hexdigest()[:24]
+        new = job.get('company_name', '') + ':' + ident
+        if old in state.get('delivered', {}):
+            state['delivered'].setdefault(new, state['delivered'][old])
+
+
 def report(jobs, health):
     groups = {"confirmed": [], "pending": [], "internship": []}
     for job in jobs:
@@ -156,6 +169,7 @@ def main():
         print("通知渠道测试成功。")
         return
     cfg = load_config()
+    prior_jobs = read(DATA / 'jobs.json', [])
     if not args.no_sync:
         # Scope-aware merge keeps a failed source's last successful data.
         health = sync.run(only_source_ids=set(cfg["source_ids"]), preserve_unselected=True)
@@ -164,6 +178,7 @@ def main():
     jobs = read(DATA / "jobs.json", [])
     groups = report(jobs, health)
     state = read(STATE, {"version": 1, "sources_initialized": [], "delivered": {}})
+    migrate_official_identities(state, prior_jobs)
     healthy = {s["source_id"] for s in health.get("sources", [])
                if s["source_id"] in cfg["source_ids"] and not s.get("not_run")
                and not s.get("last_error") and not s.get("alert") and not s.get('skipped')

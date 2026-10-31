@@ -6,7 +6,7 @@ import tempfile
 import unittest
 from unittest.mock import patch
 
-from job_radar.campus_product import identity, is_product, load_config, select_pending
+from job_radar.campus_product import classify, identity, is_product, load_config, select_pending
 from job_radar.adapters import official_board
 from scripts import campus_watch
 
@@ -14,6 +14,11 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class FullCompanyMonitorTests(unittest.TestCase):
+    def setUp(self):
+        summary = patch.dict('os.environ', {'GITHUB_STEP_SUMMARY': ''})
+        summary.start()
+        self.addCleanup(summary.stop)
+
     def test_every_sheet_company_has_one_scheduled_source(self):
         watch = json.loads((ROOT/'config/company_watchlist.json').read_text(encoding='utf-8'))['companies']
         cfg = load_config()
@@ -72,6 +77,27 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertEqual(list(official_board.json_jobs({'title':'产品类','id':'1','children':[]})),[])
         jobs=list(official_board.json_jobs({'data':[{'title':'AI产品经理','id':'j1','description':'2027届'}]}))
         self.assertEqual(len(jobs),1)
+
+    def test_tracking_changes_keep_existing_notification_history(self):
+        import hashlib
+        old_url='https://jobs.example.com/position/123?sourceToken=old&utm_source=mail'
+        old_id=hashlib.sha256(old_url.encode()).hexdigest()[:24]
+        old=dict(company_name='京东',source_id='watch-jd',title='2027届产品经理',
+                 identifier=old_id,official_url=old_url,extra={'platform':'official_board'})
+        original={'baseline_at':'unchanged'}
+        state={'delivered':{identity(old):original}}
+        campus_watch.migrate_official_identities(state,[old])
+        new_url='https://jobs.example.com/position/123?sourceToken=new&utm_source=web'
+        new_id=hashlib.sha256(official_board.canonical(new_url).encode()).hexdigest()[:24]
+        new=dict(old,identifier=new_id,official_url=new_url)
+        self.assertEqual(state['delivered'][identity(new)],original)
+        self.assertEqual(select_pending([new],state),[])
+
+    def test_campus_job_allowing_early_internship_remains_eligible(self):
+        job=dict(company_name='赛力斯',source_id='watch-sheet-054',title='产品经理（可实习）【2027届校招】',
+                 official_url='https://sokon.zhiye.com/campus/detail?jobAdId=123')
+        self.assertEqual(classify(job)[0],'confirmed')
+        self.assertEqual(classify(dict(job,title='2027届产品经理实习生'))[0],'internship')
 
 
 if __name__=='__main__': unittest.main()
