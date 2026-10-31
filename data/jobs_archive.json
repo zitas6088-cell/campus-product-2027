@@ -1,5 +1,17 @@
 [
   {
+    "dedup_key": "f0996aae07da18d2",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "【北斗】AutoResearch算法研究员",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4531687048",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-10-31T12:21:36.167089+00:00",
+    "archived_at": "2026-10-31T12:29:47.739747+00:00",
+    "match_score": 170
+  },
+  {
     "dedup_key": "597d54b19f03fc54",
     "source_id": "watch-meituan",
     "company_name": "美团",
