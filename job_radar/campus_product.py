@@ -1,4 +1,4 @@
-"""Strict 2027 campus/product eligibility, separate from general match scores."""
+"""Strict campus eligibility and product priority, independent of match scores."""
 from __future__ import annotations
 
 import datetime as dt
@@ -55,10 +55,6 @@ def classify(job, cfg=None, today=None):
     if job.get("source_id") not in cfg["source_ids"]:
         return "excluded", "非已配置官网信源"
     title = str(job.get("title", "")).lower()
-    if any(k.lower() in title for k in cfg["excluded_titles"]):
-        return "excluded", "产品运营/设计/工程等相邻岗位"
-    if not any(k.lower() in title for k in cfg["product_roles"]):
-        return "excluded", "岗位标题未命中产品职责"
     cities = cfg.get("cities") or []
     if cities and not any(c in str(job.get("location", "")) for c in cities):
         return "excluded", "不在指定城市"
@@ -83,6 +79,20 @@ def classify(job, cfg=None, today=None):
     if not job.get("official_url"):
         return "pending", "缺少官网入口，待确认"
     return "confirmed", evidence
+
+
+def is_product(job, cfg=None):
+    """Highlight titles about product work; incidental JD mentions do not count."""
+    cfg = cfg or load_config()
+    title = str(job.get("title", "")).lower()
+    return "产品" in title or any(k.lower() in title for k in cfg["product_roles"])
+
+
+def legacy_product_match(job, cfg):
+    """The previous role scope, used only for the one-time ByteDance expansion."""
+    title = str(job.get("title", "")).lower()
+    return (any(k.lower() in title for k in cfg["product_roles"])
+            and not any(k.lower() in title for k in cfg["excluded_titles"]))
 
 
 def select_pending(jobs, state, cfg=None):

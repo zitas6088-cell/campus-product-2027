@@ -124,9 +124,9 @@ def pdd(endpoint):
 @register("watch_byte")
 def byte(endpoint):
     rows = pages("https://jobs.bytedance.com/api/v1/search/job/posts",
-        lambda p: {"keyword": "产品", "limit": 100, "offset": (p - 1) * 100,
+        lambda p: {"keyword": "", "limit": 100, "offset": (p - 1) * 100,
             "portal_type": 3, "portal_entrance": 1, "language": "zh",
-            "recruitment_id_list": ["201"], "job_category_id_list": ["6704215864629004552"],
+            "recruitment_id_list": ["201"], "job_category_id_list": [],
             "location_code_list": [], "subject_id_list": []},
         lambda d: pair(d, "data", "job_post_list", "count"),
         "https://jobs.bytedance.com/campus/position",

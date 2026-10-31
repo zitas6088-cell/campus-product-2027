@@ -1,4 +1,4 @@
-name: 2027届产品岗监控
+name: 2027届校招监控（产品优先）
 on:
   schedule:
     # UTC -> Asia/Shanghai 09:17, 14:17, 20:17
@@ -34,7 +34,7 @@ jobs:
       - name: 测试通知连接
         if: inputs.test_notification == true
         run: python scripts/campus_watch.py --test-notification
-      - name: 检查官网新增产品岗
+      - name: 检查官网新增校招岗（产品优先）
         if: inputs.test_notification != true
         run: python scripts/campus_watch.py
       - name: 保存数据及已推记录
@@ -44,7 +44,7 @@ jobs:
           git config user.email 'campus-radar-bot@users.noreply.github.com'
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: update 2027 campus product report [skip ci]'
+            git commit -m 'chore: update 2027 campus report [skip ci]'
             git push
           fi
       - name: 保存可下载报告

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sync official campus feeds and deliver only confirmed new product opportunities."""
+"""Notify confirmed new campus jobs, with product-related jobs first."""
 from __future__ import annotations
 
 import argparse
@@ -14,7 +14,7 @@ import urllib.request
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from job_radar import sync
-from job_radar.campus_product import classify, identity, load_config, select_pending
+from job_radar.campus_product import classify, identity, is_product, legacy_product_match, load_config, select_pending
 
 DATA = ROOT / "data"
 STATE = DATA / "campus_notify_state.json"
@@ -43,7 +43,7 @@ def deliver(text):
     elif channel == "pushplus":
         token = os.getenv("PUSHPLUS_TOKEN", "").strip()
         url = "https://www.pushplus.plus/send" if token else ""
-        body = {"token": token, "title": "2027届产品岗新增提醒", "content": text, "template": "txt"}
+        body = {"token": token, "title": "2027届校招新增提醒", "content": text, "template": "txt"}
     else:
         raise RuntimeError("不支持的通知渠道")
     if not url:
@@ -63,7 +63,30 @@ def deliver(text):
 
 
 def line(job):
-    return f"{job['company_name']}｜{job['title']}\n地点：{job.get('location') or '官网未注明'}\n{classify(job)[1]}\n{job['official_url']}"
+    prefix = "⭐ 产品重点｜" if is_product(job) else ""
+    return f"{prefix}{job['company_name']}｜{job['title']}\n地点：{job.get('location') or '官网未注明'}\n{classify(job)[1]}\n{job['official_url']}"
+
+
+def expansion_baseline(jobs, state, healthy, cfg, now):
+    """Baseline newly fetched ByteDance roles once; keep old product retries intact."""
+    expansion = cfg.get("scope_expansion", {})
+    if not expansion:
+        return
+    completed = state.setdefault("scope_baselines", {}).setdefault(expansion["key"], [])
+    targets = (set(expansion["source_ids"]) & healthy) - set(completed)
+    for job in jobs:
+        if job["source_id"] in targets and not legacy_product_match(job, cfg):
+            state["delivered"].setdefault(identity(job), {"baseline_at": now, "reason": expansion["key"]})
+    completed.extend(sorted(targets))
+
+
+def notification_batches(jobs):
+    # Separate priority messages make product opportunities easy to spot in Feishu.
+    for priority in (True, False):
+        selected = [j for j in jobs if is_product(j) == priority]
+        heading = "⭐ 2027届产品重点新增" if priority else "2027届其他校招岗位新增"
+        for start in range(0, len(selected), 3):
+            yield heading, selected[start:start + 3]
 
 
 def report(jobs, health):
@@ -73,11 +96,14 @@ def report(jobs, health):
         if kind in groups:
             groups[kind].append(job)
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
-    lines = [f"# 2027届产品岗监控｜{now}（北京时间）", "",
-             "仅已核实届别的正式产品岗进入新增提醒。未确认届别与实习单列。", ""]
-    for key, title in [("confirmed", "已确认适用2027届"), ("pending", "届别待确认（不推送）"), ("internship", "实习参考（不推送）")]:
-        lines.extend([f"## {title} · {len(groups[key])} 条", ""])
-        for job in groups[key]:
+    products = [j for j in groups["confirmed"] if is_product(j)]
+    others = [j for j in groups["confirmed"] if not is_product(j)]
+    lines = [f"# 2027届校招监控｜{now}（北京时间）", "",
+             "已核实届别的各类正式校招岗位均进入新增提醒；产品相关加星并优先推送。未确认届别与实习单列。", ""]
+    for rows, title in [(products, "⭐ 产品重点"), (others, "其他已确认2027届岗位"),
+                        (groups["pending"], "届别待确认（不推送）"), (groups["internship"], "实习参考（不推送）")]:
+        lines.extend([f"## {title} · {len(rows)} 条", ""])
+        for job in rows:
             lines.extend(["- " + line(job).replace("\n", "\n  "), ""])
     lines += ["## 信源状态", ""]
     for src in health.get("sources", []):
@@ -89,7 +115,13 @@ def report(jobs, health):
     summary = os.getenv("GITHUB_STEP_SUMMARY")
     if summary:
         with open(summary, "a", encoding="utf-8") as f:
-            f.write("\n".join(lines))
+            # GitHub caps a step summary at 1 MiB; the downloadable report stays complete.
+            summary_text = "\n".join(lines)
+            if len(summary_text.encode("utf-8")) > 900000:
+                summary_text = (f"# 2027届校招监控｜{now}\n\n"
+                    f"产品重点 {len(products)} 条；其他确认岗位 {len(others)} 条；"
+                    f"届别待确认 {len(groups['pending'])} 条。\n\n完整清单见本次运行附件。\n")
+            f.write(summary_text)
     save(DATA / "campus_product.json", {"generated_at": now,
         "confirmed": groups["confirmed"], "pending": groups["pending"], "internships": groups["internship"]})
     return groups
@@ -102,7 +134,7 @@ def main():
     parser.add_argument("--test-notification", action="store_true")
     args = parser.parse_args()
     if args.test_notification:
-        deliver("2027届产品岗雷达连接测试成功。正式任务仅在发现符合条件的新增岗位时提醒。")
+        deliver("2027届校招雷达连接测试成功。各类正式校招新增均提醒，产品相关加星并优先推送。")
         print("通知渠道测试成功。")
         return
     cfg = load_config()
@@ -126,10 +158,11 @@ def main():
     for job in existing:
         pending_state["delivered"][identity(job)] = {"baseline_at": now}
     pending_state["sources_initialized"] = sorted(set(state["sources_initialized"]) | healthy)
+    expansion_baseline(jobs, pending_state, healthy, cfg, now)
     pending = select_pending(jobs, pending_state, cfg)
     pending = [j for j in pending if j["source_id"] in healthy]
     if args.dry_run:
-        print(f"仅预览：确认产品岗 {len(groups['confirmed'])}，待确认 {len(groups['pending'])}，首次建基线 {len(first_sources)} 个信源，待推 {len(pending)} 条。未发送、未写推送状态。")
+        print(f"仅预览：确认校招岗 {len(groups['confirmed'])}，产品重点 {sum(is_product(j) for j in groups['confirmed'])}，待确认 {len(groups['pending'])}，首次建基线 {len(first_sources)} 个信源，待推 {len(pending)} 条。未发送、未写推送状态。")
         return
     # First successful snapshot of each source establishes a baseline, never floods old listings.
     save(STATE, pending_state)
@@ -137,14 +170,13 @@ def main():
         print(f"无符合条件的未推新增；本轮初始化 {len(first_sources)} 个信源。")
         return
     # Each confirmed batch is marked only after the provider acknowledges success.
-    for start in range(0, len(pending), 3):
-        batch = pending[start:start + 3]
-        text = "# 2027届产品岗新增\n\n" + "\n\n".join(line(j) for j in batch)
+    for heading, batch in notification_batches(pending):
+        text = heading + "\n\n" + "\n\n".join(line(j) for j in batch)
         deliver(text)
         for job in batch:
             pending_state["delivered"][identity(job)] = {"sent_at": now, "title": job["title"]}
         save(STATE, pending_state)
-    print(f"已推送 {len(pending)} 条新增产品岗。")
+    print(f"已推送 {len(pending)} 条新增校招岗，其中产品重点 {sum(is_product(j) for j in pending)} 条。")
 
 
 if __name__ == "__main__":

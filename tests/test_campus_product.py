@@ -5,7 +5,7 @@ import tempfile
 import unittest
 from unittest.mock import patch
 
-from job_radar.campus_product import classify, identity, load_config, select_pending
+from job_radar.campus_product import classify, identity, is_product, load_config, select_pending
 from job_radar.adapters.campus_watch import pages, pair
 from scripts import campus_watch
 from job_radar.normalize import make_dedup_key
@@ -19,9 +19,11 @@ class EligibilityTests(unittest.TestCase):
     def test_confirmed(self):
         self.assertEqual(classify(self.job)[0], 'confirmed')
 
-    def test_adjacent_roles_excluded(self):
+    def test_all_roles_eligible_and_product_roles_highlighted(self):
         for title in ['2027届产品运营','2027届产品工程师','2027届产品设计师','2027届算法工程师']:
-            self.assertEqual(classify(dict(self.job,title=title))[0], 'excluded')
+            self.assertEqual(classify(dict(self.job,title=title))[0], 'confirmed')
+            self.assertEqual(is_product(dict(self.job,title=title)), '产品' in title)
+        self.assertFalse(is_product(dict(self.job,title='算法工程师',jd_text='合作产品经理')))
 
     def test_unrelated_2027_is_not_evidence(self):
         j=dict(self.job,title='产品经理',publish_time='2027-01-01',jd_text='2027年业务目标增长')
@@ -72,6 +74,15 @@ class EligibilityTests(unittest.TestCase):
 
 
 class PaginationTests(unittest.TestCase):
+    def test_byte_fetches_all_campus_categories(self):
+        from job_radar.adapters.campus_watch import byte
+        with patch('job_radar.adapters.campus_watch.pages',return_value=[]) as fetch:
+            byte('')
+        body=fetch.call_args.args[1](1)
+        self.assertEqual(body['keyword'],'')
+        self.assertEqual(body['job_category_id_list'],[])
+        self.assertEqual(body['recruitment_id_list'],['201'])
+
     def test_null_list_is_an_empty_last_page(self):
         self.assertEqual(pair({'data':{'list':None}},'data','list','total'),([],None))
 
@@ -99,6 +110,32 @@ class PaginationTests(unittest.TestCase):
 
 
 class DeliveryTests(unittest.TestCase):
+    def test_product_notifications_go_first_and_are_separate(self):
+        def job(title): return {'title':title}
+        batches=list(campus_watch.notification_batches([job('算法工程师'),job('产品运营'),job('产品经理')]))
+        self.assertIn('⭐',batches[0][0])
+        self.assertEqual([j['title'] for j in batches[0][1]],['产品运营','产品经理'])
+        self.assertEqual([j['title'] for j in batches[1][1]],['算法工程师'])
+
+    def test_scope_expansion_baselines_once_and_keeps_product_retries(self):
+        cfg=load_config()
+        def job(id,title):
+            return dict(company_name='字节跳动',source_id='watch-byte',title=title,
+                identifier=id,official_url='https://jobs.bytedance.com/'+id,
+                extra={'graduation_year':'2027'})
+        old=job('old','算法工程师')
+        product=job('product','产品经理')
+        state={'sources_initialized':['watch-byte'],'delivered':{'previous':{'sent_at':'original'}}}
+        campus_watch.expansion_baseline([old,product],state,set(),cfg,'now')
+        self.assertNotIn(identity(old),state['delivered'])
+        campus_watch.expansion_baseline([old,product],state,{'watch-byte'},cfg,'now')
+        self.assertIn(identity(old),state['delivered'])
+        self.assertNotIn(identity(product),state['delivered'])
+        new=job('new','算法工程师')
+        campus_watch.expansion_baseline([old,product,new],state,{'watch-byte'},cfg,'later')
+        self.assertEqual(select_pending([old,product,new],state),[product,new])
+        self.assertEqual(state['delivered']['previous'],{'sent_at':'original'})
+
     def test_business_error_cannot_mark_sent(self):
         class Response:
             status=200
