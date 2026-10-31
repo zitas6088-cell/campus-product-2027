@@ -1,1 +1,96 @@
-{}
+{
+  "generated_at": "2026-10-31T03:48:09.969659+00:00",
+  "sources_total": 6,
+  "sources_catalog_total": 8,
+  "preserve_unselected": true,
+  "jobs_raw": 4879,
+  "snapshot_after_dedup": 4879,
+  "duplicates_removed": 0,
+  "store_total": 4879,
+  "new_this_run": 4879,
+  "gone_total": 0,
+  "archived_total": 0,
+  "active_total": 4879,
+  "unhealthy": [],
+  "alerts": [],
+  "sources": [
+    {
+      "source_id": "watch-tencent",
+      "adapter": "watch_tencent",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-10-31T03:48:21.498508+00:00",
+      "last_error": "",
+      "last_count": 888,
+      "peak_count": 888,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-byte",
+      "adapter": "watch_byte",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-10-31T03:48:31.973900+00:00",
+      "last_error": "",
+      "last_count": 320,
+      "peak_count": 320,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-jd",
+      "adapter": "watch_jd",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-10-31T03:48:35.581027+00:00",
+      "last_error": "",
+      "last_count": 132,
+      "peak_count": 132,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-meituan",
+      "adapter": "watch_meituan",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-10-31T03:49:38.991373+00:00",
+      "last_error": "",
+      "last_count": 3295,
+      "peak_count": 3295,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-xhs",
+      "adapter": "watch_xhs",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-10-31T03:49:44.573125+00:00",
+      "last_error": "",
+      "last_count": 210,
+      "peak_count": 210,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-pdd",
+      "adapter": "watch_pdd",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-10-31T03:49:48.800456+00:00",
+      "last_error": "",
+      "last_count": 34,
+      "peak_count": 34,
+      "alert": ""
+    },
+    {
+      "source_id": "ashby-posthog",
+      "adapter": "ashby",
+      "status": "active",
+      "not_run": true
+    },
+    {
+      "source_id": "gh-gitlab",
+      "adapter": "greenhouse",
+      "status": "active",
+      "not_run": true
+    }
+  ]
+}
