@@ -233,6 +233,11 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
     health: List[Dict] = []
     success_source_ids = set()
 
+    if any(src['source_id'] in selected_source_ids and src['adapter'] == 'watch_official'
+           for src in sources):
+        from .adapters import official_board
+        official_board.prepare()
+
     for src in sources:
         sid, adapter_name = src["source_id"], src["adapter"]
         if only_adapters and adapter_name not in only_adapters:

@@ -31,6 +31,9 @@ def graduation_evidence(job, year):
     found = re.search(pattern, text, re.I)
     if found:
         return "官网届别文字：" + found.group(0)
+    english = re.search(rf'\b(?:graduating|graduation|graduates?)\b[^.\n]{{0,80}}\b{year}\b', text, re.I)
+    if english:
+        return "官网毕业资格文字：" + english.group(0)
     # A published graduation window is evidence; publication and application dates are not.
     date_part = r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?"
     for match in re.finditer(date_part + r"\s*(?:至|到|~|～|—|–|-)\s*" + date_part, text):
@@ -85,7 +88,7 @@ def is_product(job, cfg=None):
     """Highlight titles about product work; incidental JD mentions do not count."""
     cfg = cfg or load_config()
     title = str(job.get("title", "")).lower()
-    return "产品" in title or any(k.lower() in title for k in cfg["product_roles"])
+    return "产品" in title or bool(re.search(r"\bproduct\b", title)) or any(k.lower() in title for k in cfg["product_roles"])
 
 
 def legacy_product_match(job, cfg):
@@ -98,4 +101,5 @@ def legacy_product_match(job, cfg):
 def select_pending(jobs, state, cfg=None):
     cfg = cfg or load_config()
     sent = state.get("delivered", {})
-    return [j for j in jobs if classify(j, cfg)[0] == "confirmed" and identity(j) not in sent]
+    return [j for j in jobs if classify(j, cfg)[0] == "confirmed" and identity(j) not in sent
+            and (not cfg.get('notify_product_only', True) or is_product(j, cfg))]

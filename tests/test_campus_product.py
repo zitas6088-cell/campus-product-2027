@@ -137,7 +137,7 @@ class DeliveryTests(unittest.TestCase):
         batches=list(campus_watch.notification_batches([job('算法工程师'),job('产品运营'),job('产品经理')]))
         self.assertIn('⭐',batches[0][0])
         self.assertEqual([j['title'] for j in batches[0][1]],['产品运营','产品经理'])
-        self.assertEqual([j['title'] for j in batches[1][1]],['算法工程师'])
+        self.assertEqual(len(batches),1)
 
     def test_scope_expansion_baselines_once_and_keeps_product_retries(self):
         cfg=load_config()
@@ -155,7 +155,7 @@ class DeliveryTests(unittest.TestCase):
         self.assertNotIn(identity(product),state['delivered'])
         new=job('new','算法工程师')
         campus_watch.expansion_baseline([old,product,new],state,{'watch-byte'},cfg,'later')
-        self.assertEqual(select_pending([old,product,new],state),[product,new])
+        self.assertEqual(select_pending([old,product,new],state),[product])
         self.assertEqual(state['delivered']['previous'],{'sent_at':'original'})
 
     def test_business_error_cannot_mark_sent(self):

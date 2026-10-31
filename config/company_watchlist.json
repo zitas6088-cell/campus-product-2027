@@ -1,0 +1,1519 @@
+{
+  "version": 1,
+  "source_document": "https://www.kdocs.cn/l/cn8UCcWyH6Hv",
+  "snapshot_date": "2026-10-31",
+  "companies": [
+    {
+      "source_id": "watch-tencent",
+      "company": "腾讯",
+      "sheet_row": 2,
+      "urls": [
+        "https://join.qq.com/"
+      ],
+      "method": "api"
+    },
+    {
+      "source_id": "watch-byte",
+      "company": "字节跳动",
+      "sheet_row": 3,
+      "urls": [
+        "https://jobs.bytedance.com/campus/position",
+        "https://jobs.bytedance.com/campus"
+      ],
+      "method": "api"
+    },
+    {
+      "source_id": "watch-sheet-004",
+      "company": "阿里巴巴",
+      "sheet_row": 4,
+      "urls": [
+        "https://campus-talent.alibaba.com/campus/position?batchId=100000760001",
+        "https://campus-talent.alibaba.com/campus/alistar"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-005",
+      "company": "蚂蚁集团",
+      "sheet_row": 5,
+      "urls": [
+        "https://talent.antgroup.com/campus-position"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-meituan",
+      "company": "美团",
+      "sheet_row": 6,
+      "urls": [
+        "https://zhaopin.meituan.com/web/campus/position",
+        "https://zhaopin.meituan.com/web/campus"
+      ],
+      "method": "api"
+    },
+    {
+      "source_id": "watch-pdd",
+      "company": "拼多多",
+      "sheet_row": 7,
+      "urls": [
+        "https://careers.pddglobalhr.com/campus"
+      ],
+      "method": "api"
+    },
+    {
+      "source_id": "watch-jd",
+      "company": "京东",
+      "sheet_row": 8,
+      "urls": [
+        "https://campus.jd.com/#/jobs",
+        "https://campus.jd.com/#/"
+      ],
+      "method": "api"
+    },
+    {
+      "source_id": "watch-sheet-009",
+      "company": "百度",
+      "sheet_row": 9,
+      "urls": [
+        "https://talent.baidu.com/jobs/list?recruitType=GRADUATE"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-xhs",
+      "company": "小红书",
+      "sheet_row": 10,
+      "urls": [
+        "https://job.xiaohongshu.com/campus",
+        "https://job.xiaohongshu.com/campus/theme"
+      ],
+      "method": "api"
+    },
+    {
+      "source_id": "watch-sheet-011",
+      "company": "快手",
+      "sheet_row": 11,
+      "urls": [
+        "https://campus.kuaishou.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-012",
+      "company": "网易互娱",
+      "sheet_row": 12,
+      "urls": [
+        "https://campus.game.163.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-013",
+      "company": "网易雷火",
+      "sheet_row": 13,
+      "urls": [
+        "https://leihuo.163.com/campus/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-014",
+      "company": "携程集团",
+      "sheet_row": 14,
+      "urls": [
+        "https://careers.ctrip.com/#/campus/jobList",
+        "https://campus.ctrip.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-015",
+      "company": "滴滴",
+      "sheet_row": 15,
+      "urls": [
+        "https://talent.didiglobal.com/campus",
+        "https://campus.didiglobal.com/campus_apply/didiglobal/96064#/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-016",
+      "company": "哔哩哔哩",
+      "sheet_row": 16,
+      "urls": [
+        "https://jobs.bilibili.com/campus/",
+        "https://jobs.bilibili.com/campus/positions"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-017",
+      "company": "爱奇艺",
+      "sheet_row": 17,
+      "urls": [
+        "https://careers.iqiyi.com/campus",
+        "https://careers.iqiyi.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-018",
+      "company": "SHEIN",
+      "sheet_row": 18,
+      "urls": [
+        "https://careers.shein.cn/",
+        "https://careers.shein.com/campus-recruitment"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-019",
+      "company": "得物App",
+      "sheet_row": 19,
+      "urls": [
+        "https://campus.dewu.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-020",
+      "company": "Shopee",
+      "sheet_row": 20,
+      "urls": [
+        "https://careers.shopee.cn/campus/",
+        "https://app.mokahr.com/su/nykvgs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-021",
+      "company": "小米",
+      "sheet_row": 21,
+      "urls": [
+        "https://hr.xiaomi.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-022",
+      "company": "vivo",
+      "sheet_row": 22,
+      "urls": [
+        "https://hr-campus.vivo.com/",
+        "https://hr.vivo.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-023",
+      "company": "OPPO",
+      "sheet_row": 23,
+      "urls": [
+        "https://careers.oppo.com/university/oppo/campus/",
+        "https://careers.oppo.com/university/oppo/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-024",
+      "company": "联想",
+      "sheet_row": 24,
+      "urls": [
+        "https://talent.lenovo.com.cn/",
+        "https://talent.lenovo.com.cn/home"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-025",
+      "company": "搜狐畅游",
+      "sheet_row": 25,
+      "urls": [
+        "https://zhaopin.changyou.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-026",
+      "company": "华为",
+      "sheet_row": 26,
+      "urls": [
+        "https://career.huawei.com/cn/campus-recruitment"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-027",
+      "company": "荣耀",
+      "sheet_row": 27,
+      "urls": [
+        "https://www.honor.com/cn/career/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-028",
+      "company": "小鹏汽车",
+      "sheet_row": 28,
+      "urls": [
+        "https://www.xiaopeng.com/join.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-029",
+      "company": "科大讯飞",
+      "sheet_row": 29,
+      "urls": [
+        "https://iflytek.zhiye.com/5/jobs",
+        "https://iflytek.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-030",
+      "company": "顺丰科技",
+      "sheet_row": 30,
+      "urls": [
+        "https://campus.sf-express.com/#/homePage"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-031",
+      "company": "中国平安",
+      "sheet_row": 31,
+      "urls": [
+        "https://campus.pingan.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-032",
+      "company": "中国银联",
+      "sheet_row": 32,
+      "urls": [
+        "https://career.unionpay.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-033",
+      "company": "米哈游",
+      "sheet_row": 33,
+      "urls": [
+        "https://jobs.mihoyo.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-034",
+      "company": "莉莉丝游戏",
+      "sheet_row": 34,
+      "urls": [
+        "https://jobs.lilith.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-035",
+      "company": "安克创新",
+      "sheet_row": 35,
+      "urls": [
+        "https://career.anker.com.cn/universities/recruitment/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-036",
+      "company": "作业帮",
+      "sheet_row": 36,
+      "urls": [
+        "https://www.zuoyebang.com/question/index/homejobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-037",
+      "company": "高德地图",
+      "sheet_row": 37,
+      "urls": [
+        "https://campus-talent.alibaba.com/campus/gov"
+      ],
+      "method": "official_board",
+      "require_company_terms": [
+        "高德",
+        "amap"
+      ]
+    },
+    {
+      "source_id": "watch-sheet-038",
+      "company": "用友网络",
+      "sheet_row": 38,
+      "urls": [
+        "https://career.yonyou.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-039",
+      "company": "理想汽车",
+      "sheet_row": 39,
+      "urls": [
+        "https://www.lixiang.com/employ/campus/list.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-040",
+      "company": "东方财富",
+      "sheet_row": 40,
+      "urls": [
+        "https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/92400#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98",
+        "https://zhaopin.eastmoney.com/#/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-041",
+      "company": "途虎养车",
+      "sheet_row": 41,
+      "urls": [
+        "https://app.mokahr.com/campus-recruitment/tuhu/28398#/",
+        "https://app.mokahr.com/campus-recruitment/tuhu/28398#/jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-042",
+      "company": "追觅科技（MOVA）",
+      "sheet_row": 42,
+      "urls": [
+        "https://www.dreame.tech/"
+      ],
+      "method": "official_board",
+      "require_company_terms": [
+        "MOVA",
+        "追觅"
+      ]
+    },
+    {
+      "source_id": "watch-sheet-043",
+      "company": "中芯国际",
+      "sheet_row": 43,
+      "urls": [
+        "https://smic.hotjob.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-044",
+      "company": "国轩高科",
+      "sheet_row": 44,
+      "urls": [
+        "https://gotionsz.hotjob.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-045",
+      "company": "广联达",
+      "sheet_row": 45,
+      "urls": [
+        "https://campus.glodon.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-046",
+      "company": "传音控股",
+      "sheet_row": 46,
+      "urls": [
+        "https://transsion.zhiye.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-047",
+      "company": "大疆创新",
+      "sheet_row": 47,
+      "urls": [
+        "https://careers.dji.com/zh-CN/campus/recruitment"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-048",
+      "company": "影石创新",
+      "sheet_row": 48,
+      "urls": [
+        "https://www.insta360.com/cn/jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-049",
+      "company": "美的集团",
+      "sheet_row": 49,
+      "urls": [
+        "https://careers.midea.com/",
+        "https://careers.midea.com/schoolOut"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-050",
+      "company": "富途",
+      "sheet_row": 50,
+      "urls": [
+        "https://join.futunn.com/",
+        "https://join.futunn.com/jobs?type=campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-051",
+      "company": "欣旺达",
+      "sheet_row": 51,
+      "urls": [
+        "https://sunwoda.zhiye.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-052",
+      "company": "金山办公",
+      "sheet_row": 52,
+      "urls": [
+        "https://join.wps.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-053",
+      "company": "万兴科技",
+      "sheet_row": 53,
+      "urls": [
+        "https://www.wondershare.cn/about/join-us.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-054",
+      "company": "赛力斯",
+      "sheet_row": 54,
+      "urls": [
+        "https://sokon.zhiye.com/campus/jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-055",
+      "company": "北森",
+      "sheet_row": 55,
+      "urls": [
+        "https://beisen.zhiye.com/?from=guanwang",
+        "https://beisen2.zhiye.com/home"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-056",
+      "company": "吉利控股",
+      "sheet_row": 56,
+      "urls": [
+        "https://campus.geely.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-057",
+      "company": "三七互娱",
+      "sheet_row": 57,
+      "urls": [
+        "https://zhaopin.37.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-058",
+      "company": "欧莱雅中国",
+      "sheet_row": 58,
+      "urls": [
+        "https://careers.loreal.com/zh_CN/jobs/SearchJobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-059",
+      "company": "高盛",
+      "sheet_row": 59,
+      "urls": [
+        "https://higher.gs.com/roles"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-060",
+      "company": "新浪微博",
+      "sheet_row": 60,
+      "urls": [
+        "https://career.sina.com.cn/",
+        "https://career.sina.com.cn/campus-recruitment/sina/43536"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-061",
+      "company": "英伟达 NVIDIA",
+      "sheet_row": 61,
+      "urls": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-062",
+      "company": "迅雷",
+      "sheet_row": 62,
+      "urls": [
+        "https://hr.xunlei.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-063",
+      "company": "德勤",
+      "sheet_row": 63,
+      "urls": [
+        "https://www2.deloitte.com/cn/zh/careers/students.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-064",
+      "company": "货拉拉",
+      "sheet_row": 64,
+      "urls": [
+        "https://join.huolala.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-065",
+      "company": "普华永道",
+      "sheet_row": 65,
+      "urls": [
+        "https://www.pwccn.com/zh/careers/students.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-066",
+      "company": "招商银行",
+      "sheet_row": 66,
+      "urls": [
+        "https://career.cmbchina.com/",
+        "https://cmb-recruitment-pc.paas.cmbchina.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-067",
+      "company": "饿了么",
+      "sheet_row": 67,
+      "urls": [
+        "https://campus-talent.alibaba.com/"
+      ],
+      "method": "official_board",
+      "require_company_terms": [
+        "饿了么",
+        "饿了么",
+        "eleme",
+        "淘宝闪购"
+      ]
+    },
+    {
+      "source_id": "watch-sheet-068",
+      "company": "Apple",
+      "sheet_row": 68,
+      "urls": [
+        "https://jobs.apple.com/zh-cn/search"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-069",
+      "company": "宝马集团",
+      "sheet_row": 69,
+      "urls": [
+        "https://www.bmwgroup.jobs/cn/zh.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-070",
+      "company": "毕马威",
+      "sheet_row": 70,
+      "urls": [
+        "https://kpmg.com/cn/zh/home/careers.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-071",
+      "company": "施耐德电气",
+      "sheet_row": 71,
+      "urls": [
+        "https://www.se.com/cn/zh/about-us/careers/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-072",
+      "company": "西门子",
+      "sheet_row": 72,
+      "urls": [
+        "https://www.siemens.com/cn/zh/company/jobs.html",
+        "https://jobs.siemens.com/zh_CN/externaljobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-073",
+      "company": "沃尔玛",
+      "sheet_row": 73,
+      "urls": [
+        "https://careers.walmart.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-074",
+      "company": "联合利华",
+      "sheet_row": 74,
+      "urls": [
+        "https://careers.unilever.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-075",
+      "company": "宁德时代",
+      "sheet_row": 75,
+      "urls": [
+        "https://catl.zhiye.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-076",
+      "company": "realme真我",
+      "sheet_row": 76,
+      "urls": [
+        "https://career.realme.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-077",
+      "company": "虎牙直播",
+      "sheet_row": 77,
+      "urls": [
+        "https://hr.huya.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-078",
+      "company": "寒武纪",
+      "sheet_row": 78,
+      "urls": [
+        "https://app.mokahr.com/campus-recruitment/cambricon/44201",
+        "https://www.cambricon.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-079",
+      "company": "海康威视",
+      "sheet_row": 79,
+      "urls": [
+        "https://campushr.hikvision.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-080",
+      "company": "中兴通讯",
+      "sheet_row": 80,
+      "urls": [
+        "https://job.zte.com.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-081",
+      "company": "英特尔 Intel",
+      "sheet_row": 81,
+      "urls": [
+        "https://jobs.intel.com/zh/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-082",
+      "company": "完美世界",
+      "sheet_row": 82,
+      "urls": [
+        "https://recruit.wanmei.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-083",
+      "company": "宝洁 P&G",
+      "sheet_row": 83,
+      "urls": [
+        "https://www.pgcareers.com/cn/zh/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-084",
+      "company": "中国兵器工业集团",
+      "sheet_row": 84,
+      "urls": [
+        "https://zhaopin.norincogroup.com.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-085",
+      "company": "华海清科",
+      "sheet_row": 85,
+      "urls": [
+        "https://www.hwatsing.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-086",
+      "company": "埃科光电",
+      "sheet_row": 86,
+      "urls": [
+        "https://www.echoptics.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-087",
+      "company": "小马智行",
+      "sheet_row": 87,
+      "urls": [
+        "https://www.pony.ai/zh/careers"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-088",
+      "company": "惠升基金",
+      "sheet_row": 88,
+      "urls": [
+        "https://www.risingamc.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-089",
+      "company": "同花顺",
+      "sheet_row": 89,
+      "urls": [
+        "https://job.10jqka.com.cn/",
+        "https://campus.10jqka.com.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-090",
+      "company": "澜起科技",
+      "sheet_row": 90,
+      "urls": [
+        "https://www.montage-tech.com/cn/careers"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-091",
+      "company": "搜狐",
+      "sheet_row": 91,
+      "urls": [
+        "https://campus.sohu.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-092",
+      "company": "Unity中国",
+      "sheet_row": 92,
+      "urls": [
+        "https://unity.wd1.myworkdayjobs.com/Unity"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-093",
+      "company": "麦肯锡中国区",
+      "sheet_row": 93,
+      "urls": [
+        "https://www.mckinsey.com/careers/search-jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-094",
+      "company": "知乎",
+      "sheet_row": 94,
+      "urls": [
+        "https://app.mokahr.com/campus-recruitment/zhihu/68321",
+        "https://app.mokahr.com/apply/zhihu/78336"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-095",
+      "company": "蔚来",
+      "sheet_row": 95,
+      "urls": [
+        "https://campus.nio.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-096",
+      "company": "中创新航",
+      "sheet_row": 96,
+      "urls": [
+        "https://calb.zhiye.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-097",
+      "company": "中国移动",
+      "sheet_row": 97,
+      "urls": [
+        "http://job.10086.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-098",
+      "company": "海尔集团",
+      "sheet_row": 98,
+      "urls": [
+        "https://maker.haier.net/client/campus/index"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-099",
+      "company": "网易互联网",
+      "sheet_row": 99,
+      "urls": [
+        "https://campus.163.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-100",
+      "company": "TCL",
+      "sheet_row": 100,
+      "urls": [
+        "https://zhaopin.tcl.com/campus/index.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-101",
+      "company": "京东方科技集团",
+      "sheet_row": 101,
+      "urls": [
+        "https://www.boe.com.cn/join/index"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-102",
+      "company": "华泰证券",
+      "sheet_row": 102,
+      "urls": [
+        "http://job.htsc.com.cn/index.html?organize=2"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-103",
+      "company": "广汽丰田",
+      "sheet_row": 103,
+      "urls": [
+        "https://gac-toyota.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-104",
+      "company": "北汽集团／北汽光粒",
+      "sheet_row": 104,
+      "urls": [
+        "https://baicgroup.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-105",
+      "company": "新华三集团",
+      "sheet_row": 105,
+      "urls": [
+        "https://h3c.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-106",
+      "company": "浪潮集团",
+      "sheet_row": 106,
+      "urls": [
+        "http://career.inspur.com/campus2027/index.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-107",
+      "company": "唯品会",
+      "sheet_row": 107,
+      "urls": [
+        "https://job.vip.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-108",
+      "company": "去哪儿",
+      "sheet_row": 108,
+      "urls": [
+        "https://hf7l9aiqzx.jobs.feishu.cn/704852"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-109",
+      "company": "汽车之家",
+      "sheet_row": 109,
+      "urls": [
+        "https://talent.autohome.com.cn/campus_index.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-110",
+      "company": "贝壳找房",
+      "sheet_row": 110,
+      "urls": [
+        "https://campus.ke.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-111",
+      "company": "哈啰",
+      "sheet_row": 111,
+      "urls": [
+        "https://hellobike.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-112",
+      "company": "满帮集团",
+      "sheet_row": 112,
+      "urls": [
+        "https://jobs.fulltruckalliance.com/social-recruitment/manbang/96016/#/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-113",
+      "company": "度小满",
+      "sheet_row": 113,
+      "urls": [
+        "https://talent.duxiaoman.com/index"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-114",
+      "company": "金蝶",
+      "sheet_row": 114,
+      "urls": [
+        "https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-115",
+      "company": "DeepSeek",
+      "sheet_row": 115,
+      "urls": [
+        "https://talent.deepseek.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-116",
+      "company": "商汤科技",
+      "sheet_row": 116,
+      "urls": [
+        "https://hr-jobs.sensetime.com/edu/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-117",
+      "company": "中国电子云",
+      "sheet_row": 117,
+      "urls": [
+        "https://campus.cestc.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-118",
+      "company": "天翼云",
+      "sheet_row": 118,
+      "urls": [
+        "https://www.ctyun.cn/hr/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-119",
+      "company": "宁波银行",
+      "sheet_row": 119,
+      "urls": [
+        "https://zhaopin.nbcb.com.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-120",
+      "company": "招联消费金融",
+      "sheet_row": 120,
+      "urls": [
+        "https://www.mucfc.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-121",
+      "company": "马上消费",
+      "sheet_row": 121,
+      "urls": [
+        "https://www.msxf.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-122",
+      "company": "中科曙光",
+      "sheet_row": 122,
+      "urls": [
+        "https://sugon.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-123",
+      "company": "宇树科技",
+      "sheet_row": 123,
+      "urls": [
+        "https://www.unitree.com/cn/position"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-124",
+      "company": "智元机器人",
+      "sheet_row": 124,
+      "urls": [
+        "https://www.agibot.com.cn/join_us"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-125",
+      "company": "转转",
+      "sheet_row": 125,
+      "urls": [
+        "https://campus.zhuanzhuan.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-126",
+      "company": "BOSS直聘",
+      "sheet_row": 126,
+      "urls": [
+        "https://www.zhipin.com/campus/pc/"
+      ],
+      "method": "official_board",
+      "require_company_terms": [
+        "看准",
+        "BOSS直聘",
+        "北京华品博睿"
+      ]
+    },
+    {
+      "source_id": "watch-sheet-127",
+      "company": "懂车帝",
+      "sheet_row": 127,
+      "urls": [
+        "https://dcar.jobs.feishu.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-128",
+      "company": "Soul",
+      "sheet_row": 128,
+      "urls": [
+        "https://soulapp.jobs.feishu.cn/index"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-129",
+      "company": "沐瞳科技",
+      "sheet_row": 129,
+      "urls": [
+        "https://moonton.jobs.feishu.cn/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-130",
+      "company": "阅文集团",
+      "sheet_row": 130,
+      "urls": [
+        "https://join.yuewen.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-131",
+      "company": "七猫",
+      "sheet_row": 131,
+      "urls": [
+        "https://campus.qimao.com/m/preview"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-132",
+      "company": "e签宝",
+      "sheet_row": 132,
+      "urls": [
+        "https://esign.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-133",
+      "company": "合合信息",
+      "sheet_row": 133,
+      "urls": [
+        "https://intsig.zhiye.com/home"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-134",
+      "company": "汉得信息",
+      "sheet_row": 134,
+      "urls": [
+        "https://hand-china1.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-135",
+      "company": "法本信息",
+      "sheet_row": 135,
+      "urls": [
+        "https://www.farben.com.cn/join/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-136",
+      "company": "Babycare",
+      "sheet_row": 136,
+      "urls": [
+        "https://babycare.zhiye.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-137",
+      "company": "Wind万得",
+      "sheet_row": 137,
+      "urls": [
+        "https://www.wind.com.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-138",
+      "company": "收钱吧",
+      "sheet_row": 138,
+      "urls": [
+        "https://shouqianba.zhiye.com/jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-139",
+      "company": "360集团",
+      "sheet_row": 139,
+      "urls": [
+        "https://360campus.zhiye.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-140",
+      "company": "春秋航空",
+      "sheet_row": 140,
+      "urls": [
+        "https://job.ch.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-141",
+      "company": "丹纳赫",
+      "sheet_row": 141,
+      "urls": [
+        "https://app.mokahr.com/ex-web/danaher_com/main/careersite"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-142",
+      "company": "德邦快递",
+      "sheet_row": 142,
+      "urls": [
+        "https://zhaopin.deppon.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-143",
+      "company": "杭州城投",
+      "sheet_row": 143,
+      "urls": [
+        "https://www.hzcjtz.com/join.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-144",
+      "company": "合思",
+      "sheet_row": 144,
+      "urls": [
+        "https://hosecloud.zhiye.com/campus/jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-145",
+      "company": "华熙生物",
+      "sheet_row": 145,
+      "urls": [
+        "https://www.bloomagebiotech.com/join.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-146",
+      "company": "极兔",
+      "sheet_row": 146,
+      "urls": [
+        "https://jtexpress.jobs.feishu.cn/478610/position/list?spread=RK6HVPP"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-147",
+      "company": "金山云",
+      "sheet_row": 147,
+      "urls": [
+        "https://jssoft.zhiye.com/campus/jobs?silence=1"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-148",
+      "company": "君乐宝",
+      "sheet_row": 148,
+      "urls": [
+        "https://junlebaoruye.zhiye.com/Campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-149",
+      "company": "凯乐石",
+      "sheet_row": 149,
+      "urls": [
+        "https://kailas.zhiye.com/campus"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-150",
+      "company": "蓝月亮",
+      "sheet_row": 150,
+      "urls": [
+        "https://career.bluemoon.com.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-151",
+      "company": "联通",
+      "sheet_row": 151,
+      "urls": [
+        "https://zglt.zhaopin.com/scjobs/index.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-152",
+      "company": "隆基绿能",
+      "sheet_row": 152,
+      "urls": [
+        "https://longi.hotjob.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-153",
+      "company": "商米集团",
+      "sheet_row": 153,
+      "urls": [
+        "https://app.mokahr.com/m/campus-recruitment/sunmi/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-154",
+      "company": "深绎未来",
+      "sheet_row": 154,
+      "urls": [
+        "https://www.deeptran.com/team.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-155",
+      "company": "苏宁易购",
+      "sheet_row": 155,
+      "urls": [
+        "http://campus.suning.cn/rps-campus/ftl/campus/managePlan.htm?type=manage"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-156",
+      "company": "太极股份",
+      "sheet_row": 156,
+      "urls": [
+        "https://app.mokahr.com/campus-recruitment/taiji/43573"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-157",
+      "company": "同程旅行",
+      "sheet_row": 157,
+      "urls": [
+        "https://mhr.ly.com/recruit/schoolPortal/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-158",
+      "company": "小影科技",
+      "sheet_row": 158,
+      "urls": [
+        "https://quvideo.jobs.feishu.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-159",
+      "company": "云尖信息",
+      "sheet_row": 159,
+      "urls": [
+        "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/school.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-160",
+      "company": "云南白药",
+      "sheet_row": 160,
+      "urls": [
+        "https://zhaopin.ynby.cn/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-161",
+      "company": "知其安",
+      "sheet_row": 161,
+      "urls": [
+        "https://www.zhiqiansec.com/"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-162",
+      "company": "智慧芽",
+      "sheet_row": 162,
+      "urls": [
+        "https://zhihuiya.zhiye.com/campus/jobs"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-163",
+      "company": "中国数联",
+      "sheet_row": 163,
+      "urls": [
+        "https://www.chinaunidata.com/join-us/campus-recruitment.html"
+      ],
+      "method": "official_board"
+    },
+    {
+      "source_id": "watch-sheet-164",
+      "company": "中科创达",
+      "sheet_row": 164,
+      "urls": [
+        "https://thundersoft.jobs.feishu.cn/campus/"
+      ],
+      "method": "official_board"
+    }
+  ]
+}

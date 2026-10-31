@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Notify confirmed new campus jobs, with product-related jobs first."""
+"""Notify only confirmed new 2027 product-related jobs from the watched companies."""
 from __future__ import annotations
 
 import argparse
@@ -93,12 +93,10 @@ def expansion_baseline(jobs, state, healthy, cfg, now):
 
 
 def notification_batches(jobs):
-    # Separate priority messages make product opportunities easy to spot in Feishu.
-    for priority in (True, False):
-        selected = [j for j in jobs if is_product(j) == priority]
-        heading = "⭐ 2027届产品重点新增" if priority else "2027届其他校招岗位新增"
-        for start in range(0, len(selected), 3):
-            yield heading, selected[start:start + 3]
+    # Defence in depth: callers cannot accidentally send unrelated jobs.
+    selected = [job for job in jobs if is_product(job)]
+    for start in range(0, len(selected), 3):
+        yield "⭐ 2027届产品相关岗位新增", selected[start:start + 3]
 
 
 def report(jobs, health):
@@ -111,7 +109,7 @@ def report(jobs, health):
     products = [j for j in groups["confirmed"] if is_product(j)]
     others = [j for j in groups["confirmed"] if not is_product(j)]
     lines = [f"# 2027届校招监控｜{now}（北京时间）", "",
-             "已核实届别的各类正式校招岗位均进入新增提醒；产品相关加星并优先推送。未确认届别与实习单列。", ""]
+             "仅新增且已确认适用2027届的产品相关正式校招岗位进入飞书提醒。非产品、实习、社招及届别未确认岗位不推送。", ""]
     for rows, title in [(products, "⭐ 产品重点"), (others, "其他已确认2027届岗位"),
                         (groups["pending"], "届别待确认（不推送）"), (groups["internship"], "实习参考（不推送）")]:
         lines.extend([f"## {title} · {len(rows)} 条", ""])
@@ -123,6 +121,14 @@ def report(jobs, health):
             continue
         status = src.get("last_error") or src.get("alert") or f"抓取 {src.get('last_count', 0)} 条"
         lines.append(f"- {src['source_id']}：{status}")
+    cfg = load_config()
+    watched = [s for s in health.get('sources', []) if s.get('source_id') in cfg['source_ids'] and not s.get('not_run')]
+    failed = [s for s in watched if s.get('last_error') or s.get('alert') or s.get('skipped')]
+    lines += ['', f"监控清单 {len(cfg['companies'])} 家；本轮尝试 {len(watched)} 个信源；正常 {len(watched)-len(failed)}，异常/待适配 {len(failed)}。", '',
+              '异常不等于没有新增。首次成功读取的新公司仅建立现有岗位基线，后续出现的新职位再提醒。']
+    save(DATA / 'company_monitor_coverage.json', {'generated_at': now,
+         'configured_companies': len(cfg['companies']), 'attempted_sources': len(watched),
+         'healthy_sources': len(watched)-len(failed), 'unhealthy_sources': failed})
     (DATA / "campus_product.md").write_text("\n".join(lines), encoding="utf-8")
     summary = os.getenv("GITHUB_STEP_SUMMARY")
     if summary:
@@ -146,7 +152,7 @@ def main():
     parser.add_argument("--test-notification", action="store_true")
     args = parser.parse_args()
     if args.test_notification:
-        deliver("2027届校招雷达连接测试成功。各类正式校招新增均提醒，产品相关加星并优先推送。")
+        deliver("2027届产品岗雷达连接测试成功。仅提醒表格公司新增的产品相关正式校招岗位；每天北京时间09:00和15:00检查。")
         print("通知渠道测试成功。")
         return
     cfg = load_config()
@@ -160,7 +166,8 @@ def main():
     state = read(STATE, {"version": 1, "sources_initialized": [], "delivered": {}})
     healthy = {s["source_id"] for s in health.get("sources", [])
                if s["source_id"] in cfg["source_ids"] and not s.get("not_run")
-               and not s.get("last_error") and not s.get("alert") and s.get("last_count", 0) > 0}
+               and not s.get("last_error") and not s.get("alert") and not s.get('skipped')
+               and s.get("last_count") is not None and s.get("last_count", -1) >= 0}
     if not healthy:
         raise RuntimeError("没有任何官网信源成功返回岗位，本轮不初始化、不发送、不修改已推状态")
     first_sources = healthy - set(state["sources_initialized"])
