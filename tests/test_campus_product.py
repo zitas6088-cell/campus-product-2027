@@ -110,6 +110,12 @@ class PaginationTests(unittest.TestCase):
 
 
 class DeliveryTests(unittest.TestCase):
+    def setUp(self):
+        # Fixture jobs must never appear in the real Actions recruitment summary.
+        summary_env = patch.dict('os.environ', {'GITHUB_STEP_SUMMARY': ''})
+        summary_env.start()
+        self.addCleanup(summary_env.stop)
+
     def test_feishu_signature_payload_and_fresh_timestamp(self):
         class Response:
             status=200
