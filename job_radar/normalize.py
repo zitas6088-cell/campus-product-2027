@@ -74,12 +74,14 @@ def normalize_salary(raw: str):
     return (int(lo), int(hi))
 
 
-def make_dedup_key(company_name: str, title: str, location: str) -> str:
+def make_dedup_key(company_name: str, title: str, location: str, identifier: str = "") -> str:
     """主去重键 = 归一化(公司名) + 归一化(职位名) + 归一化(城市) 的短哈希。
 
     用哈希而非拼接原文，是为了让 key 长度稳定、可直接做主键/文件名。
     """
-    parts = [
+    # An official stable posting id distinguishes separate departments with the
+    # same title/city and survives later title edits. Legacy inputs keep the old key.
+    parts = [normalize_text(company_name), "posting-id", str(identifier)] if identifier else [
         normalize_text(company_name),
         normalize_title(title),
         normalize_city(location),

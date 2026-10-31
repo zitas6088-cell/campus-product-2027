@@ -1,0 +1,10 @@
+{
+  "graduation_year": 2027,
+  "source_ids": ["watch-tencent", "watch-byte", "watch-jd", "watch-meituan", "watch-xhs", "watch-pdd"],
+  "companies": ["腾讯", "字节跳动", "京东", "美团", "小红书", "拼多多"],
+  "cities": [],
+  "product_roles": ["产品经理", "产品策划", "产品助理", "产品培训生", "产品管培", "product manager", "product owner"],
+  "excluded_titles": ["产品运营", "产品设计师", "产品工程师", "product engineer", "销售", "产品营销"],
+  "include_internships": false,
+  "verified_source_cycles": {}
+}

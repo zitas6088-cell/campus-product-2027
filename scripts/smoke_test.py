@@ -107,7 +107,7 @@ def test_config_and_quality_offline() -> None:
     print("\n[E] 配置化补抓 / adapter 自动发现 / 质量降噪")
     kws = keyword_config.iguopin_keywords()
     check("国聘补抓关键词含 2027 周期词", any(k in kws for k in ("2027", "27届")), str(kws[:8]))
-    check("国聘补抓关键词含算法/产品/决策方向", all(k in kws for k in ("算法", "AI产品", "战略分析")),
+    check("产品专属补抓关键词覆盖普通/AI/策略产品", all(k in kws for k in ("产品经理", "AI产品", "策略产品")),
           str(kws[:12]))
     adapters = set(list_adapters())
     check("adapter 自动发现包含国聘", "iguopin" in adapters, str(sorted(adapters)[:8]))

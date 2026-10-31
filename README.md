@@ -1,3 +1,19 @@
+# 2027届国内大厂产品岗提醒（定制部署版）
+
+范围：腾讯、字节跳动、京东、美团、小红书、拼多多的官网校招接口；默认不限城市。
+只有官网能证实适用 2027 届的正式产品岗才进入新增提醒；届别不足和实习单列。
+每天北京时间约 09:17 / 14:17 / 20:17 运行，首次建立基线，以后仅提醒新增。
+
+- 使用说明：[docs/DEPLOY_2027_PRODUCT.md](docs/DEPLOY_2027_PRODUCT.md)
+- 岗位与来源状态：[data/campus_product.md](data/campus_product.md)
+- 规则：[config/campus_product.json](config/campus_product.json)
+- 工作流：Actions → **2027届产品岗监控**
+
+这是基于 [Jasmine-Liu-min/job-radar](https://github.com/Jasmine-Liu-min/job-radar) 的定制版本。
+下方保留上游项目说明供参考；本版本只启用上面的产品岗工作流，未启用上游广泛扫描和网页发布。
+
+---
+
 # 27届招聘信息台 · Job Radar
 
 这是一个面向 **2027届求职** 的个人招聘信息台，不是单纯爬虫集合。目标是把分散在官网、国聘、央国企公告、高校就业网、牛客、公众号和就业群里的机会，收拢成一个可筛选、可审核、可行动、可推送的工作台。

@@ -80,7 +80,9 @@ def _to_jobs(src: Dict[str, str], raws: List[RawJob]) -> List[Job]:
     out: List[Job] = []
     for r in raws:
         company = r.company_name or src["company_name"]
-        key = make_dedup_key(company, r.title, r.location)
+        key = make_dedup_key(company, r.title, r.location,
+                             identifier=str(r.raw.get("identifier") or "")
+                             if src["adapter"].startswith("watch_") else "")
         out.append(Job(
             job_id=f"{src['source_id']}:{key}",
             dedup_key=key,

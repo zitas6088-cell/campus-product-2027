@@ -1,52 +1,59 @@
-# 定时同步招聘信息（规划 8.1：GitHub Actions + 静态数据，零服务器零运维）。
-# 每次跑 sync 做【增量累积】（新增追加、消失标 gone、保留用户状态），
-# 再导出 jobs.html，把 data/ commit 回仓库；前端/浏览纯静态读取。
-name: job-radar-sync
-
+name: 2027届产品岗监控
 on:
   schedule:
-    - cron: "0 7 * * *"
-      timezone: "Asia/Shanghai"
+    # UTC -> Asia/Shanghai 09:17, 14:17, 20:17
+    - cron: '17 1,6,12 * * *'
   workflow_dispatch:
-
+    inputs:
+      test_notification:
+        description: '仅发送一条通知连接测试'
+        type: boolean
+        default: false
 permissions:
   contents: write
-
+concurrency:
+  group: campus-2027-product
+  cancel-in-progress: false
 jobs:
-  sync:
+  watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 25
+    env:
+      PYTHONUTF8: '1'
+      NOTIFY_CHANNEL: ${{ vars.NOTIFY_CHANNEL || 'feishu' }}
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+      PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-
-      - name: Run daily fast sync
-        run: python3 scripts/sync_plan.py fast
-
-      - name: Build notify preview
-        env:
-          WORKBENCH_URL: https://jasmine-liu-min.github.io/job-radar/
-        run: python3 scripts/notify_preview.py
-
-      - name: Send new-only notify
-        env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
-          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
-          WORKBENCH_URL: https://jasmine-liu-min.github.io/job-radar/
-        run: python3 scripts/send_notify.py
-
-      - name: Commit data
+          python-version: '3.12'
+      - name: 验证筛选和推送状态逻辑
+        run: python -m unittest discover -s tests
+      - name: 测试通知连接
+        if: inputs.test_notification == true
+        run: python scripts/campus_watch.py --test-notification
+      - name: 检查官网新增产品岗
+        if: inputs.test_notification != true
+        run: python scripts/campus_watch.py
+      - name: 保存数据及已推记录
+        if: always() && inputs.test_notification != true
         run: |
-          git config user.name  "job-radar-bot"
-          git config user.email "job-radar-bot@users.noreply.github.com"
+          git config user.name 'campus-radar-bot'
+          git config user.email 'campus-radar-bot@users.noreply.github.com'
           git add data/
-          if git diff --cached --quiet; then
-            echo "无新增/变更岗位，跳过 commit"
-          else
-            git commit -m "chore(data): sync jobs $(date -u +%F)"
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update 2027 campus product report [skip ci]'
             git push
           fi
+      - name: 保存可下载报告
+        if: always() && inputs.test_notification != true
+        uses: actions/upload-artifact@v4
+        with:
+          name: campus-2027-product-report
+          path: |
+            data/campus_product.md
+            data/campus_product.json
+            data/health_report.json
+          retention-days: 14
