@@ -256,6 +256,7 @@
       "company": "小鹏汽车",
       "sheet_row": 28,
       "urls": [
+        "https://xiaopeng.jobs.feishu.cn/campus/position/list",
         "https://xiaopeng.jobs.feishu.cn/campus"
       ],
       "method": "official_board"
@@ -679,7 +680,7 @@
       "company": "西门子",
       "sheet_row": 72,
       "urls": [
-        "https://jobs.siemens.com.cn/",
+        "https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=CAMPUSRECRUITMENT",
         "https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/"
       ],
       "method": "official_board"

@@ -24,10 +24,10 @@ CACHE = ROOT / 'data/official_board_snapshot.json'
 PRODUCT = re.compile(r'产品|\bproduct\b', re.I)
 JOB_URL = re.compile(r'(?:job|position|vacanc|career|requisition|detail|post)[^\s]*[0-9]|[?&](?:job|post|position|req)(?:Id|id|ID|Code)=', re.I)
 JOB_TITLE = re.compile(r'经理|工程师|专员|策划|分析师|商业分析|经营分析|管培|培训生|助理|研究员|设计师|产品设计|产品规划|产品管理|运营|manager|engineer|analyst|associate|graduate|intern|designer|specialist', re.I)
-NAV = re.compile(r'校园招聘|应届生|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings', re.I)
+NAV = re.compile(r'^职位$|校园招聘|应届生|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings|current vacancies|apply to bmw', re.I)
 FORBIDDEN = re.compile(r'验证码|安全验证|访问过于频繁|人机验证|Access Denied|Verify you are human|captcha', re.I)
 EMPTY = re.compile(r'暂无(?:相关)?(?:职位|岗位)|没有找到相关职位|无匹配职位|no (?:matching |open |available )?(?:jobs|positions)|0 (?:jobs|positions)', re.I)
-ATS = ('mokahr.com', 'zhiye.com', 'hotjob.cn', 'jobs.feishu.cn', 'myworkdayjobs.com', 'successfactors.com', 'oraclecloud.com', 'avature.net', 'smartrecruiters.com', 'eightfold.ai')
+ATS = ('mokahr.com', 'zhiye.com', 'hotjob.cn', 'jobs.feishu.cn', 'myworkdayjobs.com', 'successfactors.com', 'oraclecloud.com', 'avature.net', 'smartrecruiters.com', 'eightfold.ai', 'tupu360.com')
 _snapshot = None
 
 
@@ -106,7 +106,8 @@ DOM_SNAPSHOT = r'''() => {
  const extra_titles = Array.from(document.querySelectorAll('[class*="title"],[class*="Title"],h3')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120 && /产品|\bproduct\b/i.test(t));
  const inputs = Array.from(document.querySelectorAll('input[placeholder]')).filter(visible).map(e=>e.placeholder);
  const buttons = Array.from(document.querySelectorAll('button,[role="button"]')).filter(visible).slice(-30).map(e=>({text:e.innerText,aria:e.getAttribute('aria-label'),class:e.className,disabled:e.disabled}));
- return {links, headings, titles, extra_titles, inputs, buttons, text: document.body.innerText.slice(0,100000)};
+ const candidate_nodes = Array.from(document.querySelectorAll('div,span,p,h2,h3,h4')).filter(e=>visible(e) && e.children.length===0 && /产品|中国兵器工业集团/.test(e.innerText) && e.innerText.length < 100).slice(0,30).map(e=>({text:e.innerText,html:e.parentElement.outerHTML.slice(0,1800)}));
+ return {links, headings, titles, extra_titles, inputs, buttons, candidate_nodes, text: document.body.innerText.slice(0,100000)};
 }'''
 
 
@@ -190,16 +191,25 @@ async def collect_company(browser, spec, diagnostics=None):
                 if diagnostics is not None:
                     diagnostic.update(url=page.url, headings=snapshot['headings'],titles=snapshot['titles'][:40],
                         extra_titles=snapshot.get('extra_titles', [])[:40],inputs=snapshot.get('inputs', []),
-                        buttons=snapshot.get('buttons', []),links=snapshot['links'][:60],text=snapshot['text'][:8000])
+                        buttons=snapshot.get('buttons', []),candidate_nodes=snapshot.get('candidate_nodes', []),links=snapshot['links'][:60],text=snapshot['text'][:8000])
                 if FORBIDDEN.search(snapshot['text'][:6000]):
                     reasons.append('官网安全验证或访问限制，未绕过'); continue
                 pages_read += 1
                 headings.extend(snapshot['headings'])
+                if re.search(r'social|experienced|off-campus',page.url,re.I):
+                    campus_links=[link['href'] for link in snapshot['links']
+                        if re.search(r'校招|校园招聘|campus|graduate',link['text'],re.I)
+                        and re.search(r'campus|school|graduate',link['href'],re.I)
+                        and own_or_linked(link['href'],spec['urls'])
+                        and canonical(link['href']) not in visited]
+                    if campus_links:
+                        queue.insert(0,campus_links[0])
+                        continue
                 if not snapshot['titles'] and not any(title_from_text(x['text']) and JOB_URL.search(x['href']) for x in snapshot['links']):
                     # Several official portals use navigation controls without
                     # href attributes. Only open listing/campus navigation;
                     # never click a job's apply/submit control.
-                    nav_controls = page.get_by_text(re.compile(r'^(校园招聘|应届生招聘|校招职位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看所有职位|Campus Recruitment|Graduate Jobs|View all jobs)$',re.I))
+                    nav_controls = page.get_by_text(re.compile(r'^(职位|校园招聘|应届生招聘|校招职位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看所有职位|Campus Recruitment|Graduate Jobs|Fresh Graduates Program|View all jobs)$',re.I))
                     for nav in (await nav_controls.all())[:8]:
                         if not await nav.is_visible(): continue
                         before = page.url
@@ -210,13 +220,14 @@ async def collect_company(browser, spec, diagnostics=None):
                             opened = [p for p in context.pages if p not in old_pages]
                             target = opened[-1] if opened else page
                             await target.wait_for_load_state('domcontentloaded',timeout=12000)
-                            if canonical(target.url) != canonical(before) and own_or_linked(target.url,spec['urls']):
+                            changed = canonical(target.url) != canonical(before)
+                            if changed and own_or_linked(target.url,spec['urls']):
                                 if canonical(target.url) not in visited and target.url not in queue: queue.append(target.url)
                             if opened:
                                 for popup in opened: await popup.close()
                             if canonical(page.url) != canonical(before):
                                 await page.go_back(wait_until='domcontentloaded',timeout=15000)
-                            break
+                            if changed: break
                         except Exception:
                             continue
                 for job in parse_jobs(await page.content(), page.url):
@@ -236,7 +247,7 @@ async def collect_company(browser, spec, diagnostics=None):
                             if title and JOB_URL.search(link['href']):
                                 all_listings.add(canonical(link['href']))
                                 if PRODUCT.search(title): links[canonical(link['href'])] = link
-                            elif (NAV.search(link['text']) or re.search(r'(?:#/|/)(?:jobs|positions)(?:[/?#]|$)', link['href'], re.I)) and len(link['text']) < 85 and own_or_linked(link['href'], spec['urls']):
+                            elif (NAV.search(link['text']) or re.search(r'(?:#/|/)(?:jobs|positions?)(?:[/?#]|$)', link['href'], re.I)) and len(link['text']) < 85 and own_or_linked(link['href'], spec['urls']):
                                 if canonical(link['href']) not in visited and link['href'] not in queue:
                                     queue.append(link['href'])
                         # Beisen and other boards use clickable title controls
@@ -322,7 +333,7 @@ async def collect_company(browser, spec, diagnostics=None):
                 for field in await page.locator('input[placeholder]').all():
                     if not await field.is_visible(): continue
                     hint = await field.get_attribute('placeholder') or ''
-                    if re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|search jobs|keyword', hint, re.I):
+                    if re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|search jobs|search for a job|keyword', hint, re.I):
                         for term in ('产品', 'product'):
                             # Reactive portals rebuild inputs after a search;
                             # resolve the actual visible input again each time.
@@ -331,8 +342,11 @@ async def collect_company(browser, spec, diagnostics=None):
                             if not visible_fields: raise RuntimeError('职位搜索框重绘后不可用')
                             current_field = visible_fields[-1]
                             await current_field.fill(term)
-                            buttons = await page.get_by_role('button',name=re.compile(r'^(搜索|查询|Search|Search jobs)$',re.I)).all()
+                            buttons = await page.get_by_role('button',name=re.compile(r'^(搜索|查询|搜索职位|搜索岗位|Search|Search jobs)$',re.I)).all()
                             visible_buttons = [button for button in buttons if await button.is_visible()]
+                            if not visible_buttons:
+                                buttons = await page.get_by_text(re.compile(r'^(搜索|查询)$')).all()
+                                visible_buttons = [button for button in buttons if await button.is_visible()]
                             if visible_buttons:
                                 await visible_buttons[0].click()
                             else:
