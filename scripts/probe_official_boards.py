@@ -14,22 +14,29 @@ from job_radar.adapters.official_board import collect_company
 
 async def main():
     value=os.environ.get('PROBE_ROWS','').strip()
-    if not re.fullmatch(r'\d+(?:\s*,\s*\d+){0,29}',value):
+    if value!='failed' and not re.fullmatch(r'\d+(?:\s*,\s*\d+){0,29}',value):
         raise ValueError('PROBE_ROWS需为1至30个表格行号，以逗号分隔')
-    rows={int(row) for row in value.split(',')}
     specs=json.loads((ROOT/'config/company_watchlist.json').read_text(encoding='utf-8'))['companies']
+    if value=='failed':
+        coverage=json.loads((ROOT/'data/company_monitor_coverage.json').read_text(encoding='utf-8'))
+        failed={item['source_id'] for item in coverage['unhealthy_sources']}
+        rows={spec['sheet_row'] for spec in specs if spec['source_id'] in failed}
+    else:
+        rows={int(row) for row in value.split(',')}
     specs=[spec for spec in specs if spec['sheet_row'] in rows and spec['method']=='official_board']
     if {spec['sheet_row'] for spec in specs}!=rows:
         raise ValueError('行号不存在或不是公开网页信源；未执行')
     from playwright.async_api import async_playwright
     output=ROOT/'probe_output';output.mkdir(exist_ok=True)
-    result={};semaphore=asyncio.Semaphore(3)
+    result={};semaphore=asyncio.Semaphore(5)
     async with async_playwright() as pw:
         browser=await pw.chromium.launch(headless=True)
         async def one(spec):
             async with semaphore:
                 diagnostics=[]
                 try:
+                    if spec['company']=='网易互娱':
+                        raise RuntimeError('此前浏览器安全策略拒绝访问，未改用其他通道重试')
                     item=await asyncio.wait_for(collect_company(browser,spec,diagnostics),timeout=180)
                 except Exception as exc:
                     item={'ok':False,'company':spec['company'],'error':type(exc).__name__+': '+str(exc)[:500]}

@@ -64,8 +64,9 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(result['listings_seen'],2)
         next_button.click.assert_awaited_once()
 
-    async def assert_detail_popup(self,use_api=False):
-        snapshot={'links':[],'titles':[] if use_api else ['2027届产品经理'],'headings':[],'text':'2027届产品经理'}
+    async def assert_detail_popup(self,use_api=False,extra_title=False):
+        snapshot={'links':[],'titles':[] if use_api or extra_title else ['2027届产品经理'],
+                  'extra_titles':['2027届产品经理'] if extra_title else [],'headings':[],'text':'2027届产品经理'}
         browser,page,context,spec=self.setup_board(snapshot)
         if use_api:
             events={}
@@ -94,12 +95,19 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(len(result['jobs']),1)
         popup.wait_for_url.assert_awaited_once()
         popup.close.assert_awaited_once()
+        if extra_title:
+            # A real card already proves this is a listing. Chasing the campus
+            # navigation here can replace the page under a stale snapshot.
+            self.assertTrue(all(isinstance(call.args[0],str) for call in page.get_by_text.call_args_list))
 
     async def test_new_detail_tab_waits_for_navigation_out_of_about_blank(self):
         await self.assert_detail_popup()
 
     async def test_public_api_title_can_find_a_real_card_without_known_css_classes(self):
         await self.assert_detail_popup(use_api=True)
+
+    async def test_product_title_does_not_reenter_campus_navigation_before_opening_detail(self):
+        await self.assert_detail_popup(extra_title=True)
 
     async def test_unreadable_shell_or_access_error_is_not_a_zero_snapshot(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'欢迎加入'}

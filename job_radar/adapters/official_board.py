@@ -111,13 +111,14 @@ def specific_batch(headings, url):
 
 DOM_SNAPSHOT = r'''() => {
  const visible = e => !!(e.offsetWidth || e.offsetHeight || e.getClientRects().length);
+ const text = e => String(e?.innerText || e?.textContent || '');
  const links = Array.from(document.querySelectorAll('a[href]')).filter(visible).map(e => ({
    text: (e.innerText || e.getAttribute('aria-label') || e.getAttribute('title') || e.querySelector('img')?.alt || '').trim(),
-   href: e.href, context: (e.closest('article,li,[class*="job-item"],[class*="position-item"],[class*="jobItem"],[class*="positionItem"]') || e.parentElement).innerText.slice(0,1800)
+   href: e.href, context: text(e.closest('article,li,[class*="job-item"],[class*="position-item"],[class*="jobItem"],[class*="positionItem"]') || e.parentElement).slice(0,1800)
  }));
  const headings = Array.from(document.querySelectorAll('h1,h2,[class*="banner"] img,[class*="Banner"] img')).filter(visible).map(e => e.innerText || e.alt || '');
- const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"]')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120);
- const extra_titles = Array.from(document.querySelectorAll('[class*="title"],[class*="Title"],h3')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120 && /产品|\bproduct\b/i.test(t));
+ const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="pos-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"]')).filter(visible).map(e=>text(e).trim()).filter(t=>t && t.length < 120);
+ const extra_titles = Array.from(document.querySelectorAll('[class*="title"],[class*="Title"],h3')).filter(visible).map(e=>text(e).trim()).filter(t=>t && t.length < 120 && /产品|\bproduct\b/i.test(t));
  const inputs = Array.from(document.querySelectorAll('input[placeholder]')).filter(visible).map(e=>e.placeholder);
  const buttons = Array.from(document.querySelectorAll('button,[role="button"]')).filter(visible).slice(-30).map(e=>({text:e.innerText,aria:e.getAttribute('aria-label'),class:e.className,disabled:e.disabled}));
  const candidate_nodes = Array.from(document.querySelectorAll('div,span,p,h2,h3,h4')).filter(e=>visible(e) && e.children.length===0 && /产品|中国兵器工业集团/.test(e.innerText) && e.innerText.length < 100).slice(0,30).map(e=>({text:e.innerText,html:e.parentElement.outerHTML.slice(0,1800)}));
@@ -151,7 +152,7 @@ async def collect_company(browser, spec, diagnostics=None):
     captures, tasks = [], []
 
     async def response_data(response):
-        if re.search(r'job|position|recruit', response.url, re.I) and 'json' in response.headers.get('content-type', ''):
+        if 'json' in response.headers.get('content-type', ''):
             try:
                 data = await response.json()
                 captures.extend(json_jobs(data))
@@ -219,7 +220,9 @@ async def collect_company(browser, spec, diagnostics=None):
                     if campus_links:
                         queue.insert(0,campus_links[0])
                         continue
-                if not snapshot['titles'] and not any(title_from_text(x['text']) and JOB_URL.search(x['href']) for x in snapshot['links']):
+                if (not snapshot['titles']
+                        and not any(target_product(title_from_text(text)) for text in snapshot.get('extra_titles',[]))
+                        and not any(title_from_text(x['text']) and JOB_URL.search(x['href']) for x in snapshot['links'])):
                     # Several official portals use navigation controls without
                     # href attributes. Only open listing/campus navigation;
                     # never click a job's apply/submit control.
@@ -353,6 +356,16 @@ async def collect_company(browser, spec, diagnostics=None):
                         await page.wait_for_timeout(900)
                         await reveal_listing()
                         following = await page.evaluate(DOM_SNAPSHOT)
+                        # Some portals update the selected page before the jobs
+                        # arrive. Wait for actual cards, not just the paginator.
+                        for _ in range(6):
+                            if (following['titles'] != current['titles']
+                                    or following.get('extra_titles',[]) != current.get('extra_titles',[])
+                                    or [x for x in following['links'] if title_from_text(x['text']) and JOB_URL.search(x['href'])]
+                                       != [x for x in current['links'] if title_from_text(x['text']) and JOB_URL.search(x['href'])]):
+                                break
+                            await page.wait_for_timeout(600)
+                            following = await page.evaluate(DOM_SNAPSHOT)
                         if (following['links'] == current['links'] and following['titles'] == current['titles']
                                 and following.get('extra_titles', []) == current.get('extra_titles', [])):
                             raise RuntimeError('下一页未发生变化，无法确认完整列表')
@@ -363,7 +376,7 @@ async def collect_company(browser, spec, diagnostics=None):
                 for field in await page.locator('input[placeholder]').all():
                     if not await field.is_visible(): continue
                     hint = await field.get_attribute('placeholder') or ''
-                    is_job_search = re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|职位/公司/城市|job title|search jobs|search for a job',hint,re.I)
+                    is_job_search = re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|职位/公司/城市|job title|job keywords|search jobs|search for a job',hint,re.I)
                     if not is_job_search and re.search(r'关键词|关键字|keyword',hint,re.I):
                         is_job_search=bool(snapshot['titles'] or captures or any(title_from_text(link['text']) and JOB_URL.search(link['href']) for link in snapshot['links']))
                     if is_job_search:
@@ -372,6 +385,13 @@ async def collect_company(browser, spec, diagnostics=None):
                             # resolve the actual visible input again each time.
                             candidates = await page.get_by_placeholder(hint,exact=True).all()
                             visible_fields = [candidate for candidate in candidates if await candidate.is_visible()]
+                            if not visible_fields:
+                                # A homepage search may navigate to a list with
+                                # a different placeholder (e.g. Ant Group).
+                                for candidate in await page.locator('input[placeholder]').all():
+                                    current_hint=await candidate.get_attribute('placeholder') or ''
+                                    if await candidate.is_visible() and re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|job keywords|search jobs|search for a job',current_hint,re.I):
+                                        visible_fields.append(candidate)
                             if not visible_fields: raise RuntimeError('职位搜索框重绘后不可用')
                             current_field = visible_fields[-1]
                             await current_field.fill(term)
@@ -455,6 +475,10 @@ async def collect_company(browser, spec, diagnostics=None):
                 'pages_read': pages_read, 'listings_seen': len(all_listings), 'notes': reasons,
                 'explicit_empty': explicit_empty, 'urls_read': sorted(visited)}
     finally:
+        if diagnostics is not None and diagnostics:
+            diagnostics[-1]['api_product_titles'] = [
+                {'title':item['title'],'id':item['id'],'url':item['url']}
+                for item in captures if target_product(item['title'])][-30:]
         for task in tasks:
             if not task.done(): task.cancel()
         await context.close()
