@@ -23,7 +23,7 @@ WATCHLIST = ROOT / 'config/company_watchlist.json'
 CACHE = ROOT / 'data/official_board_snapshot.json'
 PRODUCT = re.compile(r'产品|\bproduct\b', re.I)
 JOB_URL = re.compile(r'(?:job|position|vacanc|career|requisition|detail|post)[^\s]*[0-9]|[?&](?:job|post|position|req)(?:Id|id|ID|Code)=', re.I)
-JOB_TITLE = re.compile(r'经理|工程师|专员|策划|分析师|管培|培训生|助理|研究员|设计师|运营|manager|engineer|analyst|associate|graduate|intern|designer|specialist', re.I)
+JOB_TITLE = re.compile(r'经理|工程师|专员|策划|分析师|商业分析|经营分析|管培|培训生|助理|研究员|设计师|产品设计|产品规划|产品管理|运营|manager|engineer|analyst|associate|graduate|intern|designer|specialist', re.I)
 NAV = re.compile(r'校园招聘|应届生|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings', re.I)
 FORBIDDEN = re.compile(r'验证码|安全验证|访问过于频繁|人机验证|Access Denied|Verify you are human|captcha', re.I)
 EMPTY = re.compile(r'暂无(?:相关)?(?:职位|岗位)|没有找到相关职位|无匹配职位|no (?:matching |open |available )?(?:jobs|positions)|0 (?:jobs|positions)', re.I)
@@ -64,6 +64,7 @@ def title_from_text(text):
     for title in re.split(r'[\n\r]', str(text or '').strip()):
         title = title.strip()
         if (4 <= len(title) <= 120 and JOB_TITLE.search(title)
+                and not re.search(r'[；;。]|^\d{1,2}[、.)）]', title)
                 and not (len(title) < 14 and title.endswith('类'))):
             return title
     return ''

@@ -89,6 +89,8 @@ def is_product(job, cfg=None):
     """Highlight titles about product work; incidental JD mentions do not count."""
     cfg = cfg or load_config()
     title = str(job.get("title", "")).lower()
+    if len(title) > 140 or re.search(r'[；;。]|^\s*\d{1,2}[、.)）]',title):
+        return False
     return "产品" in title or bool(re.search(r"\bproduct\b", title)) or any(k.lower() in title for k in cfg["product_roles"])
 
 

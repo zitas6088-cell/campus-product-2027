@@ -79,6 +79,14 @@ class FullCompanyMonitorTests(unittest.TestCase):
         jobs=list(official_board.json_jobs({'data':[{'title':'AI产品经理','id':'j1','description':'2027届'}]}))
         self.assertEqual(len(jobs),1)
 
+    def test_job_description_cannot_become_a_product_title(self):
+        paragraph='2、深入理解供应链采购员、库存管理员、物流专员的业务诉求，设计供应链产品方案；'
+        self.assertEqual(official_board.title_from_text('AI产品设计-供应链（深圳）\n'+paragraph),'AI产品设计-供应链（深圳）')
+        self.assertEqual(official_board.title_from_text(paragraph),'')
+        self.assertFalse(is_product({'title':paragraph}))
+        link={'text':'商业分析（校招）\n1、基于业务数据，提供产品分析、运营分析、策略分析等建议；','href':'https://example.com/position/123/detail'}
+        self.assertIsNone(official_board.record_from_link('公司',link))
+
     def test_tracking_changes_keep_existing_notification_history(self):
         import hashlib
         old_url='https://jobs.example.com/position/123?sourceToken=old&utm_source=mail'
