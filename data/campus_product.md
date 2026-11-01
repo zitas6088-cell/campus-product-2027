@@ -1,8 +1,8 @@
-# 2027届校招监控｜2026-11-01 09:58（北京时间）
+# 2027届校招监控｜2026-11-01 15:34（北京时间）
 
 仅新增且已确认适用2027届的产品相关正式校招岗位进入飞书提醒。非产品、实习、社招及届别未确认岗位不推送。
 
-## ⭐ 产品重点 · 690 条
+## ⭐ 产品重点 · 685 条
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（业务风控方向） - TikTok研发
   地点：北京、杭州
@@ -399,11 +399,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665616268529879301/detail
 
-- ⭐ 产品重点｜携程集团｜AI 产品经理 - 伦敦（2027届秋招）(MJ036832)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://careers.ctrip.com/#/campus/job-detail/MJ036832
-
 - ⭐ 产品重点｜携程集团｜AI 产品经理（2027届秋招）(MJ036636)
   地点：官网未注明
   官网届别文字：2027届
@@ -544,6 +539,11 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667380186237716741/detail
 
+- ⭐ 产品重点｜Babycare｜2027校招-数据产品经理管培生
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=27c41529-78af-4e8d-bdaa-5de5999d823c
+
 - ⭐ 产品重点｜字节跳动｜AI经纪人产品经理（抖音AI产品人才校招） - 抖音直播
   地点：北京、深圳
   官网届别文字：2027届
@@ -608,11 +608,6 @@
   地点：官网未注明
   官网届别文字：27届
   https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/job/2fdcee64-7de5-41e5-b48f-2a8fb9421745
-
-- ⭐ 产品重点｜Babycare｜2027校招-数据产品经理管培生
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=27c41529-78af-4e8d-bdaa-5de5999d823c
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（模板方向） - 剪映CapCut
   地点：北京
@@ -1049,6 +1044,11 @@
   官网届别文字：27届
   https://jssoft.zhiye.com/campus/detail?jobAdId=203a8c4a-3000-4665-acba-505765d93068
 
+- ⭐ 产品重点｜哈啰｜【英才2027】用增产品经理-用户平台(J21658)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://hellobike.zhiye.com/campus/detail?jobAdId=8ec31765-f9bf-4d80-9532-987e4ff965a4
+
 - ⭐ 产品重点｜字节跳动｜增长策略运营（抖音AI产品人才校招） - 抖音音乐
   地点：北京
   官网届别文字：2027届
@@ -1093,11 +1093,6 @@
   地点：官网未注明
   官网届别文字：27届
   https://xiaopeng.jobs.feishu.cn/campus/position/7660363275717495046/detail
-
-- ⭐ 产品重点｜哈啰｜【英才2027】用增产品经理-用户平台(J21658)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://hellobike.zhiye.com/campus/detail?jobAdId=8ec31765-f9bf-4d80-9532-987e4ff965a4
 
 - ⭐ 产品重点｜字节跳动｜区域电商产品经理（欧洲市场） - TikTok Shop
   地点：上海、北京
@@ -1194,6 +1189,11 @@
   官网届别文字：2027届
   https://campus.ke.com/campus/detail?jobAdId=e33beeb1-803a-40b4-a622-a0c77e6e2544
 
+- ⭐ 产品重点｜哈啰｜【英才2027】履约产品经理-租车事业部(J21643)
+  地点：官网未注明
+  官网届别文字：2027 届
+  https://hellobike.zhiye.com/campus/detail?jobAdId=75ef1832-9e93-4088-b9e2-869f36ba67e3
+
 - ⭐ 产品重点｜字节跳动｜音乐合作平台产品经理（抖音AI产品人才校招） - 抖音音乐
   地点：北京、上海
   官网届别文字：2027届
@@ -1208,11 +1208,6 @@
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628868062890002693/detail
-
-- ⭐ 产品重点｜哈啰｜【英才2027】履约产品经理-租车事业部(J21643)
-  地点：官网未注明
-  官网届别文字：2027 届
-  https://hellobike.zhiye.com/campus/detail?jobAdId=75ef1832-9e93-4088-b9e2-869f36ba67e3
 
 - ⭐ 产品重点｜字节跳动｜信贷产品经理 - 国际支付
   地点：上海、北京、深圳
@@ -1314,6 +1309,11 @@
   官网届别文字：2027届
   https://moonton.jobs.feishu.cn/campus/position/7669735314894555411/detail
 
+- ⭐ 产品重点｜哈啰｜【英才2027】嵌入式软件产品经理-两轮出行事业部(J21675)
+  地点：官网未注明
+  官网届别文字：27届
+  https://hellobike.zhiye.com/campus/detail?jobAdId=33c81a3d-ea2d-4efa-8406-85afa742aab2
+
 - ⭐ 产品重点｜字节跳动｜AI策略运营经理（抖音AI产品人才校招） - 抖音直播
   地点：北京
   官网届别文字：2027届
@@ -1353,11 +1353,6 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669621629605398837/detail
-
-- ⭐ 产品重点｜哈啰｜【英才2027】嵌入式软件产品经理-两轮出行事业部(J21675)
-  地点：官网未注明
-  官网届别文字：27届
-  https://hellobike.zhiye.com/campus/detail?jobAdId=33c81a3d-ea2d-4efa-8406-85afa742aab2
 
 - ⭐ 产品重点｜字节跳动｜后端工程师 - 抖音平台产品
   地点：北京、成都
@@ -1649,6 +1644,11 @@
   官网届别文字：27届
   https://hr-campus.vivo.com/campus/detail?jobAdId=f152f433-8ba3-42ac-9464-2c1f08ec51ed
 
+- ⭐ 产品重点｜赛力斯｜集团职能总部-AI产品经理助理工程师（运营方向-可实习）【2027届校招】(J21262)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=cf95c522-e270-422d-a12c-dff55fbdb8a4
+
 - ⭐ 产品重点｜字节跳动｜家装C端产品运营 - 抖音生活服务
   地点：北京、上海
   官网届别文字：2027届
@@ -1679,11 +1679,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668482841099258117/detail
 
-- ⭐ 产品重点｜赛力斯｜集团职能总部-AI产品经理助理工程师（运营方向-可实习）【2027届校招】(J21262)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=cf95c522-e270-422d-a12c-dff55fbdb8a4
-
 - ⭐ 产品重点｜金山云｜27届校招-产品经理(J19236)
   地点：官网未注明
   官网届别文字：27届
@@ -1693,6 +1688,11 @@
   地点：官网未注明
   官网届别文字：2027届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923173756733737/detail
+
+- ⭐ 产品重点｜Babycare｜2027校招-应用产品经理管培生（财务）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=40cff788-f0d9-46ce-b68d-ac17e1fba2b0
 
 - ⭐ 产品重点｜字节跳动｜平台产品经理 - AI算力基础设施
   地点：北京
@@ -1753,11 +1753,6 @@
   地点：官网未注明
   官网届别文字：27届
   https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/job/8b11727f-b4f5-4c55-9202-e150ad8341bd
-
-- ⭐ 产品重点｜Babycare｜2027校招-应用产品经理管培生（财务）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=40cff788-f0d9-46ce-b68d-ac17e1fba2b0
 
 - ⭐ 产品重点｜哈啰｜【英才2027】交易产品经理-顺风车/打车(J21741)
   地点：官网未注明
@@ -1884,6 +1879,11 @@
   官网届别文字：2027届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924090912065811/detail
 
+- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（尿裤）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=b37d550e-511e-4a4b-b5e5-1dfce6fcfd9d
+
 - ⭐ 产品重点｜字节跳动｜广告产品经理 - 国际化广告业务
   地点：北京、上海
   官网届别文字：2027届
@@ -1903,11 +1903,6 @@
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22478
-
-- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（尿裤）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=b37d550e-511e-4a4b-b5e5-1dfce6fcfd9d
 
 - ⭐ 产品重点｜商米集团｜<27届校招>产品经理(硬件）
   地点：官网未注明
@@ -1954,15 +1949,15 @@
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22538
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（Agent开发方向）-智能客服
-  地点：上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22481
-
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-快捷售卖
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22484
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（Agent开发方向）-智能客服
+  地点：上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22481
 
 - ⭐ 产品重点｜小红书｜【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发
   地点：北京市，上海市，杭州市
@@ -2008,6 +2003,11 @@
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668300977340238085/detail
+
+- ⭐ 产品重点｜携程集团｜AI 产品经理 - 伦敦（2027届秋招）(MJ036832)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://careers.ctrip.com/#/campus/job-detail/MJ036832
 
 - ⭐ 产品重点｜小鹏汽车｜【27届校招】整车产品经理培训生
   地点：官网未注明
@@ -2069,6 +2069,11 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670428424163690757/detail
 
+- ⭐ 产品重点｜Babycare｜2027校招-应用产品经理管培生（前台）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=2d042447-8c66-457d-ad81-b74b0061ac18
+
 - ⭐ 产品重点｜字节跳动｜平台产品经理 - 抖音生活服务
   地点：上海、北京
   官网届别文字：2027届
@@ -2099,11 +2104,6 @@
   官网届别文字：27届
   https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/job/b58c293b-ac20-4cf4-ab86-237acc876201
 
-- ⭐ 产品重点｜Babycare｜2027校招-应用产品经理管培生（前台）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=2d042447-8c66-457d-ad81-b74b0061ac18
-
 - ⭐ 产品重点｜途虎养车｜产品运营（2027届校招）
   地点：官网未注明
   官网届别文字：2027届
@@ -2113,6 +2113,16 @@
   地点：官网未注明
   官网届别文字：27届
   https://hf7l9aiqzx.jobs.feishu.cn/704852/position/7670079854662568238/detail
+
+- ⭐ 产品重点｜科大讯飞｜硬件产品经理(J14426)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://iflytek.zhiye.com/campus/detail?jobAdId=0fc66c39-d0eb-4b3f-9eeb-942b13d4c62c
+
+- ⭐ 产品重点｜赛力斯｜集团职能总部-产品经理助理（可实习）【2027届校招】(J20719)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=0da272d6-723a-4503-bd3e-6289f3a7db1b
 
 - ⭐ 产品重点｜字节跳动｜视频与CDN产品运营 - 音视频技术
   地点：北京、深圳
@@ -2163,16 +2173,6 @@
   地点：官网未注明
   官网届别文字：27届
   https://xiaopeng.jobs.feishu.cn/campus/position/7658239550103685385/detail
-
-- ⭐ 产品重点｜科大讯飞｜硬件产品经理(J14426)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://iflytek.zhiye.com/campus/detail?jobAdId=0fc66c39-d0eb-4b3f-9eeb-942b13d4c62c
-
-- ⭐ 产品重点｜赛力斯｜集团职能总部-产品经理助理（可实习）【2027届校招】(J20719)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=0da272d6-723a-4503-bd3e-6289f3a7db1b
 
 - ⭐ 产品重点｜金蝶｜管培生-AI产品经理（合并报表）
   地点：官网未注明
@@ -2449,6 +2449,11 @@
   官网届别文字：27 届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923768931322163/detail
 
+- ⭐ 产品重点｜赛力斯｜问界产品线-市场分析助理工程师【2027届校招】(J20809)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=6eaa0835-fca6-45f1-aa2f-abd80ddce81b
+
 - ⭐ 产品重点｜字节跳动｜软件工程师（支付产品与解决方案） - 国际支付
   地点：杭州、深圳、上海
   官网届别文字：2027届
@@ -2484,11 +2489,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7678170173711190325/detail
 
-- ⭐ 产品重点｜赛力斯｜问界产品线-市场分析助理工程师【2027届校招】(J20809)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=6eaa0835-fca6-45f1-aa2f-abd80ddce81b
-
 - ⭐ 产品重点｜e签宝｜SaaS 产品经理-27届(J10442)
   地点：官网未注明
   官网届别文字：27届
@@ -2513,6 +2513,16 @@
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669711027556305157/detail
+
+- ⭐ 产品重点｜赛力斯｜SH项目组-产品专员（可实习）【2027届校招】(J20633)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=f978da3b-0c3c-4182-8d00-a654913f928d
+
+- ⭐ 产品重点｜Babycare｜2027校招-应用产品经理管培生（供应链）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=80be837a-7599-4177-ac46-66905f30926b
 
 - ⭐ 产品重点｜字节跳动｜产品运营（文娱与小游戏产品方向） - 广告业务
   地点：北京
@@ -2554,20 +2564,10 @@
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21486
 
-- ⭐ 产品重点｜赛力斯｜SH项目组-产品专员（可实习）【2027届校招】(J20633)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=f978da3b-0c3c-4182-8d00-a654913f928d
-
 - ⭐ 产品重点｜金蝶｜AI产品设计-FDE （Echo方向）
   地点：官网未注明
   官网届别文字：27届
   https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/job/ee0daf9e-14e3-49c1-a7bd-9b2205784533
-
-- ⭐ 产品重点｜Babycare｜2027校招-应用产品经理管培生（供应链）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=80be837a-7599-4177-ac46-66905f30926b
 
 - ⭐ 产品重点｜金山云｜27届校招-产品经理(J19245)
   地点：官网未注明
@@ -2624,15 +2624,15 @@
   官网届别文字：27届
   https://campus.dewu.com/578078/position/7670391599005141294/detail
 
-- ⭐ 产品重点｜字节跳动｜产品营销经理 - TikTok Shop
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7681185345474218245/detail
-
 - ⭐ 产品重点｜赛力斯｜凤凰技术-产品经理【2027届校招】(J21018)
   地点：官网未注明
   官网届别文字：2027届
   https://sokon.zhiye.com/campus/detail?jobAdId=3dfb0479-d8a7-4fc8-8c4d-881c7d399f67
+
+- ⭐ 产品重点｜字节跳动｜产品营销经理 - TikTok Shop
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7681185345474218245/detail
 
 - ⭐ 产品重点｜字节跳动｜短剧Agent开发工程师 - 抖音平台产品
   地点：深圳、北京
@@ -2679,15 +2679,15 @@
   官网届别文字：27届
   https://campus.dewu.com/578078/position/7670394874106415369/detail
 
+- ⭐ 产品重点｜知乎｜平台产品经理（27 届）
+  地点：官网未注明
+  官网届别文字：27 届
+  https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/dd66ec4d-b84e-4377-956a-cbff6085ae67
+
 - ⭐ 产品重点｜小米｜软件产品经理
   地点：官网未注明
   官网届别文字：2027届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7671128410562922788/detail
-
-- ⭐ 产品重点｜德邦快递｜IT类-产品经理岗
-  地点：官网未注明
-  官网毕业时间范围：2026年10月1日至2027年9月30日
-  https://zhaopin.deppon.com/campus/detail?jobAdId=8492f65d-5888-4981-9cd8-660cd76f1772
 
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-国内电商
   地点：杭州市，上海市，北京市
@@ -2698,6 +2698,11 @@
   地点：上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22485
+
+- ⭐ 产品重点｜德邦快递｜IT类-产品经理岗
+  地点：官网未注明
+  官网毕业时间范围：2026年10月1日至2027年9月30日
+  https://zhaopin.deppon.com/campus/detail?jobAdId=8492f65d-5888-4981-9cd8-660cd76f1772
 
 - ⭐ 产品重点｜字节跳动｜AI Agent质量效能工程师 - Seed 产品研发质量效能
   地点：上海、深圳
@@ -2744,6 +2749,11 @@
   官网届别文字：2027届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884337122576650/detail
 
+- ⭐ 产品重点｜哈啰｜【英才2027】供给产品经理-租车事业部(J21645)
+  地点：官网未注明
+  官网届别文字：2027 届
+  https://hellobike.zhiye.com/campus/detail?jobAdId=70f0e2b4-9467-40e8-b6ab-1e8096fdb388
+
 - ⭐ 产品重点｜小红书｜【2027校招】Growth Builder-Product & Experimentation
   地点：北京市，上海市
   官网届别文字：2027校招
@@ -2769,10 +2779,10 @@
   官网届别文字：2027届
   https://join.wps.cn/campus-recruitment/wps/41436?sourceToken=8379ee777457c4d22fc65d4439f660b3#/job/5de1b10f-4260-4f7a-baed-6f0a43f4d415
 
-- ⭐ 产品重点｜哈啰｜【英才2027】供给产品经理-租车事业部(J21645)
+- ⭐ 产品重点｜哈啰｜【英才2027】营销产品经理-租车事业部(J21644)
   地点：官网未注明
   官网届别文字：2027 届
-  https://hellobike.zhiye.com/campus/detail?jobAdId=70f0e2b4-9467-40e8-b6ab-1e8096fdb388
+  https://hellobike.zhiye.com/campus/detail?jobAdId=dd85f7d5-dc00-4a94-b175-9caf41755eae
 
 - ⭐ 产品重点｜字节跳动｜平台产品运营经理 - 火山引擎
   地点：深圳
@@ -2783,11 +2793,6 @@
   地点：官网未注明
   官网届别文字：2027届
   https://campus-talent.alibaba.com/campus/position/199907720070?deptCodes=
-
-- ⭐ 产品重点｜哈啰｜【英才2027】营销产品经理-租车事业部(J21644)
-  地点：官网未注明
-  官网届别文字：2027 届
-  https://hellobike.zhiye.com/campus/detail?jobAdId=dd85f7d5-dc00-4a94-b175-9caf41755eae
 
 - ⭐ 产品重点｜字节跳动｜AI全栈开发工程师 - 抖音平台产品
   地点：深圳
@@ -2869,6 +2874,11 @@
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22019
 
+- ⭐ 产品重点｜赛力斯｜问界产品线-内容运营专员（可实习）【2027届校招】(J20801)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=5d48b58b-4c22-49fc-9f26-ce04fda3c781
+
 - ⭐ 产品重点｜字节跳动｜产品UI设计师 - PICO
   地点：北京
   官网届别文字：2027届
@@ -2893,11 +2903,6 @@
   地点：北京、珠海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669623331367241989/detail
-
-- ⭐ 产品重点｜赛力斯｜问界产品线-内容运营专员（可实习）【2027届校招】(J20801)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=5d48b58b-4c22-49fc-9f26-ce04fda3c781
 
 - ⭐ 产品重点｜商汤科技｜【27届校招】Token服务平台产品经理-大装置
   地点：官网未注明
@@ -2929,6 +2934,11 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669720483260647733/detail
 
+- ⭐ 产品重点｜Babycare｜2027校招-产品营销管培生（尿裤）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=fdc4cc32-6f0f-499a-b024-3f8da862d4c8
+
 - ⭐ 产品重点｜字节跳动｜AI产品设计师 - TikTok设计
   地点：上海、北京
   官网届别文字：2027届
@@ -2948,11 +2958,6 @@
   地点：官网未注明
   官网届别文字：27届
   https://campus.dewu.com/578078/position/7699411543024208182/detail
-
-- ⭐ 产品重点｜Babycare｜2027校招-产品营销管培生（尿裤）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=fdc4cc32-6f0f-499a-b024-3f8da862d4c8
 
 - ⭐ 产品重点｜收钱吧｜【27届校招】产品经理(J11445)
   地点：官网未注明
@@ -3009,6 +3014,21 @@
   官网届别文字：2027届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670883814630492467/detail
 
+- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（电动行李箱)
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=d9a237d5-91d5-4595-a598-bc09c4e22395
+
+- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（玩具）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=e3c03cda-6f72-44c3-b096-f3f3757479c8
+
+- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（纺织）
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://babycare.zhiye.com/campus/detail?jobAdId=5981ca12-e01f-4a39-869f-8f64a82fc99c
+
 - ⭐ 产品重点｜字节跳动｜AI产品设计师（AI workflow方向） - TikTok设计
   地点：上海、北京
   官网届别文字：2027届
@@ -3028,21 +3048,6 @@
   地点：官网未注明
   官网届别文字：2027 届
   https://agirobot.jobs.feishu.cn/campusrecruitment/position/7694918347862919451/detail
-
-- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（电动行李箱)
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=d9a237d5-91d5-4595-a598-bc09c4e22395
-
-- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（玩具）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=e3c03cda-6f72-44c3-b096-f3f3757479c8
-
-- ⭐ 产品重点｜Babycare｜2027校招-产品经理管培生（纺织）
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://babycare.zhiye.com/campus/detail?jobAdId=5981ca12-e01f-4a39-869f-8f64a82fc99c
 
 - ⭐ 产品重点｜商米集团｜<27届校招>产品经理
   地点：官网未注明
@@ -3089,6 +3094,11 @@
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=3bbb35c8-c711-4f8e-8735-2362c97fc2c5
 
+- ⭐ 产品重点｜赛力斯｜问界产品线-产品经理助理【2027届校招】(J20802)
+  地点：官网未注明
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=5ce5f8de-9997-48ab-a6eb-6a115c52e7da
+
 - ⭐ 产品重点｜字节跳动｜AI产品设计师 - 抖音基础体验
   地点：北京
   官网届别文字：2027届
@@ -3113,11 +3123,6 @@
   地点：上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22002
-
-- ⭐ 产品重点｜赛力斯｜问界产品线-产品经理助理【2027届校招】(J20802)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=5ce5f8de-9997-48ab-a6eb-6a115c52e7da
 
 - ⭐ 产品重点｜太极股份｜产品经理-2027届校园招聘-重庆
   地点：官网未注明
@@ -3149,15 +3154,15 @@
   官网届别文字：27届
   https://hf7l9aiqzx.jobs.feishu.cn/704852/position/7670761356387846454/detail
 
-- ⭐ 产品重点｜字节跳动｜AI Agent研发质量效能工程师 - Seed 产品研发质量效能
-  地点：上海、北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668592272490367285/detail
-
 - ⭐ 产品重点｜赛力斯｜问界产品线-安全产品经理助理【2027届校招】(J20811)
   地点：官网未注明
   官网届别文字：2027届
   https://sokon.zhiye.com/campus/detail?jobAdId=fbd6eefd-affd-4031-9c56-fad11900450b
+
+- ⭐ 产品重点｜字节跳动｜AI Agent研发质量效能工程师 - Seed 产品研发质量效能
+  地点：上海、北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668592272490367285/detail
 
 - ⭐ 产品重点｜字节跳动｜广告产品运营 - 抖音生活服务
   地点：北京、上海
@@ -3189,11 +3194,6 @@
   官网届别文字：27届
   https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/job/8d402949-82b9-435d-90a0-fc598f767b60
 
-- ⭐ 产品重点｜京东｜物流产品服务
-  地点：北京市-北京市、上海市-上海市
-  官网毕业时间范围：2026年10月1日至2027年9月30日
-  https://campus.jd.com/#/jobs?reqId=2390
-
 - ⭐ 产品重点｜赛力斯｜问界产品线-产品MO专员【2027届校招】(J20800)
   地点：官网未注明
   官网届别文字：2027届
@@ -3204,15 +3204,20 @@
   官网届别文字：2027届
   https://sokon.zhiye.com/campus/detail?jobAdId=efb7bfa1-9d6b-4076-8262-68e1a50a3810
 
-- ⭐ 产品重点｜德邦快递｜产品规划岗
-  地点：官网未注明
-  官网毕业时间范围：2026年9月1日至2027年9月1日
-  https://zhaopin.deppon.com/campus/detail?jobAdId=40e6a1c7-4c02-4a61-a1e3-2c8f7589d87e
+- ⭐ 产品重点｜京东｜物流产品服务
+  地点：北京市-北京市、上海市-上海市
+  官网毕业时间范围：2026年10月1日至2027年9月30日
+  https://campus.jd.com/#/jobs?reqId=2390
 
 - ⭐ 产品重点｜去哪儿｜产品运营
   地点：官网未注明
   官网届别文字：27届
   https://hf7l9aiqzx.jobs.feishu.cn/704852/position/7670078620467579174/detail
+
+- ⭐ 产品重点｜德邦快递｜产品规划岗
+  地点：官网未注明
+  官网毕业时间范围：2026年9月1日至2027年9月1日
+  https://zhaopin.deppon.com/campus/detail?jobAdId=40e6a1c7-4c02-4a61-a1e3-2c8f7589d87e
 
 - ⭐ 产品重点｜金蝶｜管培生·产品经理
   地点：官网未注明
@@ -3229,11 +3234,6 @@
   官网届别文字：27届
   https://app.mokahr.com/campus-recruitment/glodon/91966?sourceToken=2b78348d1798c5dd95d999db699457d3#/job/f69a3231-a5a4-4c21-a78e-dc42aa9c8430
 
-- ⭐ 产品重点｜金山办公｜管培生（产品方向）-27届管培生专项-武汉
-  地点：官网未注明
-  官网届别文字：27届
-  https://join.wps.cn/campus-recruitment/wps/41436?sourceToken=8379ee777457c4d22fc65d4439f660b3#/job/811cb07b-d0c8-40f1-a763-e1df308003b8
-
 - ⭐ 产品重点｜金山办公｜管培生（产品方向）-面向2027届-珠海
   地点：官网未注明
   官网届别文字：2027届
@@ -3248,11 +3248,6 @@
   地点：官网未注明
   官网届别文字：27届
   https://campus.dewu.com/578078/position/7671162312058145033/detail
-
-- ⭐ 产品重点｜国轩高科｜产品经理（27届校招-中国业务）(J16035)
-  地点：官网未注明
-  官网届别文字：27届
-  https://gotion.zhiye.com/campus/detail?jobAdId=ce6414ef-52c4-4039-9ce9-7c9133faaf6d
 
 - ⭐ 产品重点｜赛力斯｜问界产品线-OTA工助理工程师【2027届校招】(J20805)
   地点：官网未注明
@@ -3284,11 +3279,6 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668229503697619253/detail
 
-- ⭐ 产品重点｜知乎｜平台产品经理（27 届）
-  地点：官网未注明
-  官网届别文字：27 届
-  https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/dd66ec4d-b84e-4377-956a-cbff6085ae67
-
 - ⭐ 产品重点｜Babycare｜2027校招-产品营销管培生（小N）
   地点：官网未注明
   官网届别文字：2027校招
@@ -3314,10 +3304,10 @@
   官网届别文字：2027届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670932376785275190/detail
 
-- ⭐ 产品重点｜君乐宝｜君乐宝2027校招-产品管培生
+- ⭐ 产品重点｜赛力斯｜问界产品线-氛围感知助理设计师【2027届校招】(J20794)
   地点：官网未注明
-  官网届别文字：2027校招
-  https://junlebaoruye.zhiye.com/campus/detail?jobAdId=c5253c0e-d397-4b1f-854f-4384089490f7
+  官网届别文字：2027届
+  https://sokon.zhiye.com/campus/detail?jobAdId=de033c34-fa23-4581-a101-e44fa2918007
 
 - ⭐ 产品重点｜字节跳动｜广告产品运营 - 国际化电商广告
   地点：北京
@@ -3329,10 +3319,10 @@
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668247298219018501/detail
 
-- ⭐ 产品重点｜赛力斯｜问界产品线-氛围感知助理设计师【2027届校招】(J20794)
+- ⭐ 产品重点｜君乐宝｜君乐宝2027校招-产品管培生
   地点：官网未注明
-  官网届别文字：2027届
-  https://sokon.zhiye.com/campus/detail?jobAdId=de033c34-fa23-4581-a101-e44fa2918007
+  官网届别文字：2027校招
+  https://junlebaoruye.zhiye.com/campus/detail?jobAdId=c5253c0e-d397-4b1f-854f-4384089490f7
 
 - ⭐ 产品重点｜虎牙直播｜(2027届)产品运营-海外游戏发行
   地点：官网未注明
@@ -3364,11 +3354,6 @@
   官网届别文字：2027届
   https://smics.zhiye.com/campusxq?jobId=390852223&jc=2&c=&p=1^-1,3^-1&ky=%E4%BA%A7%E5%93%81
 
-- ⭐ 产品重点｜国轩高科｜产品工艺工程师（2027届校招）(J16159)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://gotion.zhiye.com/campus/detail?jobAdId=c9e50c35-2863-4b36-85bf-0667f31292ac
-
 - ⭐ 产品重点｜赛力斯｜问界产品线-CMF助理设计师【2027届校招】(J20795)
   地点：官网未注明
   官网届别文字：2027届
@@ -3399,6 +3384,11 @@
   官网届别文字：2027届
   https://sokon.zhiye.com/campus/detail?jobAdId=59230dbd-fc37-4078-9406-feee76175e1f
 
+- ⭐ 产品重点｜金山办公｜管培生（产品方向）-27届管培生专项-武汉
+  地点：官网未注明
+  官网届别文字：27届
+  https://join.wps.cn/campus-recruitment/wps/41436?sourceToken=8379ee777457c4d22fc65d4439f660b3#/job/811cb07b-d0c8-40f1-a763-e1df308003b8
+
 - ⭐ 产品重点｜虎牙直播｜(2027届)产品运营-用户运营
   地点：官网未注明
   官网届别文字：2027届
@@ -3408,21 +3398,6 @@
   地点：官网未注明
   官网届别文字：2027届
   https://sokon.zhiye.com/campus/detail?jobAdId=aee8a54e-a8bd-49fb-a21d-61e399ee0d32
-
-- ⭐ 产品重点｜国轩高科｜产品开发质量工程师（27届校招+包河总部智造板块）(J16054)
-  地点：官网未注明
-  官网届别文字：27届
-  https://gotion.zhiye.com/campus/detail?jobAdId=ae0f64dd-2deb-46fe-a28b-e3d7388c7f1c
-
-- ⭐ 产品重点｜国轩高科｜产品品质工程师（2027届校招生）(J16097)
-  地点：官网未注明
-  官网届别文字：2027届
-  https://gotion.zhiye.com/campus/detail?jobAdId=819e67da-5f86-4598-8e7a-b2863cfbb086
-
-- ⭐ 产品重点｜国轩高科｜产品工艺工程师（27届校招+包河总部智造板块）(J16016)
-  地点：官网未注明
-  官网届别文字：27届
-  https://gotion.zhiye.com/campus/detail?jobAdId=5b686426-c1b4-4900-8e72-243fc9cbb5fd
 
 - ⭐ 产品重点｜赛力斯｜问界产品线-外饰创意助理设计师（可实习）【2027届校招】(J20792)
   地点：官网未注明
@@ -7891,15 +7866,15 @@
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22159
 
-- 小红书｜【2027校招】社区推荐算法工程师
-  地点：北京市，上海市，深圳市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21000
-
 - 小红书｜【2027校招】推荐算法工程师-流量分发
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21693
+
+- 小红书｜【2027校招】社区推荐算法工程师
+  地点：北京市，上海市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21000
 
 - 小红书｜【2027校招】AI Agent工程师（大模型 AI 应用开发方向）-审核研发
   地点：北京市，上海市，杭州市
@@ -14311,7 +14286,7 @@
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=5ee17eb4-3ed4-45d4-88d3-471c614af16f
 
-## 届别待确认（不推送） · 3536 条
+## 届别待确认（不推送） · 3554 条
 
 - ⭐ 产品重点｜美团｜AI产品增长产品经理
   地点：北京市
@@ -14523,6 +14498,11 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4570160124
 
+- ⭐ 产品重点｜中兴通讯｜OS高级产品经理（AI方向）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://app.mokahr.com/social-recruitment/zte/47588#/job/e03dc865-81f6-495c-ba43-8603ecac98e1
+
 - 美团｜商业分析师（需求热点与意图识别方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14658,11 +14638,6 @@
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7680471670134671657/detail
 
-- ⭐ 产品重点｜美团｜差旅场景组-产品经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826532250
-
 - ⭐ 产品重点｜美团｜履约平台-运营系统AI产品
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14672,6 +14647,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4748339916
+
+- ⭐ 产品重点｜美团｜差旅场景组-产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826532250
 
 - ⭐ 产品重点｜美团｜打卡产品经理-大众点评
   地点：上海市
@@ -14703,6 +14683,11 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4554748267
 
+- ⭐ 产品重点｜懂车帝｜AI策略产品经理（豆包汽车）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7686064315263551790/detail
+
 - ⭐ 产品重点｜美团｜AI Agent 产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14727,11 +14712,6 @@
   地点：北京市、广州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4659765027
-
-- ⭐ 产品重点｜懂车帝｜AI策略产品经理（豆包汽车）
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7686064315263551790/detail
 
 - ⭐ 产品重点｜美团｜服务治理高级产品经理
   地点：北京市
@@ -14793,15 +14773,15 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4024244320
 
-- ⭐ 产品重点｜美团｜大模型客服策略产品
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4874945021
-
 - ⭐ 产品重点｜美团｜美团闪购-高级产品经理（商品方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4857096641
+
+- ⭐ 产品重点｜美团｜大模型客服策略产品
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4874945021
 
 - ⭐ 产品重点｜美团｜导航路线策略产品
   地点：北京市
@@ -14983,11 +14963,6 @@
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7696854697970649371/detail
 
-- ⭐ 产品重点｜凯乐石｜AI 产品经理岗
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://kailas.zhiye.com/campus/detail?jobAdId=31b6f3c4-08cc-4085-9aa9-84b6a2ef034a
-
 - ⭐ 产品重点｜美团｜外卖交易产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15027,6 +15002,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3810833780
+
+- ⭐ 产品重点｜凯乐石｜AI 产品经理岗
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://kailas.zhiye.com/campus/detail?jobAdId=31b6f3c4-08cc-4085-9aa9-84b6a2ef034a
 
 - ⭐ 产品重点｜大疆创新｜软件产品经理（深圳）
   地点：官网未注明
@@ -15388,10 +15368,10 @@
   官网信息未明确适用于2027届，待确认
   https://intsig.zhiye.com/campus/detail?jobAdId=d2ad9c13-10fe-417a-863d-e12df76f279b
 
-- ⭐ 产品重点｜360集团｜27秋-AI产品设计专员（北京）-5352(J12447)
+- ⭐ 产品重点｜智慧芽｜AI 产品设计师(J12748)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://360campus.zhiye.com/campus/detail?jobAdId=94646e46-e9df-46d5-8618-b93c4fd735df
+  https://zhihuiya.zhiye.com/campus/detail?jobAdId=6fdf442c-cc8c-4044-b57c-f0f639885da7
 
 - 美团｜到餐-商业分析师（用户策略）
   地点：北京市
@@ -15403,10 +15383,10 @@
   官网信息未明确适用于2027届，待确认
   https://agirobot.jobs.feishu.cn/campusrecruitment/position/7683808930061945138/detail
 
-- ⭐ 产品重点｜智慧芽｜AI 产品设计师(J12748)
+- ⭐ 产品重点｜360集团｜27秋-AI产品设计专员（北京）-5352(J12447)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhihuiya.zhiye.com/campus/detail?jobAdId=6fdf442c-cc8c-4044-b57c-f0f639885da7
+  https://360campus.zhiye.com/campus/detail?jobAdId=94646e46-e9df-46d5-8618-b93c4fd735df
 
 - ⭐ 产品重点｜追觅科技（MOVA）｜账号产品经理(J57510)
   地点：官网未注明
@@ -15472,6 +15452,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4041144470
+
+- ⭐ 产品重点｜中国兵器工业集团｜工业软件产品策划岗
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=434da08a-1994-46e6-bf83-58f49f0c67ec
 
 - 美团｜商业分析师（用户增长方向）-大众点评
   地点：上海市
@@ -15643,6 +15628,11 @@
   官网信息未明确适用于2027届，待确认
   https://apply.careers.dji.com/campus-recruitment/dji/143359?locale=zh-CN#/job/56f29bba-4fa7-44aa-83c5-819d62fe570e
 
+- ⭐ 产品重点｜懂车帝｜商业化产品经理 （AI 产品方向）-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7678543006429956390/detail
+
 - 美团｜Commercial Strategy Expert (Grocery)
   地点：科威特城
   官网信息未明确适用于2027届，待确认
@@ -15682,11 +15672,6 @@
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4494977612
-
-- ⭐ 产品重点｜懂车帝｜商业化产品经理 （AI 产品方向）-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7678543006429956390/detail
 
 - ⭐ 产品重点｜合合信息｜【27校招】办公平台 AI 产品经理 / AI Agent 工程师(J14442)
   地点：官网未注明
@@ -15908,6 +15893,11 @@
   官网信息未明确适用于2027届，待确认
   https://agirobot.jobs.feishu.cn/campusrecruitment/position/7683803101066086662/detail
 
+- 美团｜骑行营销算法负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4599894898
+
 - ⭐ 产品重点｜美团｜履约基建产品
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15917,11 +15907,6 @@
   地点：北京市、深圳市、成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4873259868
-
-- 美团｜骑行营销算法负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4599894898
 
 - ⭐ 产品重点｜美团｜营销产品运营
   地点：上海市
@@ -15998,11 +15983,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4736527116
 
-- 美团｜经营及效率管理负责人（用户端）
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4260003255
-
 - 美团｜美团外卖-品牌商品策略分析
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16017,6 +15997,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4773835637
+
+- 美团｜经营及效率管理负责人（用户端）
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4260003255
 
 - 美团｜快乐猴-推广策略运营
   地点：北京市
@@ -16102,11 +16087,6 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4406606879
-
-- ⭐ 产品重点｜搜狐｜【2027】产品运营
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://app.mokahr.com/campus_apply/sohu/5682#/job/271a0a12-8972-438a-ae6a-7c3b84a8724d
 
 - ⭐ 产品重点｜满帮集团｜产品经理
   地点：官网未注明
@@ -16233,40 +16213,10 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4695142159
 
-- 美团｜下沉市场-目标绩效管理（零售方向）
+- 美团｜下沉市场-拼好饭商品运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4792874367
-
-- 美团｜商业分析师
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4617969042
-
-- 美团｜用户活动运营专家
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4626317763
-
-- 美团｜供给策略专家
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4778925460
-
-- 美团｜景点游玩和度假业务-经营分析
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4882631907
-
-- 美团｜拼好饭品类运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4771452602
-
-- 美团｜拼好饭品类运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4596439344
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4888324886
 
 - 美团｜用户活动运营专家
   地点：香港特别行政区
@@ -16312,6 +16262,41 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4249529389
+
+- 美团｜下沉市场-目标绩效管理（零售方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4792874367
+
+- 美团｜商业分析师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4617969042
+
+- 美团｜用户活动运营专家
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4626317763
+
+- 美团｜供给策略专家
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4778925460
+
+- 美团｜景点游玩和度假业务-经营分析
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4882631907
+
+- 美团｜拼好饭品类运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4771452602
+
+- 美团｜拼好饭品类运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4596439344
 
 - 美团｜商家增长策略负责人
   地点：圣保罗
@@ -16493,6 +16478,11 @@
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7688692264978254121/detail
 
+- ⭐ 产品重点｜懂车帝｜AI产品经理（智能对话方向）-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7628526532231809343/detail
+
 - ⭐ 产品重点｜美团｜外卖-AI产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16553,11 +16543,6 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20871
 
-- ⭐ 产品重点｜懂车帝｜AI产品经理（智能对话方向）-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7628526532231809343/detail
-
 - 美团｜特团业务专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16612,6 +16597,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4626426410
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品仿真工程师（流体仿真和工艺仿真方向）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=ce02cdfe-ee1c-4cb2-8474-9b735ccec1b8
 
 - ⭐ 产品重点｜蔚来｜校招-整车产品-座椅与附件体验经理
   地点：官网未注明
@@ -16873,11 +16863,6 @@
   官网信息未明确适用于2027届，待确认
   https://career.sina.com.cn/social-recruitment/sina/43535/#/job/80b93284-e648-41de-92a5-80b23f3eff6a
 
-- 美团｜商业分析师（供给探索方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4419476464
-
 - 美团｜Agent 开发工程师（全栈）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16887,6 +16872,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4818575186
+
+- 美团｜商业分析师（供给探索方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4419476464
 
 - 美团｜高级 Agent 开发工程师（全栈）
   地点：北京市
@@ -16928,15 +16918,15 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4462687145
 
+- ⭐ 产品重点｜北汽集团／北汽光粒｜产品策划岗(J14261)
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://baicgroup.zhiye.com/campus/detail?jobAdId=2aa10445-7589-4ee2-96cb-13b2f4767575
+
 - ⭐ 产品重点｜追觅科技（MOVA）｜手机APP产品经理(J57511)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://dreame.zhiye.com/social/detail?jobAdId=35392871-6ebd-4802-8a7a-f33d2146ded3
-
-- 美团｜流量安全专家
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4736467765
 
 - 美团｜外卖-商业分析师（补贴策略）
   地点：北京市
@@ -16957,6 +16947,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4460644964
+
+- 美团｜流量安全专家
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4736467765
 
 - 美团｜酒店民宿业务-商业分析师
   地点：北京市
@@ -17053,6 +17048,11 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3342130787
 
+- ⭐ 产品重点｜中国兵器工业集团｜产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=68acf133-dc62-4dfb-b9d5-bb977b67f9b3
+
 - ⭐ 产品重点｜追觅科技（MOVA）｜销服产品经理(J59445)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -17078,11 +17078,6 @@
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7659700593996384554/detail
 
-- 美团｜美团外卖-供给策略分析
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873107510
-
 - 美团｜营销增长算法专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -17092,6 +17087,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3855625886
+
+- 美团｜美团外卖-供给策略分析
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873107510
 
 - 美团｜（M）美团酒店民宿流程运营
   地点：北京市
@@ -17142,11 +17142,6 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3381072437
-
-- ⭐ 产品重点｜国轩高科｜储能工程师（产品经理方向）(J16192)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=2ddd121c-9a44-4074-9796-bfae1291bc62
 
 - ⭐ 产品重点｜北森｜高级产品经理（领导力教练方向）(J14820)
   地点：官网未注明
@@ -17423,10 +17418,10 @@
   官网信息未明确适用于2027届，待确认
   https://thundersoft.jobs.feishu.cn/campus/position/7545746085987715366/detail
 
-- ⭐ 产品重点｜收钱吧｜餐饮SaaS高级产品经理(J11246)
+- ⭐ 产品重点｜懂车帝｜C端线索产品经理-懂车帝
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://shouqianba.zhiye.com/social/detail?jobAdId=86e765d2-c534-4f90-b94f-d04d27e4170f
+  https://dcar.jobs.feishu.cn/index/position/7481192957539338533/detail
 
 - 美团｜战略规划分析专家（交通业务）
   地点：北京市
@@ -17463,25 +17458,15 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20889
 
-- ⭐ 产品重点｜懂车帝｜C端线索产品经理-懂车帝
+- ⭐ 产品重点｜收钱吧｜餐饮SaaS高级产品经理(J11246)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7481192957539338533/detail
+  https://shouqianba.zhiye.com/social/detail?jobAdId=86e765d2-c534-4f90-b94f-d04d27e4170f
 
 - ⭐ 产品重点｜小米｜GTM - 产品运营
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7625831300800579903/detail
-
-- ⭐ 产品重点｜苏宁易购｜产品经理（英文要求）
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  http://campus.suning.cn/rps-campus/ftl/campus/managePositionDetail.htm?poId=28127
-
-- ⭐ 产品重点｜苏宁易购｜产品经理
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  http://campus.suning.cn/rps-campus/ftl/campus/managePositionDetail.htm?poId=26932
 
 - 美团｜酒旅AI Agent算法工程师
   地点：北京市
@@ -17532,6 +17517,16 @@
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://beisen.zhiye.com/social/detail?jobAdId=c8757229-f242-4d97-8687-9223de2c9fb2
+
+- ⭐ 产品重点｜苏宁易购｜产品经理（英文要求）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  http://campus.suning.cn/rps-campus/ftl/campus/managePositionDetail.htm?poId=28127
+
+- ⭐ 产品重点｜苏宁易购｜产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  http://campus.suning.cn/rps-campus/ftl/campus/managePositionDetail.htm?poId=26932
 
 - ⭐ 产品重点｜小米｜冰箱产品经理
   地点：官网未注明
@@ -17603,16 +17598,6 @@
   官网信息未明确适用于2027届，待确认
   https://dreame.zhiye.com/social/detail?jobAdId=616ccfb4-a15a-4b83-8f15-63b045ff21af
 
-- 美团｜点评风控算法策略专家
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737897645
-
-- 美团｜鲜花场景增长运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4609766713
-
 - 美团｜无人机-商业分析师
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -17627,6 +17612,16 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3510056738
+
+- 美团｜点评风控算法策略专家
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737897645
+
+- 美团｜鲜花场景增长运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4609766713
 
 - 美团｜闪购-官旗-城市筹建-前置仓方向
   地点：成都市、重庆市
@@ -17918,10 +17913,10 @@
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7699295184961751322/detail
 
-- 美团｜品类营销运营
-  地点：北京市
+- ⭐ 产品重点｜科大讯飞｜产品经理(J13399)
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837484596
+  https://iflytek.zhiye.com/campus/detail?jobAdId=ed343410-6036-4902-b8cf-3b11b8416142
 
 - 美团｜外卖-增长策略分析（代运营业务）
   地点：北京市
@@ -17942,6 +17937,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4580434257
+
+- 美团｜品类营销运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837484596
 
 - 美团｜商业化
   地点：北京市
@@ -18083,11 +18083,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2936400656
 
-- ⭐ 产品重点｜科大讯飞｜产品经理(J13399)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://iflytek.zhiye.com/campus/detail?jobAdId=ed343410-6036-4902-b8cf-3b11b8416142
-
 - ⭐ 产品重点｜新华三集团｜云与计算存储产品经理(J18877)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -18114,14 +18109,14 @@
   https://career.sina.com.cn/social-recruitment/sina/43535/#/job/fbe9f321-1943-4fb0-b182-7ab1bdaaba75
 
 - 美团｜酒店流量策略和供需匹配机制负责人
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4688538477
-
-- 美团｜酒店流量策略和供需匹配机制负责人
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4643165130
+
+- 美团｜酒店流量策略和供需匹配机制负责人
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4688538477
 
 - ⭐ 产品重点｜美团｜Keemart-供应链产品
   地点：北京市
@@ -18233,6 +18228,11 @@
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7540927492836671597/detail
 
+- ⭐ 产品重点｜美的集团｜产品内容运营
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://careers.midea.com/schoolOut/post/details?positionId=8b8b3174a029733801a042b623e11b77
+
 - 美团｜美团闪购-鲜花品类商家运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18303,35 +18303,15 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20884
 
-- ⭐ 产品重点｜美的集团｜产品内容运营
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://careers.midea.com/schoolOut/post/details?positionId=8b8b3174a029733801a042b623e11b77
-
 - ⭐ 产品重点｜追觅科技（MOVA）｜充电宝产品经理(J55811)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://dreame.zhiye.com/social/detail?jobAdId=71aa3f8c-e827-40ea-b673-819d59a628e8
 
-- 美团｜美团外卖-商品策略分析专家
-  地点：北京市
+- ⭐ 产品重点｜懂车帝｜商业产品经理（平台产品方向）-懂车帝
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4215723792
-
-- 美团｜资产策略专家
-  地点：北京市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4665652796
-
-- 美团｜外卖-商业分析师-目标绩效方向
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830085176
-
-- 美团｜无人车-备件管理与运营专家
-  地点：深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4784174397
+  https://dcar.jobs.feishu.cn/index/position/7516525187714648371/detail
 
 - 美团｜绩效策略
   地点：北京市
@@ -18367,6 +18347,26 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4300981205
+
+- 美团｜美团外卖-商品策略分析专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4215723792
+
+- 美团｜资产策略专家
+  地点：北京市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4665652796
+
+- 美团｜外卖-商业分析师-目标绩效方向
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830085176
+
+- 美团｜无人车-备件管理与运营专家
+  地点：深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4784174397
 
 - 美团｜外卖-商业分析师（收入管理与定价）
   地点：北京市
@@ -18488,20 +18488,15 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530026949
 
-- ⭐ 产品重点｜懂车帝｜商业产品经理（平台产品方向）-懂车帝
+- ⭐ 产品重点｜赛力斯｜集团职能总部-AI产品经理助理工程师（场景建设方向）（可实习）(J20702)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7516525187714648371/detail
+  https://sokon.zhiye.com/campus/detail?jobAdId=5c2c0eb9-4b5c-410f-896b-9091e01afc99
 
 - ⭐ 产品重点｜腾讯｜AI产品经理
   地点：深圳总部 北京 上海 广州 
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1283126456553382912
-
-- ⭐ 产品重点｜美团｜美团外卖 - AI增长产品策略运营（连锁商家&BD方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4863302334
 
 - 美团｜里白酒店设计项目经理
   地点：北京市
@@ -18517,6 +18512,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4631571044
+
+- ⭐ 产品重点｜美团｜美团外卖 - AI增长产品策略运营（连锁商家&BD方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4863302334
 
 - 美团｜到餐-佣金体系模块销支
   地点：北京市
@@ -18642,11 +18642,6 @@
   地点：北京市、上海市、广州市、深圳市、南京市、武汉市、杭州市、昆明市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3052846209
-
-- ⭐ 产品重点｜赛力斯｜集团职能总部-AI产品经理助理工程师（场景建设方向）（可实习）(J20702)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://sokon.zhiye.com/campus/detail?jobAdId=5c2c0eb9-4b5c-410f-896b-9091e01afc99
 
 - ⭐ 产品重点｜追觅科技（MOVA）｜软件生态产品经理(J57506)
   地点：官网未注明
@@ -18793,15 +18788,15 @@
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/index/position/7676411247760705834/detail
 
-- 美团｜销售运营-销售策略
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3880052114
-
 - 美团｜大模型评测专家
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4387197037
+
+- 美团｜销售运营-销售策略
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3880052114
 
 - 美团｜功能安全工程师
   地点：深圳市
@@ -18848,6 +18843,16 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3935158995
 
+- 美团｜小象超市-自营骑手成本规划
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4869071194
+
+- 美团｜拼好饭商业分析组 - 平价新供给团队负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4793120916
+
 - 美团｜美团外卖-西式快餐品类运营
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -18862,16 +18867,6 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4826211123
-
-- 美团｜小象超市-自营骑手成本规划
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4869071194
-
-- 美团｜拼好饭商业分析组 - 平价新供给团队负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4793120916
 
 - 美团｜商家运营专家（快驴）
   地点：北京市
@@ -18977,6 +18972,21 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3167054220
+
+- ⭐ 产品重点｜西门子｜产品管理方向管理培训生 Product Management -Siemens Graduate Program (SGP) 上海
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6a9fde107280da28da0796c0&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
+
+- ⭐ 产品重点｜西门子｜产品管理方向管理培训生 Product Management -Siemens Graduate Program (SGP) 北京
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6a9fde0f7280da28da0796be&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
+
+- ⭐ 产品重点｜西门子｜Siemens Graduate Program - Product Management Trainee 西门子管理培训生-产品管理方向 北京
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6aa0db127280da28da079799&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
 
 - 美团｜企业业务大客户销售经理 (Key Account Manager of Keeta Corporate Business)
   地点：香港特别行政区
@@ -19128,20 +19138,10 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21814
 
-- ⭐ 产品重点｜西门子｜产品管理方向管理培训生 Product Management -Siemens Graduate Program (SGP) 上海
+- ⭐ 产品重点｜懂车帝｜商业产品运营（平台产品方向）-懂车帝
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6a9fde107280da28da0796c0&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
-
-- ⭐ 产品重点｜西门子｜产品管理方向管理培训生 Product Management -Siemens Graduate Program (SGP) 北京
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6a9fde0f7280da28da0796be&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
-
-- ⭐ 产品重点｜西门子｜Siemens Graduate Program - Product Management Trainee 西门子管理培训生-产品管理方向 北京
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6aa0db127280da28da079799&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
+  https://dcar.jobs.feishu.cn/index/position/7629221802410297610/detail
 
 - 美团｜外卖-策略分析（代运营业务）
   地点：北京市
@@ -19212,11 +19212,6 @@
   地点：北京市，杭州市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=22487
-
-- ⭐ 产品重点｜懂车帝｜商业产品运营（平台产品方向）-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7629221802410297610/detail
 
 - ⭐ 产品重点｜Soul｜社交策略产品经理
   地点：官网未注明
@@ -19403,11 +19398,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4500485318
 
-- 美团｜AI型组织架构师
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3348332465
-
 - 美团｜具身智能视觉算法专家
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -19417,6 +19407,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4651732247
+
+- 美团｜AI型组织架构师
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3348332465
 
 - 美团｜到餐-营销策略运营
   地点：北京市
@@ -19453,16 +19448,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4089006601
 
-- 美团｜门店经营策略专家-西北
-  地点：西安市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4863127838
-
-- 美团｜美团骑行-区域负责人（多地可base）
-  地点：北京市、上海市、广州市、深圳市、成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4439056014
-
 - 美团｜AI开发工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19477,6 +19462,16 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4663364114
+
+- 美团｜门店经营策略专家-西北
+  地点：西安市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4863127838
+
+- 美团｜美团骑行-区域负责人（多地可base）
+  地点：北京市、上海市、广州市、深圳市、成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4439056014
 
 - 美团｜数据平台研发工程师｜AI + 数据 / OLAP / 实时计算方向
   地点：北京市
@@ -19743,15 +19738,10 @@
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7321559832367991050/detail
 
-- 美团｜生鲜食品核心品类策略
-  地点：北京市
+- ⭐ 产品重点｜科大讯飞｜产品运营(J13401)
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4687742689
-
-- 美团｜无人车远程驾驶安全员组长
-  地点：武汉市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4669451731
+  https://iflytek.zhiye.com/campus/detail?jobAdId=8dc3e06b-c960-4031-81c2-ee498604e611
 
 - 美团｜运营片区经理
   地点：合肥市、南京市
@@ -19767,6 +19757,16 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3523216109
+
+- 美团｜生鲜食品核心品类策略
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4687742689
+
+- 美团｜无人车远程驾驶安全员组长
+  地点：武汉市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4669451731
 
 - 美团｜到餐-策略分析及运营
   地点：北京市
@@ -19933,11 +19933,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3300336612
 
-- ⭐ 产品重点｜科大讯飞｜产品运营(J13401)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://iflytek.zhiye.com/campus/detail?jobAdId=8dc3e06b-c960-4031-81c2-ee498604e611
-
 - ⭐ 产品重点｜北森｜测评产品经理（大模型应用方向）(J14819)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -19947,6 +19942,11 @@
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://beisen.zhiye.com/social/detail?jobAdId=fb6e814b-5b49-49fc-b3e5-d189dc2bffe8
+
+- ⭐ 产品重点｜懂车帝｜商业产品经理（品牌广告方向）-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7507564454700435749/detail
 
 - 美团｜推荐大模型算法工程师/专家
   地点：北京市
@@ -20083,11 +20083,6 @@
   官网信息未明确适用于2027届，待确认
   https://app.mokahr.com/social-recruitment/zte/47588#/job/198d4169-49de-45cf-aa33-3cad760dc35e
 
-- ⭐ 产品重点｜懂车帝｜商业产品经理（品牌广告方向）-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7507564454700435749/detail
-
 - ⭐ 产品重点｜汉得信息｜产品经理-技术方向(J14654)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -20153,6 +20148,16 @@
   官网信息未明确适用于2027届，待确认
   https://app.mokahr.com/social-recruitment/zte/47588#/job/c74bec3d-fe75-4655-bcdc-15e46121dc26
 
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（襄阳）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=6db8d5ff-5f52-4170-a60d-025f44c60eed
+
+- ⭐ 产品重点｜科大讯飞｜PMO经理-产品管理方向(J13554)
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://iflytek.zhiye.com/campus/detail?jobAdId=7438c192-246b-4619-bec9-666e757808dc
+
 - ⭐ 产品重点｜腾讯｜产品策划
   地点：深圳总部 北京 上海 广州 成都 杭州 
   官网信息未明确适用于2027届，待确认
@@ -20163,6 +20168,11 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1284317600528245760
 
+- 美团｜闪购歪马-线下店用户运营
+  地点：郑州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4806741197
+
 - 美团｜美团外卖-餐饮代购业务运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -20172,11 +20182,6 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4858116299
-
-- 美团｜闪购歪马-线下店用户运营
-  地点：郑州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4806741197
 
 - 美团｜点评技术-训推框架工程师
   地点：北京市、上海市
@@ -20288,20 +20293,15 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4112656343
 
-- ⭐ 产品重点｜科大讯飞｜PMO经理-产品管理方向(J13554)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://iflytek.zhiye.com/campus/detail?jobAdId=7438c192-246b-4619-bec9-666e757808dc
-
 - ⭐ 产品重点｜大疆创新｜产品测试工艺工程师（深圳）
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://apply.careers.dji.com/campus-recruitment/dji/143359?locale=zh-CN#/job/d7dfc81f-de09-4e89-81b9-40009cf092b2
 
-- ⭐ 产品重点｜美团｜硬件产品负责人
-  地点：深圳市、北京市
+- ⭐ 产品重点｜懂车帝｜商业化产品经理 （AI 品牌广告方向）-懂车帝
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4794716581
+  https://dcar.jobs.feishu.cn/index/position/7678542457390500102/detail
 
 - 美团｜业务运营岗
   地点：北京市
@@ -20317,6 +20317,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4701132270
+
+- ⭐ 产品重点｜美团｜硬件产品负责人
+  地点：深圳市、北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4794716581
 
 - 美团｜光电成像系统研发工程师
   地点：深圳市
@@ -20468,15 +20473,25 @@
   官网信息未明确适用于2027届，待确认
   https://smics.zhiye.com/campusxq?jobId=390777100&jc=2&c=&p=1^-1,3^-1&ky=%E4%BA%A7%E5%93%81
 
-- ⭐ 产品重点｜懂车帝｜商业化产品经理 （AI 品牌广告方向）-懂车帝
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（电气）
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7678542457390500102/detail
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=5f866d0d-5228-4922-addf-26f5f8eb4ab3
 
-- 美团｜酒店景点游玩财务BP
-  地点：北京市
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（电气控制）
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4470497120
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=836914a5-276f-408b-980b-3bda1288f4df
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（火控解算）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=0f9cbbf6-32e9-486a-9bd1-c0a406562cbb
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计技术（电控系统工程师）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=73383ba3-0f18-4fa8-a6f5-8b1630b1e2e8
 
 - 美团｜运力调度策略专家
   地点：香港特别行政区
@@ -20497,6 +20512,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3256738286
+
+- 美团｜酒店景点游玩财务BP
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4470497120
 
 - 美团｜到餐-业务合规专家（到餐业务）
   地点：北京市
@@ -20708,16 +20728,6 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21304
 
-- 美团｜到餐-营销财务BP（策略分析方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4866703263
-
-- 美团｜安全大模型技术专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4320514455
-
 - 美团｜外卖-华北大区策略运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -20738,10 +20748,20 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4837936732
 
+- 美团｜到餐-营销财务BP（策略分析方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4866703263
+
 - 美团｜财务报告专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4724789001
+
+- 美团｜安全大模型技术专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4320514455
 
 - 美团｜连锁资源管理与分析岗
   地点：北京市
@@ -20913,21 +20933,6 @@
   官网信息未明确适用于2027届，待确认
   https://hand-china1.zhiye.com/campus/detail?jobAdId=572b3da8-edf9-4694-91bf-2b1d33bbc0e6
 
-- 美团｜高级策略专家 - 增长方向
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4875450413
-
-- 美团｜高级策略运营-增长策略方向
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798502446
-
-- 美团｜高级策略运营专家-增长策略负责人
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798490565
-
 - 美团｜履约方案与交付经理
   地点：深圳市
   官网信息未明确适用于2027届，待确认
@@ -20942,6 +20947,21 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4695351555
+
+- 美团｜高级策略专家 - 增长方向
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4875450413
+
+- 美团｜高级策略运营-增长策略方向
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798502446
+
+- 美团｜高级策略运营专家-增长策略负责人
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798490565
 
 - 美团｜到餐-餐饮大客户-深圳
   地点：深圳市
@@ -21063,6 +21083,21 @@
   官网信息未明确适用于2027届，待确认
   https://h3c.zhiye.com/campus/detail?jobAdId=1a5d8d86-e614-4628-9cd9-7d6cd40dd189
 
+- ⭐ 产品重点｜美的集团｜产品管理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://careers.midea.com/schoolOut/post/details?positionId=8b8b3174a029733801a042b623e11b7d
+
+- ⭐ 产品重点｜懂车帝｜效果广告策略产品经理-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7662693789656435007/detail
+
+- ⭐ 产品重点｜懂车帝｜商业产品经理（整合营销方向）-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7485733803441834249/detail
+
 - 美团｜无人机-AI builder 组织发展专家
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -21093,26 +21128,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4686627348
 
-- ⭐ 产品重点｜美的集团｜产品管理
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://careers.midea.com/schoolOut/post/details?positionId=8b8b3174a029733801a042b623e11b7d
-
-- ⭐ 产品重点｜懂车帝｜效果广告策略产品经理-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7662693789656435007/detail
-
-- ⭐ 产品重点｜懂车帝｜商业产品经理（整合营销方向）-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7485733803441834249/detail
-
-- 美团｜安全算法工程师
-  地点：北京市、上海市、杭州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4868810045
-
 - 美团｜车辆运营主管
   地点：南宁市
   官网信息未明确适用于2027届，待确认
@@ -21127,6 +21142,11 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3848257556
+
+- 美团｜安全算法工程师
+  地点：北京市、上海市、杭州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4868810045
 
 - 美团｜到餐连锁品牌-广告策略运营专家
   地点：北京市
@@ -21368,10 +21388,10 @@
   官网信息未明确适用于2027届，待确认
   https://dreame.zhiye.com/social/detail?jobAdId=aefcbc05-4574-4822-ae97-f5ed39184bb2
 
-- 美团｜职能招聘经理
-  地点：北京市
+- ⭐ 产品重点｜科大讯飞｜产品运营经理-2B2C市场方向(J13402)
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4864949349
+  https://iflytek.zhiye.com/campus/detail?jobAdId=583b9eb2-5164-439d-b1c6-5d6e976bd2cb
 
 - 美团｜KA大客户品牌经理
   地点：上海市
@@ -21387,6 +21407,11 @@
   地点：天津市、南京市、杭州市、南昌市、济南市、郑州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2891399964
+
+- 美团｜职能招聘经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4864949349
 
 - 美团｜小象超市-上海烘焙项目仓配运营主管
   地点：上海市
@@ -21552,11 +21577,6 @@
   地点：福州市、厦门市、南昌市、长沙市、贵阳市、南宁市、昆明市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2195843141
-
-- ⭐ 产品重点｜科大讯飞｜产品运营经理-2B2C市场方向(J13402)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://iflytek.zhiye.com/campus/detail?jobAdId=583b9eb2-5164-439d-b1c6-5d6e976bd2cb
 
 - ⭐ 产品重点｜智元机器人｜产品营销经理-灵犀业务部
   地点：官网未注明
@@ -21773,6 +21793,11 @@
   官网信息未明确适用于2027届，待确认
   https://campus.geely.com/campus-recruitment/geely/78436/#/job/cdd76ba1-381f-4e0b-9745-8b1f34df2f62
 
+- ⭐ 产品重点｜懂车帝｜营销数据产品经理-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7498305231493056778/detail
+
 - 美团｜无人车财务BP（资产管理方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -21803,20 +21828,30 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4737735477
 
-- ⭐ 产品重点｜懂车帝｜营销数据产品经理-懂车帝
+- ⭐ 产品重点｜中国兵器工业集团｜产品工程师（盐城）
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7498305231493056778/detail
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=dea7e846-1788-489c-9c67-bbb1740a586f
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品工程师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=fa348fe2-4151-4e4f-bb70-8dfb61d9a2ee
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计岗(奥威)
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=b8b839bc-c6e9-41cb-96dd-66f5d4390037
 
 - ⭐ 产品重点｜极兔｜【集团】奥索斯管培生-产品工程师
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://jtexpress.jobs.feishu.cn/478610/position/7678592578841823514/detail?spread=RK6HVPP
 
-- 美团｜Logistics Operations Analysis & Enablement Expert  履约经营分析与赋能专家
-  地点：利雅得
+- ⭐ 产品重点｜西门子｜西门子管理培训生-产品战略管理 Siemens Graduate Program - Product Strategy Management
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4751700815
+  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6aa14c0d7280da28da07983f&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
 
 - 美团｜骑手培训课程开发
   地点：北京市
@@ -21827,6 +21862,11 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4615758536
+
+- 美团｜Logistics Operations Analysis & Enablement Expert  履约经营分析与赋能专家
+  地点：利雅得
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4751700815
 
 - 美团｜智能头盔技术项目经理-TPM
   地点：北京市
@@ -21963,11 +22003,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3496647624
 
-- ⭐ 产品重点｜西门子｜西门子管理培训生-产品战略管理 Siemens Graduate Program - Product Strategy Management
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6aa14c0d7280da28da07983f&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
-
 - ⭐ 产品重点｜新华三集团｜售前产品经理（北京）(J18888)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -22032,6 +22067,11 @@
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20609
+
+- ⭐ 产品重点｜智慧芽｜AI产品运营(J12749)
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://zhihuiya.zhiye.com/campus/detail?jobAdId=df80bae9-5058-4721-ab52-63ac7a577066
 
 - 腾讯｜混元多模态-大模型数据挖掘与合成技术研究
   地点：深圳总部 
@@ -22113,16 +22153,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4257395428
 
-- ⭐ 产品重点｜智慧芽｜AI产品运营(J12749)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://zhihuiya.zhiye.com/campus/detail?jobAdId=df80bae9-5058-4721-ab52-63ac7a577066
-
-- 美团｜生鲜食品用户体验策略运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4687316417
-
 - 美团｜Keeta Drone 履约管理负责人
   地点：迪拜
   官网信息未明确适用于2027届，待确认
@@ -22132,6 +22162,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4527520235
+
+- 美团｜生鲜食品用户体验策略运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4687316417
 
 - ⭐ 产品重点｜美团｜Keemart-商品及库存供应链产品
   地点：北京市
@@ -22328,16 +22363,6 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20869
 
-- ⭐ 产品重点｜国轩高科｜产品计划工程师(J16384)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=2a7d73a6-6b5e-4250-99ee-f1cffcce8733
-
-- 美团｜销运分析专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4739222752
-
 - 美团｜配送安全经理
   地点：天津市、石家庄市、唐山市、秦皇岛市、邯郸市、保定市、廊坊市、太原市、西安市
   官网信息未明确适用于2027届，待确认
@@ -22357,6 +22382,11 @@
   地点：香港特别行政区
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4659537854
+
+- 美团｜销运分析专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4739222752
 
 - 美团｜业务分析运营支持（资源管理方向）
   地点：北京市
@@ -22478,11 +22508,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1282707405033302017
 
-- 美团｜业务风控策略专家
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4740500750
-
 - 美团｜无人机-资产运营
   地点：深圳市
   官网信息未明确适用于2027届，待确认
@@ -22507,6 +22532,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4470625828
+
+- 美团｜业务风控策略专家
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4740500750
 
 - 美团｜到餐-零食零售品类负责人
   地点：北京市、上海市
@@ -22692,11 +22722,6 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4540825276
-
-- 美团｜市场营销岗
-  地点：北京市、利雅得、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4697313567
 
 - 美团｜分销-销售BD（北京广州深圳）
   地点：北京市、深圳市、广州市
@@ -23073,16 +23098,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1283126469811577856
 
-- 美团｜小象超市-配送城市运营（华西大区）
-  地点：成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837177505
-
-- 美团｜闪购-歪马-西宁运营督导（物流方向）
-  地点：西宁市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4828372553
-
 - 美团｜美团外卖-合规督导运营岗
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -23102,6 +23117,16 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4475727445
+
+- 美团｜小象超市-配送城市运营（华西大区）
+  地点：成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837177505
+
+- 美团｜闪购-歪马-西宁运营督导（物流方向）
+  地点：西宁市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4828372553
 
 - 美团｜美团骑行-运营经理（上海）
   地点：上海市
@@ -23343,10 +23368,20 @@
   官网信息未明确适用于2027届，待确认
   https://app.mokahr.com/social-recruitment/zte/47588#/job/e70d6dde-bf33-4fae-a4c4-2d6942327753
 
-- ⭐ 产品重点｜中兴通讯｜国际承载产品方案经理（波分）
-  地点：官网未注明
+- 美团｜具身智能可靠性工程师
+  地点：深圳市
   官网信息未明确适用于2027届，待确认
-  https://app.mokahr.com/social-recruitment/zte/47588#/job/80c9b3ca-a625-4b01-80df-242f370922eb
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4689154884
+
+- 美团｜销售数据分析（AI&奖金激励方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4613644495
+
+- 美团｜用户推广—分区城市经理
+  地点：深圳市、广州市、杭州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4470208578
 
 - 美团｜骑手支援经理 (Courier Support Manager)
   地点：香港特别行政区
@@ -23367,21 +23402,6 @@
   地点：佛山市、东莞市、中山市、珠海市、济南市、临沂市、潍坊市、青岛市、烟台市、淄博市、南通市、苏州市、南京市、温州市、杭州市、宁波市、深圳市、广州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4605195784
-
-- 美团｜具身智能可靠性工程师
-  地点：深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4689154884
-
-- 美团｜销售数据分析（AI&奖金激励方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4613644495
-
-- 美团｜用户推广—分区城市经理
-  地点：深圳市、广州市、杭州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4470208578
 
 - 美团｜到餐-销售运营支持
   地点：北京市、天津市
@@ -23623,15 +23643,100 @@
   官网信息未明确适用于2027届，待确认
   https://app.mokahr.com/social-recruitment/zte/47588#/job/97912b3a-6e0d-43c5-9f40-eff70aa53dd7
 
-- ⭐ 产品重点｜中兴通讯｜OS高级产品经理（AI方向）
+- ⭐ 产品重点｜中国兵器工业集团｜产品工艺工程师
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://app.mokahr.com/social-recruitment/zte/47588#/job/e03dc865-81f6-495c-ba43-8603ecac98e1
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=66d0fbe4-ab05-45bb-ae6e-2a82d074bc66
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（总体设计）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=e4165eb2-d9b2-49ea-9c66-ff4c4ba03b0d
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（结构设计）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=c574debf-c803-43e6-9900-fbd905fba70e
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品装调工程师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=c5d6f34e-3e03-4e26-a41b-5103755c4ef3
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=96baea40-7d09-4a4e-9893-d647365a9024
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计工程师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=7d466a10-19f9-4dbc-b808-616fc8138909
+
+- ⭐ 产品重点｜中国兵器工业集团｜【研发岗】结构开发工程师（精密产品）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=99af4774-d7e4-405e-aaf8-612062e11e80
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（硬件）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=d85d7a38-f139-4872-8b07-192ff3b5032d
+
+- ⭐ 产品重点｜中国兵器工业集团｜特种产品研发工程师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=31c63460-22f0-4532-9cdf-ce0a94a822be
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=6f807366-2b7f-4cd3-92cc-579018fdd51d
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计研发
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=6d9cec6e-5bed-4980-912c-49999d926ed8
+
+- ⭐ 产品重点｜中国兵器工业集团｜集体防护装备产品研发工程师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=1b901abd-8db4-4c62-bac1-4c328917fa29
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品设计员
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=a5fe0f07-80bf-440c-99b6-a5a430b5a1f4
+
+- ⭐ 产品重点｜中国兵器工业集团｜【研发岗】系统工程师（精密产品）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=40334cbc-6b79-4f54-bfdc-773ef6822450
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师（动力结构设计）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=9c9eca7e-1b21-4e79-b987-e0f22808810f
+
+- ⭐ 产品重点｜中国兵器工业集团｜产品研发工程师
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=9fc0c4c4-51c0-4bf6-8446-2643ae2239fb
+
+- ⭐ 产品重点｜中国兵器工业集团｜【研发岗】硬件开发工程师（精密产品）
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://norincogroupzhaopin.zhiye.com/campus/detail?jobAdId=7ad5acd9-7e87-492d-ac1a-df0119ba5f7b
 
 - ⭐ 产品重点｜DeepSeek｜AI 产品经理
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/e8f2004c-6599-42cd-b587-176ffc3ff1a3
+
+- ⭐ 产品重点｜懂车帝｜商业产品经理（内容营销方向）-懂车帝
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://dcar.jobs.feishu.cn/index/position/7495953180485929266/detail
 
 - 美团｜冻禽集采专家
   地点：北京市
@@ -23788,11 +23893,6 @@
   官网信息未明确适用于2027届，待确认
   https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-TD-Process-Product-Integration-Engineer_JR0285227?q=product
 
-- ⭐ 产品重点｜英特尔 Intel｜Testchip Analog Product Development Engineer- HVM position
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Testchip-Analog-Product-Development-Engineer--HVM-position_JR0287260-1?q=product
-
 - ⭐ 产品重点｜英特尔 Intel｜Intel Foundry LTD Product Yield Development Engineer
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -23807,11 +23907,6 @@
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://h3c.zhiye.com/campus/detail?jobAdId=ed150b4d-4227-4ddb-9cbf-d218a99f7591
-
-- ⭐ 产品重点｜懂车帝｜商业产品经理（内容营销方向）-懂车帝
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://dcar.jobs.feishu.cn/index/position/7495953180485929266/detail
 
 - ⭐ 产品重点｜小米｜产品营销策划
   地点：官网未注明
@@ -23903,11 +23998,6 @@
   官网信息未明确适用于2027届，待确认
   https://smics.zhiye.com/campusxq?jobId=390776895&jc=2&c=&p=1^-1,3^-1&ky=%E4%BA%A7%E5%93%81
 
-- ⭐ 产品重点｜收钱吧｜产品运营（营销方向）(J11411)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://shouqianba.zhiye.com/social/detail?jobAdId=59b92795-9508-4be7-993d-341da6d86aa8
-
 - 美团｜partnership management manager
   地点：利雅得、达曼
   官网信息未明确适用于2027届，待确认
@@ -23918,6 +24008,11 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4453551472
 
+- ⭐ 产品重点｜收钱吧｜产品运营（营销方向）(J11411)
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://shouqianba.zhiye.com/social/detail?jobAdId=59b92795-9508-4be7-993d-341da6d86aa8
+
 - 腾讯｜微信-WeLM多模态大模型Agentic RL研究
   地点：上海 
   官网信息未明确适用于2027届，待确认
@@ -23927,11 +24022,6 @@
   地点：北京 
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1296891644968402945
-
-- 美团｜自动驾驶云控平台 服务端技术专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4797791967
 
 - 美团｜城市经理
   地点：唐山市
@@ -24002,6 +24092,11 @@
   地点：沈阳市、哈尔滨市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2468626344
+
+- 美团｜自动驾驶云控平台 服务端技术专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4797791967
 
 - 美团｜大模型训练/部署/推理/算力调度全链路技术专家
   地点：北京市
@@ -24348,11 +24443,6 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21817
 
-- ⭐ 产品重点｜合思｜跨境支付产品经理（转正机会）(J10501)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://hosecloud.zhiye.com/campus/detail?jobAdId=0a451fb8-c4d3-45d3-a0d0-a1a54aabc3a9
-
 - 美团｜2027秋招-Account Management Associate
   地点：迪拜
   官网信息未明确适用于2027届，待确认
@@ -24373,10 +24463,10 @@
   官网信息未明确适用于2027届，待确认
   https://app.mokahr.com/social-recruitment/zte/47588#/job/bb7d455f-2760-4710-b2f9-6c7ee339eadf
 
-- 美团｜收单 渠道经理
-  地点：北京市、石家庄市、上海市、杭州市、武汉市、广州市、深圳市、成都市、西安市、太原市、昆明市、济南市、长沙市
+- ⭐ 产品重点｜合思｜跨境支付产品经理（转正机会）(J10501)
+  地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4874400358
+  https://hosecloud.zhiye.com/campus/detail?jobAdId=0a451fb8-c4d3-45d3-a0d0-a1a54aabc3a9
 
 - 美团｜无人机-物流履约高级经理
   地点：深圳市
@@ -24387,6 +24477,11 @@
   地点：杭州市、温州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3992862389
+
+- 美团｜收单 渠道经理
+  地点：北京市、石家庄市、上海市、杭州市、武汉市、广州市、深圳市、成都市、西安市、太原市、昆明市、济南市、长沙市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4874400358
 
 - 美团｜小象超市-北京设备运维主管
   地点：北京市
@@ -24593,11 +24688,6 @@
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=22172
 
-- ⭐ 产品重点｜国轩高科｜项目管理工程师（产品侧）(J16427)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=5b93237f-208a-4f57-8a03-a370c4f5383d
-
 - ⭐ 产品重点｜中兴通讯｜无线产品工程师
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -24697,6 +24787,11 @@
   地点：圣保罗
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4314551039
+
+- ⭐ 产品重点｜搜狐｜【2027】产品运营
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://app.mokahr.com/campus_apply/sohu/5682#/job/271a0a12-8972-438a-ae6a-7c3b84a8724d
 
 - 美团｜财务培训生(财务运营方向)
   地点：北京市、成都市
@@ -24978,11 +25073,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4566481225
 
-- 美团｜合规调查专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873092841
-
 - 美团｜闪购-神价供给运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -24992,6 +25082,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2039205750
+
+- 美团｜合规调查专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873092841
 
 - 美团｜合作商管理专家（成本管理方向）
   地点：北京市
@@ -25093,11 +25188,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4514110766
 
-- 美团｜美团企业版-大客户销售经理（华南区-base深圳）
-  地点：深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3623477930
-
 - 美团｜大众点评品牌营销
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -25122,6 +25212,11 @@
   地点：北京市、上海市、成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4242449869
+
+- 美团｜美团企业版-大客户销售经理（华南区-base深圳）
+  地点：深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3623477930
 
 - 美团｜小象超市-成都品控专家
   地点：成都市
@@ -25337,31 +25432,6 @@
   地点：深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3043132559
-
-- ⭐ 产品重点｜国轩高科｜销售工程师（小储产品）(J16420)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=6344a44b-f223-41c8-8acb-0ecc610f5c3e
-
-- ⭐ 产品重点｜国轩高科｜产品设备工程师（产线）(J16414)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=63652246-0274-4e4c-b209-19a0856fe17b
-
-- ⭐ 产品重点｜国轩高科｜产品采购工程师(J16244)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=707d3c38-eb9d-41a1-a5d8-7a75db158b8a
-
-- ⭐ 产品重点｜国轩高科｜产品交付工程师(J16243)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=9ddb56b8-c3bf-4322-8160-992309643371
-
-- ⭐ 产品重点｜国轩高科｜产品设备工程师(J16076)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=5bd90ad3-9ea3-4575-968a-6707c308f49b
 
 - 美团｜信贷政府事务专家-消保方向（AI工具驱动）
   地点：北京市
@@ -25918,16 +25988,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1284528300198503424
 
-- 美团｜美团骑行-资产经营主管（珠海）
-  地点：珠海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684160189
-
-- 美团｜美团骑行-资产经营主管（广州）
-  地点：广州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684145065
-
 - 美团｜片区经理（base可选全国）
   地点：北京市、石家庄市、包头市、沈阳市、上海市、南京市、杭州市、合肥市、郑州市、武汉市、长沙市、广州市、深圳市、南宁市、重庆市、成都市、西安市
   官网信息未明确适用于2027届，待确认
@@ -25987,6 +26047,16 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4679759397
+
+- 美团｜美团骑行-资产经营主管（珠海）
+  地点：珠海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684160189
+
+- 美团｜美团骑行-资产经营主管（广州）
+  地点：广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684145065
 
 - 美团｜结算运营
   地点：北京市
@@ -26288,11 +26358,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1292833382451231744
 
-- 美团｜核心本地商业财务-到餐财务BP
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4869075073
-
 - 美团｜策略运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -26307,6 +26372,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4601419665
+
+- 美团｜核心本地商业财务-到餐财务BP
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4869075073
 
 - 美团｜Keemart财务BP——物流履约方向
   地点：北京市
@@ -27138,20 +27208,10 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3671395241
 
-- ⭐ 产品重点｜国轩高科｜结构工程师（储能产品）(J16231)
+- ⭐ 产品重点｜国轩高科｜产品工艺工程师(J15875)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=ea7e2089-5993-478c-bfa3-b4976178623a
-
-- ⭐ 产品重点｜国轩高科｜电气设计工程师（储能产品）(J16227)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=02dc3721-6fca-42e3-81eb-688f72a1ccb2
-
-- ⭐ 产品重点｜国轩高科｜产品结构工程师(J16191)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=7d318b13-1cb2-414c-bf7d-b36cf7fdbb1a
+  https://gotion.zhiye.com/campus/detail?jobAdId=0b45d893-44a8-4a63-85ca-d83dd03d029b
 
 - ⭐ 产品重点｜新华三集团｜硬件研发工程师（Aolynk产品线）(J18863)
   地点：官网未注明
@@ -27268,6 +27328,11 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1312405648851787776
 
+- 美团｜政府投诉调解（北京驻所）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4855718281
+
 - 美团｜快驴财务-销售财务BP
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -27277,11 +27342,6 @@
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4864835890
-
-- 美团｜政府投诉调解（北京驻所）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4855718281
 
 - 美团｜产业研究与投资-酒旅及服务零售方向
   地点：北京市
@@ -27363,6 +27423,11 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3271743378
 
+- ⭐ 产品重点｜西门子｜数字化工业Sales100培训生 销售工程师-数控产品 南京/苏州
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6aa113a17280da28da0797d8&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
+
 - 美团｜小象超市沈阳供应链品控负责人
   地点：沈阳市
   官网信息未明确适用于2027届，待确认
@@ -27372,11 +27437,6 @@
   地点：南京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4521859038
-
-- ⭐ 产品重点｜西门子｜数字化工业Sales100培训生 销售工程师-数控产品 南京/苏州
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://jobs.siemens.com.cn/siemens/position/detail?positionId=6aa113a17280da28da0797d8&recruitmentType=CAMPUSRECRUITMENT&currentLang=zh_CN
 
 - 美团｜食杂零售战略研究专家
   地点：北京市
@@ -27443,10 +27503,20 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4268722220
 
+- ⭐ 产品重点｜英特尔 Intel｜Testchip Analog Product Development Engineer- HVM position
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Testchip-Analog-Product-Development-Engineer--HVM-position_JR0287260-1?q=product
+
 - ⭐ 产品重点｜追觅科技（MOVA）｜PQE（产品质量工程师）- 3C电子(J53189)
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://dreame.zhiye.com/social/detail?jobAdId=6f336fa3-6226-4585-9e94-29322938e54b
+
+- ⭐ 产品重点｜美的集团｜产品工艺工程师-储能
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://careers.midea.com/schoolOut/post/details?positionId=8b8b33f9a029746e01a04287614e0d08
 
 - 美团｜无人车业务部-嵌入式硬件负责人
   地点：深圳市、北京市
@@ -27463,10 +27533,10 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4452780030
 
-- ⭐ 产品重点｜美的集团｜产品工艺工程师-储能
+- ⭐ 产品重点｜中兴通讯｜国际承载产品方案经理（波分）
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://careers.midea.com/schoolOut/post/details?positionId=8b8b33f9a029746e01a04287614e0d08
+  https://app.mokahr.com/social-recruitment/zte/47588#/job/80c9b3ca-a625-4b01-80df-242f370922eb
 
 - ⭐ 产品重点｜中兴通讯｜驱动软件开发工程师（有线硬件产品）
   地点：官网未注明
@@ -27748,16 +27818,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1311025530992286720
 
-- 美团｜部门助理/业务助理
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4880299760
-
-- 美团｜无人车-资产维修主管
-  地点：淄博市、潍坊市、临沂市、洛阳市、武汉市、郑州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4760896301
-
 - 美团｜美团平台-数据开发工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -27767,6 +27827,16 @@
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4630136117
+
+- 美团｜部门助理/业务助理
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4880299760
+
+- 美团｜无人车-资产维修主管
+  地点：淄博市、潍坊市、临沂市、洛阳市、武汉市、郑州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4760896301
 
 - 美团｜业务运营支持
   地点：北京市
@@ -28152,11 +28222,6 @@
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3954309447
-
-- ⭐ 产品重点｜国轩高科｜产品结构工程师-国际工程研究院(J15933)
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://gotion.zhiye.com/campus/detail?jobAdId=36f5f021-c79c-4b67-a34e-750d96a30948
 
 - 美团｜支付公共事务高级专家（AI工具驱动）
   地点：北京市
@@ -28828,21 +28893,6 @@
   官网信息未明确适用于2027届，待确认
   https://campus.jd.com/#/jobs?reqId=2512
 
-- 美团｜小象超市-配送经理(沈阳)
-  地点：沈阳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4803667562
-
-- 美团｜美团骑行-资产主管（北京路面）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4601639883
-
-- 美团｜小象超市-配送经理（华南）
-  地点：广州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4863293080
-
 - 美团｜医药-B2C-华东仓驻仓质量负责人
   地点：金华市
   官网信息未明确适用于2027届，待确认
@@ -28912,6 +28962,21 @@
   地点：天津市、徐州市、苏州市、合肥市、厦门市、济南市、东莞市、昆明市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4288095608
+
+- 美团｜小象超市-配送经理(沈阳)
+  地点：沈阳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4803667562
+
+- 美团｜美团骑行-资产主管（北京路面）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4601639883
+
+- 美团｜小象超市-配送经理（华南）
+  地点：广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4863293080
 
 - 美团｜冷藏主管
   地点：佛山市
@@ -29613,11 +29678,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1296893677230555136
 
-- 美团｜加盟拓展专家
-  地点：广州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737582731
-
 - 美团｜小象超市-蔬菜统采专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -29627,6 +29687,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4514012711
+
+- 美团｜加盟拓展专家
+  地点：广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737582731
 
 - 美团｜快乐猴-物流-运输主管
   地点：北京市
@@ -29663,11 +29728,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1274481034578500756
 
-- 美团｜拼好饭-区域品牌采购策略
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4817278574
-
 - 美团｜闪购-歪马-前置仓主管-宁波
   地点：宁波市
   官网信息未明确适用于2027届，待确认
@@ -29687,6 +29747,11 @@
   地点：北京市、广州市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4611607670
+
+- 美团｜拼好饭-区域品牌采购策略
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4817278574
 
 - 美团｜企业业务供应链销售直营团队负责人
   地点：北京市
@@ -30568,11 +30633,6 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4695022677
 
-- 美团｜冻禽PB采购专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4850268559
-
 - 美团｜鲜肉招商采购-西安
   地点：西安市
   官网信息未明确适用于2027届，待确认
@@ -30582,6 +30642,11 @@
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4654693965
+
+- 美团｜冻禽PB采购专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4850268559
 
 - 美团｜软硬件法务BP(无人车方向)
   地点：北京市、上海市
@@ -31073,21 +31138,6 @@
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1307787912720646144
 
-- 美团｜会计报告-薪酬福利会计
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4842684316
-
-- 美团｜下沉市场-招商运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830384462
-
-- 美团｜快乐猴-湖州门店店长
-  地点：湖州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4136574901
-
 - 美团｜电机研发工艺工程师
   地点：深圳市
   官网信息未明确适用于2027届，待确认
@@ -31162,6 +31212,21 @@
   地点：佛山市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4436545152
+
+- 美团｜会计报告-薪酬福利会计
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4842684316
+
+- 美团｜下沉市场-招商运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830384462
+
+- 美团｜快乐猴-湖州门店店长
+  地点：湖州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4136574901
 
 - 美团｜零售会计运营
   地点：北京市
@@ -31993,7 +32058,7 @@
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=1553972946
 
-## 实习参考（不推送） · 900 条
+## 实习参考（不推送） · 896 条
 
 - ⭐ 产品重点｜小米｜产品经理实习生
   地点：官网未注明
@@ -32235,11 +32300,6 @@
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3729719250
 
-- ⭐ 产品重点｜360集团｜产品运营实习生（北京）-4997(J11843)
-  地点：官网未注明
-  实习单列，不发正式校招提醒
-  https://360campus.zhiye.com/intern/detail?jobAdId=240f481d-b669-47d4-9f5f-0a5d44b80519
-
 - 美团｜【基座大模型北斗实习】复杂Agent应用技术研究
   地点：北京市、上海市
   实习单列，不发正式校招提醒
@@ -32334,11 +32394,6 @@
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4878524642
-
-- ⭐ 产品重点｜360集团｜产品运营实习生-AI方向（北京）-5292(J12358)
-  地点：官网未注明
-  实习单列，不发正式校招提醒
-  https://360campus.zhiye.com/intern/detail?jobAdId=8b309a99-2caa-4b15-beb4-3a7e7badb7f0
 
 - ⭐ 产品重点｜vivo｜AI产品前端开发工程师-实习
   地点：官网未注明
@@ -33175,11 +33230,6 @@
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3369700031
 
-- ⭐ 产品重点｜360集团｜产品运营实习生（北京）-4355(J12149)
-  地点：官网未注明
-  实习单列，不发正式校招提醒
-  https://360campus.zhiye.com/intern/detail?jobAdId=3f6de037-e881-42d7-978f-2123c08493db
-
 - 美团｜招聘实习生
   地点：北京市
   实习单列，不发正式校招提醒
@@ -33750,15 +33800,15 @@
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4570930537
 
-- 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
-
 - 美团｜【LongCat实习】原生多模态大模型研究
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4600051151
+
+- 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
 
 - 美团｜具身智能前沿研究实习
   地点：上海市、北京市
@@ -33780,15 +33830,15 @@
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4346554693
 
-- 美团｜【大模型北斗实习】Post-training 前沿算法研究
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3155417212
-
 - 美团｜【大模型北斗实习】长周期人机协作能力探索和评测
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3153985521
+
+- 美团｜【大模型北斗实习】Post-training 前沿算法研究
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3155417212
 
 - 美团｜【大模型北斗实习】统一化的检索生成框架探索与评测
   地点：北京市、上海市
@@ -34184,11 +34234,6 @@
   地点：成都市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4752566777
-
-- ⭐ 产品重点｜360集团｜产品运营实习生-AI舆情方向（北京）-5299(J12376)
-  地点：官网未注明
-  实习单列，不发正式校招提醒
-  https://360campus.zhiye.com/intern/detail?jobAdId=bf949d6c-bbfa-4ee0-b4a6-7b5c192d8bfb
 
 - 腾讯｜算法-多模态方向
   地点：深圳总部 北京 上海 广州 成都 
@@ -36515,11 +36560,8 @@
 - watch-sheet-017：抓取 0 条
 - watch-sheet-018：RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Locator.press: Timeout 3500ms exceeded.
 Call log:
-  - waiting for get_by_placeholder("立即搜索职位", exact=True).first
-; HTTP 404; TimeoutError: Locator.press: Timeout 3500ms exceeded.
-Call log:
   - waiting for get_by_placeholder("搜索职位", exact=True).first
-
+; HTTP 404
 - watch-sheet-019：抓取 10 条
 - watch-sheet-020：抓取量跌为 0（历史峰值 9，疑似改版/失效）
 - watch-sheet-021：RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 职位分页超过30页，拒绝不完整基线
@@ -36532,7 +36574,7 @@ Call log:
 - watch-sheet-026：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-027：抓取 0 条
 - watch-sheet-028：抓取 11 条
-- watch-sheet-029：抓取 5 条
+- watch-sheet-029：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：硬件产品经理(J14426)
 - watch-sheet-030：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-031：RuntimeError: TimeoutError: 
 - watch-sheet-032：RuntimeError: RuntimeError: 未验证到可读职位列表；
@@ -36540,29 +36582,31 @@ Call log:
     at eval (eval at evaluate (:370:30), <anonymous>:8:293)
     at Array.map (<an
 - watch-sheet-034：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-035：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-035：RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://career.anker.com.cn/universities/recruitment/", waiting until "domcontentloaded"
+
 - watch-sheet-036：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：数据分析产品经理、高级产品经理
 - watch-sheet-037：抓取 1 条
 - watch-sheet-038：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI原生财务产品/应用架构师-27届、产品经理（B端）-27届
-- watch-sheet-039：RuntimeError: RuntimeError: 官网存在产品职位，但未取得可验证详情链接；需适配该招聘系统
+- watch-sheet-039：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：智能产品设计师
 - watch-sheet-040：抓取 0 条
 - watch-sheet-041：抓取 3 条
-- watch-sheet-042：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：APP产品经理(J55815)
+- watch-sheet-042：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：充电宝产品经理(J55811)
 - watch-sheet-043：抓取 10 条
-- watch-sheet-044：抓取 17 条
+- watch-sheet-044：抓取量骤降 17→1（疑似部分失效）
 - watch-sheet-045：抓取 1 条
 - watch-sheet-046：抓取 0 条
 - watch-sheet-047：抓取量跌为 0（历史峰值 7，疑似改版/失效）
 - watch-sheet-048：RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 403
-- watch-sheet-049：抓取 4 条
+- watch-sheet-049：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-050：抓取量跌为 0（历史峰值 19，疑似改版/失效）
 - watch-sheet-051：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-052：抓取 5 条
-- watch-sheet-053：RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.
+- watch-sheet-053：抓取 0 条
+- watch-sheet-054：RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: net::ERR_CONNECTION_RESET at https://sokon.zhiye.com/campus/jobs
 Call log:
-  - navigating to "https://www.wondershare.cn/about/join-us.html", waiting until "domcontentloaded"
-
-- watch-sheet-054：抓取 23 条
+  - navigating to "https://sokon.zhiye.com/campus/jobs", waiting until "do
 - watch-sheet-055：抓取 13 条
 - watch-sheet-056：抓取 2 条
 - watch-sheet-057：RuntimeError: RuntimeError: 未验证到可读职位列表；
@@ -36570,20 +36614,17 @@ Call log:
 - watch-sheet-059：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-060：抓取量跌为 0（历史峰值 11，疑似改版/失效）
 - watch-sheet-061：抓取 2 条
-- watch-sheet-062：RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://hr.xunlei.com/", waiting until "domcontentloaded"
-
+- watch-sheet-062：抓取 0 条
 - watch-sheet-063：抓取 0 条
 - watch-sheet-064：抓取 1 条
 - watch-sheet-065：抓取 0 条
-- watch-sheet-066：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-066：RuntimeError: TimeoutError: 
 - watch-sheet-067：抓取 1 条
 - watch-sheet-068：RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 职位分页超过30页，拒绝不完整基线
 - watch-sheet-069：抓取 0 条
 - watch-sheet-070：抓取 0 条
 - watch-sheet-071：RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 567
-- watch-sheet-072：抓取 5 条
+- watch-sheet-072：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：产品管理方向管理培训生 Product Management -Siemens Graduate Program (SGP) 上海、西门子管理培训生-产品战略管理 Siemens Graduate Program - Product Strategy Management
 - watch-sheet-073：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-074：抓取 0 条
 - watch-sheet-075：RuntimeError: RuntimeError: 未验证到可读职位列表；
@@ -36598,7 +36639,7 @@ Call log:
 - watch-sheet-081：抓取 13 条
 - watch-sheet-082：抓取 0 条
 - watch-sheet-083：抓取 0 条
-- watch-sheet-084：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-084：抓取 28 条
 - watch-sheet-085：RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 - watch-sheet-086：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-087：抓取 0 条
@@ -36626,7 +36667,7 @@ Call log:
 Call log:
   - navigating to "https://gac-toyota.zhiye.com/", waiting until "domcontentloaded"
 
-- watch-sheet-104：抓取 0 条
+- watch-sheet-104：抓取 1 条
 - watch-sheet-105：抓取 12 条
 - watch-sheet-106：RuntimeError: RuntimeError: 职位列表分页未完成；TimeoutError: Locator.click: Timeout 3500ms exceeded.
 Call log:
@@ -36634,8 +36675,8 @@ Call log:
 - watch-sheet-107：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-108：抓取 6 条
 - watch-sheet-109：RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表
-- watch-sheet-110：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：内容产品经理（AI方向）【2027届秋招】(J73047)、数据产品经理【2027届秋招】(J72383)
-- watch-sheet-111：抓取 6 条
+- watch-sheet-110：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI产品经理（智能服务方向）【2027届秋招】(J73046)
+- watch-sheet-111：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【英才2027】履约产品经理-租车事业部(J21643)
 - watch-sheet-112：抓取 2 条
 - watch-sheet-113：抓取 4 条
 - watch-sheet-114：抓取 16 条
@@ -36654,7 +36695,7 @@ Call log:
 - watch-sheet-124：抓取 9 条
 - watch-sheet-125：抓取 1 条
 - watch-sheet-126：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-127：抓取 12 条
+- watch-sheet-127：RuntimeError: TimeoutError: 
 - watch-sheet-128：抓取 6 条
 - watch-sheet-129：抓取 2 条
 - watch-sheet-130：RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.; Error: Page.goto: Navigation to "https://join.yuewen.com/school" is interrupted by another navigation to "https://join.yuewen.com/"
@@ -36665,42 +36706,39 @@ Call log:
 - watch-sheet-133：抓取 3 条
 - watch-sheet-134：抓取 2 条
 - watch-sheet-135：RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 403
-- watch-sheet-136：抓取 11 条
+- watch-sheet-136：RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2027校招-应用产品经理管培生（前台）
 - watch-sheet-137：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-138：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-139：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-138：抓取 3 条
+- watch-sheet-139：抓取 1 条
 - watch-sheet-140：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-141：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-142：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-142：抓取 2 条
 - watch-sheet-143：RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 418
-- watch-sheet-144：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-145：RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.bloomagebiotech.com/join.html", waiting until "domcontentloaded"
-
+- watch-sheet-144：抓取 1 条
+- watch-sheet-145：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-146：抓取 8 条
 - watch-sheet-147：抓取 9 条
-- watch-sheet-148：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-149：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-148：抓取 1 条
+- watch-sheet-149：抓取 1 条
 - watch-sheet-150：抓取 0 条
 - watch-sheet-151：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-152：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-153：抓取 5 条
 - watch-sheet-154：RuntimeError: RuntimeError: 未验证到可读职位列表；
-- watch-sheet-155：RuntimeError: RuntimeError: 部分产品职位详情读取失败；详情未读: TimeoutError
+- watch-sheet-155：抓取 2 条
 - watch-sheet-156：抓取 1 条
 - watch-sheet-157：抓取 0 条
 - watch-sheet-158：抓取 5 条
-- watch-sheet-159：RuntimeError: RuntimeError: 未验证到可读职位列表；
+- watch-sheet-159：RuntimeError: TimeoutError: 
 - watch-sheet-160：RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
   - navigating to "https://zhaopin.ynby.cn/", waiting until "domcontentloaded"
 
 - watch-sheet-161：RuntimeError: RuntimeError: 未验证到可读职位列表；官网安全验证或访问限制，未绕过
-- watch-sheet-162：抓取 2 条
+- watch-sheet-162：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-163：RuntimeError: RuntimeError: 未验证到可读职位列表；
 - watch-sheet-164：抓取 5 条
 
-监控清单 163 家；本轮尝试 163 个信源；正常 76，异常/待适配 87。
+监控清单 163 家；本轮尝试 163 个信源；正常 77，异常/待适配 86。
 
 异常不等于没有新增。首次成功读取的新公司仅建立现有岗位基线，后续出现的新职位再提醒。
