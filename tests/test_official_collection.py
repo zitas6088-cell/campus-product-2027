@@ -25,6 +25,7 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         page.goto=AsyncMock(side_effect=goto)
         page.wait_for_load_state=AsyncMock()
         page.wait_for_timeout=AsyncMock()
+        page.mouse.wheel=AsyncMock()
         page.evaluate=AsyncMock(return_value=snapshot)
         page.content=AsyncMock(return_value=content)
         body=locator(text='2027届 产品经理\n岗位职责：负责产品规划\n任职要求：2027届毕业生')
@@ -74,6 +75,20 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         browser,_,_,spec=self.setup_board(snapshot)
         with self.assertRaisesRegex(RuntimeError,'未验证到可读职位列表'):
             await collect_company(browser,spec)
+
+    async def test_search_button_is_used_when_enter_is_not_a_site_action(self):
+        snapshot={'links':[],'titles':[],'headings':[],'text':'暂无相关职位'}
+        browser,page,_,spec=self.setup_board(snapshot)
+        field=locator();field.fill=AsyncMock();field.press=AsyncMock()
+        field.get_attribute=AsyncMock(return_value='输入职位名称关键字搜索')
+        original=page.locator.side_effect
+        page.locator.side_effect=lambda selector:locator(fields=[field]) if selector=='input[placeholder]' else original(selector)
+        page.get_by_placeholder=Mock(return_value=locator(fields=[field]))
+        button=locator();button.click=AsyncMock()
+        page.get_by_role.side_effect=lambda role,**kwargs:locator(fields=[button]) if role=='button' else locator()
+        self.assertTrue((await collect_company(browser,spec))['ok'])
+        self.assertEqual(button.click.await_count,2)
+        field.press.assert_not_awaited()
 
     async def test_shared_portal_jsonld_does_not_relabel_another_employer(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'暂无相关职位'}

@@ -35,8 +35,11 @@ def canonical(url):
     parts = urlsplit(str(url or '').strip())
     tracking = {'sourcetoken', 'source', 'ref', 'referralcode', 'spread', 'spm', 'from', 'timestamp', 't'}
     def query(value):
-        return urlencode(sorted((k,v) for k,v in parse_qsl(value, keep_blank_values=True)
-                                if k.lower() not in tracking and not k.lower().startswith('utm_')))
+        pairs = parse_qsl(value, keep_blank_values=True)
+        has_job_id = any(re.fullmatch(r'(?:job|post|position|req)(?:id|code)', k, re.I) for k,v in pairs)
+        context_keys = {'ky', 'keyword', 'keywords', 'search', 'searchtext', 'pageindex', 'pagenumber', 'page', 'c', 'p', 'jc'} if has_job_id else set()
+        return urlencode(sorted((k,v) for k,v in pairs
+                                if k.lower() not in tracking | context_keys and not k.lower().startswith('utm_')))
     fragment = parts.fragment
     if '?' in fragment:
         route, suffix = fragment.split('?',1)
@@ -148,6 +151,16 @@ async def collect_company(browser, spec):
     all_listings, unresolved_titles, explicit_empty, pages_read = set(), set(), False, 0
     known = {}
     listing_complete = False
+
+    async def reveal_listing():
+        # Official campaign sites often hide their list until a normal scroll
+        # triggers its entrance animation. Return to the top for virtual lists.
+        for _ in range(3):
+            await page.mouse.wheel(0, 800)
+            await page.wait_for_timeout(180)
+        await page.mouse.wheel(0, -2400)
+        await page.wait_for_timeout(220)
+
     try:
         while queue and pages_read < 12:
             url = queue.pop(0)
@@ -165,6 +178,7 @@ async def collect_company(browser, spec):
                     # still have to pass the checks below.
                     pass
                 await page.wait_for_timeout(1600)
+                await reveal_listing()
                 snapshot = await page.evaluate(DOM_SNAPSHOT)
                 if FORBIDDEN.search(snapshot['text'][:6000]):
                     reasons.append('官网安全验证或访问限制，未绕过'); continue
@@ -284,6 +298,7 @@ async def collect_company(browser, spec):
                         if number == 29: raise RuntimeError('职位分页超过30页，拒绝不完整基线')
                         await next_page.click()
                         await page.wait_for_timeout(900)
+                        await reveal_listing()
                         following = await page.evaluate(DOM_SNAPSHOT)
                         if following['links'] == current['links']:
                             raise RuntimeError('下一页未发生变化，无法确认完整列表')
@@ -303,8 +318,14 @@ async def collect_company(browser, spec):
                             if not visible_fields: raise RuntimeError('职位搜索框重绘后不可用')
                             current_field = visible_fields[-1]
                             await current_field.fill(term)
-                            await current_field.press('Enter')
+                            buttons = await page.get_by_role('button',name=re.compile(r'^(搜索|查询|Search|Search jobs)$',re.I)).all()
+                            visible_buttons = [button for button in buttons if await button.is_visible()]
+                            if visible_buttons:
+                                await visible_buttons[0].click()
+                            else:
+                                await current_field.press('Enter')
                             await page.wait_for_timeout(1600)
+                            await reveal_listing()
                             await scan_results(await page.evaluate(DOM_SNAPSHOT))
                         searched = True
                         break

@@ -94,6 +94,13 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertEqual(state['delivered'][identity(new)],original)
         self.assertEqual(select_pending([new],state),[])
 
+    def test_list_search_context_does_not_change_official_job_identity(self):
+        first='https://smics.zhiye.com/campusxq?jobId=42&ky=product&p=1&jc=2'
+        second='https://smics.zhiye.com/campusxq?jobId=42&ky=产品&p=2&jc=2'
+        self.assertEqual(official_board.canonical(first),official_board.canonical(second))
+        self.assertNotEqual(official_board.canonical(first),official_board.canonical(first.replace('jobId=42','jobId=43')))
+        self.assertNotEqual(official_board.canonical('https://example.com/jobs?p=1'),official_board.canonical('https://example.com/jobs?p=2'))
+
     def test_campus_job_allowing_early_internship_remains_eligible(self):
         job=dict(company_name='赛力斯',source_id='watch-sheet-054',title='产品经理（可实习）【2027届校招】',
                  official_url='https://sokon.zhiye.com/campus/detail?jobAdId=123')
