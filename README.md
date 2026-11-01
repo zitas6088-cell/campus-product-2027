@@ -1,18 +1,20 @@
-> 当前个人部署：**金山表格163家公司，2027届产品相关正式校招新增提醒**。每天北京时间09:00、15:00检查，经飞书推送；非产品岗位不提醒。每家公司的首次成功读取仅建基线。名单配置与真实抓取覆盖率分开记录，异常不视为无新增。详见[全公司监控说明](docs/FULL_COMPANY_MONITOR.md)。
+# 2027届产品岗新增提醒
 
-# 2027届国内大厂校招提醒（产品优先）
+监控名单来自[金山表格](https://www.kdocs.cn/l/cn8UCcWyH6Hv)：2026-10-31快照共163家公司。每天北京时间 **09:00、15:00** 由GitHub Actions触发检查，符合条件的新增岗位发到现有飞书机器人。Actions可能排队，提醒在检查完成后发出。
 
-范围：腾讯、字节跳动、京东、美团、小红书、拼多多的官网校招接口；默认不限城市。
-官网能证实适用 2027 届的各类正式校招新增都提醒；产品相关加「⭐ 产品重点」并优先单独推送。届别不足和实习单列。
-每天北京时间约 09:17 / 14:17 / 20:17 运行，首次建立基线，以后仅提醒新增。
+仅提醒官网明确适用于2027届、标题与产品有关的正式校招新增；非产品、纯实习、社招及届别待确认岗位不推送。新公司首次成功读取只建立基线，后续新增再提醒。同一官网岗位去重，飞书确认成功后才记为已发。
 
-- 使用说明：[docs/DEPLOY_2027_PRODUCT.md](docs/DEPLOY_2027_PRODUCT.md)
-- 岗位与来源状态：[data/campus_product.md](data/campus_product.md)
-- 规则：[config/campus_product.json](config/campus_product.json)
-- 工作流：Actions → **2027届校招监控（产品优先）**
+**名单配置不等于全部官网已接通。** 每轮单独列出实际成功读取与异常；抓取失败不能视作没有新增。失败来源保留上次数据，并等待后续适配或官网恢复。
 
-这是基于 [Jasmine-Liu-min/job-radar](https://github.com/Jasmine-Liu-min/job-radar) 的定制版本。
-下方保留上游项目说明供参考；本版本只启用上面的六家官网校招工作流，未启用上游广泛扫描和网页发布。
+- [逐家公司监控状态](data/company_monitor_coverage.md)
+- [岗位与抓取结果](data/campus_product.md)
+- [监控规则](config/campus_product.json)与[公司入口清单](config/company_watchlist.json)
+- [部署说明](docs/FULL_COMPANY_MONITOR.md)与[入口核对记录](docs/SOURCE_CORRECTIONS_2026-11-01.md)
+- [定时任务与运行附件](https://github.com/zitas6088-cell/campus-product-2027/actions/workflows/sync.yml)
+
+原六家专用官网API保留，英伟达使用官方Workday接口，其他来源通过公开招聘页面读取。名单是固定快照；以后表格新增公司后需同步配置。公开仓库不保存个人投递进度、备注或飞书凭证。
+
+基于[Jasmine-Liu-min/job-radar](https://github.com/Jasmine-Liu-min/job-radar)定制。下方保留上游项目说明供参考，本部署的实际范围和时刻以上述说明及工作流为准。
 
 ---
 
