@@ -115,5 +115,10 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertEqual(classify(job)[0],'confirmed')
         self.assertEqual(classify(dict(job,title='2027届产品经理实习生'))[0],'internship')
 
+    def test_international_product_role_is_not_mistaken_for_an_internship(self):
+        job=dict(company_name='京东',source_id='watch-jd',title='2027 Graduate Product Manager - International Business',official_url='https://example.com/job/42')
+        self.assertEqual(classify(job)[0],'confirmed')
+        self.assertEqual(classify(dict(job,title='2027 Product Manager Intern'))[0],'internship')
+
 
 if __name__=='__main__': unittest.main()
