@@ -53,6 +53,7 @@ jobs:
           git add data/
           if ! git diff --cached --quiet; then
             git commit -m 'chore: update 2027 campus report [skip ci]'
+            git pull --rebase origin main
             git push
           fi
       - name: 保存可下载报告
@@ -65,5 +66,6 @@ jobs:
             data/campus_product.json
             data/health_report.json
             data/company_monitor_coverage.json
+            data/company_monitor_coverage.md
             data/official_board_snapshot.json
           retention-days: 14
