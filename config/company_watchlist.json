@@ -219,8 +219,8 @@
       "company": "联想",
       "sheet_row": 24,
       "urls": [
-        "https://talent.lenovo.com.cn/",
-        "https://talent.lenovo.com.cn/home"
+        "https://talent.lenovo.com.cn/position",
+        "https://talent.lenovo.com.cn/"
       ],
       "method": "official_board"
     },
@@ -238,6 +238,7 @@
       "company": "华为",
       "sheet_row": 26,
       "urls": [
+        "https://career.huawei.com/cn/campus-recruitment-job-list",
         "https://career.huawei.com/cn/campus-recruitment"
       ],
       "method": "official_board"
@@ -276,7 +277,8 @@
       "company": "顺丰科技",
       "sheet_row": 30,
       "urls": [
-        "https://campus.sf-express.com/#/homePage"
+        "https://campus.sf-express.com/index.html",
+        "https://www.sf-tech.com.cn/join/"
       ],
       "method": "official_board"
     },
@@ -708,6 +710,7 @@
       "company": "宁德时代",
       "sheet_row": 75,
       "urls": [
+        "https://talent.catl.com/social-recruitment/catlhr/96144/",
         "https://catl.zhiye.com/campus"
       ],
       "method": "official_board"
