@@ -1,0 +1,35 @@
+name: 招聘官网单独核验
+on:
+  workflow_dispatch:
+    inputs:
+      rows:
+        description: '表格行号，以逗号分隔，最多30家公司'
+        required: true
+        type: string
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 安装公开官网读取依赖
+        run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: 核验指定公司并记录失败位置
+        env:
+          PROBE_ROWS: ${{ inputs.rows }}
+          PYTHONUTF8: '1'
+        run: python scripts/probe_official_boards.py
+      - name: 下载官网核验结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: official-source-probe
+          path: probe_output/
+          retention-days: 7
