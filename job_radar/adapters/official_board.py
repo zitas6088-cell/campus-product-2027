@@ -104,7 +104,9 @@ DOM_SNAPSHOT = r'''() => {
  const headings = Array.from(document.querySelectorAll('h1,h2,[class*="banner"] img,[class*="Banner"] img')).filter(visible).map(e => e.innerText || e.alt || '');
  const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"]')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120);
  const extra_titles = Array.from(document.querySelectorAll('[class*="title"],[class*="Title"],h3')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120 && /产品|\bproduct\b/i.test(t));
- return {links, headings, titles, extra_titles, text: document.body.innerText.slice(0,100000)};
+ const inputs = Array.from(document.querySelectorAll('input[placeholder]')).filter(visible).map(e=>e.placeholder);
+ const buttons = Array.from(document.querySelectorAll('button,[role="button"]')).filter(visible).slice(-30).map(e=>({text:e.innerText,aria:e.getAttribute('aria-label'),class:e.className,disabled:e.disabled}));
+ return {links, headings, titles, extra_titles, inputs, buttons, text: document.body.innerText.slice(0,100000)};
 }'''
 
 
@@ -127,7 +129,7 @@ def json_jobs(value):
                 yield from json_jobs(child)
 
 
-async def collect_company(browser, spec):
+async def collect_company(browser, spec, diagnostics=None):
     context = await browser.new_context(locale='zh-CN')
     page = await context.new_page()
     page.set_default_timeout(3500)
@@ -168,8 +170,12 @@ async def collect_company(browser, spec):
             if canonical(url) in visited:
                 continue
             visited.add(canonical(url))
+            diagnostic = {'requested_url': url}
+            if diagnostics is not None:
+                diagnostics.append(diagnostic)
             try:
                 response = await page.goto(url, wait_until='domcontentloaded', timeout=25000)
+                diagnostic['status'] = response.status if response else None
                 if response and response.status >= 400:
                     reasons.append(f'HTTP {response.status}'); continue
                 try:
@@ -181,6 +187,10 @@ async def collect_company(browser, spec):
                 await page.wait_for_timeout(1600)
                 await reveal_listing()
                 snapshot = await page.evaluate(DOM_SNAPSHOT)
+                if diagnostics is not None:
+                    diagnostic.update(url=page.url, headings=snapshot['headings'],titles=snapshot['titles'][:40],
+                        extra_titles=snapshot.get('extra_titles', [])[:40],inputs=snapshot.get('inputs', []),
+                        buttons=snapshot.get('buttons', []),links=snapshot['links'][:60],text=snapshot['text'][:8000])
                 if FORBIDDEN.search(snapshot['text'][:6000]):
                     reasons.append('官网安全验证或访问限制，未绕过'); continue
                 pages_read += 1
@@ -342,6 +352,7 @@ async def collect_company(browser, spec):
                     queue.clear()
                     break
             except Exception as exc:
+                diagnostic['error'] = type(exc).__name__ + ': ' + str(exc)[:400]
                 reasons.append(type(exc).__name__ + ': ' + str(exc)[:160])
         if tasks:
             await asyncio.gather(*tasks, return_exceptions=True)

@@ -256,7 +256,7 @@
       "company": "小鹏汽车",
       "sheet_row": 28,
       "urls": [
-        "https://www.xiaopeng.com/join.html"
+        "https://xiaopeng.jobs.feishu.cn/campus"
       ],
       "method": "official_board"
     },
@@ -651,7 +651,8 @@
       "company": "宝马集团",
       "sheet_row": 69,
       "urls": [
-        "https://www.bmwgroup.jobs/cn/zh.html"
+        "https://www.bmwgroup.jobs/cn/en/current-vacancies.html",
+        "https://www.bmwgroup.jobs/cn/en/opportunities/graduate.html"
       ],
       "method": "official_board"
     },
@@ -678,8 +679,8 @@
       "company": "西门子",
       "sheet_row": 72,
       "urls": [
-        "https://www.siemens.com/cn/zh/company/jobs.html",
-        "https://jobs.siemens.com/zh_CN/externaljobs"
+        "https://jobs.siemens.com.cn/",
+        "https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/"
       ],
       "method": "official_board"
     },
@@ -788,7 +789,8 @@
       "company": "中国兵器工业集团",
       "sheet_row": 84,
       "urls": [
-        "https://zhaopin.norincogroup.com.cn/"
+        "https://norincogroupzhaopin.zhiye.com/campus/jobs",
+        "https://norincogroupzhaopin.zhiye.com/"
       ],
       "method": "official_board"
     },
