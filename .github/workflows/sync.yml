@@ -1,8 +1,9 @@
 name: 2027届产品岗监控（表格全部公司）
 on:
   schedule:
-    # UTC -> Asia/Shanghai 09:00, 15:00
-    - cron: '0 1,7 * * *'
+    # Beijing 09:00 / 15:00. Retry at +10/+20 only if that slot is unfinished.
+    - cron: '0,10,20 1 * * *'
+    - cron: '0,10,20 7 * * *'
   workflow_dispatch:
     inputs:
       test_notification:
@@ -20,6 +21,7 @@ jobs:
     timeout-minutes: 90
     env:
       PYTHONUTF8: '1'
+      MONITOR_CRON: ${{ github.event.schedule }}
       NOTIFY_CHANNEL: ${{ vars.NOTIFY_CHANNEL || 'feishu' }}
       FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
       FEISHU_SIGN_SECRET: ${{ secrets.FEISHU_SIGN_SECRET }}
@@ -27,6 +29,9 @@ jobs:
       PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # A queued retry needs the previous run's latest sent/slot records.
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -68,4 +73,5 @@ jobs:
             data/company_monitor_coverage.json
             data/company_monitor_coverage.md
             data/official_board_snapshot.json
+            data/monitor_slot_state.json
           retention-days: 14
