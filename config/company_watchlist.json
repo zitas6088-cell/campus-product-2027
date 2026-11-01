@@ -589,7 +589,8 @@
       "company": "德勤",
       "sheet_row": 63,
       "urls": [
-        "https://www2.deloitte.com/cn/zh/careers/students.html"
+        "https://www.deloitte.com/cn/zh/cn-careers/students.html",
+        "https://www.deloitte.com/cn/zh/careers/explore-your-fit/students/graduate-program.html"
       ],
       "method": "official_board"
     },
@@ -769,7 +770,7 @@
       "company": "完美世界",
       "sheet_row": 82,
       "urls": [
-        "https://recruit.wanmei.com/"
+        "https://app.mokahr.com/campus-recruitment/pwrd/172467?locale=zh-CN"
       ],
       "method": "official_board"
     },
@@ -814,7 +815,8 @@
       "company": "小马智行",
       "sheet_row": 87,
       "urls": [
-        "https://www.pony.ai/zh/careers"
+        "https://ponyai.jobs.feishu.cn/ponycampus",
+        "https://campus.pony.ai/guideline"
       ],
       "method": "official_board"
     },
@@ -842,7 +844,7 @@
       "company": "澜起科技",
       "sheet_row": 90,
       "urls": [
-        "https://www.montage-tech.com/cn/careers"
+        "https://www.montage-tech.com/cn/Open_Positions"
       ],
       "method": "official_board"
     },

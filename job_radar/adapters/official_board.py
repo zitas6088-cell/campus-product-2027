@@ -99,7 +99,8 @@ DOM_SNAPSHOT = r'''() => {
  }));
  const headings = Array.from(document.querySelectorAll('h1,h2,[class*="banner"] img,[class*="Banner"] img')).filter(visible).map(e => e.innerText || e.alt || '');
  const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"]')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120);
- return {links, headings, titles, text: document.body.innerText.slice(0,100000)};
+ const extra_titles = Array.from(document.querySelectorAll('[class*="title"],[class*="Title"],h3')).filter(visible).map(e=>e.innerText.trim()).filter(t=>t && t.length < 120 && /产品|\bproduct\b/i.test(t));
+ return {links, headings, titles, extra_titles, text: document.body.innerText.slice(0,100000)};
 }'''
 
 
@@ -144,7 +145,7 @@ async def collect_company(browser, spec):
     page.on('response', on_response)
     queue = list(dict.fromkeys(spec['urls']))
     visited, links, headings, reasons = set(), {}, [], []
-    all_listings, explicit_empty, pages_read = set(), False, 0
+    all_listings, unresolved_titles, explicit_empty, pages_read = set(), set(), False, 0
     known = {}
     listing_complete = False
     try:
@@ -215,11 +216,13 @@ async def collect_company(browser, spec):
                                     queue.append(link['href'])
                         # Beisen and other boards use clickable title controls
                         # and open the real detail in a new tab instead of <a>.
-                        for title in dict.fromkeys(current['titles']):
+                        for title in dict.fromkeys(current['titles'] + current.get('extra_titles', [])):
                             if not title_from_text(title): continue
-                            all_listings.add('title:' + canonical(page.url) + ':' + title)
+                            if title in current['titles']:
+                                all_listings.add('title:' + canonical(page.url) + ':' + title)
                             if not PRODUCT.search(title): continue
                             if any(title_from_text(link['text']) == title for link in links.values()): continue
+                            unresolved_titles.add(title)
                             before = page.url
                             opened = []
                             try:
@@ -238,6 +241,12 @@ async def collect_company(browser, spec):
                                     except Exception:
                                         await target.wait_for_timeout(700)
                                     jd = await target.locator('body').inner_text()
+                                    if not re.search(r'工作职责|岗位职责|职位描述|任职要求|任职资格|岗位要求|Job Description|Responsibilities|Qualifications',jd,re.I):
+                                        reasons.append('标题导航未出现岗位详情，不作为职位')
+                                        break
+                                    if not FORBIDDEN.search(jd[:6000]):
+                                        unresolved_titles.discard(title)
+                                        all_listings.add(canonical(target.url))
                                     terms = spec.get('require_company_terms', [])
                                     if not FORBIDDEN.search(jd[:6000]) and (not terms or any(t.lower() in (title+' '+jd).lower() for t in terms)):
                                         link = {'text':title,'href':target.url,'context':jd}
@@ -322,6 +331,8 @@ async def collect_company(browser, spec):
                 if re.search(r'(?:[/=?&#]|^)' + re.escape(item['id']) + r'(?:[/&#?]|$)', key): metadata[key] = item
         if any(PRODUCT.search(item['title']) for item in captures) and not links and not known:
             raise RuntimeError('官网存在产品职位，但未取得可验证详情链接；需适配该招聘系统')
+        if unresolved_titles:
+            raise RuntimeError('产品标题尚未取得可验证岗位详情：' + '、'.join(sorted(unresolved_titles))[:160])
         if len(links) > 120: raise RuntimeError('产品职位超过详情读取上限，拒绝不完整基线')
         for key, link in links.items():
             if key in known: continue
