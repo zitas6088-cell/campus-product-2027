@@ -49,6 +49,20 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(page.goto.await_count,2) # list and one actual detail
         context.close.assert_awaited_once()
 
+    async def test_title_card_pagination_is_detected_when_navigation_links_stay_the_same(self):
+        first={'links':[],'titles':['算法工程师'],'headings':[],'text':'算法工程师'}
+        second=dict(first,titles=['数据工程师'],text='数据工程师')
+        browser,page,_,spec=self.setup_board(first)
+        page.evaluate.side_effect=[first,second]
+        next_button=locator(count=1);next_button.click=AsyncMock()
+        next_button.is_enabled.side_effect=[True,False]
+        original=page.locator.side_effect
+        page.locator.side_effect=lambda selector:next_button if selector.startswith('button[aria-label=') else original(selector)
+        result=await collect_company(browser,spec)
+        self.assertTrue(result['ok'])
+        self.assertEqual(result['listings_seen'],2)
+        next_button.click.assert_awaited_once()
+
     async def test_unreadable_shell_or_access_error_is_not_a_zero_snapshot(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'欢迎加入'}
         for status in (200,403):

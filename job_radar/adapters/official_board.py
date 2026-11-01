@@ -302,7 +302,8 @@ async def collect_company(browser, spec):
                         await page.wait_for_timeout(900)
                         await reveal_listing()
                         following = await page.evaluate(DOM_SNAPSHOT)
-                        if following['links'] == current['links']:
+                        if (following['links'] == current['links'] and following['titles'] == current['titles']
+                                and following.get('extra_titles', []) == current.get('extra_titles', [])):
                             raise RuntimeError('下一页未发生变化，无法确认完整列表')
                         current = following
                 # Paginate each language's complete search result separately.
