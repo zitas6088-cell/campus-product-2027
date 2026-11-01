@@ -35,6 +35,34 @@ def read(path, default):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
 
 
+def monitor_slot(now=None, cron=''):
+    """Retried/delayed schedules belong to their intended Beijing time slot."""
+    zone=dt.timezone(dt.timedelta(hours=8))
+    now=(now or dt.datetime.now(zone)).astimezone(zone)
+    hours=cron.split()[1:2]
+    target={'1':9,'7':15}.get(hours[0]) if hours else None
+    if target is None:
+        target=15 if now.hour>=15 or now.hour<9 else 9
+    day=now.date()-(dt.timedelta(days=1) if now.hour<target else dt.timedelta())
+    return dt.datetime.combine(day,dt.time(target),zone).isoformat(timespec='minutes')
+
+
+def slot_complete(checkpoint, slot):
+    try:
+        completed=dt.datetime.fromisoformat(checkpoint.get('completed_slot',''))
+        return completed>=dt.datetime.fromisoformat(slot)
+    except (ValueError,TypeError):
+        return False
+
+
+def finish_slot(slot, healthy, pushed):
+    path=DATA/'monitor_slot_state.json'
+    if slot_complete(read(path,{}),slot):
+        return
+    save(path,{'completed_slot':slot,'completed_at':dt.datetime.now(dt.timezone.utc).isoformat(),
+         'healthy_sources':len(healthy),'pushed':pushed,'run_id':os.getenv('GITHUB_RUN_ID','')})
+
+
 def deliver(text):
     """Credentials stay in environment; verify application-level success too."""
     channel = os.getenv("NOTIFY_CHANNEL", "feishu").strip()
@@ -184,6 +212,11 @@ def main():
         deliver("2027届产品岗雷达连接测试成功。仅提醒表格公司新增的产品相关正式校招岗位；每天北京时间09:00和15:00检查。")
         print("通知渠道测试成功。")
         return
+    slot=monitor_slot(cron=os.getenv('MONITOR_CRON',''))
+    if (os.getenv('GITHUB_EVENT_NAME')=='schedule' and not args.no_sync and not args.dry_run
+            and slot_complete(read(DATA/'monitor_slot_state.json',{}),slot)):
+        print(f'北京时间{slot}时段已成功完成，本次补偿检查跳过。')
+        return
     cfg = load_config()
     prior_jobs = read(DATA / 'jobs.json', [])
     if not args.no_sync:
@@ -218,6 +251,7 @@ def main():
     save(STATE, pending_state)
     if not pending:
         print(f"无符合条件的未推新增；本轮初始化 {len(first_sources)} 个信源。")
+        if not args.no_sync: finish_slot(slot,healthy,0)
         return
     # Each confirmed batch is marked only after the provider acknowledges success.
     for heading, batch in notification_batches(pending):
@@ -227,6 +261,7 @@ def main():
             pending_state["delivered"][identity(job)] = {"sent_at": now, "title": job["title"]}
         save(STATE, pending_state)
     print(f"已推送 {len(pending)} 条新增校招岗，其中产品重点 {sum(is_product(j) for j in pending)} 条。")
+    if not args.no_sync: finish_slot(slot,healthy,len(pending))
 
 
 if __name__ == "__main__":
