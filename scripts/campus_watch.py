@@ -142,6 +142,21 @@ def report(jobs, health):
     save(DATA / 'company_monitor_coverage.json', {'generated_at': now,
          'configured_companies': len(cfg['companies']), 'attempted_sources': len(watched),
          'healthy_sources': len(watched)-len(failed), 'unhealthy_sources': failed})
+    catalog_path = ROOT / 'config/company_watchlist.json'
+    catalog = read(catalog_path, {'companies': []})['companies']
+    by_source = {source['source_id']: source for source in watched}
+    coverage_lines = [f'# 全部公司监控状态｜{now}（北京时间）', '',
+        f"清单 {len(cfg['companies'])} 家；本轮正常 {len(watched)-len(failed)} 家；异常/待适配 {len(failed)} 家。", '',
+        '“正常”表示本轮成功读取；“异常”不能视为没有新增。失败来源保留上次数据，不发过期快照提醒。', '',
+        '| 公司 | 本轮状态 | 最近成功读取 | 说明 |', '| --- | --- | --- | --- |']
+    for spec in catalog:
+        source = by_source.get(spec['source_id'], {})
+        issue = source.get('last_error') or source.get('alert') or source.get('note') or ''
+        status = '未执行' if not source else ('异常/待适配' if issue or source.get('skipped') else '正常')
+        detail = issue or f"本轮 {source.get('last_count', 0)} 条原始岗位记录"
+        detail = ' '.join(str(detail).split()).replace('|', '/')[:200]
+        coverage_lines.append(f"| {spec['company']} | {status} | {source.get('last_success_at', '—')} | {detail} |")
+    (DATA / 'company_monitor_coverage.md').write_text('\n'.join(coverage_lines)+'\n',encoding='utf-8')
     (DATA / "campus_product.md").write_text("\n".join(lines), encoding="utf-8")
     summary = os.getenv("GITHUB_STEP_SUMMARY")
     if summary:
@@ -151,7 +166,8 @@ def report(jobs, health):
             if len(summary_text.encode("utf-8")) > 900000:
                 summary_text = (f"# 2027届校招监控｜{now}\n\n"
                     f"产品重点 {len(products)} 条；其他确认岗位 {len(others)} 条；"
-                    f"届别待确认 {len(groups['pending'])} 条。\n\n完整清单见本次运行附件。\n")
+                    f"届别待确认 {len(groups['pending'])} 条。\n\n"
+                    f"公司清单 {len(cfg['companies'])} 家，本轮正常 {len(watched)-len(failed)} 家，异常 {len(failed)} 家。\n\n完整清单见本次运行附件。\n")
             f.write(summary_text)
     save(DATA / "campus_product.json", {"generated_at": now,
         "confirmed": groups["confirmed"], "pending": groups["pending"], "internships": groups["internship"]})

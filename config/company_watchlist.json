@@ -293,7 +293,8 @@
       "company": "中国银联",
       "sheet_row": 32,
       "urls": [
-        "https://career.unionpay.com/"
+        "https://join.unionpay.com/wt/unionpayhr/web/index",
+        "https://cn.unionpay.com/upowhtml/cn/templates/application/application.html"
       ],
       "method": "official_board"
     },
@@ -402,7 +403,8 @@
       "company": "中芯国际",
       "sheet_row": 43,
       "urls": [
-        "https://smic.hotjob.cn/"
+        "https://smics.zhiye.com/campus/jobs",
+        "https://smics.zhiye.com/campus"
       ],
       "method": "official_board"
     },
@@ -411,7 +413,8 @@
       "company": "国轩高科",
       "sheet_row": 44,
       "urls": [
-        "https://gotionsz.hotjob.cn/"
+        "https://gotion.zhiye.com/campus",
+        "https://www.gotion.com.cn/join"
       ],
       "method": "official_board"
     },
@@ -570,7 +573,7 @@
       "urls": [
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
       ],
-      "method": "official_board"
+      "method": "workday_api"
     },
     {
       "source_id": "watch-sheet-062",

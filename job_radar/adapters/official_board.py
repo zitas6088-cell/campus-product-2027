@@ -58,14 +58,20 @@ def own_or_linked(url, seeds):
 
 
 def title_from_text(text):
-    title = re.split(r'[\n\r]', str(text or '').strip())[0].strip()
-    return title if 4 <= len(title) <= 120 and JOB_TITLE.search(title) else ''
+    for title in re.split(r'[\n\r]', str(text or '').strip()):
+        title = title.strip()
+        if (4 <= len(title) <= 120 and JOB_TITLE.search(title)
+                and not (len(title) < 14 and title.endswith('类'))):
+            return title
+    return ''
 
 
 def record_from_link(company, link, jd='', batch=''):
     title = title_from_text(link.get('text'))
     url = link.get('href', '')
     if not title or not PRODUCT.search(title) or not JOB_URL.search(url):
+        return None
+    if re.search(r'职位已停止招聘|职位已下线|招聘已结束|job (?:is |has |)(?:no longer available|expired)|position is no longer available', jd, re.I):
         return None
     return RawJob(company_name=company, title=title, official_url=url,
                   jd_text=jd or link.get('context', ''),
@@ -140,6 +146,7 @@ async def collect_company(browser, spec):
     visited, links, headings, reasons = set(), {}, [], []
     all_listings, explicit_empty, pages_read = set(), False, 0
     known = {}
+    listing_complete = False
     try:
         while queue and pages_read < 12:
             url = queue.pop(0)
@@ -188,6 +195,10 @@ async def collect_company(browser, spec):
                             continue
                 for job in parse_jobs(await page.content(), page.url):
                     if PRODUCT.search(job.title):
+                        terms = spec.get('require_company_terms', [])
+                        original = job.company_name + ' ' + job.title + ' ' + job.jd_text
+                        if terms and not any(term.lower() in original.lower() for term in terms):
+                            continue
                         job.company_name = spec['company']; known[canonical(job.official_url)] = job
                     all_listings.add(job.official_url)
                 async def scan_results(current):
@@ -243,6 +254,12 @@ async def collect_company(browser, spec):
                                     await page.go_back(wait_until='domcontentloaded',timeout=15000)
                                     await page.wait_for_timeout(500)
                         next_page = page.locator('button[aria-label="Next page"],button[aria-label="下一页"],li.ant-pagination-next:not(.ant-pagination-disabled),button.btn-next:not([disabled]),a.next:not(.disabled)').first
+                        if not await next_page.count():
+                            next_page = page.get_by_role('link',name=re.compile(r'^(下一页|Next|Next page|›|»)$',re.I)).first
+                        if await next_page.count():
+                            disabled_class = await next_page.get_attribute('class') or ''
+                            if re.search(r'disabled|is-disabled', disabled_class,re.I) or await next_page.get_attribute('aria-disabled') == 'true':
+                                return
                         if not await next_page.count() or not await next_page.is_visible() or not await next_page.is_enabled():
                             titles = page.locator('[class*="JobTitle"],[class*="job-title"],[class*="jobName"],[class*="positionName"]')
                             if not await titles.count(): return
@@ -270,14 +287,27 @@ async def collect_company(browser, spec):
                     hint = await field.get_attribute('placeholder') or ''
                     if re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|search jobs|keyword', hint, re.I):
                         for term in ('产品', 'product'):
-                            await field.fill(term)
-                            await field.press('Enter')
-                            await page.wait_for_timeout(1000)
+                            # Reactive portals rebuild inputs after a search;
+                            # resolve the actual visible input again each time.
+                            candidates = await page.get_by_placeholder(hint,exact=True).all()
+                            visible_fields = [candidate for candidate in candidates if await candidate.is_visible()]
+                            if not visible_fields: raise RuntimeError('职位搜索框重绘后不可用')
+                            current_field = visible_fields[-1]
+                            await current_field.fill(term)
+                            await current_field.press('Enter')
+                            await page.wait_for_timeout(1600)
                             await scan_results(await page.evaluate(DOM_SNAPSHOT))
                         searched = True
                         break
                 if not searched:
                     await scan_results(snapshot)
+                list_route = bool(re.search(r'(?:/|#/)(?:jobs|positions?)(?:[?#]|/?$)|jobList|position/list',page.url,re.I))
+                if (searched or list_route) and (all_listings or captures or explicit_empty):
+                    # A verified complete list is the authority. Do not chase
+                    # social-hire links/FAQs after finishing a campus board.
+                    listing_complete = True
+                    queue.clear()
+                    break
             except Exception as exc:
                 reasons.append(type(exc).__name__ + ': ' + str(exc)[:160])
         if tasks:
@@ -318,7 +348,7 @@ async def collect_company(browser, spec):
                 reasons.append('详情未读: ' + type(exc).__name__)
         if not pages_read or not (all_listings or captures or explicit_empty):
             raise RuntimeError('未验证到可读职位列表；' + '; '.join(reasons[-3:]))
-        if queue and pages_read >= 12:
+        if not listing_complete and queue and pages_read >= 12:
             raise RuntimeError('招聘页面导航超过上限，需专用适配器')
         if links and len(known) < len(links) and reasons:
             raise RuntimeError('部分产品职位详情读取失败；' + '; '.join(reasons[-3:]))

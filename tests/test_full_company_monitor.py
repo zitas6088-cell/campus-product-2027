@@ -66,6 +66,7 @@ class FullCompanyMonitorTests(unittest.TestCase):
                 deliver.assert_called_once()
 
     def test_real_detail_link_required_and_batch_dates_not_invented(self):
+        self.assertEqual(official_board.title_from_text('技术研发类\n2027届产品经理\n北京'), '2027届产品经理')
         self.assertIsNone(official_board.record_from_link('腾讯',{'text':'产品经理','href':'https://join.qq.com/'}))
         job=official_board.record_from_link('腾讯',{'text':'产品经理\n深圳','href':'https://join.qq.com/position/123','context':'2027届校招'})
         self.assertEqual(job.title,'产品经理')
