@@ -65,9 +65,22 @@ def title_from_text(text):
         title = title.strip()
         if (4 <= len(title) <= 120 and JOB_TITLE.search(title)
                 and not re.search(r'[；;。]|^\d{1,2}[、.)）]', title)
+                and not re.search(r'(?:正式|全职|兼职).*(?:/| - )|产品\s*/\s*策划\s*/\s*项目',title)
                 and not (len(title) < 14 and title.endswith('类'))):
             return title
     return ''
+
+
+def target_product(title):
+    title = re.sub(r'可提前实习|可以实习|接受实习|可实习','',title)
+    return bool(PRODUCT.search(title) and not re.search(
+        r'实习|\bintern(?:ship|ships|s)?\b|资深|总监|\bsenior\b|\bprincipal\b|\bhead of\b',title,re.I))
+
+
+def listing_url(url):
+    parts=urlsplit(url)
+    route=parts.path+'/' + parts.fragment.split('?',1)[0]
+    return bool(re.search(r'(?:^|/)(?:jobs|positions?)(?:/(?:list|index|search))?(?:\.html)?/*$',route,re.I))
 
 
 def record_from_link(company, link, jd='', batch=''):
@@ -235,7 +248,7 @@ async def collect_company(browser, spec, diagnostics=None):
                     original = job.company_name + ' ' + job.title + ' ' + job.jd_text
                     if terms and not any(term.lower() in original.lower() for term in terms):
                         continue
-                    if PRODUCT.search(job.title):
+                    if target_product(job.title):
                         job.company_name = spec['company']; known[canonical(job.official_url)] = job
                     all_listings.add(job.official_url)
                 async def scan_results(current):
@@ -246,8 +259,8 @@ async def collect_company(browser, spec, diagnostics=None):
                             title = title_from_text(link['text'])
                             if title and JOB_URL.search(link['href']):
                                 all_listings.add(canonical(link['href']))
-                                if PRODUCT.search(title): links[canonical(link['href'])] = link
-                            elif (NAV.search(link['text']) or re.search(r'(?:#/|/)(?:jobs|positions?)(?:[/?#]|$)', link['href'], re.I)) and len(link['text']) < 85 and own_or_linked(link['href'], spec['urls']):
+                                if target_product(title): links[canonical(link['href'])] = link
+                            elif (NAV.search(link['text']) or listing_url(link['href'])) and len(link['text']) < 85 and own_or_linked(link['href'], spec['urls']):
                                 if canonical(link['href']) not in visited and link['href'] not in queue:
                                     queue.append(link['href'])
                         # Beisen and other boards use clickable title controls
@@ -257,7 +270,7 @@ async def collect_company(browser, spec, diagnostics=None):
                             if not title: continue
                             if raw_title in current['titles']:
                                 all_listings.add('title:' + canonical(page.url) + ':' + title)
-                            if not PRODUCT.search(title): continue
+                            if not target_product(title): continue
                             if any(title_from_text(link['text']) == title for link in links.values()): continue
                             unresolved_titles.add(title)
                             before = page.url
@@ -271,13 +284,19 @@ async def collect_company(browser, spec, diagnostics=None):
                                     await page.wait_for_timeout(600)
                                     opened = [p for p in context.pages if p not in old_pages]
                                     target = opened[-1] if opened else page
+                                    if opened:
+                                        await target.wait_for_url(lambda value: str(value) not in ('about:blank',''),timeout=12000)
                                     await target.wait_for_load_state('domcontentloaded', timeout=15000)
+                                    if diagnostics is not None:
+                                        diagnostic.setdefault('title_attempts',[]).append({'title':title,'url':target.url})
                                     if canonical(target.url) == canonical(before) or not JOB_URL.search(target.url): break
                                     try:
                                         await target.get_by_text(re.compile(r'工作职责|职位描述|任职要求|任职资格|Responsibilities|Qualifications',re.I)).first.wait_for(timeout=8000)
                                     except Exception:
                                         await target.wait_for_timeout(700)
                                     jd = await target.locator('body').inner_text()
+                                    if diagnostics is not None:
+                                        diagnostic['title_attempts'][-1]['detail_head']=jd[:1200]
                                     if not re.search(r'工作职责|岗位职责|职位描述|任职要求|任职资格|岗位要求|Job Description|Responsibilities|Qualifications',jd,re.I):
                                         reasons.append('标题导航未出现岗位详情，不作为职位')
                                         break
@@ -293,6 +312,8 @@ async def collect_company(browser, spec, diagnostics=None):
                                             known[canonical(target.url)] = job
                                     break
                             except Exception as exc:
+                                if diagnostics is not None:
+                                    diagnostic.setdefault('title_errors',[]).append({'title':title,'error':str(exc)[:400]})
                                 reasons.append('标题详情未读: ' + type(exc).__name__)
                             finally:
                                 for popup in opened: await popup.close()
@@ -333,7 +354,10 @@ async def collect_company(browser, spec, diagnostics=None):
                 for field in await page.locator('input[placeholder]').all():
                     if not await field.is_visible(): continue
                     hint = await field.get_attribute('placeholder') or ''
-                    if re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|search jobs|search for a job|keyword', hint, re.I):
+                    is_job_search = re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|search jobs|search for a job',hint,re.I)
+                    if not is_job_search and re.search(r'关键词|关键字|keyword',hint,re.I):
+                        is_job_search=bool(snapshot['titles'] or captures or any(title_from_text(link['text']) and JOB_URL.search(link['href']) for link in snapshot['links']))
+                    if is_job_search:
                         for term in ('产品', 'product'):
                             # Reactive portals rebuild inputs after a search;
                             # resolve the actual visible input again each time.
@@ -353,12 +377,18 @@ async def collect_company(browser, spec, diagnostics=None):
                                 await current_field.press('Enter')
                             await page.wait_for_timeout(1600)
                             await reveal_listing()
-                            await scan_results(await page.evaluate(DOM_SNAPSHOT))
+                            search_snapshot=await page.evaluate(DOM_SNAPSHOT)
+                            if diagnostics is not None:
+                                diagnostic.setdefault('searches',[]).append({'term':term,'url':page.url,
+                                    'titles':search_snapshot['titles'][:30],'extra_titles':search_snapshot.get('extra_titles',[])[:30],
+                                    'candidates':search_snapshot.get('candidate_nodes',[])[:8],
+                                    'links':search_snapshot['links'][:10],'text':search_snapshot['text'][:4000]})
+                            await scan_results(search_snapshot)
                         searched = True
                         break
                 if not searched:
                     await scan_results(snapshot)
-                list_route = bool(re.search(r'(?:/|#/)(?:jobs|positions?)(?:[?#]|/?$)|jobList|position/list',page.url,re.I))
+                list_route = listing_url(page.url) or bool(re.search(r'jobList|position/list',page.url,re.I))
                 if (searched or list_route) and (all_listings or captures or explicit_empty):
                     # A verified complete list is the authority. Do not chase
                     # social-hire links/FAQs after finishing a campus board.
@@ -378,7 +408,7 @@ async def collect_company(browser, spec, diagnostics=None):
         for item in captures:
             for key in links:
                 if re.search(r'(?:[/=?&#]|^)' + re.escape(item['id']) + r'(?:[/&#?]|$)', key): metadata[key] = item
-        if any(PRODUCT.search(item['title']) for item in captures) and not links and not known:
+        if any(target_product(item['title']) for item in captures) and not links and not known:
             raise RuntimeError('官网存在产品职位，但未取得可验证详情链接；需适配该招聘系统')
         if unresolved_titles:
             raise RuntimeError('产品标题尚未取得可验证岗位详情：' + '、'.join(sorted(unresolved_titles))[:160])

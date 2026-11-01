@@ -63,6 +63,25 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(result['listings_seen'],2)
         next_button.click.assert_awaited_once()
 
+    async def test_new_detail_tab_waits_for_navigation_out_of_about_blank(self):
+        snapshot={'links':[],'titles':['2027届产品经理'],'headings':[],'text':'2027届产品经理'}
+        browser,page,context,spec=self.setup_board(snapshot)
+        popup=Mock();popup.url='about:blank';popup.close=AsyncMock()
+        async def ready(*args,**kwargs):popup.url='https://example.com/jobs/42'
+        popup.wait_for_url=AsyncMock(side_effect=ready)
+        popup.wait_for_load_state=AsyncMock()
+        popup.get_by_text=Mock(return_value=locator())
+        popup.get_by_text.return_value.wait_for=AsyncMock()
+        popup.locator=Mock(return_value=locator(text='2027届产品经理\n职位描述：产品规划'))
+        candidate=locator()
+        async def open_detail():context.pages.append(popup)
+        candidate.click=AsyncMock(side_effect=open_detail)
+        page.get_by_text=Mock(return_value=locator(fields=[candidate]))
+        result=await collect_company(browser,spec)
+        self.assertEqual(len(result['jobs']),1)
+        popup.wait_for_url.assert_awaited_once()
+        popup.close.assert_awaited_once()
+
     async def test_unreadable_shell_or_access_error_is_not_a_zero_snapshot(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'欢迎加入'}
         for status in (200,403):

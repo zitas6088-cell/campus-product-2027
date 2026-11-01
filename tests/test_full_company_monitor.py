@@ -86,6 +86,10 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertFalse(is_product({'title':paragraph}))
         link={'text':'商业分析（校招）\n1、基于业务数据，提供产品分析、运营分析、策略分析等建议；','href':'https://example.com/position/123/detail'}
         self.assertIsNone(official_board.record_from_link('公司',link))
+        self.assertEqual(official_board.title_from_text('广州正式产品 / 策划 / 项目 - 产品经理'),'')
+        self.assertTrue(official_board.target_product('2027 Product Manager - International Business'))
+        self.assertTrue(official_board.target_product('产品经理（可实习）【2027届校招】'))
+        self.assertFalse(official_board.target_product('Product Coordinator Intern'))
 
     def test_tracking_changes_keep_existing_notification_history(self):
         import hashlib
@@ -108,6 +112,11 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertEqual(official_board.canonical(first),official_board.canonical(second))
         self.assertNotEqual(official_board.canonical(first),official_board.canonical(first.replace('jobId=42','jobId=43')))
         self.assertNotEqual(official_board.canonical('https://example.com/jobs?p=1'),official_board.canonical('https://example.com/jobs?p=2'))
+
+    def test_detail_pages_are_not_misread_as_another_listing(self):
+        self.assertTrue(official_board.listing_url('https://example.com/campus/position/list?keyword=产品'))
+        self.assertTrue(official_board.listing_url('https://example.com/tenant#/jobs'))
+        self.assertFalse(official_board.listing_url('https://example.com/position/detail?positionId=123'))
 
     def test_campus_job_allowing_early_internship_remains_eligible(self):
         job=dict(company_name='赛力斯',source_id='watch-sheet-054',title='产品经理（可实习）【2027届校招】',
