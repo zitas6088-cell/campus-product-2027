@@ -64,7 +64,7 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(result['listings_seen'],2)
         next_button.click.assert_awaited_once()
 
-    async def assert_detail_popup(self,use_api=False,extra_title=False):
+    async def assert_detail_popup(self,use_api=False,extra_title=False,stale_detail=False,wrong_detail=False):
         snapshot={'links':[],'titles':[] if use_api or extra_title else ['2027届产品经理'],
                   'extra_titles':['2027届产品经理'] if extra_title else [],'headings':[],'text':'2027届产品经理'}
         browser,page,context,spec=self.setup_board(snapshot)
@@ -84,13 +84,25 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         async def ready(*args,**kwargs):popup.url='https://example.com/jobs/42'
         popup.wait_for_url=AsyncMock(side_effect=ready)
         popup.wait_for_load_state=AsyncMock()
+        popup.wait_for_timeout=AsyncMock()
         popup.get_by_text=Mock(return_value=locator())
         popup.get_by_text.return_value.wait_for=AsyncMock()
         popup.locator=Mock(return_value=locator(text='2027届产品经理\n职位描述：产品规划'))
+        if stale_detail:
+            popup.locator.return_value.inner_text.side_effect=[
+                '2027届数据分析师\n职位描述：数据分析',
+                '2027届产品经理\n职位描述：产品规划']
+        if wrong_detail:
+            popup.locator.return_value.inner_text.return_value='2027届数据分析师\n职位描述：数据分析'
         candidate=locator()
         async def open_detail():context.pages.append(popup)
         candidate.click=AsyncMock(side_effect=open_detail)
         page.get_by_text=Mock(side_effect=lambda value,**kwargs:locator(fields=[candidate]) if value=='2027届产品经理' else locator())
+        if wrong_detail:
+            with self.assertRaisesRegex(RuntimeError,'产品标题尚未取得可验证岗位详情'):
+                await collect_company(browser,spec)
+            popup.close.assert_awaited_once()
+            return
         result=await collect_company(browser,spec)
         self.assertEqual(len(result['jobs']),1)
         popup.wait_for_url.assert_awaited_once()
@@ -99,6 +111,8 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
             # A real card already proves this is a listing. Chasing the campus
             # navigation here can replace the page under a stale snapshot.
             self.assertTrue(all(isinstance(call.args[0],str) for call in page.get_by_text.call_args_list))
+        if stale_detail:
+            self.assertEqual(popup.locator.return_value.inner_text.await_count,2)
 
     async def test_new_detail_tab_waits_for_navigation_out_of_about_blank(self):
         await self.assert_detail_popup()
@@ -108,6 +122,12 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
 
     async def test_product_title_does_not_reenter_campus_navigation_before_opening_detail(self):
         await self.assert_detail_popup(extra_title=True)
+
+    async def test_delayed_job_content_waits_for_the_requested_title(self):
+        await self.assert_detail_popup(stale_detail=True)
+
+    async def test_previous_job_description_is_never_assigned_to_a_new_title(self):
+        await self.assert_detail_popup(wrong_detail=True)
 
     async def test_unreadable_shell_or_access_error_is_not_a_zero_snapshot(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'欢迎加入'}

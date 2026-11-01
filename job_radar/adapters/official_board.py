@@ -180,6 +180,19 @@ async def collect_company(browser, spec, diagnostics=None):
         await page.mouse.wheel(0, -2400)
         await page.wait_for_timeout(220)
 
+    async def visible_detail(target, title):
+        """SPA route changes can precede the job content; reject stale details."""
+        expected=re.sub(r'\s+','',re.sub(r'\s*[（(]J?\d+[)）]$','',title))
+        for attempt in range(10):
+            body=await target.locator('body').inner_text()
+            body=re.split(r'相似职位|相关职位|推荐职位|相似岗位|相关岗位|推荐岗位|甄选职位|Similar Jobs|Related Jobs',body,flags=re.I)[0]
+            if FORBIDDEN.search(body[:6000]): raise RuntimeError('岗位详情要求安全验证')
+            if (expected in re.sub(r'\s+','',body[:3000])
+                    and re.search(r'工作职责|岗位职责|职责描述|职位描述|任职要求|任职资格|岗位要求|职位要求|Job Description|Responsibilities|Qualifications',body,re.I)):
+                return body[-25000:]
+            if attempt<9: await target.wait_for_timeout(400)
+        raise RuntimeError('详情标题或职责尚未加载，拒绝使用上一岗位内容')
+
     try:
         while queue and pages_read < 12:
             url = queue.pop(0)
@@ -293,6 +306,10 @@ async def collect_company(browser, spec, diagnostics=None):
                                     old_pages = set(context.pages)
                                     await candidate.click()
                                     await page.wait_for_timeout(600)
+                                    for _ in range(8):
+                                        if any(p not in old_pages for p in context.pages) or canonical(page.url)!=canonical(before):
+                                            break
+                                        await page.wait_for_timeout(250)
                                     opened = [p for p in context.pages if p not in old_pages]
                                     target = opened[-1] if opened else page
                                     if opened:
@@ -300,12 +317,12 @@ async def collect_company(browser, spec, diagnostics=None):
                                     await target.wait_for_load_state('domcontentloaded', timeout=15000)
                                     if diagnostics is not None:
                                         diagnostic.setdefault('title_attempts',[]).append({'title':title,'url':target.url})
-                                    if canonical(target.url) == canonical(before) or not JOB_URL.search(target.url): break
+                                    if canonical(target.url) == canonical(before) or not JOB_URL.search(target.url): continue
                                     try:
                                         await target.get_by_text(re.compile(r'工作职责|职位描述|任职要求|任职资格|Responsibilities|Qualifications',re.I)).first.wait_for(timeout=8000)
                                     except Exception:
                                         await target.wait_for_timeout(700)
-                                    jd = await target.locator('body').inner_text()
+                                    jd = await visible_detail(target,title)
                                     if diagnostics is not None:
                                         diagnostic['title_attempts'][-1]['detail_head']=jd[:1200]
                                     if not re.search(r'工作职责|岗位职责|职位描述|任职要求|任职资格|岗位要求|Job Description|Responsibilities|Qualifications',jd,re.I):
@@ -451,10 +468,7 @@ async def collect_company(browser, spec, diagnostics=None):
                 if not jd:
                     await page.goto(link['href'], wait_until='domcontentloaded', timeout=20000)
                     await page.wait_for_timeout(650)
-                    text = await page.locator('body').inner_text()
-                    if FORBIDDEN.search(text[:6000]): raise RuntimeError('岗位详情要求安全验证')
-                    # Restrict evidence to the main detail before similar jobs.
-                    jd = re.split(r'相似职位|相关职位|推荐职位|Similar Jobs|Related Jobs', text, flags=re.I)[0][-25000:]
+                    jd = await visible_detail(page,title_from_text(link['text']))
                 terms = spec.get('require_company_terms', [])
                 if terms and not any(term.lower() in (link['text']+' '+jd).lower() for term in terms): continue
                 if re.search(r'职位已停止招聘|职位已下线|招聘已结束|job (?:is |has |)(?:no longer available|expired)|position is no longer available', jd, re.I):
