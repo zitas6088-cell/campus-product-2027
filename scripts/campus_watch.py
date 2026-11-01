@@ -234,13 +234,21 @@ def main():
                and s.get("last_count") is not None and s.get("last_count", -1) >= 0}
     if not healthy:
         raise RuntimeError("没有任何官网信源成功返回岗位，本轮不初始化、不发送、不修改已推状态")
-    first_sources = healthy - set(state["sources_initialized"])
+    revisions={item['source_id']:item['baseline_revision'] for item in
+               read(ROOT/'config/company_watchlist.json',{}).get('companies',[]) if item.get('baseline_revision')}
+    # A repaired source may already have a baseline from an older incomplete
+    # collector. Its first healthy complete snapshot is a one-time baseline.
+    revised={sid for sid in healthy if sid in revisions
+             and state.get('source_baseline_revisions',{}).get(sid)!=revisions[sid]}
+    first_sources = (healthy - set(state["sources_initialized"])) | revised
     existing = [j for j in jobs if j["source_id"] in first_sources]
     pending_state = json.loads(json.dumps(state))
     now = dt.datetime.now(dt.timezone.utc).isoformat()
     for job in existing:
-        pending_state["delivered"][identity(job)] = {"baseline_at": now}
+        pending_state["delivered"].setdefault(identity(job), {"baseline_at": now})
     pending_state["sources_initialized"] = sorted(set(state["sources_initialized"]) | healthy)
+    for sid in revised:
+        pending_state.setdefault('source_baseline_revisions',{})[sid]=revisions[sid]
     expansion_baseline(jobs, pending_state, healthy, cfg, now)
     pending = select_pending(jobs, pending_state, cfg)
     pending = [j for j in pending if j["source_id"] in healthy]

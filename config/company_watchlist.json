@@ -37,9 +37,10 @@
       "company": "蚂蚁集团",
       "sheet_row": 5,
       "urls": [
-        "https://talent.antgroup.com/campus-position"
+        "https://talent.antgroup.com/campus-full-list?type=campus_graduates"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-meituan",
@@ -75,9 +76,10 @@
       "company": "百度",
       "sheet_row": 9,
       "urls": [
-        "https://talent.baidu.com/jobs/list?recruitType=GRADUATE"
+        "https://talent.baidu.com/jobs/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-xhs",
@@ -94,9 +96,10 @@
       "company": "快手",
       "sheet_row": 11,
       "urls": [
-        "https://campus.kuaishou.cn/"
+        "https://campus.kuaishou.cn/#/campus/jobs?recruitSubProjectCodes=20271779425607"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-012",
@@ -105,7 +108,8 @@
       "urls": [
         "https://campus.game.163.com/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "collection_paused_reason": "浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     },
     {
       "source_id": "watch-sheet-013",
@@ -114,7 +118,9 @@
       "urls": [
         "https://leihuo.163.com/campus/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "collection_paused_reason": "校招投递转至已被浏览器站点安全策略拦截的campus.163.com；暂停自动读取，保留原数据，等待用户处理",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-014",
@@ -124,7 +130,8 @@
         "https://careers.ctrip.com/#/campus/jobList",
         "https://campus.ctrip.com/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-015",
@@ -161,10 +168,10 @@
       "company": "SHEIN",
       "sheet_row": 18,
       "urls": [
-        "https://careers.shein.cn/",
-        "https://careers.shein.com/campus-recruitment"
+        "https://careers.shein.cn/All-Jobs?jobTypeId=CAMPUS"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-019",
@@ -180,19 +187,20 @@
       "company": "Shopee",
       "sheet_row": 20,
       "urls": [
-        "https://careers.shopee.cn/campus/",
-        "https://app.mokahr.com/su/nykvgs"
+        "https://app.mokahr.com/campus-recruitment/shopee/2962#/jobs"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-021",
       "company": "小米",
       "sheet_row": 21,
       "urls": [
-        "https://hr.xiaomi.com/campus"
+        "https://xiaomi.jobs.f.mioffice.cn/campus/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-022",
@@ -202,17 +210,18 @@
         "https://hr-campus.vivo.com/",
         "https://hr.vivo.com/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-023",
       "company": "OPPO",
       "sheet_row": 23,
       "urls": [
-        "https://careers.oppo.com/university/oppo/campus/",
-        "https://careers.oppo.com/university/oppo/"
+        "https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-024",
@@ -222,7 +231,8 @@
         "https://talent.lenovo.com.cn/position",
         "https://talent.lenovo.com.cn/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-025",
@@ -267,10 +277,10 @@
       "company": "科大讯飞",
       "sheet_row": 29,
       "urls": [
-        "https://iflytek.zhiye.com/5/jobs",
-        "https://iflytek.zhiye.com/"
+        "https://iflytek.zhiye.com/campus/jobs"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-030",
@@ -280,16 +290,18 @@
         "https://campus.sf-express.com/index.html",
         "https://www.sf-tech.com.cn/join/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-031",
       "company": "中国平安",
       "sheet_row": 31,
       "urls": [
-        "https://campus.pingan.com/"
+        "https://campus.pingan.com/freshGraduates"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-032",
@@ -333,9 +345,10 @@
       "company": "作业帮",
       "sheet_row": 36,
       "urls": [
-        "https://www.zuoyebang.com/question/index/homejobs"
+        "https://app.mokahr.com/campus-recruitment/zuoyebang/148220#/jobs"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-037",
@@ -367,7 +380,8 @@
       "urls": [
         "https://www.lixiang.com/employ/campus/list.html"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-040",
@@ -454,9 +468,10 @@
       "company": "影石创新",
       "sheet_row": 48,
       "urls": [
-        "https://www.insta360.com/cn/jobs"
+        "https://arashivision.jobs.feishu.cn/campus"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-049",
@@ -749,9 +764,10 @@
       "company": "海康威视",
       "sheet_row": 79,
       "urls": [
-        "https://campushr.hikvision.com/"
+        "https://campushr.hikvision.com/school?schoolType=nozxf"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-080",
@@ -842,10 +858,10 @@
       "company": "同花顺",
       "sheet_row": 89,
       "urls": [
-        "https://job.10jqka.com.cn/",
-        "https://campus.10jqka.com.cn/"
+        "https://campus.10jqka.com.cn/job/list?type=school"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-090",
@@ -936,7 +952,9 @@
       "urls": [
         "https://campus.163.com/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "collection_paused_reason": "浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-100",
@@ -1177,14 +1195,15 @@
       "company": "BOSS直聘",
       "sheet_row": 126,
       "urls": [
-        "https://www.zhipin.com/campus/pc/"
+        "https://www.zhipin.com/campus/pc/job"
       ],
       "method": "official_board",
       "require_company_terms": [
         "看准",
         "BOSS直聘",
         "北京华品博睿"
-      ]
+      ],
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-127",
@@ -1193,7 +1212,8 @@
       "urls": [
         "https://dcar.jobs.feishu.cn/"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-128",
@@ -1229,7 +1249,8 @@
       "urls": [
         "https://campus.qimao.com/m/preview"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-132",
@@ -1281,9 +1302,10 @@
       "company": "Wind万得",
       "sheet_row": 137,
       "urls": [
-        "https://www.wind.com.cn/"
+        "https://www.wind.com.cn/portal/zh/JoinUs/recruit.html?positionType=9002"
       ],
-      "method": "official_board"
+      "method": "official_board",
+      "baseline_revision": "2026-11-01-priority24-v1"
     },
     {
       "source_id": "watch-sheet-138",

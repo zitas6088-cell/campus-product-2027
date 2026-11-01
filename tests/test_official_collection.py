@@ -129,6 +129,12 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
     async def test_previous_job_description_is_never_assigned_to_a_new_title(self):
         await self.assert_detail_popup(wrong_detail=True)
 
+    async def test_paused_source_does_not_make_a_network_request(self):
+        browser=Mock()
+        with self.assertRaisesRegex(RuntimeError,'站点安全策略'):
+            await collect_company(browser,{'collection_paused_reason':'站点安全策略拒绝访问'})
+        browser.new_context.assert_not_called()
+
     async def test_unreadable_shell_or_access_error_is_not_a_zero_snapshot(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'欢迎加入'}
         for status in (200,403):

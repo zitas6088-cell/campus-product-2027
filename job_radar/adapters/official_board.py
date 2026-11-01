@@ -22,12 +22,12 @@ ROOT = Path(__file__).resolve().parents[2]
 WATCHLIST = ROOT / 'config/company_watchlist.json'
 CACHE = ROOT / 'data/official_board_snapshot.json'
 PRODUCT = re.compile(r'产品|\bproduct\b', re.I)
-JOB_URL = re.compile(r'(?:job|position|vacanc|career|requisition|detail|post)[^\s]*[0-9]|[?&](?:job|post|position|req)(?:Id|id|ID|Code)=', re.I)
+JOB_URL = re.compile(r'(?:job|position|vacanc|career|requisition|detail|post)[^\s]*[0-9]|[?&](?:(?:job|post|position|req)(?:Id|id|ID|Code)|encryptJobId)=', re.I)
 JOB_TITLE = re.compile(r'经理|工程师|架构师|专员|策划|分析师|商业分析|经营分析|管培|培训生|助理|研究员|设计师|产品设计|产品规划|产品管理|运营|manager|engineer|architect|analyst|associate|coordinator|graduate|intern|designer|specialist', re.I)
-NAV = re.compile(r'^职位$|校园招聘|应届生|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings|current vacancies|apply to bmw', re.I)
+NAV = re.compile(r'^职位$|校园招聘|应届生|应届招聘|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings|current vacancies|apply to bmw', re.I)
 FORBIDDEN = re.compile(r'验证码|安全验证|访问过于频繁|人机验证|Access Denied|Verify you are human|captcha', re.I)
 EMPTY = re.compile(r'暂无(?:相关)?(?:职位|岗位)|没有找到相关职位|无匹配职位|no (?:matching |open |available )?(?:jobs|positions)|0 (?:jobs|positions)', re.I)
-ATS = ('mokahr.com', 'zhiye.com', 'hotjob.cn', 'jobs.feishu.cn', 'myworkdayjobs.com', 'successfactors.com', 'oraclecloud.com', 'avature.net', 'smartrecruiters.com', 'eightfold.ai', 'tupu360.com')
+ATS = ('mokahr.com', 'zhiye.com', 'hotjob.cn', 'jobs.feishu.cn', 'myworkdayjobs.com', 'successfactors.com', 'oraclecloud.com', 'avature.net', 'smartrecruiters.com', 'eightfold.ai', 'tupu360.com', 'jobs.f.mioffice.cn')
 _snapshot = None
 
 
@@ -68,7 +68,7 @@ def title_from_text(text):
                 and not re.search(r'(?:正式|全职|兼职).*(?:/| - )|产品\s*/\s*策划\s*/\s*项目',title)
                 and not re.search(r'(?:本科|硕士|博士)(?:及以上)?$',title)
                 and not (len(title) < 14 and title.endswith('类'))):
-            return title
+            return re.sub(r'(?:\s*(?:急招|热招|急聘)|\s+急)\s*$','',title).strip()
     return ''
 
 
@@ -103,6 +103,7 @@ def specific_batch(headings, url):
         return ''
     out = []
     for text in headings:
+        text=re.sub(r'(?<!\d)27届','2027届',text)
         if len(text) < 140 and re.search(r'2027\s*届?.{0,15}(?:校园招聘|校招)|(?:校园招聘|校招).{0,15}2027', text):
             if not re.search(r'202[0-68-9]\s*届', text):
                 out.append(text)
@@ -116,8 +117,9 @@ DOM_SNAPSHOT = r'''() => {
    text: (e.innerText || e.getAttribute('aria-label') || e.getAttribute('title') || e.querySelector('img')?.alt || '').trim(),
    href: e.href, context: text(e.closest('article,li,[class*="job-item"],[class*="position-item"],[class*="jobItem"],[class*="positionItem"]') || e.parentElement).slice(0,1800)
  }));
- const headings = Array.from(document.querySelectorAll('h1,h2,[class*="banner"] img,[class*="Banner"] img')).filter(visible).map(e => e.innerText || e.alt || '');
- const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="pos-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"]')).filter(visible).map(e=>text(e).trim()).filter(t=>t && t.length < 120);
+ const selected = Array.from(document.querySelectorAll('input:checked,[aria-checked="true"]')).map(e=>text(e.closest('label') || e.parentElement)).filter(t=>t.length<140 && /(?:2027|27届).*(?:校园招聘|校招)/.test(t));
+ const headings = selected.concat(Array.from(document.querySelectorAll('h1,h2,[class*="banner"] img,[class*="Banner"] img')).filter(visible).map(e => e.innerText || e.alt || ''));
+ const titles = Array.from(document.querySelectorAll('[class*="job-name"],[class*="position-name"],[class*="jobName"],[class*="positionName"],[class*="job-title"],[class*="position-title"],[class*="pos-title"],[class*="JobTitle"],[class*="jobTitle"],[class*="positionTitle"],.name[title],.lists>h3,.batch-title')).filter(visible).map(e=>text(e).trim()).filter(t=>t && t.length < 120);
  const extra_titles = Array.from(document.querySelectorAll('[class*="title"],[class*="Title"],h3')).filter(visible).map(e=>text(e).trim()).filter(t=>t && t.length < 120 && /产品|\bproduct\b/i.test(t));
  const inputs = Array.from(document.querySelectorAll('input[placeholder]')).filter(visible).map(e=>e.placeholder);
  const buttons = Array.from(document.querySelectorAll('button,[role="button"]')).filter(visible).slice(-30).map(e=>({text:e.innerText,aria:e.getAttribute('aria-label'),class:e.className,disabled:e.disabled}));
@@ -132,10 +134,10 @@ def json_jobs(value):
         for item in value:
             yield from json_jobs(item)
     elif isinstance(value, dict):
-        title = value.get('title') or value.get('positionName') or value.get('postName') or value.get('jobName')
-        ident = value.get('id') or value.get('jobId') or value.get('positionId') or value.get('postId')
-        desc = value.get('description') or value.get('jobDescription') or value.get('jobDuty') or value.get('workContent')
-        if title and ident and (desc or value.get('requirement') or value.get('qualification')):
+        title = value.get('title') or value.get('positionName') or value.get('postName') or value.get('jobName') or value.get('jobTitle')
+        ident = value.get('fromId') or value.get('id') or value.get('jobId') or value.get('positionId') or value.get('postId')
+        desc = value.get('description') or value.get('jobDescription') or value.get('jobDuty') or value.get('workContent') or value.get('requirements')
+        if title and title_from_text(title) and ident and (desc or value.get('requirement') or value.get('qualification')):
             yield {'title': str(title), 'id': str(ident), 'jd': '\n'.join(str(x or '') for x in (desc, value.get('requirement'), value.get('qualification'))),
                    'url': value.get('url') or value.get('jobUrl') or value.get('positionUrl') or '',
                    'location': str(value.get('workplace') or value.get('workPlaceStr') or ''),
@@ -146,16 +148,32 @@ def json_jobs(value):
 
 
 async def collect_company(browser, spec, diagnostics=None):
+    if spec.get('collection_paused_reason'):
+        raise RuntimeError(spec['collection_paused_reason'])
     context = await browser.new_context(locale='zh-CN')
     page = await context.new_page()
     page.set_default_timeout(3500)
-    captures, tasks = [], []
+    captures, tasks, api_diagnostics = [], [], []
 
     async def response_data(response):
         if 'json' in response.headers.get('content-type', ''):
             try:
                 data = await response.json()
-                captures.extend(json_jobs(data))
+                jobs=list(json_jobs(data));captures.extend(jobs)
+                if diagnostics is not None and (jobs or re.search(r'job|position|recruit|post',response.url,re.I)):
+                    # Anonymous public recruitment requests only. Record schema
+                    # and allowlisted job filters, never cookies/signatures.
+                    request=response.request
+                    try: body=request.post_data_json
+                    except Exception: body={}
+                    allowed={'page','pagenum','pageno','pageindex','pagesize','limit','offset','keyword','keywords','jobname','name','searchtext','recruittype','recruitsubprojectcodes','type','categoryid','channel','positiontype','recruitmenttype','projectid'}
+                    fields={k:v for k,v in body.items() if k.lower() in allowed} if isinstance(body,dict) else {}
+                    parts=urlsplit(response.url)
+                    api_diagnostics.append({'url':urlunsplit((parts.scheme,parts.netloc,parts.path,'','')),
+                        'method':request.method,'status':response.status,
+                        'request_fields':fields,'request_keys':list(body) if isinstance(body,dict) else [],
+                        'response_keys':list(data)[:20] if isinstance(data,dict) else [],
+                        'jobs_seen':len(jobs)})
             except Exception:
                 # Navigation can evict an auxiliary response body; the visible
                 # DOM/detail readers remain required, so this is not success.
@@ -182,13 +200,13 @@ async def collect_company(browser, spec, diagnostics=None):
 
     async def visible_detail(target, title):
         """SPA route changes can precede the job content; reject stale details."""
-        expected=re.sub(r'\s+','',re.sub(r'\s*[（(]J?\d+[)）]$','',title))
+        expected=re.sub(r'\s+','',re.sub(r'\s*[（(][A-Z]{0,4}\d+[)）]$','',title))
         for attempt in range(10):
             body=await target.locator('body').inner_text()
             body=re.split(r'相似职位|相关职位|推荐职位|相似岗位|相关岗位|推荐岗位|甄选职位|Similar Jobs|Related Jobs',body,flags=re.I)[0]
             if FORBIDDEN.search(body[:6000]): raise RuntimeError('岗位详情要求安全验证')
             if (expected in re.sub(r'\s+','',body[:3000])
-                    and re.search(r'工作职责|岗位职责|职责描述|职位描述|任职要求|任职资格|岗位要求|职位要求|Job Description|Responsibilities|Qualifications',body,re.I)):
+                    and re.search(r'工作职责|岗位职责|职责描述|职位描述|任职要求|任职资格|岗位要求|职位要求|Job Description|Responsibilities|Qualifications|你将会负责|我们期望你',body,re.I)):
                 return body[-25000:]
             if attempt<9: await target.wait_for_timeout(400)
         raise RuntimeError('详情标题或职责尚未加载，拒绝使用上一岗位内容')
@@ -215,6 +233,15 @@ async def collect_company(browser, spec, diagnostics=None):
                     pass
                 await page.wait_for_timeout(1600)
                 await reveal_listing()
+                if spec['company'] == 'Wind万得' and '/JoinUs/recruit.html' in page.url:
+                    campaign = page.locator('div').filter(has=page.get_by_text('2027年校园招聘',exact=True)).filter(has=page.get_by_text('了解更多',exact=True))
+                    # Pick the smallest visible campaign card, not the page wrapper.
+                    cards = await campaign.all()
+                    for card in reversed(cards):
+                        if await card.is_visible():
+                            await card.get_by_text('了解更多',exact=True).click()
+                            await page.wait_for_timeout(600)
+                            break
                 snapshot = await page.evaluate(DOM_SNAPSHOT)
                 if diagnostics is not None:
                     diagnostic.update(url=page.url, headings=snapshot['headings'],titles=snapshot['titles'][:40],
@@ -233,13 +260,14 @@ async def collect_company(browser, spec, diagnostics=None):
                     if campus_links:
                         queue.insert(0,campus_links[0])
                         continue
-                if (not snapshot['titles']
+                if (not re.search(r'职位列表\s*[(（]\s*\d',snapshot['text'])
+                        and not snapshot['titles']
                         and not any(target_product(title_from_text(text)) for text in snapshot.get('extra_titles',[]))
                         and not any(title_from_text(x['text']) and JOB_URL.search(x['href']) for x in snapshot['links'])):
                     # Several official portals use navigation controls without
                     # href attributes. Only open listing/campus navigation;
                     # never click a job's apply/submit control.
-                    nav_controls = page.get_by_text(re.compile(r'^(职位|校园招聘|应届生招聘|应届生职位|校招职位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看所有职位|Campus Recruitment|Graduate Jobs|Fresh Graduates Program|View all jobs)$',re.I))
+                    nav_controls = page.get_by_text(re.compile(r'^(职位|校园招聘|应届生招聘|应届生职位|应届招聘|校招职位|校招岗位|招聘岗位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看职位|查看所有职位|Campus Recruitment|Graduate Jobs|Fresh Graduates Program|View all jobs)$',re.I))
                     for nav in (await nav_controls.all())[:8]:
                         if not await nav.is_visible(): continue
                         before = page.url
@@ -270,8 +298,29 @@ async def collect_company(browser, spec, diagnostics=None):
                     all_listings.add(job.official_url)
                 async def scan_results(current):
                     nonlocal explicit_empty
-                    for number in range(30):
+                    headings.extend(current.get('headings',[]))
+                    for number in range(100):
+                        if spec['company']=='BOSS直聘':
+                            # The employer's own site expands JDs inline. Keep
+                            # each real application href, including same-title roles.
+                            for card in await page.locator('.job-item').all():
+                                title=title_from_text(await card.locator('.job-name').inner_text())
+                                if not target_product(title): continue
+                                await card.locator('.job-name').click()
+                                desc=card.locator('.job-desc')
+                                await desc.wait_for(state='visible',timeout=6000)
+                                jd=await card.inner_text()
+                                href=await card.locator('a.job-href-wrap').get_attribute('href')
+                                if not href or not JOB_URL.search(href): raise RuntimeError('BOSS职位缺少真实链接')
+                                body=await page.locator('body').inner_text()
+                                if not any(t in body for t in spec.get('require_company_terms',[])): raise RuntimeError('未验证BOSS直聘雇主身份')
+                                batch=(await page.title()) if '应届生' in jd and '实习生' not in jd else ''
+                                link={'text':title,'href':href,'context':jd}
+                                job=record_from_link(spec['company'],link,jd,batch)
+                                if job:
+                                    known[canonical(href)]=job;links[canonical(href)]=link;all_listings.add(canonical(href))
                         explicit_empty = explicit_empty or bool(EMPTY.search(current['text']))
+                        if spec['company'] in ('Wind万得','七猫') and re.search(r'暂无数据',current['text']): explicit_empty=True
                         for link in current['links']:
                             title = title_from_text(link['text'])
                             if title and JOB_URL.search(link['href']):
@@ -294,7 +343,15 @@ async def collect_company(browser, spec, diagnostics=None):
                             opened = []
                             try:
                                 candidates = await page.get_by_text(raw_title, exact=True).all()
+                                if title != raw_title:
+                                    candidates = await page.get_by_text(title,exact=True).all() + candidates
                                 candidates = [candidate for candidate in candidates if await candidate.is_visible()]
+                                if spec['company']=='快手':
+                                    control=page.locator('.name[title='+json.dumps(title,ensure_ascii=False)+']')
+                                    if raw_title in current['titles']:
+                                        try: await control.first.wait_for(state='visible',timeout=6000)
+                                        except Exception: pass
+                                    candidates=[c for c in await control.all() if await c.is_visible()]
                                 # API metadata may include another result page.
                                 # Only an actual visible card may be opened.
                                 if (not candidates and raw_title in captured_titles
@@ -319,13 +376,13 @@ async def collect_company(browser, spec, diagnostics=None):
                                         diagnostic.setdefault('title_attempts',[]).append({'title':title,'url':target.url})
                                     if canonical(target.url) == canonical(before) or not JOB_URL.search(target.url): continue
                                     try:
-                                        await target.get_by_text(re.compile(r'工作职责|职位描述|任职要求|任职资格|Responsibilities|Qualifications',re.I)).first.wait_for(timeout=8000)
+                                        await target.get_by_text(re.compile(r'工作职责|岗位职责|岗位要求|职位描述|任职要求|任职资格|Responsibilities|Qualifications',re.I)).first.wait_for(timeout=8000)
                                     except Exception:
                                         await target.wait_for_timeout(700)
                                     jd = await visible_detail(target,title)
                                     if diagnostics is not None:
                                         diagnostic['title_attempts'][-1]['detail_head']=jd[:1200]
-                                    if not re.search(r'工作职责|岗位职责|职位描述|任职要求|任职资格|岗位要求|Job Description|Responsibilities|Qualifications',jd,re.I):
+                                    if not re.search(r'工作职责|岗位职责|职位描述|任职要求|任职资格|岗位要求|Job Description|Responsibilities|Qualifications|你将会负责|我们期望你',jd,re.I):
                                         reasons.append('标题导航未出现岗位详情，不作为职位')
                                         break
                                     if not FORBIDDEN.search(jd[:6000]):
@@ -349,7 +406,7 @@ async def collect_company(browser, spec, diagnostics=None):
                                 if canonical(page.url) != canonical(before):
                                     await page.go_back(wait_until='domcontentloaded',timeout=15000)
                                     await page.wait_for_timeout(500)
-                        next_page = page.locator('button[aria-label="Next page"],button[aria-label="下一页"],li.ant-pagination-next:not(.ant-pagination-disabled),button.btn-next:not([disabled]),a.next:not(.disabled)').first
+                        next_page = page.locator('button[aria-label="Next page"],button[aria-label="下一页"],li.ant-pagination-next:not(.ant-pagination-disabled),button.btn-next:not([disabled]),a.next:not(.disabled),li[title="下一页"],li.van-pagination__item--next button').first
                         if not await next_page.count():
                             next_page = page.get_by_role('link',name=re.compile(r'^(下一页|Next|Next page|›|»)$',re.I)).first
                         if await next_page.count():
@@ -365,10 +422,10 @@ async def collect_company(browser, spec, diagnostics=None):
                             following = await page.evaluate(DOM_SNAPSHOT)
                             if following['links'] == current['links'] and following['titles'] == current['titles']:
                                 return
-                            if number == 29: raise RuntimeError('职位滚动分页超过30页，拒绝不完整基线')
+                            if number == 99: raise RuntimeError('职位滚动分页超过100页，拒绝不完整基线')
                             current = following
                             continue
-                        if number == 29: raise RuntimeError('职位分页超过30页，拒绝不完整基线')
+                        if number == 99: raise RuntimeError('职位分页超过100页，拒绝不完整基线')
                         await next_page.click()
                         await page.wait_for_timeout(900)
                         await reveal_listing()
@@ -390,32 +447,33 @@ async def collect_company(browser, spec, diagnostics=None):
                 # Paginate each language's complete search result separately.
                 # Never take only the first Chinese page then paginate English.
                 searched = False
-                for field in await page.locator('input[placeholder]').all():
+                for field in await page.locator('input[placeholder],input#position_input' if spec['company']=='Wind万得' else 'input[placeholder]').all():
                     if not await field.is_visible(): continue
-                    hint = await field.get_attribute('placeholder') or ''
-                    is_job_search = re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|职位/公司/城市|job title|job keywords|search jobs|search for a job',hint,re.I)
+                    if spec['company']=='SHEIN': continue
+                    hint = await field.get_attribute('placeholder') or ('职位名称' if await field.get_attribute('id') == 'position_input' else '')
+                    is_job_search = re.search(r'请输入职位|按职位或者关键词搜索|从：一次职位的搜索|查找岗位|搜索工作岗位|职位名称|岗位名称|职位关键词|职位关键字|岗位关键词|岗位关键字|搜索职位|搜索岗位|职位/公司/城市|job title|job keywords|search jobs|search for a job',hint,re.I)
                     if not is_job_search and re.search(r'关键词|关键字|keyword',hint,re.I):
                         is_job_search=bool(snapshot['titles'] or captures or any(title_from_text(link['text']) and JOB_URL.search(link['href']) for link in snapshot['links']))
                     if is_job_search:
                         for term in ('产品', 'product'):
                             # Reactive portals rebuild inputs after a search;
                             # resolve the actual visible input again each time.
-                            candidates = await page.get_by_placeholder(hint,exact=True).all()
+                            candidates = await (page.locator('input#position_input') if spec['company']=='Wind万得' else page.get_by_placeholder(hint,exact=True)).all()
                             visible_fields = [candidate for candidate in candidates if await candidate.is_visible()]
                             if not visible_fields:
                                 # A homepage search may navigate to a list with
                                 # a different placeholder (e.g. Ant Group).
-                                for candidate in await page.locator('input[placeholder]').all():
+                                for candidate in await page.locator('input[placeholder],input#position_input' if spec['company']=='Wind万得' else 'input[placeholder]').all():
                                     current_hint=await candidate.get_attribute('placeholder') or ''
-                                    if await candidate.is_visible() and re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|job keywords|search jobs|search for a job',current_hint,re.I):
+                                    if await candidate.is_visible() and re.search(r'请输入职位|按职位或者关键词搜索|从：一次职位的搜索|查找岗位|搜索工作岗位|职位名称|岗位名称|职位关键词|职位关键字|岗位关键词|岗位关键字|搜索职位|搜索岗位|job title|job keywords|search jobs|search for a job',current_hint,re.I):
                                         visible_fields.append(candidate)
                             if not visible_fields: raise RuntimeError('职位搜索框重绘后不可用')
                             current_field = visible_fields[-1]
                             await current_field.fill(term)
-                            buttons = await page.get_by_role('button',name=re.compile(r'^(搜索|查询|搜索职位|搜索岗位|Search|Search jobs)$',re.I)).all()
+                            buttons = await page.get_by_role('button',name=re.compile(r'^(搜\s*索|查\s*询|搜索职位|搜索岗位|搜索职位|百度一下|Search|Search jobs)$',re.I)).all()
                             visible_buttons = [button for button in buttons if await button.is_visible()]
                             if not visible_buttons:
-                                buttons = await page.get_by_text(re.compile(r'^(搜索|查询)$')).all()
+                                buttons = await page.get_by_text(re.compile(r'^(搜\s*索|查\s*询|搜索职位)$')).all()
                                 visible_buttons = [button for button in buttons if await button.is_visible()]
                             if visible_buttons:
                                 await visible_buttons[0].click()
@@ -434,7 +492,7 @@ async def collect_company(browser, spec, diagnostics=None):
                         break
                 if not searched:
                     await scan_results(snapshot)
-                list_route = listing_url(page.url) or bool(re.search(r'jobList|position/list',page.url,re.I))
+                list_route = listing_url(page.url) or bool(re.search(r'jobList|position/list|All-Jobs\?jobTypeId=CAMPUS',page.url,re.I))
                 if (searched or list_route) and (all_listings or captures or explicit_empty):
                     # A verified complete list is the authority. Do not chase
                     # social-hire links/FAQs after finishing a campus board.
@@ -490,6 +548,7 @@ async def collect_company(browser, spec, diagnostics=None):
                 'explicit_empty': explicit_empty, 'urls_read': sorted(visited)}
     finally:
         if diagnostics is not None and diagnostics:
+            diagnostics[-1]['public_api_requests']=api_diagnostics[-100:]
             diagnostics[-1]['api_product_titles'] = [
                 {'title':item['title'],'id':item['id'],'url':item['url']}
                 for item in captures if target_product(item['title'])][-30:]

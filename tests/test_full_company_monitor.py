@@ -59,11 +59,42 @@ class FullCompanyMonitorTests(unittest.TestCase):
             (data/'health_report.json').write_text(json.dumps(health),encoding='utf-8')
             with patch.object(campus_watch,'DATA',data),patch.object(campus_watch,'STATE',state),patch('sys.argv',['watch','--no-sync']),patch.object(campus_watch,'deliver') as deliver:
                 campus_watch.main()
-                self.assertIn('watch-jd',json.loads(state.read_text())['sources_initialized'])
+                self.assertIn('watch-jd',json.loads(state.read_text(encoding="utf-8"))['sources_initialized'])
                 job=dict(company_name='京东',source_id='watch-jd',title='2027届产品经理',identifier='new',official_url='https://campus.jd.com/new')
                 (data/'jobs.json').write_text(json.dumps([job]),encoding='utf-8')
                 campus_watch.main()
                 deliver.assert_called_once()
+
+    def test_repaired_source_baselines_once_and_preserves_delivery_history(self):
+        with tempfile.TemporaryDirectory() as temp:
+            data=Path(temp);state=data/'state.json';sid='watch-sheet-126'
+            def job(key):
+                import hashlib
+                url='https://www.zhipin.com/job/'+key
+                return dict(company_name='BOSS直聘',source_id=sid,title='2027届产品经理',identifier=hashlib.sha256(url.encode()).hexdigest()[:24],official_url=url)
+            old=job('old');existing=job('existing')
+            state.write_text(json.dumps({'version':1,'sources_initialized':[sid], 'delivered':{identity(old):{'sent_at':'2026-10-01'}}}),encoding='utf-8')
+            (data/'jobs.json').write_text(json.dumps([old,existing]),encoding='utf-8')
+            (data/'health_report.json').write_text(json.dumps({'sources':[{'source_id':sid,'last_count':2}]}),encoding='utf-8')
+            with patch.object(campus_watch,'DATA',data),patch.object(campus_watch,'STATE',state),patch('sys.argv',['watch','--no-sync']),patch.object(campus_watch,'deliver') as deliver:
+                campus_watch.main()
+                saved=json.loads(state.read_text(encoding="utf-8"))
+                self.assertIn(sid,saved['source_baseline_revisions'])
+                self.assertEqual(saved['delivered'][identity(old)],{'sent_at':'2026-10-01'})
+                self.assertIn('baseline_at',saved['delivered'][identity(existing)])
+                deliver.assert_not_called()
+                (data/'jobs.json').write_text(json.dumps([old,existing,job('new')]),encoding='utf-8')
+                campus_watch.main()
+                deliver.assert_called_once()
+
+    def test_failed_repaired_source_keeps_its_revision_pending(self):
+        with tempfile.TemporaryDirectory() as temp:
+            data=Path(temp);state=data/'state.json';sid='watch-sheet-126'
+            (data/'jobs.json').write_text('[]',encoding='utf-8')
+            (data/'health_report.json').write_text(json.dumps({'sources':[{'source_id':sid,'last_count':0,'last_error':'读取失败'},{'source_id':'watch-jd','last_count':0}]}),encoding='utf-8')
+            with patch.object(campus_watch,'DATA',data),patch.object(campus_watch,'STATE',state),patch('sys.argv',['watch','--no-sync']),patch.object(campus_watch,'deliver'):
+                campus_watch.main()
+            self.assertNotIn(sid,json.loads(state.read_text(encoding="utf-8")).get('source_baseline_revisions',{}))
 
     def test_real_detail_link_required_and_batch_dates_not_invented(self):
         self.assertEqual(official_board.title_from_text('技术研发类\n2027届产品经理\n北京'), '2027届产品经理')
@@ -90,6 +121,18 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertTrue(official_board.target_product('2027 Product Manager - International Business'))
         self.assertTrue(official_board.target_product('产品经理（可实习）【2027届校招】'))
         self.assertFalse(official_board.target_product('Product Coordinator Intern'))
+
+    def test_badges_and_public_job_payloads_preserve_real_titles(self):
+        self.assertEqual(official_board.title_from_text('策略产品培训生\n急招'),'策略产品培训生')
+        self.assertEqual(official_board.title_from_text('产品经理（上海）-2027届 急'),'产品经理（上海）-2027届')
+        self.assertEqual(list(official_board.json_jobs({'title':'产品','id':21,'description':'分类'})),[])
+        jobs=list(official_board.json_jobs({'jobTitle':'AI产品经理（2027届秋招）','id':'internal','fromId':'MJ42','requirements':'2027届；你将会负责产品规划'}))
+        self.assertEqual(jobs[0]['id'],'MJ42')
+        self.assertIn('2027届',jobs[0]['jd'])
+
+    def test_only_selected_campus_campaign_can_supply_a_batch(self):
+        self.assertEqual(official_board.specific_batch(['27届校园招聘'],'https://example.com/campus/jobs'),'2027届校园招聘')
+        self.assertEqual(official_board.specific_batch(['27届留用实习招聘'],'https://example.com/campus/jobs'),'')
 
     def test_tracking_changes_keep_existing_notification_history(self):
         import hashlib
