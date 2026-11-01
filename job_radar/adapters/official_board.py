@@ -209,11 +209,11 @@ async def collect_company(browser, spec):
                         except Exception:
                             continue
                 for job in parse_jobs(await page.content(), page.url):
+                    terms = spec.get('require_company_terms', [])
+                    original = job.company_name + ' ' + job.title + ' ' + job.jd_text
+                    if terms and not any(term.lower() in original.lower() for term in terms):
+                        continue
                     if PRODUCT.search(job.title):
-                        terms = spec.get('require_company_terms', [])
-                        original = job.company_name + ' ' + job.title + ' ' + job.jd_text
-                        if terms and not any(term.lower() in original.lower() for term in terms):
-                            continue
                         job.company_name = spec['company']; known[canonical(job.official_url)] = job
                     all_listings.add(job.official_url)
                 async def scan_results(current):
@@ -230,9 +230,10 @@ async def collect_company(browser, spec):
                                     queue.append(link['href'])
                         # Beisen and other boards use clickable title controls
                         # and open the real detail in a new tab instead of <a>.
-                        for title in dict.fromkeys(current['titles'] + current.get('extra_titles', [])):
-                            if not title_from_text(title): continue
-                            if title in current['titles']:
+                        for raw_title in dict.fromkeys(current['titles'] + current.get('extra_titles', [])):
+                            title = title_from_text(raw_title)
+                            if not title: continue
+                            if raw_title in current['titles']:
                                 all_listings.add('title:' + canonical(page.url) + ':' + title)
                             if not PRODUCT.search(title): continue
                             if any(title_from_text(link['text']) == title for link in links.values()): continue
@@ -240,7 +241,7 @@ async def collect_company(browser, spec):
                             before = page.url
                             opened = []
                             try:
-                                candidates = await page.get_by_text(title, exact=True).all()
+                                candidates = await page.get_by_text(raw_title, exact=True).all()
                                 for candidate in candidates:
                                     if not await candidate.is_visible(): continue
                                     old_pages = set(context.pages)

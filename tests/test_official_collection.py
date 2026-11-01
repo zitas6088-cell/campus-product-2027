@@ -98,5 +98,13 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         result=await collect_company(browser,spec)
         self.assertEqual(result['jobs'],[])
 
+    async def test_other_employers_jsonld_cannot_prove_target_company_is_healthy(self):
+        snapshot={'links':[],'titles':[],'headings':[],'text':'共享招聘门户'}
+        content='<script type="application/ld+json">{"@type":"JobPosting","title":"算法工程师","hiringOrganization":{"name":"其他公司"},"url":"https://example.com/job/1","description":"岗位职责"}</script>'
+        browser,_,_,spec=self.setup_board(snapshot,content=content)
+        spec['require_company_terms']=['目标公司']
+        with self.assertRaisesRegex(RuntimeError,'未验证到可读职位列表'):
+            await collect_company(browser,spec)
+
 
 if __name__=='__main__':unittest.main()
