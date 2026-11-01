@@ -1,4 +1,5 @@
 from types import SimpleNamespace
+import asyncio
 import unittest
 from unittest.mock import AsyncMock,Mock
 from job_radar.adapters.official_board import collect_company
@@ -63,9 +64,21 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(result['listings_seen'],2)
         next_button.click.assert_awaited_once()
 
-    async def test_new_detail_tab_waits_for_navigation_out_of_about_blank(self):
-        snapshot={'links':[],'titles':['2027届产品经理'],'headings':[],'text':'2027届产品经理'}
+    async def assert_detail_popup(self,use_api=False):
+        snapshot={'links':[],'titles':[] if use_api else ['2027届产品经理'],'headings':[],'text':'2027届产品经理'}
         browser,page,context,spec=self.setup_board(snapshot)
+        if use_api:
+            events={}
+            page.on.side_effect=lambda event,callback:events.update({event:callback})
+            response=Mock();response.url='https://example.com/api/jobs';response.headers={'content-type':'application/json'}
+            response.json=AsyncMock(return_value={'data':[{'id':'42','title':'2027届产品经理','description':'岗位职责：产品规划'}]})
+            original_goto=page.goto.side_effect
+            async def goto_with_api(url,**kwargs):
+                result=await original_goto(url,**kwargs)
+                events['response'](response)
+                await asyncio.sleep(0)
+                return result
+            page.goto.side_effect=goto_with_api
         popup=Mock();popup.url='about:blank';popup.close=AsyncMock()
         async def ready(*args,**kwargs):popup.url='https://example.com/jobs/42'
         popup.wait_for_url=AsyncMock(side_effect=ready)
@@ -76,11 +89,17 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
         candidate=locator()
         async def open_detail():context.pages.append(popup)
         candidate.click=AsyncMock(side_effect=open_detail)
-        page.get_by_text=Mock(return_value=locator(fields=[candidate]))
+        page.get_by_text=Mock(side_effect=lambda value,**kwargs:locator(fields=[candidate]) if value=='2027届产品经理' else locator())
         result=await collect_company(browser,spec)
         self.assertEqual(len(result['jobs']),1)
         popup.wait_for_url.assert_awaited_once()
         popup.close.assert_awaited_once()
+
+    async def test_new_detail_tab_waits_for_navigation_out_of_about_blank(self):
+        await self.assert_detail_popup()
+
+    async def test_public_api_title_can_find_a_real_card_without_known_css_classes(self):
+        await self.assert_detail_popup(use_api=True)
 
     async def test_unreadable_shell_or_access_error_is_not_a_zero_snapshot(self):
         snapshot={'links':[],'titles':[],'headings':[],'text':'欢迎加入'}

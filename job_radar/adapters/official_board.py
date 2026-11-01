@@ -23,7 +23,7 @@ WATCHLIST = ROOT / 'config/company_watchlist.json'
 CACHE = ROOT / 'data/official_board_snapshot.json'
 PRODUCT = re.compile(r'产品|\bproduct\b', re.I)
 JOB_URL = re.compile(r'(?:job|position|vacanc|career|requisition|detail|post)[^\s]*[0-9]|[?&](?:job|post|position|req)(?:Id|id|ID|Code)=', re.I)
-JOB_TITLE = re.compile(r'经理|工程师|专员|策划|分析师|商业分析|经营分析|管培|培训生|助理|研究员|设计师|产品设计|产品规划|产品管理|运营|manager|engineer|analyst|associate|graduate|intern|designer|specialist', re.I)
+JOB_TITLE = re.compile(r'经理|工程师|架构师|专员|策划|分析师|商业分析|经营分析|管培|培训生|助理|研究员|设计师|产品设计|产品规划|产品管理|运营|manager|engineer|architect|analyst|associate|coordinator|graduate|intern|designer|specialist', re.I)
 NAV = re.compile(r'^职位$|校园招聘|应届生|校招职位|招聘职位|全部职位|全部岗位|职位列表|岗位投递|招聘岗位|校招岗位|热招职位|立即投递|一键投递|查看职位|加入我们|招聘官网|campus|graduate|search jobs|view jobs|careers|job openings|current vacancies|apply to bmw', re.I)
 FORBIDDEN = re.compile(r'验证码|安全验证|访问过于频繁|人机验证|Access Denied|Verify you are human|captcha', re.I)
 EMPTY = re.compile(r'暂无(?:相关)?(?:职位|岗位)|没有找到相关职位|无匹配职位|no (?:matching |open |available )?(?:jobs|positions)|0 (?:jobs|positions)', re.I)
@@ -66,6 +66,7 @@ def title_from_text(text):
         if (4 <= len(title) <= 120 and JOB_TITLE.search(title)
                 and not re.search(r'[；;。]|^\d{1,2}[、.)）]', title)
                 and not re.search(r'(?:正式|全职|兼职).*(?:/| - )|产品\s*/\s*策划\s*/\s*项目',title)
+                and not re.search(r'(?:本科|硕士|博士)(?:及以上)?$',title)
                 and not (len(title) < 14 and title.endswith('类'))):
             return title
     return ''
@@ -222,7 +223,7 @@ async def collect_company(browser, spec, diagnostics=None):
                     # Several official portals use navigation controls without
                     # href attributes. Only open listing/campus navigation;
                     # never click a job's apply/submit control.
-                    nav_controls = page.get_by_text(re.compile(r'^(职位|校园招聘|应届生招聘|校招职位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看所有职位|Campus Recruitment|Graduate Jobs|Fresh Graduates Program|View all jobs)$',re.I))
+                    nav_controls = page.get_by_text(re.compile(r'^(职位|校园招聘|应届生招聘|应届生职位|校招职位|职位列表|全部职位|全部岗位|热招职位|岗位投递|查看所有职位|Campus Recruitment|Graduate Jobs|Fresh Graduates Program|View all jobs)$',re.I))
                     for nav in (await nav_controls.all())[:8]:
                         if not await nav.is_visible(): continue
                         before = page.url
@@ -265,18 +266,25 @@ async def collect_company(browser, spec, diagnostics=None):
                                     queue.append(link['href'])
                         # Beisen and other boards use clickable title controls
                         # and open the real detail in a new tab instead of <a>.
-                        for raw_title in dict.fromkeys(current['titles'] + current.get('extra_titles', [])):
+                        captured_titles=[item['title'] for item in captures if target_product(item['title'])]
+                        for raw_title in dict.fromkeys(current['titles'] + current.get('extra_titles', []) + captured_titles):
                             title = title_from_text(raw_title)
                             if not title: continue
                             if raw_title in current['titles']:
                                 all_listings.add('title:' + canonical(page.url) + ':' + title)
                             if not target_product(title): continue
                             if any(title_from_text(link['text']) == title for link in links.values()): continue
-                            unresolved_titles.add(title)
                             before = page.url
                             opened = []
                             try:
                                 candidates = await page.get_by_text(raw_title, exact=True).all()
+                                candidates = [candidate for candidate in candidates if await candidate.is_visible()]
+                                # API metadata may include another result page.
+                                # Only an actual visible card may be opened.
+                                if (not candidates and raw_title in captured_titles
+                                        and raw_title not in current['titles'] + current.get('extra_titles',[])):
+                                    continue
+                                unresolved_titles.add(title)
                                 for candidate in candidates:
                                     if not await candidate.is_visible(): continue
                                     old_pages = set(context.pages)
@@ -312,6 +320,7 @@ async def collect_company(browser, spec, diagnostics=None):
                                             known[canonical(target.url)] = job
                                     break
                             except Exception as exc:
+                                unresolved_titles.add(title)
                                 if diagnostics is not None:
                                     diagnostic.setdefault('title_errors',[]).append({'title':title,'error':str(exc)[:400]})
                                 reasons.append('标题详情未读: ' + type(exc).__name__)
@@ -354,7 +363,7 @@ async def collect_company(browser, spec, diagnostics=None):
                 for field in await page.locator('input[placeholder]').all():
                     if not await field.is_visible(): continue
                     hint = await field.get_attribute('placeholder') or ''
-                    is_job_search = re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|job title|search jobs|search for a job',hint,re.I)
+                    is_job_search = re.search(r'职位名称|职位关键词|搜索职位|搜索岗位|职位/公司/城市|job title|search jobs|search for a job',hint,re.I)
                     if not is_job_search and re.search(r'关键词|关键字|keyword',hint,re.I):
                         is_job_search=bool(snapshot['titles'] or captures or any(title_from_text(link['text']) and JOB_URL.search(link['href']) for link in snapshot['links']))
                     if is_job_search:
