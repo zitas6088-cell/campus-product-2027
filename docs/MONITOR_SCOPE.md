@@ -48,4 +48,4 @@
 42. vivo
 43. Wind万得
 
-名单收窄不代表所有官网均已接通。百度、蚂蚁集团、网易互联网的已知读取问题仍需处理；异常不等于无新增。每轮结果见[data/company_monitor_coverage.md](../data/company_monitor_coverage.md)，实际生效范围见[config/campus_product.json](../config/campus_product.json)。
+名单收窄不代表所有官网均已接通。蚂蚁和百度已于2026-11-02通过云端验证；网易互联网仍受站点安全限制，其他公司以每轮覆盖报告为准。详见[三家公司修复记录](three_companies_status_2026-11-02.md)。异常不等于无新增。每轮结果见[data/company_monitor_coverage.md](../data/company_monitor_coverage.md)，实际生效范围见[config/campus_product.json](../config/campus_product.json)。
