@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-01 21:19",
+  "generated_at": "2026-11-02 09:21",
   "configured_companies": 163,
   "attempted_sources": 163,
-  "healthy_sources": 96,
+  "healthy_sources": 101,
   "unhealthy_sources": [
     {
       "source_id": "watch-sheet-005",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-009",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-012",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理",
       "last_success_at": "2026-11-01T08:21:38.020371+00:00",
@@ -32,118 +32,60 @@
     {
       "source_id": "watch-sheet-013",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 校招投递转至已被浏览器站点安全策略拦截的campus.163.com；暂停自动读取，保留原数据，等待用户处理"
     },
     {
-      "source_id": "watch-sheet-016",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: TimeoutError: ",
-      "last_success_at": "2026-11-01T08:21:38.020885+00:00",
-      "last_count": 2,
-      "peak_count": 2,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-022",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
-      "last_success_at": "2026-11-01T08:21:38.021309+00:00",
-      "last_count": 0,
-      "peak_count": 19,
-      "alert": "抓取量跌为 0（历史峰值 19，疑似改版/失效）"
-    },
-    {
       "source_id": "watch-sheet-025",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://zhaopin.changyou.com/\nCall log:\n  - navigating to \"https://zhaopin.changyou.com/\", waiting until \"domcontentlo"
     },
     {
-      "source_id": "watch-sheet-030",
-      "adapter": "watch_official",
-      "consecutive_failures": 8,
-      "status": "blocked",
-      "last_error": "RuntimeError: TimeoutError: "
-    },
-    {
       "source_id": "watch-sheet-032",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: TimeoutError: "
     },
     {
-      "source_id": "watch-sheet-035",
-      "adapter": "watch_official",
-      "consecutive_failures": 8,
-      "status": "blocked",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
-    },
-    {
-      "source_id": "watch-sheet-038",
+      "source_id": "watch-sheet-033",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
-      "last_error": "RuntimeError: TimeoutError: ",
-      "last_success_at": "2026-11-01T08:21:38.021993+00:00",
-      "last_count": 2,
-      "peak_count": 2,
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.mihoyo.com/\", waiting until \"domcontentloaded\"\n",
+      "last_success_at": "2026-11-01T13:19:05.706309+00:00",
+      "last_count": 4,
+      "peak_count": 4,
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-039",
-      "adapter": "watch_official",
-      "consecutive_failures": 8,
-      "status": "blocked",
-      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：理想同学App产品经理"
-    },
-    {
-      "source_id": "watch-sheet-042",
+      "source_id": "watch-sheet-034",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-01T08:21:38.044059+00:00",
-      "last_count": 24,
-      "peak_count": 26,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-044",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-01T08:21:38.044775+00:00",
-      "last_count": 17,
-      "peak_count": 17,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-046",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-01T08:21:38.044842+00:00",
+      "last_success_at": "2026-11-01T13:19:05.706319+00:00",
       "last_count": 0,
       "peak_count": 0,
       "alert": ""
     },
     {
+      "source_id": "watch-sheet-035",
+      "adapter": "watch_official",
+      "consecutive_failures": 9,
+      "status": "blocked",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://career.anker.com.cn/universities/recruitment/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
       "source_id": "watch-sheet-047",
       "adapter": "watch_official",
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "status": "active",
       "last_success_at": "2026-11-01T13:19:05.706769+00:00",
-      "last_error": "",
+      "last_error": "RuntimeError: TimeoutError: ",
       "last_count": 0,
       "peak_count": 7,
       "alert": "抓取量跌为 0（历史峰值 7，疑似改版/失效）"
@@ -153,7 +95,7 @@
       "adapter": "watch_official",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-01T13:19:05.706898+00:00",
+      "last_success_at": "2026-11-02T01:21:38.950757+00:00",
       "last_error": "",
       "last_count": 0,
       "peak_count": 19,
@@ -162,15 +104,15 @@
     {
       "source_id": "watch-sheet-051",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-053",
       "adapter": "watch_official",
-      "consecutive_failures": 2,
-      "status": "active",
+      "consecutive_failures": 3,
+      "status": "unstable",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.wondershare.cn/about/join-us.html\", waiting until \"domcontentloaded\"\n",
       "last_success_at": "2026-11-01T07:34:41.075679+00:00",
       "last_count": 0,
@@ -178,23 +120,12 @@
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-054",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-01T08:21:38.046242+00:00",
-      "last_count": 23,
-      "peak_count": 23,
-      "alert": ""
-    },
-    {
       "source_id": "watch-sheet-055",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 0,
       "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://beisen2.zhiye.com/home\", waiting until \"domcontentloaded\"\n",
-      "last_success_at": "2026-11-01T08:21:38.046256+00:00",
+      "last_error": "",
+      "last_success_at": "2026-11-02T01:21:38.952057+00:00",
       "last_count": 0,
       "peak_count": 13,
       "alert": "抓取量跌为 0（历史峰值 13，疑似改版/失效）"
@@ -202,14 +133,25 @@
     {
       "source_id": "watch-sheet-057",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
+      "source_id": "watch-sheet-058",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
+      "last_success_at": "2026-11-01T13:19:05.707199+00:00",
+      "last_count": 0,
+      "peak_count": 0,
+      "alert": ""
+    },
+    {
       "source_id": "watch-sheet-059",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
@@ -218,7 +160,7 @@
       "adapter": "watch_official",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-01T13:19:05.707214+00:00",
+      "last_success_at": "2026-11-02T01:21:38.952138+00:00",
       "last_error": "",
       "last_count": 0,
       "peak_count": 11,
@@ -227,7 +169,7 @@
     {
       "source_id": "watch-sheet-064",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_success_at": "2026-11-01T08:21:42.237274+00:00",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
@@ -238,45 +180,45 @@
     {
       "source_id": "watch-sheet-066",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-068",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: TimeoutError: "
     },
     {
       "source_id": "watch-sheet-071",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 567"
     },
     {
       "source_id": "watch-sheet-073",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: TimeoutError: "
     },
     {
       "source_id": "watch-sheet-076",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://career.realme.com/\nCall log:\n  - navigating to \"https://career.realme.com/\", waiting until \"domcontentloaded\"\n"
     },
     {
-      "source_id": "watch-sheet-077",
+      "source_id": "watch-sheet-079",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 官网存在产品职位，但未取得可验证详情链接；需适配该招聘系统",
-      "last_success_at": "2026-11-01T08:21:42.238059+00:00",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师",
+      "last_success_at": "2026-11-01T13:19:09.827353+00:00",
       "last_count": 6,
       "peak_count": 6,
       "alert": ""
@@ -284,42 +226,42 @@
     {
       "source_id": "watch-sheet-086",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-088",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.risingamc.com/\nCall log:\n  - navigating to \"https://www.risingamc.com/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "source_id": "watch-sheet-090",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-092",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 500"
     },
     {
       "source_id": "watch-sheet-093",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.mckinsey.com/careers/search-jobs\nCall log:\n  - navigating to \"https://www.mckinsey.com/careers/search-jo"
     },
     {
       "source_id": "watch-sheet-095",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_error": "RuntimeError: TimeoutError: ",
       "last_success_at": "2026-11-01T08:21:42.240244+00:00",
@@ -330,15 +272,15 @@
     {
       "source_id": "watch-sheet-096",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-097",
       "adapter": "watch_official",
-      "consecutive_failures": 2,
-      "status": "active",
+      "consecutive_failures": 3,
+      "status": "unstable",
       "last_success_at": "2026-11-01T07:34:45.644689+00:00",
       "last_error": "RuntimeError: RuntimeError: 部分产品职位详情读取失败；详情未读: RuntimeError",
       "last_count": 1,
@@ -348,127 +290,116 @@
     {
       "source_id": "watch-sheet-098",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI-数据产品经理、AI产品经理-海创汇、工业AI平台产品经理"
     },
     {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     },
     {
       "source_id": "watch-sheet-100",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-101",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.boe.com.cn/join/index\", waiting until \"domcontentloaded\"\n"
     },
     {
       "source_id": "watch-sheet-102",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: Navigation to \"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/news.html#/detail?detailId=1741949540473&detailType=0\" is interrupted by anoth; Error: Page.goto: Navigation to \"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/news.html#/detail?detailId=1763276303927&detailType=0\" is interrupted by anoth; Error: Page.goto: Navigation to \"https://wecruit.ho"
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.goto: Navigation to \"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/news.html#/detail?detailId=1789720519522&detailType=0\" is interrupted by anoth; Error: Page.goto: Navigation to \"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/news.html#/detail?detailId=1741949540473&detailType=0\" is interrupted by anoth; Error: Page.goto: Navigation to \"https://wecruit.ho"
     },
     {
       "source_id": "watch-sheet-103",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
-      "last_error": "RuntimeError: TimeoutError: "
-    },
-    {
-      "source_id": "watch-sheet-105",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-01T08:21:42.243196+00:00",
-      "last_count": 37,
-      "peak_count": 37,
-      "alert": ""
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://gac-toyota.zhiye.com/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "source_id": "watch-sheet-106",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；TimeoutError: Locator.click: Timeout 3500ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"Next page\\\"],button[aria-label=\\\"下一页\\\"],li.ant-pagination-next:no"
     },
     {
+      "source_id": "watch-sheet-107",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 部分产品职位详情读取失败；详情未读: RuntimeError",
+      "last_success_at": "2026-11-01T13:19:09.829956+00:00",
+      "last_count": 8,
+      "peak_count": 8,
+      "alert": ""
+    },
+    {
       "source_id": "watch-sheet-109",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表"
     },
     {
       "source_id": "watch-sheet-118",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-119",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://zhaopin.nbcb.com.cn/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "source_id": "watch-sheet-120",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-121",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表"
     },
     {
       "source_id": "watch-sheet-122",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-123",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
-      "source_id": "watch-sheet-127",
-      "adapter": "watch_official",
-      "consecutive_failures": 3,
-      "status": "unstable",
-      "last_error": "RuntimeError: TimeoutError: ",
-      "last_success_at": "2026-11-01T01:58:17.277986+00:00",
-      "last_count": 12,
-      "peak_count": 12,
-      "alert": ""
-    },
-    {
       "source_id": "watch-sheet-130",
       "adapter": "watch_official",
-      "consecutive_failures": 7,
+      "consecutive_failures": 8,
       "status": "blocked",
       "last_success_at": "2026-10-31T12:38:33.789977+00:00",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.; Error: Page.goto: Navigation to \"https://join.yuewen.com/school\" is interrupted by another navigation to \"https://join.yuewen.com/\"\nCall log:\n  - navigating to \"https:",
@@ -477,79 +408,101 @@
       "alert": ""
     },
     {
+      "source_id": "watch-sheet-132",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI 算法产品经理（合同智能方向）-27届(J10443)",
+      "last_success_at": "2026-11-01T13:19:09.833418+00:00",
+      "last_count": 4,
+      "peak_count": 7,
+      "alert": ""
+    },
+    {
       "source_id": "watch-sheet-135",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 403"
     },
     {
       "source_id": "watch-sheet-140",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-141",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-143",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 418"
     },
     {
       "source_id": "watch-sheet-145",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
+      "source_id": "watch-sheet-148",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：君乐宝2027校招-产品管培生",
+      "last_success_at": "2026-11-01T13:19:09.835189+00:00",
+      "last_count": 1,
+      "peak_count": 1,
+      "alert": ""
+    },
+    {
       "source_id": "watch-sheet-151",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-152",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-154",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     },
     {
       "source_id": "watch-sheet-160",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://zhaopin.ynby.cn/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "source_id": "watch-sheet-161",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.zhiqiansec.com/\", waiting until \"domcontentloaded\"\n"
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；官网安全验证或访问限制，未绕过"
     },
     {
       "source_id": "watch-sheet-163",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；"
     }

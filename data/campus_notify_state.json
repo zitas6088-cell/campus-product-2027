@@ -23,12 +23,14 @@
     "watch-sheet-027",
     "watch-sheet-028",
     "watch-sheet-029",
+    "watch-sheet-030",
     "watch-sheet-031",
     "watch-sheet-033",
     "watch-sheet-034",
     "watch-sheet-036",
     "watch-sheet-037",
     "watch-sheet-038",
+    "watch-sheet-039",
     "watch-sheet-040",
     "watch-sheet-041",
     "watch-sheet-042",
@@ -25078,6 +25080,51 @@
     "迅雷:c72df83a017f74ab56bea968": {
       "sent_at": "2026-11-01T13:19:14.263793+00:00",
       "title": "【2027校招】游戏工具产品增长运营"
+    },
+    "懂车帝:6c92678277635d5b0b5cb6a9": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "作业帮:0cf667df32e57f8f8dd522eb": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "作业帮:c0826b9f64f157c5d798cf6b": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "懂车帝:6989e8a99bdc090c62c9e46d": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "懂车帝:513e9414b5380285965e28f2": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "懂车帝:f6504d7c7ce752de83fff49d": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "作业帮:23f235c10716f8e94babc75b": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "作业帮:319819560efb71e49b36de73": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "作业帮:0e87d2204a374300010ba979": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "顺丰科技:adec2183d1e08d5b98d15144": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "顺丰科技:57bbf80271601e0423a0145e": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "作业帮:c96fae61603815c5a30e9607": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "懂车帝:2bb75776c7ee6be0589fa4e1": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "理想汽车:f6e60bc8d0ea87bdc3a83aa7": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
+    },
+    "理想汽车:e34fe224ffb22e60b431b5b1": {
+      "baseline_at": "2026-11-02T01:21:47.938411+00:00"
     }
   },
   "scope_baselines": {
@@ -25099,8 +25146,12 @@
     "watch-sheet-126": "2026-11-01-priority24-v1",
     "watch-sheet-029": "2026-11-01-priority24-v1",
     "watch-sheet-048": "2026-11-01-priority24-v1",
-    "watch-sheet-036": "2026-11-01-priority24-v1",
+    "watch-sheet-036": "2026-11-01-priority24-v2",
     "watch-sheet-089": "2026-11-01-priority24-v1",
-    "watch-sheet-031": "2026-11-01-priority24-v1"
+    "watch-sheet-031": "2026-11-01-priority24-v1",
+    "watch-sheet-030": "2026-11-01-priority24-v1",
+    "watch-sheet-039": "2026-11-01-priority24-v1",
+    "watch-sheet-127": "2026-11-01-priority24-v1",
+    "watch-sheet-022": "2026-11-01-priority24-v1"
   }
 }
