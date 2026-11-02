@@ -17,6 +17,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from . import register
 from ..models import RawJob
 from .jsonld import parse_jobs
+from .http import get_json
 
 ROOT = Path(__file__).resolve().parents[2]
 WATCHLIST = ROOT / 'config/company_watchlist.json'
@@ -147,9 +148,75 @@ def json_jobs(value):
                 yield from json_jobs(child)
 
 
+def sf_tech_listings():
+    """Read the observed public campus API completely, scoped by employer field."""
+    items=[];seen=set();expected=None
+    for number in range(1,101):
+        data=get_json('https://campus.sf-express.com/api/web/position/query?'+urlencode({'pageSize':10,'pageNum':number}),
+                      headers={'Referer':'https://campus.sf-express.com/index.html',
+                               'User-Agent':'campus-product-2027-monitor/1.0'})
+        if (not isinstance(data,dict) or not isinstance(data.get('list'),list)
+                or not isinstance(data.get('total'),int) or not isinstance(data.get('pages'),int)
+                or data.get('pageNum')!=number):
+            raise RuntimeError('顺丰公开职位接口结构或页码改变')
+        if expected is None: expected=data['total']
+        if expected!=data['total']: raise RuntimeError('顺丰分页期间总数变化，等待下轮完整快照')
+        for item in data['list']:
+            key=str(item.get('id') or '')
+            if not key or key in seen: raise RuntimeError('顺丰职位缺编号或分页重复')
+            seen.add(key)
+            if item.get('orgSourceName')=='顺丰科技' and target_product(str(item.get('positionName') or '')):
+                if not item.get('postDuty') or not item.get('jobRequirement'):
+                    raise RuntimeError('顺丰科技产品职位缺少职责或要求')
+                items.append(item)
+        if number>=data['pages']:
+            if len(seen)!=expected: raise RuntimeError('顺丰职位列表未完整读取')
+            return items,expected
+        if not data['list']: raise RuntimeError('顺丰职位列表提前结束')
+    raise RuntimeError('顺丰职位列表超过100页')
+
+
+async def collect_sf_tech(browser,spec,diagnostics=None):
+    items,total=await asyncio.to_thread(sf_tech_listings)
+    context=await browser.new_context(locale='zh-CN');page=await context.new_page()
+    jobs=[]
+    try:
+        for item in items:
+            # This route was observed for IDs 2252/2253. Every returned ID is
+            # still navigated and matched to its real title before retaining it.
+            url='https://campus.sf-express.com/index.html#/postDetail/'+str(item['id'])
+            response=await page.goto(url,wait_until='domcontentloaded',timeout=25000)
+            if response and response.status>=400: raise RuntimeError('顺丰科技详情HTTP失败')
+            title=str(item['positionName']);body=''
+            for attempt in range(16):
+                body=await page.locator('body').inner_text()
+                if FORBIDDEN.search(body[:6000]): raise RuntimeError('顺丰科技详情要求安全验证')
+                if title in body and '任职要求' in body and '岗位描述' in body:break
+                await page.wait_for_timeout(400)
+            else:raise RuntimeError('顺丰科技详情标题或要求未加载')
+            if '来源： 顺丰科技' not in body and not re.search(r'来源[：:]\s*顺丰科技',body):
+                raise RuntimeError('顺丰详情雇主身份不匹配')
+            link={'text':title,'href':page.url,'context':body}
+            job=record_from_link(spec['company'],link,body)
+            if not job:raise RuntimeError('顺丰科技产品职位不可验证或已下线')
+            job.location=str(item.get('demandCity') or '')
+            job.publish_time=str(item.get('createDate') or '')[:10]
+            jobs.append(asdict(job))
+        if diagnostics is not None:
+            diagnostics.append({'url':spec['urls'][0],'public_api_total':total,
+                                'verified_product_details':[j['official_url'] for j in jobs]})
+        return {'ok':True,'company':spec['company'],'jobs':jobs,'pages_read':len(items),
+                'listings_seen':total,'notes':['公开校招接口完整分页；按orgSourceName核对顺丰科技主体'],
+                'explicit_empty':not items,'urls_read':[spec['urls'][0]]}
+    finally:
+        await context.close()
+
+
 async def collect_company(browser, spec, diagnostics=None):
     if spec.get('collection_paused_reason'):
         raise RuntimeError(spec['collection_paused_reason'])
+    if spec['company']=='顺丰科技':
+        return await collect_sf_tech(browser,spec,diagnostics)
     context = await browser.new_context(locale='zh-CN')
     page = await context.new_page()
     page.set_default_timeout(3500)
@@ -233,6 +300,8 @@ async def collect_company(browser, spec, diagnostics=None):
                     pass
                 await page.wait_for_timeout(1600)
                 await reveal_listing()
+                if spec['company']=='vivo' and '/jobs' in page.url:
+                    await page.locator('[class*="JobTitle"]').first.wait_for(state='visible',timeout=18000)
                 if spec['company'] == 'Wind万得' and '/JoinUs/recruit.html' in page.url:
                     campaign = page.locator('div').filter(has=page.get_by_text('2027年校园招聘',exact=True)).filter(has=page.get_by_text('了解更多',exact=True))
                     # Pick the smallest visible campaign card, not the page wrapper.
@@ -492,7 +561,7 @@ async def collect_company(browser, spec, diagnostics=None):
                         break
                 if not searched:
                     await scan_results(snapshot)
-                list_route = listing_url(page.url) or bool(re.search(r'jobList|position/list|All-Jobs\?jobTypeId=CAMPUS',page.url,re.I))
+                list_route = listing_url(page.url) or bool(re.search(r'jobList|positionList|position/list|All-Jobs\?jobTypeId=CAMPUS',page.url,re.I))
                 if (searched or list_route) and (all_listings or captures or explicit_empty):
                     # A verified complete list is the authority. Do not chase
                     # social-hire links/FAQs after finishing a campus board.
@@ -570,6 +639,9 @@ async def collect_all(specs, destination=CACHE):
             async with semaphore:
                 try:
                     result = await asyncio.wait_for(collect_company(browser, spec), timeout=150)
+                    if result['ok'] and spec.get('count_scope_revision'):
+                        result['count_scope_revision']=spec['count_scope_revision']
+                        result['count_scope_reason']=spec['count_scope_reason']
                 except Exception as exc:
                     result = {'ok': False, 'company': spec['company'], 'error': type(exc).__name__ + ': ' + str(exc)[:400]}
                 results[spec['source_id']] = result
@@ -581,10 +653,16 @@ async def collect_all(specs, destination=CACHE):
     return results
 
 
-def prepare():
+def successful_count_scope(source_id):
+    item=(_snapshot or {}).get(source_id,{})
+    if not item.get('ok'): return '', ''
+    return item.get('count_scope_revision',''),item.get('count_scope_reason','')
+
+
+def prepare(source_ids=None):
     global _snapshot
     specs = json.loads(WATCHLIST.read_text(encoding='utf-8'))['companies']
-    specs = [spec for spec in specs if spec['method'] == 'official_board']
+    specs = [spec for spec in specs if spec['method'] == 'official_board' and (source_ids is None or spec['source_id'] in source_ids)]
     try:
         _snapshot = asyncio.run(collect_all(specs))
     except Exception as exc:

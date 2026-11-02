@@ -207,11 +207,12 @@
       "company": "vivo",
       "sheet_row": 22,
       "urls": [
-        "https://hr-campus.vivo.com/",
-        "https://hr.vivo.com/"
+        "https://hr-campus.vivo.com/jobs"
       ],
       "method": "official_board",
-      "baseline_revision": "2026-11-01-priority24-v1"
+      "baseline_revision": "2026-11-01-priority24-v1",
+      "count_scope_revision": "vivo-campus-only-v1",
+      "count_scope_reason": "已删除hr.vivo.com社招入口；仅统计hr-campus.vivo.com/jobs完整校园列表中的正式产品职位；旧混合范围峰值保留在历史"
     },
     {
       "source_id": "watch-sheet-023",
@@ -287,11 +288,13 @@
       "company": "顺丰科技",
       "sheet_row": 30,
       "urls": [
-        "https://campus.sf-express.com/index.html",
-        "https://www.sf-tech.com.cn/join/"
+        "https://campus.sf-express.com/index.html#/positionList"
       ],
       "method": "official_board",
-      "baseline_revision": "2026-11-01-priority24-v1"
+      "baseline_revision": "2026-11-01-priority24-v1",
+      "require_company_terms": [
+        "顺丰科技"
+      ]
     },
     {
       "source_id": "watch-sheet-031",
@@ -345,10 +348,10 @@
       "company": "作业帮",
       "sheet_row": 36,
       "urls": [
-        "https://app.mokahr.com/campus-recruitment/zuoyebang/148220#/jobs"
+        "https://app.mokahr.com/campus-recruitment/zuoyebang/144908?locale=zh-CN#/"
       ],
       "method": "official_board",
-      "baseline_revision": "2026-11-01-priority24-v1"
+      "baseline_revision": "2026-11-01-priority24-v2"
     },
     {
       "source_id": "watch-sheet-037",
@@ -1210,7 +1213,7 @@
       "company": "懂车帝",
       "sheet_row": 127,
       "urls": [
-        "https://dcar.jobs.feishu.cn/"
+        "https://dcar.jobs.feishu.cn/campus/position/list"
       ],
       "method": "official_board",
       "baseline_revision": "2026-11-01-priority24-v1"

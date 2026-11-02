@@ -206,6 +206,21 @@ def _degrade(status: str, fails: int) -> str:
     return "active" if status in ("active", "unstable") else status
 
 
+def count_scope_peak(st, count, revision='', reason=''):
+    """A declared, validated scope change archives the old counter intact."""
+    if revision and revision!=st.get('count_scope_revision'):
+        if not reason: raise RuntimeError('统计范围变更缺少核实说明')
+        st.setdefault('count_scope_history',[]).append({
+            'revision':st.get('count_scope_revision','legacy-mixed'),
+            'peak_count':st.get('peak_count',0),'last_count':st.get('last_count'),
+            'last_success_at':st.get('last_success_at'),'alert':st.get('alert',''),
+            'archived_at':_now(),'reason':reason})
+        st['count_scope_revision']=revision
+        st['count_scope_reason']=reason
+        return count
+    return max(int(st.get('peak_count',0)),count)
+
+
 def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = None,
         verbose: bool = True, out_dir: Optional[str] = None,
         preserve_unselected: bool = False) -> Dict:
@@ -236,7 +251,7 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
     if any(src['source_id'] in selected_source_ids and src['adapter'] == 'watch_official'
            for src in sources):
         from .adapters import official_board
-        official_board.prepare()
+        official_board.prepare(selected_source_ids)
 
     for src in sources:
         sid, adapter_name = src["source_id"], src["adapter"]
@@ -260,7 +275,8 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
             n = len(jobs)
             # 静默失效检测（规划第 9 章）：源不报错但抓取量异常时告警。
             # peak = 历史最高抓取量，作为基线；跌为 0 或骤降 >80% 视为疑似改版/失效。
-            peak = max(int(st.get("peak_count", 0)), n)
+            revision,scope_reason=official_board.successful_count_scope(sid) if adapter_name=='watch_official' else ('','')
+            peak = count_scope_peak(st,n,revision,scope_reason)
             alert = ""
             if peak >= 5 and n == 0:
                 alert = f"抓取量跌为 0（历史峰值 {peak}，疑似改版/失效）"
