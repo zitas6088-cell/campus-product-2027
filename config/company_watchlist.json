@@ -76,7 +76,7 @@
       "company": "百度",
       "sheet_row": 9,
       "urls": [
-        "https://talent.baidu.com/jobs/"
+        "https://talent.baidu.com/jobs/list?recruitType=GRADUATE"
       ],
       "method": "official_board",
       "baseline_revision": "2026-11-01-priority24-v1"

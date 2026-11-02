@@ -223,6 +223,15 @@ def moka_project_key(url):
 async def collect_company(browser, spec, diagnostics=None):
     if spec.get('collection_paused_reason'):
         raise RuntimeError(spec['collection_paused_reason'])
+    if spec['company']=='蚂蚁集团':
+        from .ant_campus import fetch as fetch_ant
+        jobs=await asyncio.to_thread(fetch_ant)
+        if diagnostics is not None:
+            diagnostics.append({'method':'anonymous_public_api','company':spec['company'],
+                                'records':len(jobs)})
+        return {'ok':True,'company':spec['company'],'jobs':[asdict(job) for job in jobs],
+                'pages_read':0,'listings_seen':len(jobs),'notes':[],
+                'explicit_empty':not jobs,'urls_read':spec['urls']}
     if spec['company']=='顺丰科技':
         return await collect_sf_tech(browser,spec,diagnostics)
     context = await browser.new_context(locale='zh-CN')
