@@ -129,6 +129,18 @@ class PublicBoardFlowTests(unittest.IsolatedAsyncioTestCase):
     async def test_previous_job_description_is_never_assigned_to_a_new_title(self):
         await self.assert_detail_popup(wrong_detail=True)
 
+    async def test_explicit_moka_cohort_is_limited_to_the_same_campaign(self):
+        homepage='https://app.mokahr.com/campus-recruitment/zuoyebang/144908#/'
+        for campaign,expected in [('144908','面向于2027届应届毕业生'),('39595','')]:
+            url='https://app.mokahr.com/campus-recruitment/zuoyebang/'+campaign+'#/job/42'
+            snapshot={'links':[{'text':'产品经理','href':url,'context':''}],
+                      'titles':[],'headings':[],'text':'热招岗位\n面向于2027届应届毕业生'}
+            browser,page,_,spec=self.setup_board(snapshot)
+            spec['urls']=[homepage]
+            page.locator('body').inner_text.return_value='产品经理\n职位描述：产品规划\n任职要求：本科'
+            result=await collect_company(browser,spec)
+            self.assertEqual(result['jobs'][0]['raw']['batch_text'],expected)
+
     async def test_paused_source_does_not_make_a_network_request(self):
         browser=Mock()
         with self.assertRaisesRegex(RuntimeError,'站点安全策略'):

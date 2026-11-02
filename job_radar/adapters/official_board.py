@@ -212,6 +212,14 @@ async def collect_sf_tech(browser,spec,diagnostics=None):
         await context.close()
 
 
+def moka_project_key(url):
+    parts=urlsplit(url)
+    if not ((parts.hostname or '').endswith('.mokahr.com')
+            and re.fullmatch(r'/campus-recruitment/[^/]+/\d+/?',parts.path)):
+        return ''
+    return (parts.hostname or '').lower()+parts.path.rstrip('/')
+
+
 async def collect_company(browser, spec, diagnostics=None):
     if spec.get('collection_paused_reason'):
         raise RuntimeError(spec['collection_paused_reason'])
@@ -255,6 +263,20 @@ async def collect_company(browser, spec, diagnostics=None):
     all_listings, unresolved_titles, explicit_empty, pages_read = set(), set(), False, 0
     known = {}
     listing_complete = False
+    project_batches = {}
+
+    def remember_project_batch(snapshot,url):
+        # A homepage's explicit recruitment-object sentence belongs only to
+        # that exact Moka campaign ID, never another campus/social project.
+        key=moka_project_key(url)
+        route=urlsplit(url).fragment.split('?',1)[0]
+        if key and route in ('','/','/home'):
+            for line in snapshot['text'].splitlines():
+                if re.fullmatch(r'面向(?:于)?\s*2027\s*届\s*应届毕业生[。！!]?',line.strip()):
+                    project_batches[key]=line.strip()
+
+    def batch_for_url(url):
+        return specific_batch(headings,url) or project_batches.get(moka_project_key(url),'')
 
     async def reveal_listing():
         # Official campaign sites often hide their list until a normal scroll
@@ -320,6 +342,7 @@ async def collect_company(browser, spec, diagnostics=None):
                     reasons.append('官网安全验证或访问限制，未绕过'); continue
                 pages_read += 1
                 headings.extend(snapshot['headings'])
+                remember_project_batch(snapshot,page.url)
                 if re.search(r'social|experienced|off-campus',page.url,re.I):
                     campus_links=[link['href'] for link in snapshot['links']
                         if re.search(r'校招|校园招聘|campus|graduate',link['text'],re.I)
@@ -460,7 +483,7 @@ async def collect_company(browser, spec, diagnostics=None):
                                     terms = spec.get('require_company_terms', [])
                                     if not FORBIDDEN.search(jd[:6000]) and (not terms or any(t.lower() in (title+' '+jd).lower() for t in terms)):
                                         link = {'text':title,'href':target.url,'context':jd}
-                                        job = record_from_link(spec['company'],link,jd,specific_batch(headings,target.url))
+                                        job = record_from_link(spec['company'],link,jd,batch_for_url(target.url))
                                         if job:
                                             links[canonical(target.url)] = link
                                             known[canonical(target.url)] = job
@@ -590,7 +613,7 @@ async def collect_company(browser, spec, diagnostics=None):
             if key in known: continue
             meta = metadata.get(key, {})
             jd = meta.get('jd', '')
-            batch = meta.get('batch', '') or specific_batch(headings, link['href'])
+            batch = meta.get('batch', '') or batch_for_url(link['href'])
             try:
                 if not jd:
                     await page.goto(link['href'], wait_until='domcontentloaded', timeout=20000)
