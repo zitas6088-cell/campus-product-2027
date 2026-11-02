@@ -1,7 +1,7 @@
 {
-  "completed_slot": "2026-11-02T09:00+08:00",
-  "completed_at": "2026-11-02T01:21:48.135695+00:00",
-  "healthy_sources": 101,
-  "pushed": 0,
-  "run_id": "41370177194"
+  "completed_slot": "2026-11-02T15:00+08:00",
+  "completed_at": "2026-11-02T07:11:14.718360+00:00",
+  "healthy_sources": 37,
+  "pushed": 1,
+  "run_id": "41403908767"
 }
