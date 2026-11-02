@@ -1,0 +1,307 @@
+{
+  "slot": "2026-11-02T15:00+08:00",
+  "generated_at": "2026-11-02 16:03",
+  "companies": [
+    {
+      "company": "360集团",
+      "source_id": "watch-sheet-139",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "爱奇艺",
+      "source_id": "watch-sheet-017",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "百度",
+      "source_id": "watch-sheet-009",
+      "status": "没有新增",
+      "detail": "首次成功检查，仅建立现有岗位基线，旧岗位不计新增",
+      "jobs": []
+    },
+    {
+      "company": "哔哩哔哩",
+      "source_id": "watch-sheet-016",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "传音控股",
+      "source_id": "watch-sheet-046",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "得物App",
+      "source_id": "watch-sheet-019",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "滴滴",
+      "source_id": "watch-sheet-015",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "东方财富",
+      "source_id": "watch-sheet-040",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "懂车帝",
+      "source_id": "watch-sheet-127",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "度小满",
+      "source_id": "watch-sheet-113",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "哈啰",
+      "source_id": "watch-sheet-111",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "海康威视",
+      "source_id": "watch-sheet-079",
+      "status": "异常",
+      "detail": "TimeoutError:",
+      "jobs": []
+    },
+    {
+      "company": "京东",
+      "source_id": "watch-jd",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "科大讯飞",
+      "source_id": "watch-sheet-029",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "快手",
+      "source_id": "watch-sheet-011",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "蚂蚁集团",
+      "source_id": "watch-sheet-005",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "美团",
+      "source_id": "watch-meituan",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "拼多多",
+      "source_id": "watch-pdd",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "七猫",
+      "source_id": "watch-sheet-131",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "去哪儿",
+      "source_id": "watch-sheet-108",
+      "status": "异常",
+      "detail": "TimeoutError:",
+      "jobs": []
+    },
+    {
+      "company": "商米集团",
+      "source_id": "watch-sheet-153",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "商汤科技",
+      "source_id": "watch-sheet-116",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "收钱吧",
+      "source_id": "watch-sheet-138",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "顺丰科技",
+      "source_id": "watch-sheet-030",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "腾讯",
+      "source_id": "watch-tencent",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "同程旅行",
+      "source_id": "watch-sheet-157",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "同花顺",
+      "source_id": "watch-sheet-089",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "网易互联网",
+      "source_id": "watch-sheet-099",
+      "status": "异常",
+      "detail": "浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理",
+      "jobs": []
+    },
+    {
+      "company": "小红书",
+      "source_id": "watch-xhs",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "小米",
+      "source_id": "watch-sheet-021",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "携程集团",
+      "source_id": "watch-sheet-014",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "迅雷",
+      "source_id": "watch-sheet-062",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+      "jobs": []
+    },
+    {
+      "company": "用友网络",
+      "source_id": "watch-sheet-038",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "知乎",
+      "source_id": "watch-sheet-094",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "字节跳动",
+      "source_id": "watch-byte",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "作业帮",
+      "source_id": "watch-sheet-036",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "BOSS直聘",
+      "source_id": "watch-sheet-126",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "OPPO",
+      "source_id": "watch-sheet-023",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "SHEIN",
+      "source_id": "watch-sheet-018",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "Shopee",
+      "source_id": "watch-sheet-020",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "Soul",
+      "source_id": "watch-sheet-128",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "vivo",
+      "source_id": "watch-sheet-022",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    },
+    {
+      "company": "Wind万得",
+      "source_id": "watch-sheet-137",
+      "status": "没有新增",
+      "detail": "",
+      "jobs": []
+    }
+  ]
+}
