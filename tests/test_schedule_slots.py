@@ -8,6 +8,10 @@ from scripts import campus_watch as watch
 
 
 class ScheduledSlotTests(unittest.TestCase):
+    def setUp(self):
+        summary=patch.object(watch,'send_company_status')
+        summary.start();self.addCleanup(summary.stop)
+
     def test_delayed_retry_preserves_its_intended_slot(self):
         now=dt.datetime(2026,11,1,16,10,tzinfo=dt.timezone(dt.timedelta(hours=8)))
         self.assertEqual(watch.monitor_slot(now,'0,10,20 1 * * *'),'2026-11-01T09:00+08:00')

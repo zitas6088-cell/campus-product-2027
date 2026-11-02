@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from job_radar import sync
 from job_radar.campus_product import classify, identity, is_product, legacy_product_match, load_config, select_pending
+from job_radar.company_status import company_rows, report_parts
 
 DATA = ROOT / "data"
 STATE = DATA / "campus_notify_state.json"
@@ -125,6 +126,56 @@ def notification_batches(jobs):
     selected = [job for job in jobs if is_product(job)]
     for start in range(0, len(selected), 3):
         yield "⭐ 2027届产品相关岗位新增", selected[start:start + 3]
+
+
+def remember_period_jobs(state, slot, pending, first_sources):
+    contexts=state.setdefault('company_status_contexts',{})
+    context=contexts.setdefault(slot,{'jobs':{},'first_sources':[]})
+    for job in pending:
+        context['jobs'][identity(job)]={k:job.get(k,'') for k in
+            ('company_name','source_id','title','official_url','location')}
+    context['first_sources']=sorted(set(context['first_sources']) | set(first_sources))
+    for key in sorted(contexts)[:-8]: del contexts[key]
+    return context
+
+
+def send_company_status(health, new_jobs, first_sources, slot, dry_run=False):
+    cfg=load_config()
+    if not cfg.get('notify_company_status',False): return
+    catalog=read(ROOT/'config/company_watchlist.json',{}).get('companies',[])
+    rows=company_rows(cfg,catalog,health,new_jobs,first_sources)
+    now=dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
+    run_id=os.getenv('GITHUB_RUN_ID','')
+    run_url='https://github.com/zitas6088-cell/campus-product-2027/actions/runs/'+run_id if run_id else ''
+    texts=report_parts(rows,slot,now,run_url)
+    save(DATA/'company_check_summary.json',{'slot':slot,'generated_at':now,'companies':rows})
+    markdown='\n\n---\n\n'.join(texts)+'\n'
+    (DATA/'company_check_summary.md').write_text(markdown,encoding='utf-8')
+    report_path=DATA/'campus_product.md'
+    if report_path.exists():
+        report_path.write_text(markdown+'\n---\n\n'+report_path.read_text(encoding='utf-8'),encoding='utf-8')
+    if dry_run: return
+    path=DATA/'company_summary_notify_state.json'
+    state=read(path,{'version':1,'slots':{}})
+    slots=state['slots']; entry=slots.get(slot)
+    healthy=sum(r['status']!='异常' for r in rows)
+    if entry and entry.get('completed_at'):
+        # An entirely failed check may later recover in the same retry window.
+        if entry.get('healthy_sources',0)>0 or not healthy: return
+        entry=None
+    if not entry or not any(part.get('sent_at') for part in entry['parts']):
+        entry={'created_at':now,'healthy_sources':healthy,
+               'parts':[{'text':text} for text in texts]}
+        slots[slot]=entry
+        save(path,state)
+    for part in entry['parts']:
+        if part.get('sent_at'): continue
+        deliver(part['text'])
+        part['sent_at']=dt.datetime.now(dt.timezone.utc).isoformat()
+        save(path,state)
+    entry['completed_at']=dt.datetime.now(dt.timezone.utc).isoformat()
+    for key in sorted(slots)[:-8]: del slots[key]
+    save(path,state)
 
 
 def migrate_official_identities(state, prior_jobs):
@@ -235,7 +286,8 @@ def main():
                and not s.get("last_error") and not s.get("alert") and not s.get('skipped')
                and s.get("last_count") is not None and s.get("last_count", -1) >= 0}
     if not healthy:
-        raise RuntimeError("没有任何官网信源成功返回岗位，本轮不初始化、不发送、不修改已推状态")
+        send_company_status(health,[],[],slot,dry_run=args.dry_run)
+        raise RuntimeError("没有任何官网信源成功返回岗位，本轮不初始化、不发送岗位、不修改岗位已推状态")
     revisions={item['source_id']:item['baseline_revision'] for item in
                read(ROOT/'config/company_watchlist.json',{}).get('companies',[]) if item.get('baseline_revision')}
     # A repaired source may already have a baseline from an older incomplete
@@ -254,13 +306,16 @@ def main():
     expansion_baseline(jobs, pending_state, healthy, cfg, now)
     pending = select_pending(jobs, pending_state, cfg)
     pending = [j for j in pending if j["source_id"] in healthy]
+    context=remember_period_jobs(pending_state,slot,pending,first_sources)
     if args.dry_run:
+        send_company_status(health,list(context['jobs'].values()),context['first_sources'],slot,dry_run=True)
         print(f"仅预览：确认校招岗 {len(groups['confirmed'])}，产品重点 {sum(is_product(j) for j in groups['confirmed'])}，待确认 {len(groups['pending'])}，首次建基线 {len(first_sources)} 个信源，待推 {len(pending)} 条。未发送、未写推送状态。")
         return
     # First successful snapshot of each source establishes a baseline, never floods old listings.
     save(STATE, pending_state)
     if not pending:
         print(f"无符合条件的未推新增；本轮初始化 {len(first_sources)} 个信源。")
+        send_company_status(health,list(context['jobs'].values()),context['first_sources'],slot)
         if not args.no_sync: finish_slot(slot,healthy,0)
         return
     # Each confirmed batch is marked only after the provider acknowledges success.
@@ -270,6 +325,7 @@ def main():
         for job in batch:
             pending_state["delivered"][identity(job)] = {"sent_at": now, "title": job["title"]}
         save(STATE, pending_state)
+    send_company_status(health,list(context['jobs'].values()),context['first_sources'],slot)
     print(f"已推送 {len(pending)} 条新增校招岗，其中产品重点 {sum(is_product(j) for j in pending)} 条。")
     if not args.no_sync: finish_slot(slot,healthy,len(pending))
 

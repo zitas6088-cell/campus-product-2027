@@ -121,5 +121,6 @@
     "source_ids": [
       "watch-byte"
     ]
-  }
+  },
+  "notify_company_status": true
 }

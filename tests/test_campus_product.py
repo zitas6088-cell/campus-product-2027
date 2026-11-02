@@ -111,6 +111,9 @@ class PaginationTests(unittest.TestCase):
 
 class DeliveryTests(unittest.TestCase):
     def setUp(self):
+        # Keep job-delivery assertions independent of the separately tested summary.
+        summary=patch.object(campus_watch,'send_company_status')
+        summary.start();self.addCleanup(summary.stop)
         # Fixture jobs must never appear in the real Actions recruitment summary.
         summary_env = patch.dict('os.environ', {'GITHUB_STEP_SUMMARY': ''})
         summary_env.start()

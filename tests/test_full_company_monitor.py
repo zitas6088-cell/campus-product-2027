@@ -15,6 +15,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 class FullCompanyMonitorTests(unittest.TestCase):
     def setUp(self):
+        summary_delivery=patch.object(campus_watch,'send_company_status')
+        summary_delivery.start();self.addCleanup(summary_delivery.stop)
         summary = patch.dict('os.environ', {'GITHUB_STEP_SUMMARY': ''})
         summary.start()
         self.addCleanup(summary.stop)
@@ -196,4 +198,3 @@ class FullCompanyMonitorTests(unittest.TestCase):
 
 
 if __name__=='__main__': unittest.main()
-
