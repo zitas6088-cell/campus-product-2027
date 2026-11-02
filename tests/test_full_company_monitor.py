@@ -19,19 +19,41 @@ class FullCompanyMonitorTests(unittest.TestCase):
         summary.start()
         self.addCleanup(summary.stop)
 
-    def test_every_sheet_company_has_one_scheduled_source(self):
+    def test_selected_companies_have_one_scheduled_source(self):
         watch = json.loads((ROOT/'config/company_watchlist.json').read_text(encoding='utf-8'))['companies']
         cfg = load_config()
         self.assertEqual(len(watch), 163)
         self.assertEqual(set(item['sheet_row'] for item in watch), set(range(2,165)))
         self.assertEqual(len({item['company'] for item in watch}), 163)
-        self.assertEqual(set(cfg['companies']), {item['company'] for item in watch})
-        self.assertEqual(set(cfg['source_ids']), {item['source_id'] for item in watch})
+        self.assertEqual(len(cfg['companies']), 43)
+        self.assertEqual(len(set(cfg['source_ids'])), 43)
+        selected = [item for item in watch if item['source_id'] in cfg['source_ids']]
+        self.assertEqual(set(cfg['companies']), {item['company'] for item in selected})
+        self.assertEqual(set(cfg['source_ids']), {item['source_id'] for item in selected})
         with (ROOT/'config/sources.csv').open(encoding='utf-8') as f:
             sources = {item['source_id']:item for item in csv.DictReader(f) if item.get('source_id')}
         self.assertTrue(all(sources[item['source_id']]['status']=='active' for item in watch))
         self.assertEqual(cfg['check_times'], ['09:00','15:00'])
         self.assertTrue(cfg['notify_product_only'])
+
+    def test_removed_companies_are_excluded_from_notifications_and_coverage(self):
+        cfg=load_config()
+        removed=dict(company_name='理想汽车',source_id='watch-sheet-039',title='2027届产品经理',
+                     identifier='new-removed',official_url='https://example.com/removed')
+        self.assertEqual(select_pending([removed], {'delivered':{}}), [])
+        with tempfile.TemporaryDirectory() as temp:
+            data=Path(temp)
+            health={'sources':[{'source_id':sid,'last_count':0} for sid in cfg['source_ids']]
+                    +[{'source_id':removed['source_id'],'last_count':1}]}
+            with patch.object(campus_watch,'DATA',data):
+                campus_watch.report([removed],health)
+            rows=(data/'company_monitor_coverage.md').read_text(encoding='utf-8')
+            self.assertNotIn('| 理想汽车 |',rows)
+            for company in cfg['companies']:
+                self.assertIn('| '+company+' |',rows)
+            coverage=json.loads((data/'company_monitor_coverage.json').read_text(encoding='utf-8'))
+            self.assertEqual(coverage['configured_companies'],43)
+            self.assertEqual(coverage['attempted_sources'],43)
 
     def test_nonproduct_never_enters_notifications(self):
         def job(title, ident):
@@ -162,7 +184,7 @@ class FullCompanyMonitorTests(unittest.TestCase):
         self.assertFalse(official_board.listing_url('https://example.com/position/detail?positionId=123'))
 
     def test_campus_job_allowing_early_internship_remains_eligible(self):
-        job=dict(company_name='赛力斯',source_id='watch-sheet-054',title='产品经理（可实习）【2027届校招】',
+        job=dict(company_name='京东',source_id='watch-jd',title='产品经理（可实习）【2027届校招】',
                  official_url='https://sokon.zhiye.com/campus/detail?jobAdId=123')
         self.assertEqual(classify(job)[0],'confirmed')
         self.assertEqual(classify(dict(job,title='2027届产品经理实习生'))[0],'internship')
@@ -174,3 +196,4 @@ class FullCompanyMonitorTests(unittest.TestCase):
 
 
 if __name__=='__main__': unittest.main()
+

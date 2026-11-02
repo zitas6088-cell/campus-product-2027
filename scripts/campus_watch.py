@@ -173,11 +173,13 @@ def report(jobs, health):
     catalog_path = ROOT / 'config/company_watchlist.json'
     catalog = read(catalog_path, {'companies': []})['companies']
     by_source = {source['source_id']: source for source in watched}
-    coverage_lines = [f'# 全部公司监控状态｜{now}（北京时间）', '',
+    coverage_lines = [f'# 指定公司监控状态｜{now}（北京时间）', '',
         f"清单 {len(cfg['companies'])} 家；本轮正常 {len(watched)-len(failed)} 家；异常/待适配 {len(failed)} 家。", '',
         '“正常”表示本轮成功读取；“异常”不能视为没有新增。失败来源保留上次数据，不发过期快照提醒。', '',
         '| 公司 | 本轮状态 | 最近成功读取 | 说明 |', '| --- | --- | --- | --- |']
     for spec in catalog:
+        if spec['source_id'] not in cfg['source_ids'] or spec['company'] not in cfg['companies']:
+            continue
         source = by_source.get(spec['source_id'], {})
         issue = source.get('last_error') or source.get('alert') or source.get('note') or ''
         status = '未执行' if not source else ('异常/待适配' if issue or source.get('skipped') else '正常')
