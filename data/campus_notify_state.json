@@ -25206,6 +25206,10 @@
     },
     "百度:8557e4434fab05eeb845e915": {
       "baseline_at": "2026-11-02T08:03:33.827008+00:00"
+    },
+    "字节跳动:7701187064851482933": {
+      "sent_at": "2026-11-03T02:23:37.027878+00:00",
+      "title": "用户产品经理（Lite Growth） - TikTok"
     }
   },
   "scope_baselines": {
@@ -25243,6 +25247,18 @@
       "first_sources": [
         "watch-sheet-009"
       ]
+    },
+    "2026-11-03T09:00+08:00": {
+      "jobs": {
+        "字节跳动:7701187064851482933": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "用户产品经理（Lite Growth） - TikTok",
+          "official_url": "https://jobs.bytedance.com/campus/position/7701187064851482933/detail",
+          "location": "北京、上海"
+        }
+      },
+      "first_sources": []
     }
   }
 }

@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-02 16:03",
+  "generated_at": "2026-11-03 10:23",
   "configured_companies": 43,
   "attempted_sources": 43,
-  "healthy_sources": 39,
+  "healthy_sources": 40,
   "unhealthy_sources": [
     {
-      "source_id": "watch-sheet-062",
+      "source_id": "watch-sheet-021",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
-      "last_success_at": "2026-11-02T07:11:10.596872+00:00",
-      "last_count": 3,
-      "peak_count": 3,
+      "last_success_at": "2026-11-02T08:03:31.778325+00:00",
+      "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
+      "last_count": 73,
+      "peak_count": 84,
       "alert": ""
     },
     {
       "source_id": "watch-sheet-079",
       "adapter": "watch_official",
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "status": "unstable",
-      "last_error": "RuntimeError: TimeoutError: ",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师",
       "last_success_at": "2026-11-01T13:19:09.827353+00:00",
       "last_count": 6,
       "peak_count": 6,
@@ -29,20 +29,9 @@
     {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
-    },
-    {
-      "source_id": "watch-sheet-108",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_success_at": "2026-11-02T07:11:10.597419+00:00",
-      "last_error": "RuntimeError: TimeoutError: ",
-      "last_count": 6,
-      "peak_count": 6,
-      "alert": ""
     }
   ]
 }
