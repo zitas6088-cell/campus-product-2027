@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-03T09:00+08:00",
-  "generated_at": "2026-11-03 10:23",
+  "slot": "2026-11-03T15:00+08:00",
+  "generated_at": "2026-11-03 15:40",
   "companies": [
     {
       "company": "360集团",
@@ -26,8 +26,8 @@
     {
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "TimeoutError:",
       "jobs": []
     },
     {
@@ -83,7 +83,7 @@
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师",
       "jobs": []
     },
     {
@@ -249,8 +249,22 @@
         {
           "company_name": "字节跳动",
           "source_id": "watch-byte",
-          "title": "用户产品经理（Lite Growth） - TikTok",
-          "official_url": "https://jobs.bytedance.com/campus/position/7701187064851482933/detail",
+          "title": "短剧产品经理 - 抖音短剧",
+          "official_url": "https://jobs.bytedance.com/campus/position/7669696122201868597/detail",
+          "location": "北京"
+        },
+        {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "电商增长产品经理（EMEA） - TikTok Shop",
+          "official_url": "https://jobs.bytedance.com/campus/position/7703797576126794037/detail",
+          "location": "北京"
+        },
+        {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "广告产品经理-Ads Core - Global Ads Core",
+          "official_url": "https://jobs.bytedance.com/campus/position/7703825834331113781/detail",
           "location": "北京、上海"
         }
       ]
@@ -265,8 +279,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {

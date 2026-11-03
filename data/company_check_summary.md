@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-03 09:00（北京时间）
-完成时间：2026-11-03 10:23
-共43家公司：新增1家；没有新增39家；异常3家。
+2027届产品岗逐公司检查结果｜2026-11-03 15:00（北京时间）
+完成时间：2026-11-03 15:40
+共43家公司：新增1家；没有新增37家；异常5家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/41565074413
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/41597053932
 第1/1条
 
 360集团：没有新增
@@ -11,7 +11,7 @@
 
 百度：没有新增
 
-哔哩哔哩：没有新增
+哔哩哔哩：异常（TimeoutError:）
 
 传音控股：没有新增
 
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师）
+海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师）
 
 京东：没有新增
 
@@ -73,14 +73,20 @@
 
 知乎：没有新增
 
-字节跳动：新增 1个岗位
+字节跳动：新增 3个岗位
 
-  字节跳动｜用户产品经理（Lite Growth） - TikTok
-https://jobs.bytedance.com/campus/position/7701187064851482933/detail
+  字节跳动｜短剧产品经理 - 抖音短剧
+https://jobs.bytedance.com/campus/position/7669696122201868597/detail
+
+  字节跳动｜电商增长产品经理（EMEA） - TikTok Shop
+https://jobs.bytedance.com/campus/position/7703797576126794037/detail
+
+  字节跳动｜广告产品经理-Ads Core - Global Ads Core
+https://jobs.bytedance.com/campus/position/7703825834331113781/detail
 
 作业帮：没有新增
 
-BOSS直聘：没有新增
+BOSS直聘：异常（未验证到可读职位列表；）
 
 OPPO：没有新增
 

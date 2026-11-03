@@ -25210,6 +25210,18 @@
     "字节跳动:7701187064851482933": {
       "sent_at": "2026-11-03T02:23:37.027878+00:00",
       "title": "用户产品经理（Lite Growth） - TikTok"
+    },
+    "字节跳动:7669696122201868597": {
+      "sent_at": "2026-11-03T07:40:31.049504+00:00",
+      "title": "短剧产品经理 - 抖音短剧"
+    },
+    "字节跳动:7703797576126794037": {
+      "sent_at": "2026-11-03T07:40:31.049504+00:00",
+      "title": "电商增长产品经理（EMEA） - TikTok Shop"
+    },
+    "字节跳动:7703825834331113781": {
+      "sent_at": "2026-11-03T07:40:31.049504+00:00",
+      "title": "广告产品经理-Ads Core - Global Ads Core"
     }
   },
   "scope_baselines": {
@@ -25255,6 +25267,32 @@
           "source_id": "watch-byte",
           "title": "用户产品经理（Lite Growth） - TikTok",
           "official_url": "https://jobs.bytedance.com/campus/position/7701187064851482933/detail",
+          "location": "北京、上海"
+        }
+      },
+      "first_sources": []
+    },
+    "2026-11-03T15:00+08:00": {
+      "jobs": {
+        "字节跳动:7669696122201868597": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "短剧产品经理 - 抖音短剧",
+          "official_url": "https://jobs.bytedance.com/campus/position/7669696122201868597/detail",
+          "location": "北京"
+        },
+        "字节跳动:7703797576126794037": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "电商增长产品经理（EMEA） - TikTok Shop",
+          "official_url": "https://jobs.bytedance.com/campus/position/7703797576126794037/detail",
+          "location": "北京"
+        },
+        "字节跳动:7703825834331113781": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "广告产品经理-Ads Core - Global Ads Core",
+          "official_url": "https://jobs.bytedance.com/campus/position/7703825834331113781/detail",
           "location": "北京、上海"
         }
       },
