@@ -25234,6 +25234,18 @@
     "字节跳动:7703471209174108421": {
       "sent_at": "2026-11-04T07:32:13.530703+00:00",
       "title": "抖音星图品牌竞价产品运营经理 - 抖音品牌营销与星图达人"
+    },
+    "字节跳动:7667835620395387189": {
+      "sent_at": "2026-11-04T15:24:27.347239+00:00",
+      "title": "AI产品经理（增长方向） - 火山引擎"
+    },
+    "字节跳动:7704240819109038389": {
+      "sent_at": "2026-11-04T15:24:27.347239+00:00",
+      "title": "产品与流程解决方案（产品功能方向） - Trust and Safety"
+    },
+    "商米集团:72b64be4450571c7f654a3f5": {
+      "sent_at": "2026-11-04T15:24:27.347239+00:00",
+      "title": "<27届校招>DMP产品经理"
     }
   },
   "scope_baselines": {
@@ -25332,6 +25344,32 @@
           "title": "抖音星图品牌竞价产品运营经理 - 抖音品牌营销与星图达人",
           "official_url": "https://jobs.bytedance.com/campus/position/7703471209174108421/detail",
           "location": "北京、上海"
+        }
+      },
+      "first_sources": []
+    },
+    "2026-11-04T15:00+08:00": {
+      "jobs": {
+        "字节跳动:7667835620395387189": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "AI产品经理（增长方向） - 火山引擎",
+          "official_url": "https://jobs.bytedance.com/campus/position/7667835620395387189/detail",
+          "location": "北京"
+        },
+        "字节跳动:7704240819109038389": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "产品与流程解决方案（产品功能方向） - Trust and Safety",
+          "official_url": "https://jobs.bytedance.com/campus/position/7704240819109038389/detail",
+          "location": "北京、上海"
+        },
+        "商米集团:72b64be4450571c7f654a3f5": {
+          "company_name": "商米集团",
+          "source_id": "watch-sheet-153",
+          "title": "<27届校招>DMP产品经理",
+          "official_url": "https://app.mokahr.com/campus-recruitment/sunmi/150512#/job/5ddab2c3-807e-46f1-a194-4685e88fa004",
+          "location": ""
         }
       },
       "first_sources": []
