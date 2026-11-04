@@ -1,11 +1,11 @@
-2027届产品岗逐公司检查结果｜2026-11-03 15:00（北京时间）
-完成时间：2026-11-03 15:40
-共43家公司：新增1家；没有新增37家；异常5家。
+2027届产品岗逐公司检查结果｜2026-11-04 09:00（北京时间）
+完成时间：2026-11-04 15:32
+共43家公司：新增1家；没有新增36家；异常6家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/41597053932
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/41792078588
 第1/1条
 
-360集团：没有新增
+360集团：异常（未验证到可读职位列表；）
 
 爱奇艺：没有新增
 
@@ -25,7 +25,7 @@
 
 度小满：没有新增
 
-哈啰：没有新增
+哈啰：异常（未验证到可读职位列表；）
 
 海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师）
 
@@ -49,7 +49,7 @@
 
 商汤科技：没有新增
 
-收钱吧：没有新增
+收钱吧：异常（未验证到可读职位列表；）
 
 顺丰科技：没有新增
 
@@ -63,7 +63,7 @@
 
 小红书：没有新增
 
-小米：异常（职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表）
+小米：没有新增
 
 携程集团：没有新增
 
@@ -75,18 +75,18 @@
 
 字节跳动：新增 3个岗位
 
-  字节跳动｜短剧产品经理 - 抖音短剧
-https://jobs.bytedance.com/campus/position/7669696122201868597/detail
+  字节跳动｜数据策略产品 - 国际支付
+https://jobs.bytedance.com/campus/position/7703886304258148613/detail
 
-  字节跳动｜电商增长产品经理（EMEA） - TikTok Shop
-https://jobs.bytedance.com/campus/position/7703797576126794037/detail
+  字节跳动｜抖音星图产品运营经理 - 抖音品牌营销与星图达人
+https://jobs.bytedance.com/campus/position/7703467526621923637/detail
 
-  字节跳动｜广告产品经理-Ads Core - Global Ads Core
-https://jobs.bytedance.com/campus/position/7703825834331113781/detail
+  字节跳动｜抖音星图品牌竞价产品运营经理 - 抖音品牌营销与星图达人
+https://jobs.bytedance.com/campus/position/7703471209174108421/detail
 
 作业帮：没有新增
 
-BOSS直聘：异常（未验证到可读职位列表；）
+BOSS直聘：没有新增
 
 OPPO：没有新增
 
