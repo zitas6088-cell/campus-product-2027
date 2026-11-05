@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-04 15:00（北京时间）
-完成时间：2026-11-04 23:24
-共43家公司：新增2家；没有新增37家；异常4家。
+2027届产品岗逐公司检查结果｜2026-11-05 09:00（北京时间）
+完成时间：2026-11-05 15:57
+共43家公司：新增0家；没有新增40家；异常3家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/41856180793
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/41989987961
 第1/1条
 
 360集团：没有新增
@@ -11,7 +11,7 @@
 
 百度：没有新增
 
-哔哩哔哩：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://jobs.bilibili.com/campus/", waiting until "domcontentloaded" ; ）
+哔哩哔哩：异常（TimeoutError:）
 
 传音控股：没有新增
 
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员）
+海康威视：没有新增
 
 京东：没有新增
 
@@ -45,10 +45,7 @@
 
 去哪儿：没有新增
 
-商米集团：新增 1个岗位
-
-  商米集团｜<27届校招>DMP产品经理
-https://app.mokahr.com/campus-recruitment/sunmi/150512#/job/5ddab2c3-807e-46f1-a194-4685e88fa004
+商米集团：没有新增
 
 商汤科技：没有新增
 
@@ -68,21 +65,15 @@ https://app.mokahr.com/campus-recruitment/sunmi/150512#/job/5ddab2c3-807e-46f1-a
 
 小米：没有新增
 
-携程集团：没有新增
+携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：异常（职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表）
+迅雷：没有新增
 
 用友网络：没有新增
 
 知乎：没有新增
 
-字节跳动：新增 2个岗位
-
-  字节跳动｜AI产品经理（增长方向） - 火山引擎
-https://jobs.bytedance.com/campus/position/7667835620395387189/detail
-
-  字节跳动｜产品与流程解决方案（产品功能方向） - Trust and Safety
-https://jobs.bytedance.com/campus/position/7704240819109038389/detail
+字节跳动：没有新增
 
 作业帮：没有新增
 

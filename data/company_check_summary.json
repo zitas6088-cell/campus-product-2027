@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-04T15:00+08:00",
-  "generated_at": "2026-11-04 23:24",
+  "slot": "2026-11-05T09:00+08:00",
+  "generated_at": "2026-11-05 15:57",
   "companies": [
     {
       "company": "360集团",
@@ -27,7 +27,7 @@
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
       "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\" ; ",
+      "detail": "TimeoutError:",
       "jobs": []
     },
     {
@@ -82,8 +82,8 @@
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "异常",
-      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -145,17 +145,9 @@
     {
       "company": "商米集团",
       "source_id": "watch-sheet-153",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "商米集团",
-          "source_id": "watch-sheet-153",
-          "title": "<27届校招>DMP产品经理",
-          "official_url": "https://app.mokahr.com/campus-recruitment/sunmi/150512#/job/5ddab2c3-807e-46f1-a194-4685e88fa004",
-          "location": ""
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "商汤科技",
@@ -223,15 +215,15 @@
     {
       "company": "携程集团",
       "source_id": "watch-sheet-014",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
       "jobs": []
     },
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "异常",
-      "detail": "职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -251,24 +243,9 @@
     {
       "company": "字节跳动",
       "source_id": "watch-byte",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "AI产品经理（增长方向） - 火山引擎",
-          "official_url": "https://jobs.bytedance.com/campus/position/7667835620395387189/detail",
-          "location": "北京"
-        },
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "产品与流程解决方案（产品功能方向） - Trust and Safety",
-          "official_url": "https://jobs.bytedance.com/campus/position/7704240819109038389/detail",
-          "location": "北京、上海"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "作业帮",
