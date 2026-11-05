@@ -2,7 +2,7 @@
   "watch-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:54:51.470736+00:00",
+    "last_success_at": "2026-11-05T15:22:23.444081+00:00",
     "last_error": "",
     "last_count": 887,
     "peak_count": 888,
@@ -11,16 +11,16 @@
   "watch-byte": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:55:50.710512+00:00",
+    "last_success_at": "2026-11-05T15:23:23.332089+00:00",
     "last_error": "",
-    "last_count": 2275,
+    "last_count": 2276,
     "peak_count": 2298,
     "alert": ""
   },
   "watch-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:55:53.394374+00:00",
+    "last_success_at": "2026-11-05T15:23:26.911474+00:00",
     "last_error": "",
     "last_count": 132,
     "peak_count": 132,
@@ -29,16 +29,16 @@
   "watch-meituan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:08.726844+00:00",
+    "last_success_at": "2026-11-05T15:24:33.139826+00:00",
     "last_error": "",
-    "last_count": 3357,
-    "peak_count": 3357,
+    "last_count": 3370,
+    "peak_count": 3370,
     "alert": ""
   },
   "watch-xhs": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:12.643677+00:00",
+    "last_success_at": "2026-11-05T15:24:38.028696+00:00",
     "last_error": "",
     "last_count": 206,
     "peak_count": 210,
@@ -47,7 +47,7 @@
   "watch-pdd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.841974+00:00",
+    "last_success_at": "2026-11-05T15:24:41.976679+00:00",
     "last_error": "",
     "last_count": 34,
     "peak_count": 34,
@@ -66,7 +66,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.842210+00:00",
+    "last_success_at": "2026-11-05T15:24:41.976908+00:00",
     "last_count": 9,
     "peak_count": 9,
     "alert": ""
@@ -75,7 +75,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.842818+00:00",
+    "last_success_at": "2026-11-05T15:24:41.977650+00:00",
     "last_count": 16,
     "peak_count": 16,
     "alert": ""
@@ -84,8 +84,8 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.843578+00:00",
-    "last_count": 23,
+    "last_success_at": "2026-11-05T15:24:41.978457+00:00",
+    "last_count": 22,
     "peak_count": 23,
     "alert": ""
   },
@@ -104,7 +104,7 @@
     "last_error": "RuntimeError: RuntimeError: 校招投递转至已被浏览器站点安全策略拦截的campus.163.com；暂停自动读取，保留原数据，等待用户处理"
   },
   "watch-sheet-014": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "status": "active",
     "last_success_at": "2026-11-04T15:24:23.507808+00:00",
     "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -115,16 +115,16 @@
   "watch-sheet-015": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.844037+00:00",
+    "last_success_at": "2026-11-05T15:24:41.978898+00:00",
     "last_error": "",
     "last_count": 8,
     "peak_count": 11,
     "alert": ""
   },
   "watch-sheet-016": {
-    "consecutive_failures": 4,
+    "consecutive_failures": 5,
     "status": "unstable",
-    "last_error": "RuntimeError: TimeoutError: ",
+    "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\"\n; TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/positions\", waiting until \"domcontentloaded\"\n",
     "last_success_at": "2026-11-03T02:23:33.507548+00:00",
     "last_count": 2,
     "peak_count": 2,
@@ -133,7 +133,7 @@
   "watch-sheet-017": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.844067+00:00",
+    "last_success_at": "2026-11-05T15:24:41.978928+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -143,7 +143,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.844078+00:00",
+    "last_success_at": "2026-11-05T15:24:41.978937+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -151,7 +151,7 @@
   "watch-sheet-019": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.844983+00:00",
+    "last_success_at": "2026-11-05T15:24:41.979909+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 29,
@@ -160,7 +160,7 @@
   "watch-sheet-020": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.845388+00:00",
+    "last_success_at": "2026-11-05T15:24:41.980349+00:00",
     "last_error": "",
     "last_count": 12,
     "peak_count": 12,
@@ -169,9 +169,9 @@
   "watch-sheet-021": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.847666+00:00",
+    "last_success_at": "2026-11-05T15:24:41.982330+00:00",
     "last_error": "",
-    "last_count": 74,
+    "last_count": 64,
     "peak_count": 84,
     "alert": ""
   },
@@ -179,7 +179,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.847685+00:00",
+    "last_success_at": "2026-11-05T15:24:41.982348+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": "",
@@ -201,7 +201,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848137+00:00",
+    "last_success_at": "2026-11-05T15:24:41.982793+00:00",
     "last_count": 14,
     "peak_count": 14,
     "alert": ""
@@ -251,7 +251,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848356+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983001+00:00",
     "last_count": 5,
     "peak_count": 23,
     "alert": ""
@@ -260,7 +260,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848430+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983075+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -306,7 +306,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848621+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983282+00:00",
     "last_count": 5,
     "peak_count": 6,
     "alert": ""
@@ -324,7 +324,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848706+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983371+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -341,7 +341,7 @@
   "watch-sheet-040": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.848716+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983381+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 1,
@@ -396,7 +396,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848725+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983390+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -528,7 +528,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.848837+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983502+00:00",
     "last_count": 3,
     "peak_count": 3,
     "alert": ""
@@ -658,9 +658,9 @@
     "alert": ""
   },
   "watch-sheet-079": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
-    "last_error": "",
+    "last_error": "RuntimeError: TimeoutError: ",
     "last_success_at": "2026-11-05T07:57:15.849080+00:00",
     "last_count": 6,
     "peak_count": 6,
@@ -743,7 +743,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.849328+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983754+00:00",
     "last_count": 7,
     "peak_count": 7,
     "alert": ""
@@ -775,7 +775,7 @@
   "watch-sheet-094": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.849415+00:00",
+    "last_success_at": "2026-11-05T15:24:41.983842+00:00",
     "last_error": "",
     "last_count": 2,
     "peak_count": 3,
@@ -810,7 +810,7 @@
     "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI-数据产品经理、AI产品经理-海创汇、工业AI平台产品经理"
   },
   "watch-sheet-099": {
-    "consecutive_failures": 16,
+    "consecutive_failures": 17,
     "status": "blocked",
     "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
   },
@@ -869,7 +869,7 @@
   "watch-sheet-108": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.849642+00:00",
+    "last_success_at": "2026-11-05T15:24:41.984075+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 6,
@@ -893,7 +893,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.849899+00:00",
+    "last_success_at": "2026-11-05T15:24:41.984343+00:00",
     "last_count": 6,
     "peak_count": 6,
     "alert": ""
@@ -910,7 +910,7 @@
   "watch-sheet-113": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.850015+00:00",
+    "last_success_at": "2026-11-05T15:24:41.984460+00:00",
     "last_error": "",
     "last_count": 3,
     "peak_count": 7,
@@ -937,7 +937,7 @@
   "watch-sheet-116": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.850261+00:00",
+    "last_success_at": "2026-11-05T15:24:41.984692+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 9,
@@ -1004,7 +1004,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.850416+00:00",
+    "last_success_at": "2026-11-05T15:24:41.984845+00:00",
     "last_count": 4,
     "peak_count": 4,
     "alert": ""
@@ -1013,7 +1013,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.850611+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985029+00:00",
     "last_count": 5,
     "peak_count": 12,
     "alert": ""
@@ -1021,9 +1021,9 @@
   "watch-sheet-128": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.850817+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985419+00:00",
     "last_error": "",
-    "last_count": 6,
+    "last_count": 11,
     "peak_count": 11,
     "alert": ""
   },
@@ -1049,7 +1049,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.850828+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985432+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -1099,7 +1099,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.850836+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985441+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -1108,7 +1108,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.850946+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985551+00:00",
     "last_count": 3,
     "peak_count": 3,
     "alert": ""
@@ -1117,7 +1117,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-05T07:57:15.851004+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985609+00:00",
     "last_count": 1,
     "peak_count": 5,
     "alert": ""
@@ -1218,7 +1218,7 @@
   "watch-sheet-153": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.851255+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985846+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 6,
@@ -1250,7 +1250,7 @@
   "watch-sheet-157": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-05T07:57:15.851268+00:00",
+    "last_success_at": "2026-11-05T15:24:41.985856+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,

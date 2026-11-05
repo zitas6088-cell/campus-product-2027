@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-05T09:00+08:00",
-  "generated_at": "2026-11-05 15:57",
+  "slot": "2026-11-05T15:00+08:00",
+  "generated_at": "2026-11-05 23:24",
   "companies": [
     {
       "company": "360集团",
@@ -27,7 +27,7 @@
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
       "status": "异常",
-      "detail": "TimeoutError:",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\" ; ",
       "jobs": []
     },
     {
@@ -82,8 +82,8 @@
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "TimeoutError:",
       "jobs": []
     },
     {
