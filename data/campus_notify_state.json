@@ -25246,6 +25246,14 @@
     "商米集团:72b64be4450571c7f654a3f5": {
       "sent_at": "2026-11-04T15:24:27.347239+00:00",
       "title": "<27届校招>DMP产品经理"
+    },
+    "字节跳动:7705008444474018053": {
+      "sent_at": "2026-11-06T15:01:25.275527+00:00",
+      "title": "支付风控产品经理 - 国际支付"
+    },
+    "字节跳动:7704594036728301877": {
+      "sent_at": "2026-11-06T15:01:25.275527+00:00",
+      "title": "内容理解平台产品（AI方向） - 红果短剧"
     }
   },
   "scope_baselines": {
@@ -25278,12 +25286,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-02T15:00+08:00": {
-      "jobs": {},
-      "first_sources": [
-        "watch-sheet-009"
-      ]
-    },
     "2026-11-03T09:00+08:00": {
       "jobs": {
         "字节跳动:7701187064851482933": {
@@ -25384,6 +25386,25 @@
     },
     "2026-11-06T09:00+08:00": {
       "jobs": {},
+      "first_sources": []
+    },
+    "2026-11-06T15:00+08:00": {
+      "jobs": {
+        "字节跳动:7705008444474018053": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "支付风控产品经理 - 国际支付",
+          "official_url": "https://jobs.bytedance.com/campus/position/7705008444474018053/detail",
+          "location": "北京、上海"
+        },
+        "字节跳动:7704594036728301877": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "内容理解平台产品（AI方向） - 红果短剧",
+          "official_url": "https://jobs.bytedance.com/campus/position/7704594036728301877/detail",
+          "location": "北京"
+        }
+      },
       "first_sources": []
     }
   }
