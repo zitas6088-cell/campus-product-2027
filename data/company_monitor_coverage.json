@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 23:24",
+  "generated_at": "2026-11-06 15:57",
   "configured_companies": 43,
   "attempted_sources": 43,
   "healthy_sources": 39,
@@ -7,8 +7,8 @@
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 2,
-      "status": "active",
+      "consecutive_failures": 3,
+      "status": "unstable",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
       "last_count": 4,
@@ -16,22 +16,22 @@
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-016",
+      "source_id": "watch-sheet-062",
       "adapter": "watch_official",
-      "consecutive_failures": 5,
-      "status": "unstable",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\"\n; TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/positions\", waiting until \"domcontentloaded\"\n",
-      "last_success_at": "2026-11-03T02:23:33.507548+00:00",
-      "last_count": 2,
-      "peak_count": 2,
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hr.xunlei.com/\", waiting until \"domcontentloaded\"\n",
+      "last_success_at": "2026-11-05T15:24:41.983502+00:00",
+      "last_count": 3,
+      "peak_count": 3,
       "alert": ""
     },
     {
       "source_id": "watch-sheet-079",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
-      "last_error": "RuntimeError: TimeoutError: ",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】海外产品市场专员",
       "last_success_at": "2026-11-05T07:57:15.849080+00:00",
       "last_count": 6,
       "peak_count": 6,
@@ -40,7 +40,7 @@
     {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     }
