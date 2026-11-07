@@ -25290,32 +25290,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-03T15:00+08:00": {
-      "jobs": {
-        "字节跳动:7669696122201868597": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "短剧产品经理 - 抖音短剧",
-          "official_url": "https://jobs.bytedance.com/campus/position/7669696122201868597/detail",
-          "location": "北京"
-        },
-        "字节跳动:7703797576126794037": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "电商增长产品经理（EMEA） - TikTok Shop",
-          "official_url": "https://jobs.bytedance.com/campus/position/7703797576126794037/detail",
-          "location": "北京"
-        },
-        "字节跳动:7703825834331113781": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "广告产品经理-Ads Core - Global Ads Core",
-          "official_url": "https://jobs.bytedance.com/campus/position/7703825834331113781/detail",
-          "location": "北京、上海"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-04T09:00+08:00": {
       "jobs": {
         "字节跳动:7703886304258148613": {
@@ -25409,6 +25383,10 @@
           "location": ""
         }
       },
+      "first_sources": []
+    },
+    "2026-11-07T15:00+08:00": {
+      "jobs": {},
       "first_sources": []
     }
   }

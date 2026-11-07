@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-07 09:00（北京时间）
-完成时间：2026-11-07 15:05
-共43家公司：新增1家；没有新增38家；异常4家。
+2027届产品岗逐公司检查结果｜2026-11-07 15:00（北京时间）
+完成时间：2026-11-07 21:58
+共43家公司：新增0家；没有新增38家；异常5家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/42349262157
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/42378832039
 第1/1条
 
 360集团：没有新增
@@ -11,14 +11,11 @@
 
 百度：没有新增
 
-哔哩哔哩：没有新增
+哔哩哔哩：异常（TimeoutError:）
 
 传音控股：没有新增
 
-得物App：新增 1个岗位
-
-  得物App｜【27届校招】数据分析师(偏数据产品方向)-95分
-https://campus.dewu.com/578078/position/7705247320661739812/detail
+得物App：没有新增
 
 滴滴：没有新增
 
@@ -70,7 +67,7 @@ https://campus.dewu.com/578078/position/7705247320661739812/detail
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：异常（未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.）
+迅雷：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://hr.xunlei.com/", waiting until "domcontentloaded"）
 
 用友网络：没有新增
 
