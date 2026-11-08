@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-08T09:00+08:00",
-  "generated_at": "2026-11-08 10:19",
+  "slot": "2026-11-08T15:00+08:00",
+  "generated_at": "2026-11-08 15:41",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -26,8 +26,8 @@
     {
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\" ; ",
       "jobs": []
     },
     {
@@ -75,15 +75,15 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
       "jobs": []
     },
     {
@@ -159,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -208,8 +208,8 @@
     {
       "company": "小米",
       "source_id": "watch-sheet-021",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
       "jobs": []
     },
     {
@@ -223,7 +223,7 @@
       "company": "迅雷",
       "source_id": "watch-sheet-062",
       "status": "异常",
-      "detail": "未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+      "detail": "职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
       "jobs": []
     },
     {
