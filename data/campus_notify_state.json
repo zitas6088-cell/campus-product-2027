@@ -25290,32 +25290,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-04T09:00+08:00": {
-      "jobs": {
-        "字节跳动:7703886304258148613": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "数据策略产品 - 国际支付",
-          "official_url": "https://jobs.bytedance.com/campus/position/7703886304258148613/detail",
-          "location": "上海、北京"
-        },
-        "字节跳动:7703467526621923637": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "抖音星图产品运营经理 - 抖音品牌营销与星图达人",
-          "official_url": "https://jobs.bytedance.com/campus/position/7703467526621923637/detail",
-          "location": "北京、上海"
-        },
-        "字节跳动:7703471209174108421": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "抖音星图品牌竞价产品运营经理 - 抖音品牌营销与星图达人",
-          "official_url": "https://jobs.bytedance.com/campus/position/7703471209174108421/detail",
-          "location": "北京、上海"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-04T15:00+08:00": {
       "jobs": {
         "字节跳动:7667835620395387189": {
@@ -25386,6 +25360,10 @@
       "first_sources": []
     },
     "2026-11-07T15:00+08:00": {
+      "jobs": {},
+      "first_sources": []
+    },
+    "2026-11-08T09:00+08:00": {
       "jobs": {},
       "first_sources": []
     }

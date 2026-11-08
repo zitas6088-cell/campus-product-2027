@@ -1,5 +1,41 @@
 [
   {
+    "dedup_key": "ca6ae579095d11f6",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "小象超市-库位布局标准制定专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4688295317",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-07T13:51:28.744652+00:00",
+    "archived_at": "2026-11-08T02:13:22.156804+00:00",
+    "match_score": 130
+  },
+  {
+    "dedup_key": "78679ddd843a3f9e",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "营运优化",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4728061890",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-07T13:51:28.744652+00:00",
+    "archived_at": "2026-11-08T02:13:22.156804+00:00",
+    "match_score": 108
+  },
+  {
+    "dedup_key": "0c4c28dceaf194ee",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "小象超市-站内分拣运营专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4723644090",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-07T13:51:28.744652+00:00",
+    "archived_at": "2026-11-08T02:13:22.156804+00:00",
+    "match_score": 0
+  },
+  {
     "dedup_key": "ee76fd86a6796623",
     "source_id": "watch-sheet-019",
     "company_name": "得物App",
