@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10 01:26",
+  "generated_at": "2026-11-10 15:45",
   "configured_companies": 43,
   "attempted_sources": 43,
-  "healthy_sources": 34,
+  "healthy_sources": 38,
   "unhealthy_sources": [
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "status": "blocked",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -16,73 +16,16 @@
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-016",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\"\n; TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/positions\", waiting until \"domcontentloaded\"\n",
-      "last_success_at": "2026-11-09T07:56:18.091422+00:00",
-      "last_count": 2,
-      "peak_count": 2,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-022",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded.\nCall log:\n  - waiting for locator(\"[class*=\\\"JobTitle\\\"]\").first to be visible\n",
-      "last_success_at": "2026-11-09T07:56:18.093362+00:00",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": "",
-      "count_scope_history": [
-        {
-          "revision": "legacy-mixed",
-          "peak_count": 19,
-          "last_count": 0,
-          "last_success_at": "2026-11-01T08:21:38.021309+00:00",
-          "alert": "抓取量跌为 0（历史峰值 19，疑似改版/失效）",
-          "archived_at": "2026-11-02T01:21:38.943645+00:00",
-          "reason": "已删除hr.vivo.com社招入口；仅统计hr-campus.vivo.com/jobs完整校园列表中的正式产品职位；旧混合范围峰值保留在历史"
-        }
-      ],
-      "count_scope_revision": "vivo-campus-only-v1",
-      "count_scope_reason": "已删除hr.vivo.com社招入口；仅统计hr-campus.vivo.com/jobs完整校园列表中的正式产品职位；旧混合范围峰值保留在历史"
-    },
-    {
-      "source_id": "watch-sheet-029",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-09T07:56:18.093748+00:00",
-      "last_count": 5,
-      "peak_count": 23,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-046",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-09T07:56:18.093958+00:00",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": ""
-    },
-    {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     },
     {
       "source_id": "watch-sheet-111",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
       "last_success_at": "2026-11-09T07:56:18.094687+00:00",
@@ -93,7 +36,7 @@
     {
       "source_id": "watch-sheet-138",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
       "last_success_at": "2026-11-09T07:56:18.095306+00:00",
@@ -104,7 +47,7 @@
     {
       "source_id": "watch-sheet-139",
       "adapter": "watch_official",
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "status": "unstable",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
       "last_success_at": "2026-11-08T02:19:14.662526+00:00",

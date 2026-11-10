@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-09 15:00（北京时间）
-完成时间：2026-11-10 01:26
-共43家公司：新增0家；没有新增34家；异常9家。
+2027届产品岗逐公司检查结果｜2026-11-10 15:00（北京时间）
+完成时间：2026-11-10 15:45
+共43家公司：新增0家；没有新增38家；异常5家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/42663578594
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/42776647159
 第1/1条
 
 360集团：异常（未验证到可读职位列表；）
@@ -11,9 +11,9 @@
 
 百度：没有新增
 
-哔哩哔哩：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://jobs.bilibili.com/campus/", waiting until "domcontentloaded" ; ）
+哔哩哔哩：没有新增
 
-传音控股：异常（未验证到可读职位列表；）
+传音控股：没有新增
 
 得物App：没有新增
 
@@ -31,7 +31,7 @@
 
 京东：没有新增
 
-科大讯飞：异常（未验证到可读职位列表；）
+科大讯飞：没有新增
 
 快手：没有新增
 
@@ -87,6 +87,6 @@ Shopee：没有新增
 
 Soul：没有新增
 
-vivo：异常（未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator("[class*=\"JobTitle\"]").first to be visible）
+vivo：没有新增
 
 Wind万得：没有新增

@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-09T15:00+08:00",
-  "generated_at": "2026-11-10 01:26",
+  "slot": "2026-11-10T15:00+08:00",
+  "generated_at": "2026-11-10 15:45",
   "companies": [
     {
       "company": "360集团",
@@ -26,15 +26,15 @@
     {
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\" ; ",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
       "company": "传音控股",
       "source_id": "watch-sheet-046",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -96,8 +96,8 @@
     {
       "company": "科大讯飞",
       "source_id": "watch-sheet-029",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -292,8 +292,8 @@
     {
       "company": "vivo",
       "source_id": "watch-sheet-022",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator(\"[class*=\\\"JobTitle\\\"]\").first to be visible",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
