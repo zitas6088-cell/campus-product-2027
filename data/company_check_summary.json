@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-10T15:00+08:00",
-  "generated_at": "2026-11-10 15:45",
+  "slot": "2026-11-11T09:00+08:00",
+  "generated_at": "2026-11-11 15:46",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -75,8 +75,8 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -110,9 +110,17 @@
     {
       "company": "蚂蚁集团",
       "source_id": "watch-sheet-005",
-      "status": "没有新增",
+      "status": "新增",
       "detail": "",
-      "jobs": []
+      "jobs": [
+        {
+          "company_name": "蚂蚁集团",
+          "source_id": "watch-sheet-005",
+          "title": "WorldFirst AI产品经理",
+          "official_url": "https://talent.antgroup.com/campus-position?positionId=261110012839589",
+          "location": "杭州"
+        }
+      ]
     },
     {
       "company": "美团",
@@ -159,8 +167,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -243,9 +251,24 @@
     {
       "company": "字节跳动",
       "source_id": "watch-byte",
-      "status": "没有新增",
+      "status": "新增",
       "detail": "",
-      "jobs": []
+      "jobs": [
+        {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "内容产品经理 - TikTok生活服务",
+          "official_url": "https://jobs.bytedance.com/campus/position/7667548693747075333/detail",
+          "location": "上海、北京"
+        },
+        {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "治理产品运营 - TikTok直播",
+          "official_url": "https://jobs.bytedance.com/campus/position/7706547850606332165/detail",
+          "location": "北京"
+        }
+      ]
     },
     {
       "company": "作业帮",

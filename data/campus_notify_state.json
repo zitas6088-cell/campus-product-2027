@@ -25258,6 +25258,18 @@
     "得物App:0b82fafd4f374ffb77e1e5ab": {
       "sent_at": "2026-11-07T07:05:24.149258+00:00",
       "title": "【27届校招】数据分析师(偏数据产品方向)-95分"
+    },
+    "字节跳动:7667548693747075333": {
+      "sent_at": "2026-11-11T07:46:24.414706+00:00",
+      "title": "内容产品经理 - TikTok生活服务"
+    },
+    "字节跳动:7706547850606332165": {
+      "sent_at": "2026-11-11T07:46:24.414706+00:00",
+      "title": "治理产品运营 - TikTok直播"
+    },
+    "蚂蚁集团:677159bde1fa0786ba1f4fa3": {
+      "sent_at": "2026-11-11T07:46:24.414706+00:00",
+      "title": "WorldFirst AI产品经理"
     }
   },
   "scope_baselines": {
@@ -25290,25 +25302,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-06T15:00+08:00": {
-      "jobs": {
-        "字节跳动:7705008444474018053": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "支付风控产品经理 - 国际支付",
-          "official_url": "https://jobs.bytedance.com/campus/position/7705008444474018053/detail",
-          "location": "北京、上海"
-        },
-        "字节跳动:7704594036728301877": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "内容理解平台产品（AI方向） - 红果短剧",
-          "official_url": "https://jobs.bytedance.com/campus/position/7704594036728301877/detail",
-          "location": "北京"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-07T09:00+08:00": {
       "jobs": {
         "得物App:0b82fafd4f374ffb77e1e5ab": {
@@ -25343,6 +25336,32 @@
     },
     "2026-11-10T15:00+08:00": {
       "jobs": {},
+      "first_sources": []
+    },
+    "2026-11-11T09:00+08:00": {
+      "jobs": {
+        "字节跳动:7667548693747075333": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "内容产品经理 - TikTok生活服务",
+          "official_url": "https://jobs.bytedance.com/campus/position/7667548693747075333/detail",
+          "location": "上海、北京"
+        },
+        "字节跳动:7706547850606332165": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "治理产品运营 - TikTok直播",
+          "official_url": "https://jobs.bytedance.com/campus/position/7706547850606332165/detail",
+          "location": "北京"
+        },
+        "蚂蚁集团:677159bde1fa0786ba1f4fa3": {
+          "company_name": "蚂蚁集团",
+          "source_id": "watch-sheet-005",
+          "title": "WorldFirst AI产品经理",
+          "official_url": "https://talent.antgroup.com/campus-position?positionId=261110012839589",
+          "location": "杭州"
+        }
+      },
       "first_sources": []
     }
   }

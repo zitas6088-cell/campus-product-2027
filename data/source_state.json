@@ -2,7 +2,7 @@
   "watch-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:43:17.679147+00:00",
+    "last_success_at": "2026-11-11T07:43:52.849434+00:00",
     "last_error": "",
     "last_count": 882,
     "peak_count": 890,
@@ -11,16 +11,16 @@
   "watch-byte": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:44:32.693342+00:00",
+    "last_success_at": "2026-11-11T07:44:58.873551+00:00",
     "last_error": "",
-    "last_count": 2229,
+    "last_count": 2197,
     "peak_count": 2298,
     "alert": ""
   },
   "watch-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:44:36.124167+00:00",
+    "last_success_at": "2026-11-11T07:45:02.073059+00:00",
     "last_error": "",
     "last_count": 132,
     "peak_count": 132,
@@ -29,16 +29,16 @@
   "watch-meituan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:42.093586+00:00",
+    "last_success_at": "2026-11-11T07:46:14.299669+00:00",
     "last_error": "",
-    "last_count": 3373,
+    "last_count": 3369,
     "peak_count": 3390,
     "alert": ""
   },
   "watch-xhs": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:47.487064+00:00",
+    "last_success_at": "2026-11-11T07:46:18.669523+00:00",
     "last_error": "",
     "last_count": 203,
     "peak_count": 210,
@@ -47,7 +47,7 @@
   "watch-pdd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.518338+00:00",
+    "last_success_at": "2026-11-11T07:46:22.419663+00:00",
     "last_error": "",
     "last_count": 37,
     "peak_count": 37,
@@ -66,8 +66,8 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.518520+00:00",
-    "last_count": 8,
+    "last_success_at": "2026-11-11T07:46:22.419789+00:00",
+    "last_count": 9,
     "peak_count": 9,
     "alert": ""
   },
@@ -75,7 +75,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.519102+00:00",
+    "last_success_at": "2026-11-11T07:46:22.420108+00:00",
     "last_count": 16,
     "peak_count": 16,
     "alert": ""
@@ -84,7 +84,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.519784+00:00",
+    "last_success_at": "2026-11-11T07:46:22.420468+00:00",
     "last_count": 21,
     "peak_count": 23,
     "alert": ""
@@ -104,7 +104,7 @@
     "last_error": "RuntimeError: RuntimeError: 校招投递转至已被浏览器站点安全策略拦截的campus.163.com；暂停自动读取，保留原数据，等待用户处理"
   },
   "watch-sheet-014": {
-    "consecutive_failures": 11,
+    "consecutive_failures": 12,
     "status": "blocked",
     "last_success_at": "2026-11-04T15:24:23.507808+00:00",
     "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -115,9 +115,9 @@
   "watch-sheet-015": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.520097+00:00",
+    "last_success_at": "2026-11-11T07:46:22.420621+00:00",
     "last_error": "",
-    "last_count": 7,
+    "last_count": 6,
     "peak_count": 11,
     "alert": ""
   },
@@ -125,7 +125,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.520204+00:00",
+    "last_success_at": "2026-11-11T07:46:22.420670+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -133,7 +133,7 @@
   "watch-sheet-017": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.520218+00:00",
+    "last_success_at": "2026-11-11T07:46:22.420675+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -143,7 +143,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.520227+00:00",
+    "last_success_at": "2026-11-11T07:46:22.420681+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -151,7 +151,7 @@
   "watch-sheet-019": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.521047+00:00",
+    "last_success_at": "2026-11-11T07:46:22.421185+00:00",
     "last_error": "",
     "last_count": 23,
     "peak_count": 29,
@@ -160,7 +160,7 @@
   "watch-sheet-020": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.521454+00:00",
+    "last_success_at": "2026-11-11T07:46:22.421396+00:00",
     "last_error": "",
     "last_count": 12,
     "peak_count": 12,
@@ -169,9 +169,9 @@
   "watch-sheet-021": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.523459+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422344+00:00",
     "last_error": "",
-    "last_count": 65,
+    "last_count": 56,
     "peak_count": 84,
     "alert": ""
   },
@@ -179,7 +179,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.523478+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422352+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": "",
@@ -201,7 +201,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.523925+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422594+00:00",
     "last_count": 14,
     "peak_count": 14,
     "alert": ""
@@ -251,7 +251,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524138+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422707+00:00",
     "last_count": 5,
     "peak_count": 23,
     "alert": ""
@@ -260,7 +260,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524227+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422744+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -306,7 +306,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524388+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422840+00:00",
     "last_count": 4,
     "peak_count": 6,
     "alert": ""
@@ -324,7 +324,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524475+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422887+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -341,7 +341,7 @@
   "watch-sheet-040": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.524485+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422892+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 1,
@@ -396,7 +396,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524493+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422899+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -528,7 +528,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524605+00:00",
+    "last_success_at": "2026-11-11T07:46:22.422960+00:00",
     "last_count": 3,
     "peak_count": 3,
     "alert": ""
@@ -661,7 +661,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.524847+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423092+00:00",
     "last_count": 6,
     "peak_count": 6,
     "alert": ""
@@ -743,7 +743,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.525089+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423217+00:00",
     "last_count": 7,
     "peak_count": 7,
     "alert": ""
@@ -775,7 +775,7 @@
   "watch-sheet-094": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.525172+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423260+00:00",
     "last_error": "",
     "last_count": 2,
     "peak_count": 3,
@@ -810,7 +810,7 @@
     "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI-数据产品经理、AI产品经理-海创汇、工业AI平台产品经理"
   },
   "watch-sheet-099": {
-    "consecutive_failures": 26,
+    "consecutive_failures": 27,
     "status": "blocked",
     "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
   },
@@ -869,7 +869,7 @@
   "watch-sheet-108": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.525428+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423386+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 6,
@@ -890,11 +890,11 @@
     "alert": ""
   },
   "watch-sheet-111": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 0,
     "status": "active",
-    "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-    "last_success_at": "2026-11-09T07:56:18.094687+00:00",
-    "last_count": 6,
+    "last_error": "",
+    "last_success_at": "2026-11-11T07:46:22.423484+00:00",
+    "last_count": 4,
     "peak_count": 6,
     "alert": ""
   },
@@ -910,7 +910,7 @@
   "watch-sheet-113": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.525619+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423543+00:00",
     "last_error": "",
     "last_count": 3,
     "peak_count": 7,
@@ -937,7 +937,7 @@
   "watch-sheet-116": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.525852+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423667+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 9,
@@ -1004,7 +1004,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.526004+00:00",
+    "last_success_at": "2026-11-11T07:46:22.423748+00:00",
     "last_count": 4,
     "peak_count": 4,
     "alert": ""
@@ -1013,15 +1013,15 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.526152+00:00",
-    "last_count": 4,
+    "last_success_at": "2026-11-11T07:46:22.423852+00:00",
+    "last_count": 5,
     "peak_count": 12,
     "alert": ""
   },
   "watch-sheet-128": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.526537+00:00",
+    "last_success_at": "2026-11-11T07:46:22.424049+00:00",
     "last_error": "",
     "last_count": 11,
     "peak_count": 11,
@@ -1049,7 +1049,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.526549+00:00",
+    "last_success_at": "2026-11-11T07:46:22.424054+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -1099,25 +1099,25 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-10T07:45:51.526559+00:00",
+    "last_success_at": "2026-11-11T07:46:22.424061+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
   },
   "watch-sheet-138": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 0,
     "status": "active",
-    "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-    "last_success_at": "2026-11-09T07:56:18.095306+00:00",
+    "last_error": "",
+    "last_success_at": "2026-11-11T07:46:22.424119+00:00",
     "last_count": 3,
     "peak_count": 3,
     "alert": ""
   },
   "watch-sheet-139": {
-    "consecutive_failures": 4,
-    "status": "unstable",
-    "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-    "last_success_at": "2026-11-08T02:19:14.662526+00:00",
+    "consecutive_failures": 0,
+    "status": "active",
+    "last_error": "",
+    "last_success_at": "2026-11-11T07:46:22.424152+00:00",
     "last_count": 1,
     "peak_count": 5,
     "alert": ""
@@ -1218,7 +1218,7 @@
   "watch-sheet-153": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.526815+00:00",
+    "last_success_at": "2026-11-11T07:46:22.424279+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 6,
@@ -1250,7 +1250,7 @@
   "watch-sheet-157": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-10T07:45:51.526826+00:00",
+    "last_success_at": "2026-11-11T07:46:22.424284+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
