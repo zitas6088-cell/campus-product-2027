@@ -25278,6 +25278,10 @@
     "Shopee:ead43772a07aacca1c602814": {
       "sent_at": "2026-11-12T08:15:40.043870+00:00",
       "title": "（27届秋招）保险核心系统产品经理 - 深圳"
+    },
+    "字节跳动:7707279121335814405": {
+      "sent_at": "2026-11-12T16:00:01.273095+00:00",
+      "title": "技术支持工程师 - Seed 产品研发"
     }
   },
   "scope_baselines": {
@@ -25310,10 +25314,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-07T15:00+08:00": {
-      "jobs": {},
-      "first_sources": []
-    },
     "2026-11-08T09:00+08:00": {
       "jobs": {},
       "first_sources": []
@@ -25375,6 +25375,18 @@
           "title": "（27届秋招）保险核心系统产品经理 - 深圳",
           "official_url": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b",
           "location": ""
+        }
+      },
+      "first_sources": []
+    },
+    "2026-11-12T15:00+08:00": {
+      "jobs": {
+        "字节跳动:7707279121335814405": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "技术支持工程师 - Seed 产品研发",
+          "official_url": "https://jobs.bytedance.com/campus/position/7707279121335814405/detail",
+          "location": "上海"
         }
       },
       "first_sources": []

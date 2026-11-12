@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-12 09:00（北京时间）
-完成时间：2026-11-12 16:15
-共43家公司：新增2家；没有新增38家；异常3家。
+2027届产品岗逐公司检查结果｜2026-11-12 15:00（北京时间）
+完成时间：2026-11-13 00:00
+共43家公司：新增1家；没有新增38家；异常4家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43180556118
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43252578304
 第1/1条
 
 360集团：没有新增
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：没有新增
+海康威视：异常（职位列表分页未完成；标题详情未读: TimeoutError; 标题详情未读: TimeoutError; RuntimeError: 下一页未发生变化，无法确认完整列表）
 
 京东：没有新增
 
@@ -75,8 +75,8 @@
 
 字节跳动：新增 1个岗位
 
-  字节跳动｜后端开发工程师（抖音搜索） - 抖音用户产品
-https://jobs.bytedance.com/campus/position/7677445885550168373/detail
+  字节跳动｜技术支持工程师 - Seed 产品研发
+https://jobs.bytedance.com/campus/position/7707279121335814405/detail
 
 作业帮：没有新增
 
@@ -86,10 +86,7 @@ OPPO：没有新增
 
 SHEIN：没有新增
 
-Shopee：新增 1个岗位
-
-  Shopee｜（27届秋招）保险核心系统产品经理 - 深圳
-https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b
+Shopee：没有新增
 
 Soul：没有新增
 
@@ -99,11 +96,11 @@ Wind万得：没有新增
 
 ---
 
-# 2027届校招监控｜2026-11-12 16:15（北京时间）
+# 2027届校招监控｜2026-11-13 00:00（北京时间）
 
 仅新增且已确认适用2027届的产品相关正式校招岗位进入飞书提醒。非产品、实习、社招及届别未确认岗位不推送。
 
-## ⭐ 产品重点 · 631 条
+## ⭐ 产品重点 · 629 条
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（业务风控方向） - TikTok研发
   地点：北京、杭州
@@ -1115,6 +1112,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667915168223004981/detail
 
+- ⭐ 产品重点｜字节跳动｜技术支持工程师 - Seed 产品研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7707279121335814405/detail
+
 - ⭐ 产品重点｜字节跳动｜云安全解决方案产品经理 - 安全与风控
   地点：北京
   官网届别文字：2027届
@@ -1164,11 +1166,6 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628868062890002693/detail
-
-- ⭐ 产品重点｜哈啰｜【英才2027】履约产品经理-租车事业部(J21643)
-  地点：官网未注明
-  官网届别文字：2027 届
-  https://hellobike.zhiye.com/campus/detail?jobAdId=75ef1832-9e93-4088-b9e2-869f36ba67e3
 
 - ⭐ 产品重点｜字节跳动｜信贷产品经理 - 国际支付
   地点：上海、北京、深圳
@@ -1920,15 +1917,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665994813989292293/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-快捷售卖
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22484
-
 - ⭐ 产品重点｜小红书｜【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22064
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-快捷售卖
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22484
 
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（Agent开发方向）-智能客服
   地点：上海市
@@ -2110,20 +2107,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665603476447561989/detail
 
-- ⭐ 产品重点｜字节跳动｜产品解决方案架构师 - 数据平台
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667582551188457781/detail
-
 - ⭐ 产品重点｜字节跳动｜AI应用全栈工程师 - 抖音平台产品
   地点：杭州、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667868660185106693/detail
-
-- ⭐ 产品重点｜字节跳动｜产品业务架构师 - 数据平台
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667586279020677381/detail
 
 - ⭐ 产品重点｜Shopee｜（27届秋招）数字商品产品经理 - 深圳
   地点：官网未注明
@@ -2510,15 +2497,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668309416727480629/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-商业平台技术
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22026
-
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-增长产品
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22081
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-商业平台技术
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22026
 
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-交易主链路
   地点：上海市，杭州市
@@ -2850,6 +2837,16 @@ Wind万得：没有新增
   官网届别文字：27届
   https://hf7l9aiqzx.jobs.feishu.cn/704852/position/7670083515970652479/detail
 
+- ⭐ 产品重点｜海康威视｜【2027校园招聘】产品市场专员
+  地点：官网未注明
+  官网届别文字：2027校园招聘
+  https://campushr.hikvision.com/JobDetails.html?id=51a5c2f620eb4c48aa50566921c126c2&type=2&batchId=e198653730e14820b9e95b29fbc2223f
+
+- ⭐ 产品重点｜海康威视｜【2027校园招聘】海外产品市场专员
+  地点：官网未注明
+  官网届别文字：2027校园招聘
+  https://campushr.hikvision.com/JobDetails.html?id=6fd26e2aba254345aa1c42bd6ba7a579&type=2&batchId=e198653730e14820b9e95b29fbc2223f
+
 - ⭐ 产品重点｜字节跳动｜AI产品设计师 - TikTok设计
   地点：上海、北京
   官网届别文字：2027届
@@ -2884,16 +2881,6 @@ Wind万得：没有新增
   地点：成都市,武汉市,深圳市
   官网届别文字：2027届
   https://campus.sf-express.com/index.html#/postDetail/2252
-
-- ⭐ 产品重点｜海康威视｜【2027校园招聘】产品市场专员
-  地点：官网未注明
-  官网届别文字：2027校园招聘
-  https://campushr.hikvision.com/JobDetails.html?id=51a5c2f620eb4c48aa50566921c126c2&type=2&batchId=e198653730e14820b9e95b29fbc2223f
-
-- ⭐ 产品重点｜海康威视｜【2027校园招聘】海外产品市场专员
-  地点：官网未注明
-  官网届别文字：2027校园招聘
-  https://campushr.hikvision.com/JobDetails.html?id=6fd26e2aba254345aa1c42bd6ba7a579&type=2&batchId=e198653730e14820b9e95b29fbc2223f
 
 - ⭐ 产品重点｜OPPO｜互联网产品经理（游戏方向）
   地点：官网未注明
@@ -3170,6 +3157,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7673143728328870149/detail
 
+- ⭐ 产品重点｜海康威视｜【2027校园招聘】海外产品售前工程师
+  地点：官网未注明
+  官网届别文字：2027校园招聘
+  https://campushr.hikvision.com/JobDetails.html?id=9cf23db0de4a49ffb84a99ae2bd3ff29&type=0&batchId=e198653730e14820b9e95b29fbc2223f
+
 - ⭐ 产品重点｜字节跳动｜广告产品运营 - 规模化增长
   地点：上海、北京
   官网届别文字：2027届
@@ -3179,11 +3171,6 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668229503697619253/detail
-
-- ⭐ 产品重点｜海康威视｜【2027校园招聘】海外产品售前工程师
-  地点：官网未注明
-  官网届别文字：2027校园招聘
-  https://campushr.hikvision.com/JobDetails.html?id=9cf23db0de4a49ffb84a99ae2bd3ff29&type=0&batchId=e198653730e14820b9e95b29fbc2223f
 
 - ⭐ 产品重点｜OPPO｜软件产品经理
   地点：官网未注明
@@ -3215,6 +3202,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://campus.kuaishou.cn/#/campus/job-info/14006
 
+- ⭐ 产品重点｜海康威视｜【2027校园招聘】新产品导入工程师
+  地点：官网未注明
+  官网届别文字：2027校园招聘
+  https://campushr.hikvision.com/JobDetails.html?id=8f0e9028f788483e8746303a36fa8c7a&type=0&batchId=e198653730e14820b9e95b29fbc2223f
+
 - ⭐ 产品重点｜OPPO｜UI视觉设计师（软件产品方向）
   地点：官网未注明
   官网届别文字：2027届
@@ -3224,11 +3216,6 @@ Wind万得：没有新增
   地点：官网未注明
   官网届别文字：2027届
   https://careers.oppo.com/university/oppo/campus/post/1790?recruitType=Graduate
-
-- ⭐ 产品重点｜海康威视｜【2027校园招聘】新产品导入工程师
-  地点：官网未注明
-  官网届别文字：2027校园招聘
-  https://campushr.hikvision.com/JobDetails.html?id=8f0e9028f788483e8746303a36fa8c7a&type=0&batchId=e198653730e14820b9e95b29fbc2223f
 
 - ⭐ 产品重点｜海康威视｜【2027校园招聘】产品质量工程师
   地点：官网未注明
@@ -3260,7 +3247,7 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://careers.oppo.com/university/oppo/campus/post/1816?recruitType=Graduate
 
-## 其他已确认2027届岗位 · 2077 条
+## 其他已确认2027届岗位 · 2071 条
 
 - 字节跳动｜算法工程师（用户增长） - 抖音
   地点：北京、深圳、上海
@@ -3577,15 +3564,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667852385482311989/detail
 
-- 小红书｜【2027校招】智能平台开发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22082
-
 - 小红书｜【2027校招】内容增长策略算法工程师-内容增长方向
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22004
+
+- 小红书｜【2027校招】智能平台开发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22082
 
 - 字节跳动｜AI搜索算法工程师 - 搜索
   地点：北京
@@ -3886,11 +3873,6 @@ Wind万得：没有新增
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668524950284421381/detail
-
-- 字节跳动｜AI Agent开发工程师（开发套件方向） - 数据平台
-  地点：北京、杭州、上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667538136535140613/detail
 
 - 字节跳动｜下一代多模态智能审核大模型及Agentic技术研究-TikTok内容安全算法
   地点：北京
@@ -4481,11 +4463,6 @@ Wind万得：没有新增
   地点：上海、北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668214721489979653/detail
-
-- 字节跳动｜AI Agent开发工程师（数据知识方向） - 数据平台
-  地点：北京、杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667531539372443909/detail
 
 - 字节跳动｜云安全工程师 - 安全与风控
   地点：北京
@@ -6837,11 +6814,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668324564712294709/detail
 
-- 字节跳动｜效率工具开发工程师 - 数据平台
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667578388844087605/detail
-
 - 字节跳动｜渲染引擎算法工程师 - TikTok研发
   地点：上海、北京
   官网届别文字：2027届
@@ -7382,11 +7354,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7688927260711913733/detail
 
-- 字节跳动｜后端开发工程师 - 数据平台
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667856861115255093/detail
-
 - 字节跳动｜AIG3D算法工程师 - 音视频技术
   地点：北京、上海、深圳、杭州
   官网届别文字：2027届
@@ -7502,6 +7469,16 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21000
 
+- 小红书｜【2027校招】AI Agent工程师（大模型 AI 应用开发方向）-审核研发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21969
+
+- 小红书｜【2027校招】AI算法工程师（AI4SEC方向）
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22220
+
 - 小红书｜【2027校招】Agent/大模型算法工程师-rednote国际化
   地点：北京市，上海市，新加坡
   官网届别文字：2027校招
@@ -7511,16 +7488,6 @@ Wind万得：没有新增
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22491
-
-- 小红书｜【2027校招】AI算法工程师（AI4SEC方向）
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22220
-
-- 小红书｜【2027校招】AI Agent工程师（大模型 AI 应用开发方向）-审核研发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21969
 
 - 字节跳动｜客户端开发工程师（AI全栈方向） - 抖音音乐
   地点：北京、上海
@@ -8697,6 +8664,11 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21002
 
+- 小红书｜【2027校招】AI Agent工程师-社区工程
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22018
+
 - 小红书｜【2027校招】Agent平台全栈研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
@@ -8706,11 +8678,6 @@ Wind万得：没有新增
   地点：深圳市，北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22027
-
-- 小红书｜【2027校招】AI Agent工程师-社区工程
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22018
 
 - 字节跳动｜后端开发工程师 - 音视频技术
   地点：北京、上海
@@ -8882,11 +8849,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668569169417668869/detail
 
-- 字节跳动｜AI技术支持工程师 - 数据平台
-  地点：上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667579681265535285/detail
-
 - 字节跳动｜Linux开发工程师 - 移动OS
   地点：北京
   官网届别文字：2027届
@@ -8932,30 +8894,30 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2391
 
-- 小红书｜【2027校招】用户理解算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21270
-
 - 小红书｜【2027校招】大模型 Infra 工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22061
 
-- 小红书｜【2027校招】AI Agent Infra 工程师
+- 小红书｜【2027校招】用户理解算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21270
+
+- 小红书｜【2027校招】AI全栈研发工程师（AI4Sec方向）
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22062
+  https://job.xiaohongshu.com/campus/position?positionId=22041
 
 - 小红书｜【2027校招】社区风控算法工程师-社区治理
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22070
 
-- 小红书｜【2027校招】AI全栈研发工程师（AI4Sec方向）
+- 小红书｜【2027校招】AI Agent Infra 工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22041
+  https://job.xiaohongshu.com/campus/position?positionId=22062
 
 - 字节跳动｜离线架构工程师 - Data-抖音/直播/电商/剪映
   地点：北京、上海、深圳
@@ -9787,50 +9749,50 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2374
 
+- 小红书｜【2027校招】电商算法工程师-内容理解方向
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21003
+
 - 小红书｜【2027校招】Dots-大语言模型基础技术研究员
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=20734
-
-- 小红书｜【2027校招】大模型推理加速研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22056
 
 - 小红书｜【2027校招】网络传输算法工程师
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22080
 
+- 小红书｜【2027校招】Dots-大模型预训练数据算法研究员
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22067
+
 - 小红书｜【2027校招】大模型算力平台研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22058
-
-- 小红书｜【2027校招】电商算法工程师-内容理解方向
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21003
-
-- 小红书｜【2027校招】Dots-大模型评测算法研究员
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22596
-
-- 小红书｜【2027校招】业务网关开发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22051
 
 - 小红书｜【2027校招】大模型训练框架研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22055
 
-- 小红书｜【2027校招】Dots-大模型预训练数据算法研究员
+- 小红书｜【2027校招】业务网关开发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22067
+  https://job.xiaohongshu.com/campus/position?positionId=22051
+
+- 小红书｜【2027校招】大模型推理加速研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22056
+
+- 小红书｜【2027校招】Dots-大模型评测算法研究员
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22596
 
 - 字节跳动｜IDC项目设计工程师 - AI算力基础设施
   地点：北京、上海
@@ -9937,15 +9899,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530808139
 
-- 小红书｜【2027校招】全栈工程师-直播业务
-  地点：深圳市，北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22076
-
 - 小红书｜【2027校招】机器学习框架工程师-搜广推方向
   地点：北京市，上海市，深圳市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22029
+
+- 小红书｜【2027校招】全栈工程师-直播业务
+  地点：深圳市，北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22076
 
 - 字节跳动｜AI芯片的架构/物理实现和系统设计（芯片物理）-芯片研发（北京）
   地点：北京
@@ -10267,25 +10229,25 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=20904
 
+- 小红书｜【2027校招】图像渲染算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21013
+
 - 小红书｜【2027校招】全栈工程师-媒体服务
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22015
-
-- 小红书｜【2027校招】大模型算法工程师-内容理解方向
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21011
 
 - 小红书｜【2027校招】大模型平台全栈研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22060
 
-- 小红书｜【2027校招】图像渲染算法工程师
+- 小红书｜【2027校招】大模型算法工程师-内容理解方向
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21013
+  https://job.xiaohongshu.com/campus/position?positionId=21011
 
 - 字节跳动｜Agent开发工程师（用户平台方向） - 抖音直播
   地点：北京、杭州
@@ -10692,15 +10654,15 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2381
 
-- 小红书｜【2027校招】搜广推索引存储架构工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22030
-
 - 小红书｜【2027校招】中间件研发工程师
   地点：北京市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22053
+
+- 小红书｜【2027校招】搜广推索引存储架构工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22030
 
 - 拼多多｜AI Infra研发工程师
   地点：上海
@@ -10992,25 +10954,25 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21829
 
-- 小红书｜【2027校招】AI音频算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21014
-
 - 小红书｜【2027校招】大模型MaaS架构研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22057
+
+- 小红书｜【2027校招】流式视频理解算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22010
 
 - 小红书｜【2027校招】云原生开发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22048
 
-- 小红书｜【2027校招】流式视频理解算法工程师
+- 小红书｜【2027校招】AI音频算法工程师
   地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22010
+  https://job.xiaohongshu.com/campus/position?positionId=21014
 
 - 小红书｜【2027校招】媒体处理研发工程师-音频AI算法引擎
   地点：北京市，上海市
@@ -11397,15 +11359,15 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2373
 
-- 小红书｜【2027校招】Agent Harness工程师  - 企业智能方向
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22074
-
 - 小红书｜【2027校招】SRE工程师
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22045
+
+- 小红书｜【2027校招】Agent Harness工程师  - 企业智能方向
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22074
 
 - 小红书｜【2027校招】大模型数据工程师
   地点：北京市，上海市，杭州市
@@ -11702,20 +11664,20 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2406
 
-- 小红书｜【2027校招】多模态数据库研发
+- 小红书｜【2027校招】对象&文件存储研发
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22037
+  https://job.xiaohongshu.com/campus/position?positionId=22036
 
 - 小红书｜【2027校招】业务架构研发工程师
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22044
 
-- 小红书｜【2027校招】对象&文件存储研发
+- 小红书｜【2027校招】多模态数据库研发
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22036
+  https://job.xiaohongshu.com/campus/position?positionId=22037
 
 - 字节跳动｜通用基础模型研究员 - AI for Science
   地点：深圳、上海、北京
@@ -11782,20 +11744,15 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22009
 
-- 小红书｜【2027校招】AI Infra网络通信工程师
-  地点：北京市，杭州市
+- 小红书｜【2027校招】媒体网络研发工程师-CDN方向
+  地点：北京市，深圳市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22054
+  https://job.xiaohongshu.com/campus/position?positionId=22014
 
 - 小红书｜【2027校招】内容治理算法工程师-T&S
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22071
-
-- 小红书｜【2027校招】数据计算引擎研发工程师-搜广推
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22028
 
 - 小红书｜【2027校招】安全合规治理与数据安全工程师
   地点：北京市，上海市，杭州市
@@ -11807,10 +11764,15 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22068
 
-- 小红书｜【2027校招】媒体网络研发工程师-CDN方向
-  地点：北京市，深圳市
+- 小红书｜【2027校招】AI Infra网络通信工程师
+  地点：北京市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22014
+  https://job.xiaohongshu.com/campus/position?positionId=22054
+
+- 小红书｜【2027校招】数据计算引擎研发工程师-搜广推
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22028
 
 - 拼多多｜质控管培生（区域业务）
   地点：全国多省区
@@ -12037,15 +11999,15 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2343
 
-- 小红书｜【2027校招】全栈研发工程师（广告投放平台方向）
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22408
-
 - 小红书｜【2027校招】大数据引擎研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21992
+
+- 小红书｜【2027校招】全栈研发工程师（广告投放平台方向）
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22408
 
 - 字节跳动｜后端研发工程师 - 火山引擎
   地点：北京、上海
@@ -12157,20 +12119,20 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2446
 
-- 小红书｜【2027校招】NoSQL&KVCache 分布式缓存数据库研发
-  地点：上海市，杭州市
+- 小红书｜【2027校招】端智能图像算法工程师
+  地点：北京市，上海市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22035
+  https://job.xiaohongshu.com/campus/position?positionId=22011
 
 - 小红书｜【2027校招】多媒体SDK研发工程师-网络方向
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22012
 
-- 小红书｜【2027校招】端智能图像算法工程师
-  地点：北京市，上海市
+- 小红书｜【2027校招】NoSQL&KVCache 分布式缓存数据库研发
+  地点：上海市，杭州市
   官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22011
+  https://job.xiaohongshu.com/campus/position?positionId=22035
 
 - 字节跳动｜后端开发工程师（直播） - TikTok内容安全平台
   地点：上海
@@ -12336,11 +12298,6 @@ Wind万得：没有新增
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665570008453597493/detail
-
-- 字节跳动｜拉美物流运营（巴西/墨西哥） - TikTok Shop
-  地点：深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7678931657625471285/detail
 
 - 字节跳动｜安全研发工程师（AI For渗透测试） - 安全与风控
   地点：杭州、北京
@@ -12872,11 +12829,6 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22013
 
-- 小红书｜【2027校招】REDébuilt HR校招生
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22145
-
 - 小红书｜【2027校招】综合创意写作
   地点：上海市
   官网届别文字：2027校招
@@ -12886,6 +12838,11 @@ Wind万得：没有新增
   地点：上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22152
+
+- 小红书｜【2027校招】REDébuilt HR校招生
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22145
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京
@@ -13647,7 +13604,7 @@ Wind万得：没有新增
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=5ee17eb4-3ed4-45d4-88d3-471c614af16f
 
-## 届别待确认（不推送） · 3444 条
+## 届别待确认（不推送） · 3453 条
 
 - ⭐ 产品重点｜美团｜AI产品增长产品经理
   地点：北京市
@@ -14309,15 +14266,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7697224495613872410/detail
 
-- ⭐ 产品重点｜美团｜拼好饭-商品基建规划组 负责人（产品经理）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4895818504
-
 - ⭐ 产品重点｜美团｜门店产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4775197114
+
+- ⭐ 产品重点｜美团｜拼好饭-商品基建规划组 负责人（产品经理）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4895818504
 
 - 美团｜AI  工程专家
   地点：北京市
@@ -14569,15 +14526,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20880
 
-- ⭐ 产品重点｜美团｜平台产品规范负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4679592149
-
 - ⭐ 产品重点｜美团｜产品经理（联盟 C 端产品方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4781164009
+
+- ⭐ 产品重点｜美团｜平台产品规范负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4679592149
 
 - ⭐ 产品重点｜美团｜美团闪购导购产品经理
   地点：北京市
@@ -14784,15 +14741,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697324893
 
-- ⭐ 产品重点｜美团｜财务科技-费控产品（境外财务职能产品）
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4661390088
-
 - ⭐ 产品重点｜美团｜WMS产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4836186384
+
+- ⭐ 产品重点｜美团｜财务科技-费控产品（境外财务职能产品）
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4661390088
 
 - ⭐ 产品重点｜美团｜商业化消费医疗行业产品运营
   地点：北京市、上海市
@@ -14863,6 +14820,11 @@ Wind万得：没有新增
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4494977612
+
+- 美团｜AI组织转型专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3958847494
 
 - 美团｜美团骑行-用户策略运营
   地点：北京市
@@ -14958,11 +14920,6 @@ Wind万得：没有新增
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4694828828
-
-- 美团｜AI组织转型专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3958847494
 
 - 美团｜商业分析TL
   地点：北京市
@@ -15074,6 +15031,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3435878373
 
+- ⭐ 产品重点｜美团｜智能硬件高级产品专家
+  地点：北京市、深圳市、成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873259868
+
 - ⭐ 产品重点｜美团｜到店餐饮-AI产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15088,11 +15050,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4839691107
-
-- ⭐ 产品重点｜美团｜智能硬件高级产品专家
-  地点：北京市、深圳市、成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873259868
 
 - 美团｜骑行营销算法负责人
   地点：北京市
@@ -15284,6 +15241,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4480738203
 
+- ⭐ 产品重点｜小米｜整车硬件开发系统产品经理-汽车
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918768210643210/detail
+
 - ⭐ 产品重点｜小米｜软件产品经理-OS规划方向
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -15319,11 +15281,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7669691659659692329/detail
 
-- ⭐ 产品重点｜美团｜国际支付解决方案产品经理
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4904768476
-
 - 美团｜美团联盟行业运营（到店方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15333,6 +15290,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4616097894
+
+- ⭐ 产品重点｜美团｜国际支付解决方案产品经理
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4904768476
 
 - ⭐ 产品重点｜美团｜M17-Longcat大模型产品运营
   地点：北京市、上海市
@@ -15394,6 +15356,26 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7671128410562922788/detail
 
+- 美团｜用户活动运营专家
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4626317763
+
+- 美团｜供给策略专家
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4778925460
+
+- 美团｜品类运营专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4460431511
+
+- 美团｜景点游玩和度假业务-经营分析
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4882631907
+
 - 美团｜拼好饭品类运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15453,26 +15435,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4617969042
-
-- 美团｜用户活动运营专家
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4626317763
-
-- 美团｜供给策略专家
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4778925460
-
-- 美团｜品类运营专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4460431511
-
-- 美团｜景点游玩和度假业务-经营分析
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4882631907
 
 - 美团｜跑腿骑手流程优化运营
   地点：北京市
@@ -15803,6 +15765,11 @@ Wind万得：没有新增
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7671290534305155374/detail
+
+- 美团｜加工中心劳动力运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4748358505
 
 - 美团｜Keeta-外卖资源策略规划负责人-阿联酋
   地点：北京市、迪拜
@@ -16304,6 +16271,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7671294956154243378/detail
 
+- 美团｜Keeta组织发展OD岗
+  地点：北京市、上海市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3117121731
+
 - 美团｜歪马商业分析师（歪马鲜酒铺方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16348,11 +16320,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4855895473
-
-- 美团｜Keeta组织发展OD岗
-  地点：北京市、上海市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3117121731
 
 - 美团｜平台商品选购运营专家
   地点：北京市
@@ -16424,6 +16391,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20887
 
+- 美团｜高级投放运营专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4705906085
+
 - 美团｜SaaS技术部-AI Agent开发工程师
   地点：成都市
   官网信息未明确适用于2027届，待确认
@@ -16433,11 +16405,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4721327984
-
-- 美团｜高级投放运营专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4705906085
 
 - 美团｜Keeta技术-调度算法负责人
   地点：北京市
@@ -16514,6 +16481,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4533196877
 
+- 美团｜经营分析专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4865253114
+
 - ⭐ 产品重点｜美团｜广告推荐策略产品
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16523,11 +16495,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4663332915
-
-- 美团｜经营分析专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4865253114
 
 - 美团｜Keeta Ads数据分析
   地点：北京市
@@ -16594,11 +16561,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4655690684
 
-- 美团｜搜索体验优化builder
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4549274171
-
 - 美团｜景点游玩业务部-用户运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16664,6 +16626,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4498767576
 
+- 美团｜美团会员-权益运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737441487
+
+- 美团｜鲜花场景增长运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4609766713
+
 - 美团｜无人机-商业分析师
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -16683,16 +16655,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3510056738
-
-- 美团｜美团会员-权益运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737441487
-
-- 美团｜鲜花场景增长运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4609766713
 
 - 美团｜海外商品内容运营
   地点：北京市
@@ -16789,6 +16751,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697320043
 
+- 美团｜美团会员-商家生态权益运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4829485577
+
+- 美团｜美团App用户运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4721793506
+
 - 美团｜用户运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16803,16 +16775,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4713235286
-
-- 美团｜美团会员-商家生态权益运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4829485577
-
-- 美团｜美团App用户运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4721793506
 
 - 美团｜用户搜推策略运营专家
   地点：香港特别行政区
@@ -16944,15 +16906,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884383143250202/detail
 
-- ⭐ 产品重点｜小米｜产品操盘专员-AIoT-土耳其语-外派
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884938706585894/detail
-
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-波兰语-外派
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884718744766770/detail
+
+- ⭐ 产品重点｜小米｜产品操盘专员-AIoT-土耳其语-外派
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884938706585894/detail
 
 - 美团｜人才发展专家
   地点：北京市
@@ -17004,6 +16966,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7686459906308737323/detail
 
+- 美团｜神券补贴策略运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4740656641
+
 - ⭐ 产品重点｜美团｜Keeta Ads流量策略产品
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -17038,11 +17005,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4449760254
-
-- 美团｜神券补贴策略运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4740656641
 
 - 美团｜中小城市-行业运营
   地点：上海市
@@ -17180,14 +17142,14 @@ Wind万得：没有新增
   https://iflytek.zhiye.com/campus/detail?jobAdId=ed343410-6036-4902-b8cf-3b11b8416142
 
 - 美团｜酒店流量策略和供需匹配机制负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4643165130
-
-- 美团｜酒店流量策略和供需匹配机制负责人
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4688538477
+
+- 美团｜酒店流量策略和供需匹配机制负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4643165130
 
 - ⭐ 产品重点｜美团｜Keemart-供应链产品
   地点：北京市
@@ -17374,6 +17336,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20884
 
+- 美团｜渠道经营策略专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4688178782
+
 - 美团｜无人车-备件管理与运营专家
   地点：深圳市
   官网信息未明确适用于2027届，待确认
@@ -17458,11 +17425,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4215723792
-
-- 美团｜渠道经营策略专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4688178782
 
 - 美团｜仓库租赁商务专家
   地点：北京市
@@ -17714,15 +17676,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697280304
 
-- 美团｜Agent 开发工程师
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4869620081
-
 - 美团｜小团 Harness 工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4837694717
+
+- 美团｜Agent 开发工程师
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4869620081
 
 - 美团｜大客户区域经理
   地点：北京市
@@ -17834,15 +17796,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3758011281
 
-- 美团｜大模型评测专家
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4387197037
-
 - 美团｜销售运营-销售策略
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3880052114
+
+- 美团｜大模型评测专家
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4387197037
 
 - ⭐ 产品重点｜美团｜Keeta 产品体验视觉专家
   地点：北京市、深圳市
@@ -17904,6 +17866,26 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918704972777766/detail
 
+- 美团｜小象线下店-开发选址运营PMO
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921434192
+
+- 美团｜到餐会员运营负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531181147
+
+- 美团｜用户体验运营
+  地点：宜春市、长沙市、广州市、西安市、福州市、泰州市、南京市、沈阳市、济宁市、齐齐哈尔市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4923096449
+
+- 美团｜医药-商家治理岗
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4898899744
+
 - 美团｜拼好饭-平台策略运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -17933,16 +17915,6 @@ Wind万得：没有新增
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4855161073
-
-- 美团｜到餐会员运营负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531181147
-
-- 美团｜医药-商家治理岗
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4898899744
 
 - 美团｜路线规划研发工程师
   地点：北京市
@@ -18044,6 +18016,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7669711712409012522/detail
 
+- 美团｜美团联盟经营策略
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837802707
+
 - 美团｜企业业务大客户销售经理 (Key Account Manager of Keeta Corporate Business)
   地点：香港特别行政区
   官网信息未明确适用于2027届，待确认
@@ -18058,11 +18035,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4701384005
-
-- 美团｜美团联盟经营策略
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837802707
 
 - 美团｜AI Agent 研发工程师
   地点：成都市
@@ -18194,20 +18166,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20873
 
-- 小红书｜【REDstar】Agent/大模型算法工程师-rednote国际化
-  地点：北京市，上海市，新加坡
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20876
-
 - 小红书｜【REDstar】AI算法工程师（AI4SEC方向）
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21825
 
+- 小红书｜【REDstar】Agent/大模型算法工程师-rednote国际化
+  地点：北京市，上海市，新加坡
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20876
+
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-外派
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884491640752430/detail
+
+- 美团｜商业分析师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4859969057
 
 - 美团｜外卖-策略分析（代运营业务）
   地点：北京市
@@ -18238,11 +18215,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4882680546
-
-- 美团｜商业分析师
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4859969057
 
 - 美团｜高级商业分析师-外卖广告业务
   地点：北京市
@@ -18279,6 +18251,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697313765
 
+- 美团｜搜索体验优化builder
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4549274171
+
 - 美团｜餐饮品类运营-客户方向
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18293,6 +18270,11 @@ Wind万得：没有新增
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7310051927549839643/detail
+
+- 美团｜点评业务内控BP（AI工具驱动）
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4910696611
 
 - 美团｜高频供给策略运营
   地点：北京市
@@ -18313,11 +18295,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3008237497
-
-- 美团｜点评业务内控BP（AI工具驱动）
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4910696611
 
 - 美团｜供给策略专家
   地点：多哈
@@ -18474,6 +18451,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4754111502
 
+- 美团｜AI型组织架构师
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3348332465
+
 - 美团｜具身智能视觉算法专家
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -18493,11 +18475,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4527503150
-
-- 美团｜AI型组织架构师
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3348332465
 
 - 美团｜Rider Operations & Strategy Expert
   地点：迪拜
@@ -18528,6 +18505,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4089006601
+
+- 美团｜存储平台研发工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4832345398
 
 - 美团｜用户运营专家
   地点：利雅得
@@ -18643,11 +18625,6 @@ Wind万得：没有新增
   地点：北京市、上海市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4846778485
-
-- 美团｜存储平台研发工程师
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4832345398
 
 - 美团｜高级Java开发工程师（作者研发方向）-点评技术部
   地点：上海市
@@ -18899,6 +18876,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7321559832367991050/detail
 
+- 美团｜美团会员-权益经营规划专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4736950528
+
+- 美团｜无人车远程驾驶安全员组长
+  地点：武汉市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4669451731
+
 - 美团｜物流仓网规划
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18928,16 +18915,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3493772607
-
-- 美团｜美团会员-权益经营规划专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4736950528
-
-- 美团｜无人车远程驾驶安全员组长
-  地点：武汉市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4669451731
 
 - 美团｜供应链商家履约策略（偏业务/链路分析）
   地点：北京市
@@ -19019,11 +18996,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4781310303
 
-- 美团｜产业带负责人
-  地点：北京市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4777218291
-
 - 美团｜场地规划
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19089,6 +19061,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://iflytek.zhiye.com/campus/detail?jobAdId=8dc3e06b-c960-4031-81c2-ee498604e611
 
+- 美团｜美团会员权益运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4702721745
+
 - 美团｜沙特SMB销售运营
   地点：利雅得
   官网信息未明确适用于2027届，待确认
@@ -19103,11 +19080,6 @@ Wind万得：没有新增
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4896704963
-
-- 美团｜美团会员权益运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4702721745
 
 - 美团｜医药广告行业运营
   地点：北京市
@@ -19284,6 +19256,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1284317600528245760
 
+- 美团｜商家营销策略运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4712572312
+
 - 美团｜美团外卖品牌营销岗
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19298,11 +19275,6 @@ Wind万得：没有新增
   地点：郑州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4806741197
-
-- 美团｜商家营销策略运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4712572312
 
 - 美团｜资金管理-资金运营
   地点：北京市
@@ -19409,6 +19381,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://iflytek.zhiye.com/campus/detail?jobAdId=7438c192-246b-4619-bec9-666e757808dc
 
+- ⭐ 产品重点｜美团｜硬件产品负责人
+  地点：深圳市、北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4794716581
+
+- 美团｜到餐-商业分析师（供给策略方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4895246532
+
 - 美团｜收单-业务运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19428,16 +19410,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4817444332
-
-- ⭐ 产品重点｜美团｜硬件产品负责人
-  地点：深圳市、北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4794716581
-
-- 美团｜到餐-商业分析师（供给策略方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4895246532
 
 - 美团｜Keemart 财务BP-商品方向
   地点：北京市
@@ -19694,15 +19666,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4158083555
 
-- 小红书｜【REDstar】用户理解算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20868
-
 - 小红书｜【REDstar】大模型 Infra 工程师
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20622
+
+- 小红书｜【REDstar】用户理解算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20868
 
 - 小红书｜【REDstar】AI Agent Infra 工程师
   地点：北京市，上海市，杭州市
@@ -19814,20 +19786,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3545041592
 
-- 小红书｜【REDstar】图像增强算法工程师
+- 小红书｜【REDstar】端智能图像算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21304
+  https://job.xiaohongshu.com/campus/position?positionId=21819
 
 - 小红书｜【REDstar】交互技术研究员/Agent 工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21823
 
-- 小红书｜【REDstar】端智能图像算法工程师
+- 小红书｜【REDstar】图像增强算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21819
+  https://job.xiaohongshu.com/campus/position?positionId=21304
+
+- 美团｜公司资产管理高级内控专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916325378
 
 - 美团｜外卖-华北大区策略运营
   地点：北京市
@@ -20004,6 +19981,21 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4258888433
 
+- 美团｜高级策略专家 - 增长方向
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4875450413
+
+- 美团｜高级策略运营-增长策略方向
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798502446
+
+- 美团｜高级策略运营专家-增长策略负责人
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798490565
+
 - 美团｜美团充电宝直营-城市经理（江浙沪base多地可选）
   地点：上海市、盐城市、扬州市、苏州市、杭州市、宁波市、温州市、嘉兴市、金华市、合肥市
   官网信息未明确适用于2027届，待确认
@@ -20028,21 +20020,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4761785779
-
-- 美团｜高级策略专家 - 增长方向
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4875450413
-
-- 美团｜高级策略运营-增长策略方向
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798502446
-
-- 美团｜高级策略运营专家-增长策略负责人
-  地点：圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4798490565
 
 - 美团｜美团充电宝业务城市经理--衡阳
   地点：衡阳市
@@ -20199,10 +20176,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4686627348
 
+- 美团｜检索引擎研发工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4832206700
+
 - 美团｜小象超市-配送效率运营专家（调度方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4904752475
+
+- 美团｜安全算法工程师
+  地点：北京市、上海市、杭州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4868810045
 
 - 美团｜商品信息信息核验
   地点：北京市
@@ -20239,11 +20226,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4916108266
 
-- 美团｜安全算法工程师
-  地点：北京市、上海市、杭州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4868810045
-
 - 美团｜物流规划专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -20268,11 +20250,6 @@ Wind万得：没有新增
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4518447096
-
-- 美团｜检索引擎研发工程师
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4832206700
 
 - 美团｜福州PC仓加工主管
   地点：福州市
@@ -20394,15 +20371,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21867
 
-- 小红书｜【REDstar】Dots-大模型评测算法研究员
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=22428
-
 - 小红书｜【REDstar】Dots-大模型预训练数据算法研究员
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20365
+
+- 小红书｜【REDstar】Dots-大模型评测算法研究员
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=22428
 
 - 美团｜机器人-Linux内核/平台软件工程专家
   地点：北京市、深圳市
@@ -20463,6 +20440,11 @@ Wind万得：没有新增
   地点：北京市，上海市，深圳市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20877
+
+- 美团｜小象-进向揽收运营（嘉兴）
+  地点：嘉兴市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4912774342
 
 - 美团｜职能招聘经理
   地点：北京市
@@ -20869,15 +20851,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20867
 
-- 小红书｜【REDstar】大模型算法工程师-内容理解方向
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21815
-
 - 小红书｜【REDstar】图像渲染算法工程师
   地点：上海市，北京市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20872
+
+- 小红书｜【REDstar】大模型算法工程师-内容理解方向
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21815
 
 - 美团｜自动驾驶云控客户端研发
   地点：北京市
@@ -20909,6 +20891,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4737735477
 
+- 美团｜Logistics Operations Analysis & Enablement Expert  履约经营分析与赋能专家
+  地点：利雅得
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4751700815
+
 - 美团｜电单车资产运营管理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -20918,11 +20905,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4884812314
-
-- 美团｜Logistics Operations Analysis & Enablement Expert  履约经营分析与赋能专家
-  地点：利雅得
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4751700815
 
 - 美团｜领导力发展专家
   地点：北京市
@@ -21189,6 +21171,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4257395428
 
+- 美团｜外卖柜渠道经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826626023
+
 - 美团｜Keeta Drone 履约管理负责人
   地点：迪拜
   官网信息未明确适用于2027届，待确认
@@ -21208,11 +21195,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4527520235
-
-- 美团｜外卖柜渠道经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826626023
 
 - 美团｜闪购-品牌-品类商务专家（酒水）
   地点：北京市、上海市
@@ -21369,20 +21351,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=16673
 
-- 小红书｜【REDstar】AI音频算法工程师
+- 小红书｜【REDstar】流式视频理解算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20869
+  https://job.xiaohongshu.com/campus/position?positionId=21818
 
 - 小红书｜【REDstar】云原生开发工程师
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21826
 
-- 小红书｜【REDstar】流式视频理解算法工程师
+- 小红书｜【REDstar】AI音频算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21818
+  https://job.xiaohongshu.com/campus/position?positionId=20869
 
 - 美团｜充电宝-香港BD
   地点：香港特别行政区
@@ -21529,6 +21511,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1282707405033302017
 
+- 美团｜业务风控策略专家
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4740500750
+
 - 美团｜医美SKA客户组长
   地点：北京市、上海市、杭州市
   官网信息未明确适用于2027届，待确认
@@ -21558,11 +21545,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4754703552
-
-- 美团｜业务风控策略专家
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4740500750
 
 - 美团｜运输主管
   地点：郑州市
@@ -21753,6 +21735,11 @@ Wind万得：没有新增
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4435336958
+
+- 美团｜美团骑行-车辆运营主管（景洪市）
+  地点：西双版纳傣族自治州
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4894180773
 
 - 美团｜美团骑行-资产主管（西安）
   地点：西安市
@@ -21989,6 +21976,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21827
 
+- 美团｜美团平台供给-大模型应用算法工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830796901
+
 - 美团｜骑行营销Java工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -21998,11 +21990,6 @@ Wind万得：没有新增
   地点：北京市、上海市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4912402224
-
-- 美团｜美团企业版-方案交付顾问（深圳）
-  地点：深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4792754398
 
 - 美团｜财务科技（ERP方向）- 全栈开发工程师
   地点：北京市
@@ -22063,11 +22050,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4799497286
-
-- 美团｜美团平台供给-大模型应用算法工程师
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830796901
 
 - 美团｜无人机解决方案负责人
   地点：深圳市
@@ -22139,6 +22121,21 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1283126469811577856
 
+- 美团｜小象超市-配送城市运营（华西大区）
+  地点：成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837177505
+
+- 美团｜小象-进向城市运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4906743777
+
+- 美团｜美团会员-权益经营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737366989
+
 - 美团｜小象超市-配送城市经理（华西）
   地点：重庆市、成都市
   官网信息未明确适用于2027届，待确认
@@ -22183,16 +22180,6 @@ Wind万得：没有新增
   地点：北京市、上海市、深圳市、利雅得
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3147143269
-
-- 美团｜小象超市-配送城市运营（华西大区）
-  地点：成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4837177505
-
-- 美团｜美团会员-权益经营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4737366989
 
 - 美团｜小象超市-线下店店总-深圳
   地点：深圳市
@@ -22419,6 +22406,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530698258
 
+- 美团｜美团无人车城市群运营负责人
+  地点：济南市、青岛市、福州市、厦门市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4671003204
+
+- 美团｜无人车业务部-区域运维前线主管
+  地点：佛山市、东莞市、中山市、珠海市、济南市、临沂市、潍坊市、青岛市、烟台市、淄博市、南通市、苏州市、南京市、温州市、杭州市、宁波市、深圳市、广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4605195784
+
 - 美团｜无人车业务部-车身结构SQE
   地点：上海市、北京市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -22433,16 +22430,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4613644495
-
-- 美团｜美团无人车城市群运营负责人
-  地点：济南市、青岛市、福州市、厦门市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4671003204
-
-- 美团｜无人车业务部-区域运维前线主管
-  地点：佛山市、东莞市、中山市、珠海市、济南市、临沂市、潍坊市、青岛市、烟台市、淄博市、南通市、苏州市、南京市、温州市、杭州市、宁波市、深圳市、广州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4605195784
 
 - 美团｜整车计划管理专家
   地点：北京市
@@ -22644,15 +22631,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20960
 
+- 美团｜小象超市-整合营销专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4906705335
+
 - 美团｜餐饮系统-销售策略运营（渠道方向-成都）
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4827392346
-
-- 美团｜小象超市—整合营销专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4906705335
 
 - 美团｜美团充电宝直营-城市经理-粤鄂区域（base地多城可选）
   地点：广州市、清远市、佛山市、中山市、武汉市、珠海市、湛江市、宜昌市
@@ -22719,6 +22706,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3046093166
 
+- 美团｜合作商管理专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885647446
+
 - 美团｜品牌广告KA
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
@@ -22743,11 +22735,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4316277906
-
-- 美团｜合作商管理专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885647446
 
 - 美团｜服务零售组织发展专家
   地点：上海市
@@ -22944,6 +22931,21 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1296891644968402945
 
+- 美团｜净菜加工主管--深圳
+  地点：深圳市、广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4685778818
+
+- 美团｜客服运营主管
+  地点：沈阳市、齐齐哈尔市、南京市、泰州市、福州市、宜春市、济宁市、长沙市、广州市、西安市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4923132189
+
+- 美团｜自动驾驶云控平台 服务端技术专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4797791967
+
 - 美团｜无人车业务部-底盘SQE工程师
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -23008,11 +23010,6 @@ Wind万得：没有新增
   地点：苏州市、杭州市、福州市、深圳市、西安市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4775045128
-
-- 美团｜自动驾驶云控平台 服务端技术专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4797791967
 
 - 美团｜城市运营主管
   地点：拉萨市
@@ -23474,11 +23471,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4765816434
 
-- 美团｜小象超市-分区经理（北京/沈阳）
-  地点：北京市、沈阳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4796300776
-
 - 美团｜境外渠道管理负责人-港澳/日韩/东南亚/澳洲/欧美
   地点：上海市、东京、香港特别行政区
   官网信息未明确适用于2027届，待确认
@@ -23574,15 +23566,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4016269129
 
-- 小红书｜【REDstar】NLP/多模态内容理解算法工程师-社区治理
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20882
-
 - 小红书｜【REDstar】AI搜索广告算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=22172
+
+- 小红书｜【REDstar】NLP/多模态内容理解算法工程师-社区治理
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20882
 
 - 美团｜商业广告品牌营销（医美行业）
   地点：北京市、上海市
@@ -23994,6 +23986,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4566481225
 
+- 美团｜合规调查专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873092841
+
 - 美团｜盈亏改善与资源管理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -24008,11 +24005,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4854902379
-
-- 美团｜合规调查专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4873092841
 
 - 美团｜合作商管理专家（成本管理方向）
   地点：北京市
@@ -24190,7 +24182,7 @@ Wind万得：没有新增
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3976826625
 
 - 美团｜特价团业务扩展BD
-  地点：济南市
+  地点：济南市、东莞市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4806472719
 
@@ -25609,6 +25601,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1292597531922250752
 
+- 美团｜小象超市-配送主管（武汉）
+  地点：武汉市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4861343460
+
 - 美团｜无人车数据工具研发工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -26169,6 +26166,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1312405648851787776
 
+- 美团｜行业经营咨询专家（餐饮连锁方向）
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4864835890
+
 - 美团｜政府投诉调解（北京驻所）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -26178,11 +26180,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2059290704
-
-- 美团｜行业经营咨询专家（餐饮连锁方向）
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4864835890
 
 - 美团｜Work Agent 开发
   地点：北京市
@@ -26629,6 +26626,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1311025530992286720
 
+- 美团｜部门助理/业务助理
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4880299760
+
 - 美团｜快乐猴-华北片区经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -26648,11 +26650,6 @@ Wind万得：没有新增
   地点：广州市、海口市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4506930963
-
-- 美团｜部门助理/业务助理
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4880299760
 
 - 美团｜深圳运输组主管
   地点：深圳市
@@ -26698,11 +26695,6 @@ Wind万得：没有新增
   地点：科威特城
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4630755111
-
-- 美团｜KA Business Operations Support
-  地点：利雅得
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4872007923
 
 - 美团｜Warehouse Manager
   地点：利雅得、达曼
@@ -27689,6 +27681,36 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://campus.jd.com/#/jobs?reqId=2512
 
+- 美团｜Process and Standardization Expert
+  地点：北京市、利雅得
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4195776692
+
+- 美团｜南京加工中心仓经理
+  地点：南京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4537386001
+
+- 美团｜郑州PC加工中心仓经理
+  地点：郑州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4902777305
+
+- 美团｜商家運營實習生
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4912512028
+
+- 美团｜小象超市-配送经理(沈阳)
+  地点：沈阳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4803667562
+
+- 美团｜小象超市-配送经理（上海）
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4870792408
+
 - 美团｜美团骑行-资产主管（北京路面）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -27793,16 +27815,6 @@ Wind万得：没有新增
   地点：石家庄市、廊坊市、济南市、洛阳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4796199775
-
-- 美团｜商家運營實習生
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4912512028
-
-- 美团｜小象超市-配送经理(沈阳)
-  地点：沈阳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4803667562
 
 - 美团｜美团快驴-CKA城市质量主管
   地点：宁波市、深圳市、杭州市、石家庄市
@@ -28113,11 +28125,6 @@ Wind万得：没有新增
   地点：深圳市、东莞市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4564103375
-
-- 美团｜Process and Standardization Expert
-  地点：北京市、利雅得
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4195776692
 
 - 美团｜小象超市-南宁BDM
   地点：南宁市
@@ -28529,6 +28536,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1274481034578500756
 
+- 美团｜拼好饭-区域品牌采购策略
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4817278574
+
 - 美团｜闪购-歪马-前置仓区域主管
   地点：郑州市、呼和浩特市、太原市
   官网信息未明确适用于2027届，待确认
@@ -28538,11 +28550,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4687780701
-
-- 美团｜拼好饭-区域品牌采购策略
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4817278574
 
 - 美团｜线下活动执行主管
   地点：杭州市、苏州市、扬州市、成都市、重庆市、宁波市
@@ -28863,6 +28870,11 @@ Wind万得：没有新增
   地点：北京市、利雅得
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3848053538
+
+- 美团｜摄影行业运营
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830229504
 
 - 腾讯｜游戏策划培训生
   地点：深圳总部 北京 上海 杭州 
@@ -29249,11 +29261,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4656056702
 
-- 美团｜摄影咨询行业运营
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4830229504
-
 - 美团｜理疗&SPA行业Single-Threaded Owner
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -29434,6 +29441,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4494006595
 
+- 美团｜HRBP（外派巴西）
+  地点：圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4451174575
+
 - 美团｜上海干货调味招商专员
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -29464,30 +29476,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4686614138
 
-- 美团｜快驴厦门餐厨用品招商专员
-  地点：厦门市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4766572279
-
 - 美团｜快驴杭州餐厨用品招商专员
   地点：杭州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4766503451
 
-- 美团｜HRBP（外派巴西）
-  地点：圣保罗
+- 美团｜硬件采购岗
+  地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4451174575
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4893015716
 
 - 美团｜医药-B2C-采购专家（药品方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4137426224
-
-- 美团｜硬件采购岗
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4893015716
 
 - 美团｜行政运营与服务交付岗
   地点：北京市、上海市
@@ -29649,15 +29651,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4777207902
 
-- 美团｜小象HRBP
-  地点：北京市、上海市、杭州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4906876047
-
 - 美团｜运营支持专员-电销方向
   地点：成都市、石家庄市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4828373410
+
+- 美团｜小象HRBP
+  地点：北京市、上海市、杭州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4906876047
 
 - 美团｜下沉市场HRBP
   地点：北京市
@@ -29889,6 +29891,21 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1307787912720646144
 
+- 美团｜HRBP
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4647544743
+
+- 美团｜HRBP-Keeta客服团队
+  地点：北京市、上海市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4689283374
+
+- 美团｜电机/减速器研发工艺工程师
+  地点：深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4848944457
+
 - 美团｜半熟调自营研发采购
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -29903,11 +29920,6 @@ Wind万得：没有新增
   地点：深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4859600822
-
-- 美团｜电机研发工艺工程师
-  地点：深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4848944457
 
 - 美团｜智能硬件采购专家
   地点：北京市
@@ -30008,11 +30020,6 @@ Wind万得：没有新增
   地点：湖州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4136574901
-
-- 美团｜HRBP
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4647544743
 
 - 美团｜小象超市-水果采购专家（区域）
   地点：北京市
@@ -30243,11 +30250,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4758188017
-
-- 美团｜HRBP-Keeta客服团队
-  地点：北京市、上海市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4689283374
 
 - 美团｜快乐猴-湖州门店副店长
   地点：湖州市
@@ -30869,7 +30871,7 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=1553972946
 
-## 实习参考（不推送） · 874 条
+## 实习参考（不推送） · 876 条
 
 - ⭐ 产品重点｜美团｜流量策略产品经理实习生
   地点：北京市
@@ -31050,6 +31052,11 @@ Wind万得：没有新增
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3525122286
+
+- ⭐ 产品重点｜美团｜美团-产品运营实习生（治理方向）
+  地点：上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921281906
 
 - ⭐ 产品重点｜美团｜无人车地图产品实习生
   地点：北京市
@@ -31325,6 +31332,11 @@ Wind万得：没有新增
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3394467312
+
+- ⭐ 产品重点｜美团｜AI产品实习生
+  地点：北京市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921909221
 
 - 美团｜机器人传感器开发实习生（力感知方向）
   地点：深圳市
@@ -32111,6 +32123,11 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://careers.tencent.com/jobdesc.html?postId=1227032278660950016
 
+- 美团｜内容运营实习生
+  地点：上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916530189
+
 - 美团｜中小客户销售策略运营实习生
   地点：成都市
   实习单列，不发正式校招提醒
@@ -32466,15 +32483,15 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4570930537
 
-- 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
-
 - 美团｜【LongCat实习】原生多模态大模型研究
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4600051151
+
+- 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
 
 - 美团｜具身智能前沿研究实习
   地点：上海市、北京市
@@ -33600,11 +33617,6 @@ Wind万得：没有新增
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2932311124
-
-- 美团｜TA Intern (B Team)
-  地点：圣保罗
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684744013
 
 - 美团｜无人车业务部-销售运营实习生
   地点：深圳市
@@ -35244,9 +35256,9 @@ Wind万得：没有新增
 ## 信源状态
 
 - watch-tencent：抓取 882 条
-- watch-byte：抓取 2193 条
+- watch-byte：抓取 2186 条
 - watch-jd：抓取 132 条
-- watch-meituan：抓取 3372 条
+- watch-meituan：抓取 3382 条
 - watch-xhs：抓取 204 条
 - watch-pdd：抓取 36 条
 - watch-sheet-005：抓取 9 条
@@ -35259,7 +35271,7 @@ Wind万得：没有新增
 - watch-sheet-018：抓取 0 条
 - watch-sheet-019：抓取 23 条
 - watch-sheet-020：抓取 13 条
-- watch-sheet-021：抓取 72 条
+- watch-sheet-021：抓取 73 条
 - watch-sheet-022：抓取 0 条
 - watch-sheet-023：抓取 14 条
 - watch-sheet-029：抓取 5 条
@@ -35269,12 +35281,12 @@ Wind万得：没有新增
 - watch-sheet-040：抓取 0 条
 - watch-sheet-046：抓取 0 条
 - watch-sheet-062：RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.
-- watch-sheet-079：抓取 6 条
+- watch-sheet-079：RuntimeError: RuntimeError: 职位列表分页未完成；标题详情未读: TimeoutError; 标题详情未读: TimeoutError; RuntimeError: 下一页未发生变化，无法确认完整列表
 - watch-sheet-089：抓取 7 条
 - watch-sheet-094：抓取 2 条
 - watch-sheet-099：RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理
 - watch-sheet-108：抓取 6 条
-- watch-sheet-111：抓取 4 条
+- watch-sheet-111：抓取 3 条
 - watch-sheet-113：抓取 3 条
 - watch-sheet-116：抓取 6 条
 - watch-sheet-126：抓取 4 条
@@ -35287,6 +35299,6 @@ Wind万得：没有新增
 - watch-sheet-153：抓取 6 条
 - watch-sheet-157：抓取 0 条
 
-监控清单 43 家；本轮尝试 43 个信源；正常 40，异常/待适配 3。
+监控清单 43 家；本轮尝试 43 个信源；正常 39，异常/待适配 4。
 
 异常不等于没有新增。首次成功读取的新公司仅建立现有岗位基线，后续出现的新职位再提醒。

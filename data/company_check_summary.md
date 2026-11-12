@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-12 09:00（北京时间）
-完成时间：2026-11-12 16:15
-共43家公司：新增2家；没有新增38家；异常3家。
+2027届产品岗逐公司检查结果｜2026-11-12 15:00（北京时间）
+完成时间：2026-11-13 00:00
+共43家公司：新增1家；没有新增38家；异常4家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43180556118
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43252578304
 第1/1条
 
 360集团：没有新增
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：没有新增
+海康威视：异常（职位列表分页未完成；标题详情未读: TimeoutError; 标题详情未读: TimeoutError; RuntimeError: 下一页未发生变化，无法确认完整列表）
 
 京东：没有新增
 
@@ -75,8 +75,8 @@
 
 字节跳动：新增 1个岗位
 
-  字节跳动｜后端开发工程师（抖音搜索） - 抖音用户产品
-https://jobs.bytedance.com/campus/position/7677445885550168373/detail
+  字节跳动｜技术支持工程师 - Seed 产品研发
+https://jobs.bytedance.com/campus/position/7707279121335814405/detail
 
 作业帮：没有新增
 
@@ -86,10 +86,7 @@ OPPO：没有新增
 
 SHEIN：没有新增
 
-Shopee：新增 1个岗位
-
-  Shopee｜（27届秋招）保险核心系统产品经理 - 深圳
-https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b
+Shopee：没有新增
 
 Soul：没有新增
 

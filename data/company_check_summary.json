@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-12T09:00+08:00",
-  "generated_at": "2026-11-12 16:15",
+  "slot": "2026-11-12T15:00+08:00",
+  "generated_at": "2026-11-13 00:00",
   "companies": [
     {
       "company": "360集团",
@@ -82,8 +82,8 @@
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "职位列表分页未完成；标题详情未读: TimeoutError; 标题详情未读: TimeoutError; RuntimeError: 下一页未发生变化，无法确认完整列表",
       "jobs": []
     },
     {
@@ -249,9 +249,9 @@
         {
           "company_name": "字节跳动",
           "source_id": "watch-byte",
-          "title": "后端开发工程师（抖音搜索） - 抖音用户产品",
-          "official_url": "https://jobs.bytedance.com/campus/position/7677445885550168373/detail",
-          "location": "北京、上海"
+          "title": "技术支持工程师 - Seed 产品研发",
+          "official_url": "https://jobs.bytedance.com/campus/position/7707279121335814405/detail",
+          "location": "上海"
         }
       ]
     },
@@ -286,17 +286,9 @@
     {
       "company": "Shopee",
       "source_id": "watch-sheet-020",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "Shopee",
-          "source_id": "watch-sheet-020",
-          "title": "（27届秋招）保险核心系统产品经理 - 深圳",
-          "official_url": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b",
-          "location": ""
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "Soul",
