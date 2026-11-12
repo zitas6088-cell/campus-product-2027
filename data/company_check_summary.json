@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-11T09:00+08:00",
-  "generated_at": "2026-11-11 15:46",
+  "slot": "2026-11-12T09:00+08:00",
+  "generated_at": "2026-11-12 16:15",
   "companies": [
     {
       "company": "360集团",
@@ -110,17 +110,9 @@
     {
       "company": "蚂蚁集团",
       "source_id": "watch-sheet-005",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "蚂蚁集团",
-          "source_id": "watch-sheet-005",
-          "title": "WorldFirst AI产品经理",
-          "official_url": "https://talent.antgroup.com/campus-position?positionId=261110012839589",
-          "location": "杭州"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "美团",
@@ -230,8 +222,8 @@
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
       "jobs": []
     },
     {
@@ -257,16 +249,9 @@
         {
           "company_name": "字节跳动",
           "source_id": "watch-byte",
-          "title": "内容产品经理 - TikTok生活服务",
-          "official_url": "https://jobs.bytedance.com/campus/position/7667548693747075333/detail",
-          "location": "上海、北京"
-        },
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "治理产品运营 - TikTok直播",
-          "official_url": "https://jobs.bytedance.com/campus/position/7706547850606332165/detail",
-          "location": "北京"
+          "title": "后端开发工程师（抖音搜索） - 抖音用户产品",
+          "official_url": "https://jobs.bytedance.com/campus/position/7677445885550168373/detail",
+          "location": "北京、上海"
         }
       ]
     },
@@ -301,9 +286,17 @@
     {
       "company": "Shopee",
       "source_id": "watch-sheet-020",
-      "status": "没有新增",
+      "status": "新增",
       "detail": "",
-      "jobs": []
+      "jobs": [
+        {
+          "company_name": "Shopee",
+          "source_id": "watch-sheet-020",
+          "title": "（27届秋招）保险核心系统产品经理 - 深圳",
+          "official_url": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b",
+          "location": ""
+        }
+      ]
     },
     {
       "company": "Soul",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11 15:46",
+  "generated_at": "2026-11-12 16:15",
   "configured_companies": 43,
   "attempted_sources": 43,
-  "healthy_sources": 41,
+  "healthy_sources": 40,
   "unhealthy_sources": [
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 12,
+      "consecutive_failures": 13,
       "status": "blocked",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -16,9 +16,20 @@
       "alert": ""
     },
     {
+      "source_id": "watch-sheet-062",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+      "last_success_at": "2026-11-11T07:46:22.422960+00:00",
+      "last_count": 3,
+      "peak_count": 3,
+      "alert": ""
+    },
+    {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 27,
+      "consecutive_failures": 28,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     }

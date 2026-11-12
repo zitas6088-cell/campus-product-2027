@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-11 09:00（北京时间）
-完成时间：2026-11-11 15:46
-共43家公司：新增2家；没有新增39家；异常2家。
+2027届产品岗逐公司检查结果｜2026-11-12 09:00（北京时间）
+完成时间：2026-11-12 16:15
+共43家公司：新增2家；没有新增38家；异常3家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/42981109654
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43180556118
 第1/1条
 
 360集团：没有新增
@@ -35,10 +35,7 @@
 
 快手：没有新增
 
-蚂蚁集团：新增 1个岗位
-
-  蚂蚁集团｜WorldFirst AI产品经理
-https://talent.antgroup.com/campus-position?positionId=261110012839589
+蚂蚁集团：没有新增
 
 美团：没有新增
 
@@ -70,19 +67,16 @@ https://talent.antgroup.com/campus-position?positionId=261110012839589
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：没有新增
+迅雷：异常（未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.）
 
 用友网络：没有新增
 
 知乎：没有新增
 
-字节跳动：新增 2个岗位
+字节跳动：新增 1个岗位
 
-  字节跳动｜内容产品经理 - TikTok生活服务
-https://jobs.bytedance.com/campus/position/7667548693747075333/detail
-
-  字节跳动｜治理产品运营 - TikTok直播
-https://jobs.bytedance.com/campus/position/7706547850606332165/detail
+  字节跳动｜后端开发工程师（抖音搜索） - 抖音用户产品
+https://jobs.bytedance.com/campus/position/7677445885550168373/detail
 
 作业帮：没有新增
 
@@ -92,7 +86,10 @@ OPPO：没有新增
 
 SHEIN：没有新增
 
-Shopee：没有新增
+Shopee：新增 1个岗位
+
+  Shopee｜（27届秋招）保险核心系统产品经理 - 深圳
+https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b
 
 Soul：没有新增
 
@@ -102,11 +99,11 @@ Wind万得：没有新增
 
 ---
 
-# 2027届校招监控｜2026-11-11 15:46（北京时间）
+# 2027届校招监控｜2026-11-12 16:15（北京时间）
 
 仅新增且已确认适用2027届的产品相关正式校招岗位进入飞书提醒。非产品、实习、社招及届别未确认岗位不推送。
 
-## ⭐ 产品重点 · 630 条
+## ⭐ 产品重点 · 631 条
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（业务风控方向） - TikTok研发
   地点：北京、杭州
@@ -172,6 +169,11 @@ Wind万得：没有新增
   地点：上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667889560824154373/detail
+
+- ⭐ 产品重点｜小米｜AI Agent产品经理
+  地点：官网未注明
+  官网届别文字：2027届
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670928765471852843/detail
 
 - ⭐ 产品重点｜小米｜AI产品经理（HR方向）
   地点：官网未注明
@@ -288,6 +290,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668562355290818869/detail
 
+- ⭐ 产品重点｜字节跳动｜技术产品经理（AI数据应用方向） - 中国交易与广告
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665984513700399413/detail
+
 - ⭐ 产品重点｜字节跳动｜AI产品经理（创作Agent方向） - 剪映CapCut
   地点：北京
   官网届别文字：2027届
@@ -312,11 +319,6 @@ Wind万得：没有新增
   地点：上海、北京、杭州、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665590441061697797/detail
-
-- ⭐ 产品重点｜字节跳动｜技术产品经理（AI数据应用方向） - 中国交易与广告
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665984513700399413/detail
 
 - ⭐ 产品重点｜字节跳动｜技术产品经理（智能经营Agent方向） - 中国交易与广告
   地点：北京、上海、成都
@@ -678,15 +680,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7684119291016743221/detail
 
-- ⭐ 产品重点｜字节跳动｜国际消费金融产品经理 - 国际支付
-  地点：上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667894678415788341/detail
-
 - ⭐ 产品重点｜字节跳动｜风险情报分析产品经理 - 风控
   地点：杭州、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669733095578716469/detail
+
+- ⭐ 产品重点｜字节跳动｜国际消费金融产品经理 - 国际支付
+  地点：上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667894678415788341/detail
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（供给方向） - 抖音电商
   地点：北京、上海
@@ -708,11 +710,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669642616797268229/detail
 
-- ⭐ 产品重点｜字节跳动｜AI音乐产品经理（抖音AI产品人才校招） - 抖音音乐
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667767817475901749/detail
-
 - ⭐ 产品重点｜字节跳动｜AIMV音乐产品经理（抖音AI产品人才校招） - 抖音音乐
   地点：上海、北京
   官网届别文字：2027届
@@ -722,6 +719,11 @@ Wind万得：没有新增
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667854450103486773/detail
+
+- ⭐ 产品重点｜字节跳动｜AI音乐产品经理（抖音AI产品人才校招） - 抖音音乐
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667767817475901749/detail
 
 - ⭐ 产品重点｜字节跳动｜增长产品经理 - 红果短剧
   地点：北京
@@ -778,11 +780,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668544708158753077/detail
 
-- ⭐ 产品重点｜字节跳动｜用户产品经理（抖音AI产品人才校招） - 抖音音乐
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7698987068773861685/detail
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（开放平台方向） - TikTok Shop
   地点：上海
   官网届别文字：2027届
@@ -812,6 +809,11 @@ Wind万得：没有新增
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667548693747075333/detail
+
+- ⭐ 产品重点｜字节跳动｜AI治理产品运营 - TikTok直播
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7706547850606332165/detail
 
 - ⭐ 产品重点｜京东｜技术产品经理
   地点：北京市-北京市、四川省-成都市、广东省-深圳市、上海市-上海市
@@ -1098,15 +1100,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667579728820259125/detail
 
-- ⭐ 产品重点｜字节跳动｜大模型算法工程师（企业知识与智能体方向） - Seed 产品研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668276850988566837/detail
-
 - ⭐ 产品重点｜字节跳动｜创意产品经理-「星璨全球」培养计划 - 国际化广告创意与品牌
   地点：深圳、北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667835102218684725/detail
+
+- ⭐ 产品重点｜字节跳动｜大模型算法工程师（企业知识与智能体方向） - Seed 产品研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668276850988566837/detail
 
 - ⭐ 产品重点｜字节跳动｜AI产品设计师 - 抖音效果与创作
   地点：北京
@@ -1173,6 +1175,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7701246291185682693/detail
 
+- ⭐ 产品重点｜字节跳动｜经验决策AI策略运营（抖音AI产品人才校招） - 抖音生态
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667797029995022597/detail
+
 - ⭐ 产品重点｜字节跳动｜策略产品经理 - 红果短剧
   地点：北京
   官网届别文字：2027届
@@ -1193,20 +1200,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665585091687860533/detail
 
-- ⭐ 产品重点｜字节跳动｜经验决策AI策略运营（抖音AI产品人才校招） - 抖音生态
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667797029995022597/detail
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（研发平台方向） - 开发者服务
   地点：北京、杭州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667871935859034421/detail
-
-- ⭐ 产品重点｜字节跳动｜巨量千川广告策略产品经理 - 抖音电商
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7680458256896690485/detail
 
 - ⭐ 产品重点｜字节跳动｜清算产品经理 - 国际支付
   地点：北京、上海
@@ -1238,15 +1235,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668294646178908469/detail
 
+- ⭐ 产品重点｜字节跳动｜AI产品经理（CRM方向） - 抖音电商
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667523818756655413/detail
+
 - ⭐ 产品重点｜字节跳动｜AI产品经理 - 抖音电商
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7677588589015615749/detail
 
-- ⭐ 产品重点｜字节跳动｜AI产品经理（CRM方向） - 抖音电商
+- ⭐ 产品重点｜字节跳动｜巨量千川广告策略产品经理 - 抖音电商
   地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667523818756655413/detail
+  https://jobs.bytedance.com/campus/position/7680458256896690485/detail
 
 - ⭐ 产品重点｜字节跳动｜产品经理 - 国际支付
   地点：北京
@@ -1313,11 +1315,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667935739301185845/detail
 
-- ⭐ 产品重点｜字节跳动｜AI全栈工程师 - 抖音平台产品
-  地点：上海、杭州、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665658319908178181/detail
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（达人方向） - 抖音电商
   地点：北京、上海
   官网届别文字：2027届
@@ -1327,6 +1324,11 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666017487045790005/detail
+
+- ⭐ 产品重点｜字节跳动｜AI全栈工程师 - 抖音平台产品
+  地点：上海、杭州、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665658319908178181/detail
 
 - ⭐ 产品重点｜哔哩哔哩｜增长策略产品经理【2027届】
   地点：官网未注明
@@ -1348,6 +1350,11 @@ Wind万得：没有新增
   官网届别文字：27届
   https://campus.dewu.com/578078/position/7685986718365419812/detail
 
+- ⭐ 产品重点｜字节跳动｜电商增长产品经理（EMEA） - TikTok Shop
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7703797576126794037/detail
+
 - ⭐ 产品重点｜字节跳动｜机器人智能评测产品经理 - Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
@@ -1358,25 +1365,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628897090341882117/detail
 
-- ⭐ 产品重点｜字节跳动｜社区互动产品经理（抖音AI产品人才校招） - 抖音直播
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7678564572653488389/detail
-
 - ⭐ 产品重点｜字节跳动｜产品设计师 - 火山引擎
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667495664276801797/detail
 
+- ⭐ 产品重点｜字节跳动｜社区互动产品经理（抖音AI产品人才校招） - 抖音直播
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7678564572653488389/detail
+
 - ⭐ 产品重点｜字节跳动｜电商内容生态策略产品 - 抖音电商
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670896774942869765/detail
-
-- ⭐ 产品重点｜字节跳动｜电商增长产品经理（EMEA） - TikTok Shop
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7703797576126794037/detail
 
 - ⭐ 产品重点｜字节跳动｜飞书办公场景的企业级AI Agent智能体平台构建（会议数字人） - Seed 产品研发
   地点：上海
@@ -1418,25 +1420,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668150074459703557/detail
 
-- ⭐ 产品重点｜字节跳动｜产品经理 - 体验与服务
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670125919325227269/detail
-
 - ⭐ 产品重点｜字节跳动｜商品产品经理（AI方向） - TikTok Shop
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668334624594970933/detail
 
-- ⭐ 产品重点｜字节跳动｜搜索产品经理 - TikTok Shop
-  地点：上海
+- ⭐ 产品重点｜字节跳动｜产品经理 - 体验与服务
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668544733795780917/detail
+  https://jobs.bytedance.com/campus/position/7670125919325227269/detail
 
 - ⭐ 产品重点｜字节跳动｜行业产品运营 - 抖音生活服务
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665928898505853237/detail
+
+- ⭐ 产品重点｜字节跳动｜搜索产品经理 - TikTok Shop
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668544733795780917/detail
 
 - ⭐ 产品重点｜字节跳动｜抖音音乐产品设计师 - 抖音运营
   地点：上海
@@ -1458,15 +1460,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668143580506474805/detail
 
-- ⭐ 产品重点｜字节跳动｜导购产品经理 - 抖音电商
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667421333009156405/detail
-
 - ⭐ 产品重点｜字节跳动｜增长策略产品经理 - 今日头条
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669713389022791989/detail
+
+- ⭐ 产品重点｜字节跳动｜导购产品经理 - 抖音电商
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667421333009156405/detail
 
 - ⭐ 产品重点｜字节跳动｜广告产品经理-Ads Core - Global Ads Core
   地点：北京、上海
@@ -1488,30 +1490,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668311514264504629/detail
 
-- ⭐ 产品重点｜字节跳动｜用户产品经理 - 西瓜视频
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669694035128371461/detail
-
 - ⭐ 产品重点｜字节跳动｜GEO策略运营（抖音AI产品人才校招） - 抖音
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667840882890590469/detail
+
+- ⭐ 产品重点｜字节跳动｜用户产品经理 - 西瓜视频
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669694035128371461/detail
 
 - ⭐ 产品重点｜字节跳动｜广告策略产品经理 - 广告业务
   地点：上海、北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665590441060419845/detail
 
-- ⭐ 产品重点｜字节跳动｜AI社交产品工程师（抖音AI产品人才校招） - 抖音社交与互动
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667795864832936245/detail
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（用户/社交方向） - TikTok
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7681137403578992949/detail
+
+- ⭐ 产品重点｜字节跳动｜AI社交产品工程师（抖音AI产品人才校招） - 抖音社交与互动
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667795864832936245/detail
 
 - ⭐ 产品重点｜字节跳动｜用户增长投放经理（抖音AI产品人才校招） - 抖音
   地点：北京
@@ -1558,6 +1560,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668562640176105733/detail
 
+- ⭐ 产品重点｜字节跳动｜商业化产品经理 - 今日头条
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669673936569878837/detail
+
 - ⭐ 产品重点｜字节跳动｜AI产品经理（数据产品方向） - 抖音电商
   地点：北京、上海
   官网届别文字：2027届
@@ -1567,11 +1574,6 @@ Wind万得：没有新增
   地点：广州、北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7682755032220289333/detail
-
-- ⭐ 产品重点｜字节跳动｜商业化产品经理 - 今日头条
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669673936569878837/detail
 
 - ⭐ 产品重点｜字节跳动｜内容产品 - 抖音生活服务
   地点：北京、上海
@@ -1733,25 +1735,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672766635962943797/detail
 
-- ⭐ 产品重点｜字节跳动｜AI Agent开发工程师（AI创作方向） - 抖音用户产品
-  地点：北京、杭州、广州、深圳、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666017588976535861/detail
-
 - ⭐ 产品重点｜字节跳动｜后端开发工程师 - Seed 产品研发
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669692469200046341/detail
 
-- ⭐ 产品重点｜字节跳动｜产品运营经理 - 抖音品牌营销与星图达人
-  地点：北京
+- ⭐ 产品重点｜字节跳动｜AI Agent开发工程师（AI创作方向） - 抖音用户产品
+  地点：北京、杭州、广州、深圳、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668288515009169717/detail
+  https://jobs.bytedance.com/campus/position/7666017588976535861/detail
 
 - ⭐ 产品重点｜字节跳动｜营收礼物玩法AI产品经理（抖音AI产品人才校招） - 抖音直播
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667854488603855109/detail
+
+- ⭐ 产品重点｜字节跳动｜产品运营经理 - 抖音品牌营销与星图达人
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668288515009169717/detail
 
 - ⭐ 产品重点｜字节跳动｜用户增长产品经理（联合用户增长） - 抖音电商
   地点：上海、北京
@@ -1767,11 +1769,6 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668656593915349253/detail
-
-- ⭐ 产品重点｜字节跳动｜治理产品运营 - TikTok直播
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7706547850606332165/detail
 
 - ⭐ 产品重点｜百度｜上海-策略产品经理(J100673)
   地点：上海市
@@ -1928,6 +1925,11 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22484
 
+- ⭐ 产品重点｜小红书｜【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22064
+
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（Agent开发方向）-智能客服
   地点：上海市
   官网届别文字：2027校招
@@ -1937,11 +1939,6 @@ Wind万得：没有新增
   地点：上海市，北京市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22538
-
-- ⭐ 产品重点｜小红书｜【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22064
 
 - ⭐ 产品重点｜蚂蚁集团｜AI产品工程师（搜推方向）
   地点：杭州
@@ -2003,6 +2000,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683739993118443829/detail
 
+- ⭐ 产品重点｜字节跳动｜语音算法工程师 - Seed 产品研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668277946645301557/detail
+
 - ⭐ 产品重点｜字节跳动｜Agent全栈研发工程师 - Seed 产品研发
   地点：深圳、上海、北京、杭州
   官网届别文字：2027届
@@ -2012,11 +2014,6 @@ Wind万得：没有新增
   地点：深圳、上海、北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7676057466433521973/detail
-
-- ⭐ 产品重点｜字节跳动｜语音算法工程师 - Seed 产品研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668277946645301557/detail
 
 - ⭐ 产品重点｜字节跳动｜产品经理 - IT
   地点：北京
@@ -2043,15 +2040,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668609729397049653/detail
 
-- ⭐ 产品重点｜字节跳动｜AI产品运营（Agent方向） - 剪映CapCut
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667535743867128117/detail
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（AIGC社区互动产品方向） - 剪映CapCut
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667181638182684933/detail
+
+- ⭐ 产品重点｜字节跳动｜AI产品运营（Agent方向） - 剪映CapCut
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667535743867128117/detail
 
 - ⭐ 产品重点｜字节跳动｜产品运营（字节云） - AI算力基础设施
   地点：北京、深圳、杭州
@@ -2233,35 +2230,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666102159725512965/detail
 
-- ⭐ 产品重点｜字节跳动｜后端开发工程师（Agent/LLM） - 抖音用户产品
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664511141422893365/detail
-
 - ⭐ 产品重点｜字节跳动｜多媒体研发工程师 - 抖音用户产品
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667427225004706101/detail
 
-- ⭐ 产品重点｜字节跳动｜AI全栈开发工程师（抖音搜索） - 抖音用户产品
-  地点：北京、上海、杭州、深圳
+- ⭐ 产品重点｜字节跳动｜后端开发工程师（Agent/LLM） - 抖音用户产品
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664517848791025973/detail
-
-- ⭐ 产品重点｜字节跳动｜AI前端开发工程师（抖音搜索） - 抖音用户产品
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664507033259641093/detail
+  https://jobs.bytedance.com/campus/position/7664511141422893365/detail
 
 - ⭐ 产品重点｜字节跳动｜客户端开发工程师（AI搜） - 抖音用户产品
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664514265328503045/detail
 
+- ⭐ 产品重点｜字节跳动｜AI前端开发工程师（抖音搜索） - 抖音用户产品
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664507033259641093/detail
+
+- ⭐ 产品重点｜字节跳动｜AI全栈开发工程师（抖音搜索） - 抖音用户产品
+  地点：北京、上海、杭州、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664517848791025973/detail
+
 - ⭐ 产品重点｜字节跳动｜AI全栈工程师 - 抖音用户产品
   地点：北京、上海、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668203832703781125/detail
+
+- ⭐ 产品重点｜字节跳动｜后端开发工程师（抖音搜索） - 抖音用户产品
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7677445885550168373/detail
 
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商
   地点：上海市，杭州市
@@ -2313,15 +2315,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669619179831052549/detail
 
-- ⭐ 产品重点｜字节跳动｜客户端开发工程师 - Seed 产品研发
-  地点：广州、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668281404838758661/detail
-
 - ⭐ 产品重点｜字节跳动｜Agent应用开发工程师 - Seed 产品研发
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668303335674431797/detail
+
+- ⭐ 产品重点｜字节跳动｜客户端开发工程师 - Seed 产品研发
+  地点：广州、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668281404838758661/detail
 
 - ⭐ 产品重点｜字节跳动｜后端开发工程师 - Seed 产品研发
   地点：深圳
@@ -2383,15 +2385,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668288079398258949/detail
 
-- ⭐ 产品重点｜字节跳动｜用户增长产品经理（多端） - 抖音电商
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667561625356323125/detail
-
 - ⭐ 产品重点｜字节跳动｜激励增长产品经理 - 番茄小说
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669708955290994997/detail
+
+- ⭐ 产品重点｜字节跳动｜用户增长产品经理（多端） - 抖音电商
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667561625356323125/detail
 
 - ⭐ 产品重点｜字节跳动｜品牌广告产品经理-「星璨全球」培养计划 - 国际化广告创意与品牌
   地点：北京、上海
@@ -2413,15 +2415,15 @@ Wind万得：没有新增
   官网届别文字：27 届
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923768931322163/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-电商商家/商品/履约
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22480
-
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-交易基础
   地点：上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22482
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-电商商家/商品/履约
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22480
 
 - ⭐ 产品重点｜得物App｜【27届校招】搜索策略产品经理
   地点：官网未注明
@@ -2448,15 +2450,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668278911956257077/detail
 
-- ⭐ 产品重点｜字节跳动｜产品运营（文娱与小游戏产品方向） - 广告业务
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672767960272242997/detail
-
 - ⭐ 产品重点｜字节跳动｜AI产品经理（国际化广告方向） - 销售运营管理平台
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668253978782779701/detail
+
+- ⭐ 产品重点｜字节跳动｜产品运营（文娱与小游戏产品方向） - 广告业务
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672767960272242997/detail
 
 - ⭐ 产品重点｜字节跳动｜产品经理 - 销售运营管理平台
   地点：北京
@@ -2508,11 +2510,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668309416727480629/detail
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-交易主链路
-  地点：上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22477
-
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI与全栈方向）-商业平台技术
   地点：北京市，上海市
   官网届别文字：2027校招
@@ -2522,6 +2519,11 @@ Wind万得：没有新增
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22081
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-交易主链路
+  地点：上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22477
 
 - ⭐ 产品重点｜百度｜北京-产品经理(J100820)
   地点：北京市
@@ -2603,15 +2605,15 @@ Wind万得：没有新增
   官网届别文字：27 届
   https://app.mokahr.com/campus-recruitment/zhihu/68321#/job/dd66ec4d-b84e-4377-956a-cbff6085ae67
 
-- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-支付结算
-  地点：上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22485
-
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师（AI 全栈方向）-国内电商
   地点：杭州市，上海市，北京市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22023
+
+- ⭐ 产品重点｜小红书｜【2027校招】Product Engineer产品工程师（AI与全栈方向）-支付结算
+  地点：上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22485
 
 - ⭐ 产品重点｜BOSS直聘｜风控策略产品经理
   地点：官网未注明
@@ -2624,14 +2626,14 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7668568027743013125/detail
 
 - ⭐ 产品重点｜字节跳动｜AI Agent质量效能工程师 - Seed 产品研发质量效能
-  地点：北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7687906361073551669/detail
-
-- ⭐ 产品重点｜字节跳动｜AI Agent质量效能工程师 - Seed 产品研发质量效能
   地点：上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683832671797774645/detail
+
+- ⭐ 产品重点｜字节跳动｜AI Agent质量效能工程师 - Seed 产品研发质量效能
+  地点：北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7687906361073551669/detail
 
 - ⭐ 产品重点｜字节跳动｜产品设计师 - TikTok设计
   地点：上海、北京
@@ -2687,6 +2689,11 @@ Wind万得：没有新增
   地点：官网未注明
   官网届别文字：27届
   https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/posDetail.html?postId=6ac664ca15a82a89c314feb3&postType=campus
+
+- ⭐ 产品重点｜迅雷｜【2027校招】数据产品经理
+  地点：官网未注明
+  官网届别文字：2027校招
+  https://campus.xunlei.com/campus-recruitment/xunlei/26600/#/job/cd8443b7-1ecc-4f8a-b53a-b86a5e5ffb87
 
 - ⭐ 产品重点｜字节跳动｜AI全栈开发工程师 - 抖音平台产品
   地点：深圳
@@ -2768,11 +2775,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://app.mokahr.com/campus-recruitment/zuoyebang/144908?locale=zh-CN#/job/4ee93d15-c763-41ef-9cdc-abc81a4527f8
 
-- ⭐ 产品重点｜迅雷｜【2027校招】数据产品经理
-  地点：官网未注明
-  官网届别文字：2027校招
-  https://campus.xunlei.com/campus-recruitment/xunlei/26600/#/job/cd8443b7-1ecc-4f8a-b53a-b86a5e5ffb87
-
 - ⭐ 产品重点｜小红书｜【2027校招】Product Engineer-产品工程师-社区内容方向
   地点：北京市，上海市
   官网届别文字：2027校招
@@ -2788,15 +2790,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7677509004738693381/detail
 
-- ⭐ 产品重点｜字节跳动｜创作者运营（AI创作产品） - 剪映CapCut
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667416543652268293/detail
-
 - ⭐ 产品重点｜字节跳动｜AI应用产品测试开发工程师 - Data AML
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670132898882046213/detail
+
+- ⭐ 产品重点｜字节跳动｜创作者运营（AI创作产品） - 剪映CapCut
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667416543652268293/detail
 
 - ⭐ 产品重点｜字节跳动｜AI产品经理（内容电商B端商家达人撮合方向） - TikTok Shop
   地点：北京、珠海
@@ -2973,6 +2975,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://talent.antgroup.com/campus-position?positionId=260721010984484
 
+- ⭐ 产品重点｜Shopee｜（27届秋招）保险核心系统产品经理 - 深圳
+  地点：官网未注明
+  官网届别文字：27届
+  https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b
+
 - ⭐ 产品重点｜商米集团｜<27届校招>产品经理
   地点：官网未注明
   官网届别文字：27届
@@ -3047,11 +3054,6 @@ Wind万得：没有新增
   地点：深圳、杭州、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667869280712902965/detail
-
-- ⭐ 产品重点｜字节跳动｜商业化广告产品运营（交易支付方向） - Global Business Solutions
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7673078220330256645/detail
 
 - ⭐ 产品重点｜字节跳动｜AI应用全栈工程师 - 抖音平台产品
   地点：深圳、北京
@@ -3258,7 +3260,7 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://careers.oppo.com/university/oppo/campus/post/1816?recruitType=Graduate
 
-## 其他已确认2027届岗位 · 2081 条
+## 其他已确认2027届岗位 · 2077 条
 
 - 字节跳动｜算法工程师（用户增长） - 抖音
   地点：北京、深圳、上海
@@ -3365,15 +3367,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669686538321971461/detail
 
-- 字节跳动｜商业化增长策略运营 - 剪映CapCut
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7686320676005480757/detail
-
 - 字节跳动｜后端开发工程师 - 抖音直播
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665707950078675253/detail
+
+- 字节跳动｜商业化增长策略运营 - 剪映CapCut
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7686320676005480757/detail
 
 - 字节跳动｜算法工程师 - 业务中台
   地点：北京、深圳、上海
@@ -3410,6 +3412,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668646542006667573/detail
 
+- 字节跳动｜特效与算法策略 - 剪映CapCut
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667534248074840325/detail
+
 - 字节跳动｜语音大模型数据（采集方向） - AI数据与安全
   地点：北京
   官网届别文字：2027届
@@ -3419,11 +3426,6 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668647745578404149/detail
-
-- 字节跳动｜特效与算法策略 - 剪映CapCut
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667534248074840325/detail
 
 - 字节跳动｜医疗大模型数据运营 - 小荷健康
   地点：北京
@@ -3485,11 +3487,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628617750193162549/detail
 
-- 字节跳动｜行业治理策略运营 - 抖音生活服务
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668194474165602565/detail
-
 - 字节跳动｜面向复杂软件工程项目的Agentic AI Coding关键技术研究-TRAE
   地点：杭州
   官网届别文字：2027届
@@ -3499,6 +3496,11 @@ Wind万得：没有新增
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665250565488609541/detail
+
+- 字节跳动｜行业治理策略运营 - 抖音生活服务
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668194474165602565/detail
 
 - 字节跳动｜面向复杂软件工程项目的Agentic AI Coding关键技术研究-TRAE
   地点：北京
@@ -3530,25 +3532,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668208521598748981/detail
 
-- 字节跳动｜算法工程师 - Global Ads Core
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667852939361487109/detail
-
 - 字节跳动｜Agent数据运营（ToB方向） - AI数据与安全
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683495342436419893/detail
 
-- 字节跳动｜数据科学 - 抖音增长
-  地点：北京
+- 字节跳动｜算法工程师 - Global Ads Core
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669771225696160005/detail
+  https://jobs.bytedance.com/campus/position/7667852939361487109/detail
 
 - 字节跳动｜AI安全数据策略运营 - TikTok
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670576287066835205/detail
+
+- 字节跳动｜数据科学 - 抖音增长
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669771225696160005/detail
 
 - 字节跳动｜服务端开发工程师 - IT
   地点：北京
@@ -3590,6 +3592,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7673033728922536245/detail
 
+- 字节跳动｜大模型算法工程师 - TikTok研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668264548848224517/detail
+
 - 字节跳动｜大数据AI工程师 - 数据BP
   地点：北京、杭州、上海、深圳
   官网届别文字：2027届
@@ -3599,11 +3606,6 @@ Wind万得：没有新增
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669688563202246917/detail
-
-- 字节跳动｜大模型算法工程师 - TikTok研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668264548848224517/detail
 
 - 字节跳动｜大数据开发工程师（创新&中台方向） - 数据BP
   地点：北京、上海、深圳
@@ -3680,11 +3682,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666008951032990005/detail
 
-- 字节跳动｜Video/Image AI/ML多媒体算法工程师 - 音视频技术
-  地点：北京、深圳、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665353413696096517/detail
-
 - 字节跳动｜数据库开发工程师 - AI算力基础设施
   地点：西安
   官网届别文字：2027届
@@ -3694,6 +3691,16 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668285113290262789/detail
+
+- 字节跳动｜Video/Image AI/ML多媒体算法工程师 - 音视频技术
+  地点：北京、深圳、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665353413696096517/detail
+
+- 字节跳动｜数据库开发工程师 - AI算力基础设施
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7666323993705220357/detail
 
 - 字节跳动｜数据库开发工程师 - AI算力基础设施
   地点：上海
@@ -3705,20 +3712,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7681524646545623349/detail
 
-- 字节跳动｜数据库开发工程师 - AI算力基础设施
-  地点：成都
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666319253851441461/detail
-
 - 字节跳动｜视频理解与画质算法工程师 - 音视频技术
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664638581738211589/detail
 
 - 字节跳动｜数据库开发工程师 - AI算力基础设施
-  地点：深圳
+  地点：成都
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666323993705220357/detail
+  https://jobs.bytedance.com/campus/position/7666319253851441461/detail
 
 - 字节跳动｜多媒体算法工程师 - TikTok研发
   地点：北京
@@ -3780,30 +3782,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667807421780379957/detail
 
-- 字节跳动｜AI Agent开发工程师 - 抖音体验
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667551275686594821/detail
-
 - 字节跳动｜PUSH运营（策略运营方向） - 内容质量与数据服务平台
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669697357131286789/detail
+
+- 字节跳动｜AI Agent开发工程师 - 抖音体验
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667551275686594821/detail
 
 - 字节跳动｜AI应用后端开发工程师 - 财经业务
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669777290679879989/detail
 
-- 字节跳动｜大模型算法（豆包输入法） - Data语音
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668624387940469045/detail
-
 - 字节跳动｜抖音热点治理策略经理 - 抖音内容运营
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668288515521153333/detail
+
+- 字节跳动｜大模型算法（豆包输入法） - Data语音
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668624387940469045/detail
 
 - 字节跳动｜激励推荐算法工程师 - TikTok算法
   地点：北京、上海
@@ -3845,11 +3847,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668351587061287221/detail
 
-- 字节跳动｜后端开发工程师 - 风控
-  地点：深圳、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669741058988788021/detail
-
 - 字节跳动｜下一代推荐大模型算法工程师 - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
@@ -3865,20 +3862,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668234585122375941/detail
 
-- 字节跳动｜大语言模型研究员（数据智能体） - 数据平台
-  地点：北京、上海、杭州
+- 字节跳动｜后端开发工程师 - 风控
+  地点：深圳、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667469859947366661/detail
+  https://jobs.bytedance.com/campus/position/7669741058988788021/detail
 
 - 字节跳动｜下一代多模态智能审核大模型及Agentic技术研究-TikTok内容安全算法
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628214706739792133/detail
 
-- 字节跳动｜面向复杂任务的数据智能体：程序推理与自适应演进研究-数据智能（北京/上海/杭州）
-  地点：北京
+- 字节跳动｜大语言模型研究员（数据智能体） - 数据平台
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628479187796052277/detail
+  https://jobs.bytedance.com/campus/position/7667469859947366661/detail
 
 - 字节跳动｜算法开发工程师（搜索） - 抖音研发
   地点：北京
@@ -3909,6 +3906,11 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628624685622380805/detail
+
+- 字节跳动｜面向复杂任务的数据智能体：程序推理与自适应演进研究-数据智能（北京/上海/杭州）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628479187796052277/detail
 
 - 字节跳动｜AI安全开发工程师（算法工程方向） - TikTok Shop
   地点：杭州、北京、上海
@@ -3960,15 +3962,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668313452029839621/detail
 
-- 字节跳动｜数据科学 - 业务中台
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667376126701177093/detail
-
 - 字节跳动｜经营分析 - 剪映CapCut
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667481788043593989/detail
+
+- 字节跳动｜数据科学 - 业务中台
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667376126701177093/detail
 
 - 字节跳动｜经营数据分析师 - 音视频技术
   地点：深圳、上海
@@ -4050,20 +4052,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7671130584277682485/detail
 
-- 字节跳动｜大模型数据挖掘工程师 - 模型数据工程
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669718332709177605/detail
-
 - 字节跳动｜生成式推荐算法工程师 - 抖音电商
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667576584559577349/detail
 
-- 字节跳动｜算法工程师 - 国际化电商广告
-  地点：北京、上海、杭州
+- 字节跳动｜大模型数据挖掘工程师 - 模型数据工程
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667084206997178677/detail
+  https://jobs.bytedance.com/campus/position/7669718332709177605/detail
 
 - 字节跳动｜算法工程师 - Pangle
   地点：上海、北京、杭州
@@ -4074,6 +4071,11 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668272336332359989/detail
+
+- 字节跳动｜算法工程师 - 国际化电商广告
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667084206997178677/detail
 
 - 字节跳动｜算法工程师 - Global Ads Core
   地点：北京
@@ -4095,11 +4097,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667580689662970117/detail
 
-- 字节跳动｜算法工程师（金融自动化方向） - 中国交易与广告
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672980664934025525/detail
-
 - 字节跳动｜AI质量工程师 - 抖音
   地点：北京、深圳
   官网届别文字：2027届
@@ -4110,30 +4107,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668588056209312005/detail
 
+- 字节跳动｜全栈开发工程师（生活服务-内容） - TikTok研发
+  地点：杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668588385426213173/detail
+
 - 字节跳动｜AI服务策略运营 - 抖音生活服务
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668212572303444229/detail
 
-- 字节跳动｜推荐架构技术项目管理 - Data-抖音/直播/电商/剪映
-  地点：上海、北京
+- 字节跳动｜抖音反欺诈治理策略 - 抖音社区治理
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667070647206201653/detail
+  https://jobs.bytedance.com/campus/position/7668280556798839093/detail
 
 - 字节跳动｜后端研发工程师（AI架构） - 剪映CapCut
   地点：北京、广州、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664604682400303413/detail
 
-- 字节跳动｜全栈开发工程师（生活服务-内容） - TikTok研发
-  地点：杭州、上海
+- 字节跳动｜推荐架构技术项目管理 - Data-抖音/直播/电商/剪映
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668588385426213173/detail
-
-- 字节跳动｜抖音反欺诈治理策略 - 抖音社区治理
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668280556798839093/detail
+  https://jobs.bytedance.com/campus/position/7667070647206201653/detail
 
 - 字节跳动｜算法工程师 - 中国交易与广告
   地点：上海、北京
@@ -4164,6 +4161,11 @@ Wind万得：没有新增
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7689070394482215173/detail
+
+- 字节跳动｜算法工程师（金融自动化方向） - 中国交易与广告
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672980664934025525/detail
 
 - 字节跳动｜全栈开发工程师（生活服务-交易） - TikTok研发
   地点：杭州
@@ -4236,14 +4238,14 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7668567141327784197/detail
 
 - 字节跳动｜算法工程师 - Global Ads Core
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667855308932630837/detail
-
-- 字节跳动｜算法工程师 - Global Ads Core
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667854448622602549/detail
+
+- 字节跳动｜算法工程师 - Global Ads Core
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667855308932630837/detail
 
 - 字节跳动｜大模型推荐算法工程师（交互式推荐方向） - TikTok算法
   地点：北京、上海
@@ -4325,6 +4327,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667091390681368885/detail
 
+- 字节跳动｜短剧推荐算法工程师（面向全球化的下一代短剧推荐系统） - TikTok算法
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668649718293367093/detail
+
 - 字节跳动｜AI安全开发工程师（反爬虫方向） - TikTok Shop
   地点：上海、杭州
   官网届别文字：2027届
@@ -4340,10 +4347,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667581153339918597/detail
 
-- 字节跳动｜短剧推荐算法工程师（面向全球化的下一代短剧推荐系统） - TikTok算法
-  地点：北京、上海
+- 字节跳动｜大数据开发工程师（AI+安全方向） - 安全与风控
+  地点：北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668649718293367093/detail
+  https://jobs.bytedance.com/campus/position/7668625752044816693/detail
 
 - 字节跳动｜AI应用后端开发工程师 - 数据平台
   地点：北京、上海、杭州、南京、深圳
@@ -4360,35 +4367,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666667305627814149/detail
 
-- 字节跳动｜下一代内容分发与生态推荐技术 - TikTok算法
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668651853773195525/detail
-
 - 字节跳动｜社交推荐算法工程师（大模型与社交信号驱动） - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668653140526975237/detail
+
+- 字节跳动｜下一代内容分发与生态推荐技术 - TikTok算法
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668651853773195525/detail
 
 - 字节跳动｜音乐推荐算法工程师（生成式音乐推荐与端到端分发） - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668651000439802117/detail
 
-- 字节跳动｜AI Agent开发工程师 - 巨量AI工作台
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668701836570806581/detail
-
 - 字节跳动｜推荐大模型算法工程师 - 抖音
   地点：上海、深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667481823496161589/detail
 
-- 字节跳动｜大数据开发工程师（AI+安全方向） - 安全与风控
-  地点：北京、杭州
+- 字节跳动｜豆包大模型Agent算法研究员 - 火山方舟
+  地点：上海、北京、深圳、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668625752044816693/detail
+  https://jobs.bytedance.com/campus/position/7668624840068663605/detail
+
+- 字节跳动｜AI Agent开发工程师 - 巨量AI工作台
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668701836570806581/detail
 
 - 字节跳动｜大模型算法工程师 - 今日头条
   地点：深圳、北京
@@ -4400,25 +4407,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668648217572182325/detail
 
-- 字节跳动｜组织与人才策略 - 人力与管理部
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667511619631843637/detail
-
 - 字节跳动｜Lemon8内容推荐算法工程师（大模型驱动的内容生产与分发） - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668650334029383989/detail
 
+- 字节跳动｜组织与人才策略 - 人力与管理部
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667511619631843637/detail
+
 - 字节跳动｜大模型算法工程师（业务风控） - TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667099804536948997/detail
-
-- 字节跳动｜豆包大模型Agent算法研究员 - 火山方舟
-  地点：上海、北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668624840068663605/detail
 
 - 字节跳动｜大模型应用开发工程师 - 风控
   地点：深圳、北京
@@ -4430,10 +4432,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665594404154214709/detail
 
+- 字节跳动｜Agent评测工程师 - 数据平台
+  地点：北京、杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667548857429870901/detail
+
 - 字节跳动｜后端开发工程师（社交架构） - TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669427442841012485/detail
+
+- 字节跳动｜下一代分发：本地生活内容推荐算法工程师 - TikTok算法
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668654526272751877/detail
 
 - 字节跳动｜黑灰产情报开发工程师 - 风控
   地点：北京、杭州
@@ -4445,30 +4457,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669662107882211589/detail
 
-- 字节跳动｜下一代分发：本地生活内容推荐算法工程师 - TikTok算法
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668654526272751877/detail
-
-- 字节跳动｜运筹优化算法工程师 - 抖音电商
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667579729587063093/detail
-
 - 字节跳动｜算法工程师 - 抖音研发
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667177455643773237/detail
 
-- 字节跳动｜AI Agent开发工程师（数据知识方向） - 数据平台
-  地点：北京、杭州、上海
+- 字节跳动｜运筹优化算法工程师 - 抖音电商
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667531539372443909/detail
-
-- 字节跳动｜Agent评测工程师 - 数据平台
-  地点：北京、杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667548857429870901/detail
+  https://jobs.bytedance.com/campus/position/7667579729587063093/detail
 
 - 字节跳动｜广告场景下的生成式搜广推大模型技术研究-Ads Core（北京/上海）
   地点：北京
@@ -4484,6 +4481,11 @@ Wind万得：没有新增
   地点：上海、北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668214721489979653/detail
+
+- 字节跳动｜AI Agent开发工程师（数据知识方向） - 数据平台
+  地点：北京、杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667531539372443909/detail
 
 - 字节跳动｜云安全工程师 - 安全与风控
   地点：北京
@@ -4550,15 +4552,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665316926683515141/detail
 
-- 字节跳动｜AI娱乐方向Agent Harness研发工程师 - Flow
-  地点：上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668543382147238149/detail
-
 - 字节跳动｜后端开发工程师（用户增长） - TikTok研发
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667109941203159301/detail
+
+- 字节跳动｜AI娱乐方向Agent Harness研发工程师 - Flow
+  地点：上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668543382147238149/detail
 
 - 字节跳动｜抖音营销内容治理策略 - 抖音社区治理
   地点：北京
@@ -4569,11 +4571,6 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670065395530008885/detail
-
-- 字节跳动｜抖音专业知识内容运营经理 - 抖音内容运营
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668288515520809269/detail
 
 - 字节跳动｜客户端开发工程师 - 财经业务
   地点：北京
@@ -4655,15 +4652,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670376539674708229/detail
 
-- 字节跳动｜Agent应用研发工程师（风险感知） - TikTok内容安全平台
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7695683092775258373/detail
-
 - 字节跳动｜用户运营经理 - 抖音直播
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667940735240735029/detail
+
+- 字节跳动｜Agent应用研发工程师（风险感知） - TikTok内容安全平台
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7695683092775258373/detail
 
 - 字节跳动｜前端开发工程师 - 抖音
   地点：深圳
@@ -4675,6 +4672,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668535341618284805/detail
 
+- 字节跳动｜机器学习/检测算法工程师 - 安全与风控
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7686769243731478837/detail
+
 - 字节跳动｜Agentic RL For Long Horizon Task - 剪映CapCut
   地点：深圳、北京
   官网届别文字：2027届
@@ -4685,45 +4687,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669779936271599877/detail
 
-- 字节跳动｜Agentic RL For Long Horizon Task - 剪映CapCut
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628600431010187525/detail
-
 - 字节跳动｜Agent开发工程师 - 剪映CapCut
   地点：深圳、北京、广州、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664433884154841349/detail
+
+- 字节跳动｜Agentic RL For Long Horizon Task - 剪映CapCut
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628600431010187525/detail
 
 - 字节跳动｜校园关系与活动 - 人力与管理部
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7700912233024473349/detail
 
-- 字节跳动｜广告算法工程师（流量策略/机制） - Ads Core
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669711027292539141/detail
-
 - 字节跳动｜后端研发工程师（AI Agent方向） - 安全与风控
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668323746595735861/detail
 
-- 字节跳动｜安全开发工程师（AI应用隐私保护/数据安全） - 安全与风控
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668511815866829061/detail
-
-- 字节跳动｜AI测试开发工程师 - 移动OS
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667420530334714117/detail
-
 - 字节跳动｜后端研发工程师 - Global Ads Core
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7675242232518314245/detail
+
+- 字节跳动｜广告算法工程师（流量策略/机制） - Ads Core
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669711027292539141/detail
+
+- 字节跳动｜安全开发工程师（AI应用隐私保护/数据安全） - 安全与风控
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668511815866829061/detail
 
 - 字节跳动｜战略分析师 - 红果短剧
   地点：北京
@@ -4735,25 +4732,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668252664689674549/detail
 
+- 字节跳动｜AI测试开发工程师 - 移动OS
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667420530334714117/detail
+
 - 字节跳动｜战略分析师 - 番茄小说
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669687543886022965/detail
-
-- 字节跳动｜AI商业化策略运营 - 飞书商业运营与策略
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670110976465193221/detail
 
 - 字节跳动｜大模型应用算法工程师 - TikTok内容安全算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669730292838353157/detail
 
+- 字节跳动｜AI商业化策略运营 - 飞书商业运营与策略
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670110976465193221/detail
+
 - 字节跳动｜策略运营（剪映生态） - 内容质量与数据服务平台
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670740280920164661/detail
+
+- 字节跳动｜视频编解码芯片算法工程师 - 音视频技术
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664637484757076277/detail
 
 - 字节跳动｜内容策略运营 - 番茄小说
   地点：北京
@@ -4770,11 +4777,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7675243215033813301/detail
 
-- 字节跳动｜视频编解码芯片算法工程师 - 音视频技术
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664637484757076277/detail
-
 - 字节跳动｜模型数据运营（研判） - TikTok
   地点：上海
   官网届别文字：2027届
@@ -4790,6 +4792,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7704569811935054133/detail
 
+- 字节跳动｜大模型算法工程师（金融行业） - 中国交易与广告
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672980785813031221/detail
+
 - 字节跳动｜AI全栈开发工程师 - 抖音音乐
   地点：北京、杭州、上海
   官网届别文字：2027届
@@ -4800,50 +4807,45 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668654167401367813/detail
 
-- 字节跳动｜大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-番茄（北京/上海/杭州/深圳）
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628087523401599237/detail
-
 - 字节跳动｜效能Agent开发工程师 - 火山引擎
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667862424641407285/detail
 
-- 字节跳动｜智能对话大模型算法工程师 - 抖音
-  地点：上海、深圳、北京、杭州
+- 字节跳动｜大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-番茄（北京/上海/杭州/深圳）
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667544384434719029/detail
-
-- 字节跳动｜Code Agent策略算法工程师 - TRAE
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667467797661026613/detail
+  https://jobs.bytedance.com/campus/position/7628087523401599237/detail
 
 - 字节跳动｜大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-番茄（北京/上海/杭州/深圳）
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628624453355505925/detail
 
-- 字节跳动｜大数据开发工程师 - 中国交易与广告
-  地点：上海、杭州
+- 字节跳动｜智能对话大模型算法工程师 - 抖音
+  地点：上海、深圳、北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669683747633400069/detail
+  https://jobs.bytedance.com/campus/position/7667544384434719029/detail
+
+- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音AI
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628896904629324037/detail
 
 - 字节跳动｜抖音大模型应用策略 - 抖音社区治理
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667905030280415493/detail
 
-- 字节跳动｜基于预训练大模型的端到端生成式搜索技术研究-搜索（北京/上海/杭州）
+- 字节跳动｜大数据开发工程师 - 中国交易与广告
+  地点：上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669683747633400069/detail
+
+- 字节跳动｜机器学习研究员（Agent评测与演进方向） - 火山方舟
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628087021015075077/detail
-
-- 字节跳动｜大模型算法工程师（金融行业） - 中国交易与广告
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672980785813031221/detail
+  https://jobs.bytedance.com/campus/position/7673033397752777013/detail
 
 - 字节跳动｜推荐算法工程师（大模型Agent方向） - TikTok算法
   地点：北京
@@ -4854,16 +4856,6 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667141304455465221/detail
-
-- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音AI
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628896904629324037/detail
-
-- 字节跳动｜机器学习研究员（Agent评测与演进方向） - 火山方舟
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7673033397752777013/detail
 
 - 字节跳动｜效能Agent开发工程师 - 火山引擎
   地点：上海
@@ -4880,70 +4872,75 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628623984851552517/detail
 
+- 字节跳动｜AI开发工程师（Agent方向） - 抖音
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668203792723167541/detail
+
 - 字节跳动｜AI后端开发工程师 - 抖音音乐
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665605822222780725/detail
+
+- 字节跳动｜基于预训练大模型的端到端生成式搜索技术研究-搜索（北京/上海/杭州）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628087021015075077/detail
 
 - 字节跳动｜AI Agent研发工程师 - 中国交易与广告
   地点：北京、深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669651173607278901/detail
 
-- 字节跳动｜AI开发工程师（Agent方向） - 抖音
-  地点：北京
+- 字节跳动｜大模型Agent算法工程师（全球内容理解与趋势预测） - TikTok算法
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668203792723167541/detail
+  https://jobs.bytedance.com/campus/position/7679724676617079093/detail
 
-- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音AI
-  地点：杭州
+- 字节跳动｜Code Agent策略算法工程师 - TRAE
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628896431759231285/detail
+  https://jobs.bytedance.com/campus/position/7667467797661026613/detail
 
 - 字节跳动｜大模型算法工程师（Model Post-Training方向） - 剪映CapCut
   地点：北京、深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667481798863784245/detail
 
-- 字节跳动｜广告创意Agent后端开发工程师 - 国际化广告创意与品牌
-  地点：上海、北京、杭州
+- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音AI
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668349794238679349/detail
-
-- 字节跳动｜大模型Agent算法工程师（全球内容理解与趋势预测） - TikTok算法
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7679724676617079093/detail
-
-- 字节跳动｜抖音多业务场景的大模型训练与应用-小荷健康
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628896218093160709/detail
+  https://jobs.bytedance.com/campus/position/7628896431759231285/detail
 
 - 字节跳动｜大数据开发工程师 - 中国交易与广告
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669683745385908485/detail
 
-- 字节跳动｜豆包AI大模型评测算法工程师 - 火山方舟
-  地点：北京、上海、杭州
+- 字节跳动｜广告创意Agent后端开发工程师 - 国际化广告创意与品牌
+  地点：上海、北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670457476447684869/detail
-
-- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音音乐（北京/上海）
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7626219483847231749/detail
+  https://jobs.bytedance.com/campus/position/7668349794238679349/detail
 
 - 字节跳动｜基于主动进化技术的AI coding数据合成方案探索-AI数据与安全（北京/深圳）
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628850831602305285/detail
 
-- 字节跳动｜基于预训练大模型的端到端生成式搜索技术研究 - 搜索
-  地点：上海、北京、杭州
+- 字节跳动｜抖音多业务场景的大模型训练与应用-小荷健康
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628573292438735157/detail
+  https://jobs.bytedance.com/campus/position/7628896218093160709/detail
+
+- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音音乐（北京/上海）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7626219483847231749/detail
+
+- 字节跳动｜豆包AI大模型评测算法工程师 - 火山方舟
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670457476447684869/detail
 
 - 字节跳动｜AI开发工程师（Agent方向） - 抖音
   地点：杭州
@@ -4954,6 +4951,11 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667916199541278981/detail
+
+- 字节跳动｜基于预训练大模型的端到端生成式搜索技术研究 - 搜索
+  地点：上海、北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628573292438735157/detail
 
 - 字节跳动｜抖音多业务场景的大模型训练与应用-抖音AI
   地点：上海
@@ -5030,11 +5032,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683513087236688181/detail
 
-- 字节跳动｜全栈开发/测试开发工程师（社交） - TikTok研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668577148509374773/detail
-
 - 字节跳动｜推荐大模型算法工程师 - 今日头条
   地点：北京、上海、杭州
   官网届别文字：2027届
@@ -5045,35 +5042,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667104717147752709/detail
 
-- 字节跳动｜全栈开发/测试开发工程师（搜索） - TikTok研发
+- 字节跳动｜计划管理（网络方向） - AI算力基础设施
+  地点：北京、杭州、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7698333979040942341/detail
+
+- 字节跳动｜全栈开发/测试开发工程师（社交） - TikTok研发
   地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668579257697831221/detail
+  https://jobs.bytedance.com/campus/position/7668577148509374773/detail
 
 - 字节跳动｜大模型应用算法工程师 - 中国交易与广告
   地点：上海、深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669709609729313077/detail
 
-- 字节跳动｜计划管理（网络方向） - AI算力基础设施
-  地点：北京、杭州、深圳
+- 字节跳动｜全栈开发/测试开发工程师（智能创作） - TikTok研发
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7698333979040942341/detail
+  https://jobs.bytedance.com/campus/position/7668570322971478325/detail
 
 - 字节跳动｜渲染引擎研发工程师（AI agent方向） - TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665702229265041669/detail
 
-- 字节跳动｜全栈开发/测试开发工程师（智能创作） - TikTok研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668570322971478325/detail
-
 - 字节跳动｜后端架构工程师 - 抖音电商
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668571156576307509/detail
+
+- 字节跳动｜全栈开发/测试开发工程师（搜索） - TikTok研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668579257697831221/detail
 
 - 字节跳动｜后端开发工程师（社交） - TikTok研发
   地点：上海
@@ -5090,45 +5092,50 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668577695181523253/detail
 
-- 字节跳动｜Agent开发工程师 - AI Platform
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667885791859837237/detail
-
 - 字节跳动｜全栈开发/测试开发工程师 - TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668578074170034485/detail
 
-- 字节跳动｜AI Agent算法工程师 - 抖音电商
-  地点：北京、上海、杭州
+- 字节跳动｜Agent开发工程师 - AI Platform
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667570226904713477/detail
+  https://jobs.bytedance.com/campus/position/7667885791859837237/detail
+
+- 字节跳动｜大模型推荐系统算法工程师 - 抖音
+  地点：上海、深圳、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667406976032360709/detail
 
 - 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术 - 抖音
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668221581466175797/detail
 
-- 字节跳动｜大模型/Agent算法工程师（搜索） - TikTok研发
-  地点：北京、上海
+- 字节跳动｜AI Agent算法工程师 - 抖音电商
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665977397406320949/detail
+  https://jobs.bytedance.com/campus/position/7667570226904713477/detail
 
 - 字节跳动｜大模型赋能交易与商业场景的技术创新及落地实践研究（VLM） - Commercial AI
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628789653273512245/detail
 
+- 字节跳动｜大模型/Agent算法工程师（搜索） - TikTok研发
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665977397406320949/detail
+
+- 字节跳动｜后端开发工程师（AI Infra） - TikTok研发
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665997962810165509/detail
+
 - 字节跳动｜全栈开发/测试开发工程师（隐私安全） - TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668576797164898565/detail
-
-- 字节跳动｜大模型推荐系统算法工程师 - 抖音
-  地点：上海、深圳、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667406976032360709/detail
 
 - 字节跳动｜全栈开发/测试开发工程师（PGC） - TikTok研发
   地点：上海
@@ -5145,25 +5152,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668572586315614469/detail
 
+- 字节跳动｜后端开发工程师（AI大模型开发平台） - 数据平台
+  地点：杭州、北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667471048071940357/detail
+
 - 字节跳动｜AI-3D创作引擎 - TikTok研发
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628077579979409717/detail
-
-- 字节跳动｜基于多模态大模型的智能审核关键技术研究 - 国际化商业安全
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670033388814534917/detail
-
-- 字节跳动｜AI Agent开发工程师（拉美业务） - TikTok Shop
-  地点：杭州、珠海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667051331064334645/detail
-
-- 字节跳动｜后端开发工程师（AI Infra） - TikTok研发
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665997962810165509/detail
 
 - 字节跳动｜LLM Agents研发工程师 - TikTok研发
   地点：北京
@@ -5175,20 +5172,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667103029132806405/detail
 
-- 字节跳动｜后端开发工程师（AI大模型开发平台） - 数据平台
-  地点：杭州、北京、上海
+- 字节跳动｜AI Agent开发工程师（拉美业务） - TikTok Shop
+  地点：杭州、珠海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667471048071940357/detail
+  https://jobs.bytedance.com/campus/position/7667051331064334645/detail
 
 - 字节跳动｜AI Agent开发工程师（全托管业务） - TikTok Shop
   地点：杭州、珠海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667052814369622277/detail
-
-- 字节跳动｜大模型Agent算法工程师 - 中国交易与广告
-  地点：北京、杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665169571847850245/detail
 
 - 字节跳动｜服务端研发工程师 - IT
   地点：北京
@@ -5205,25 +5197,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7663064541588228405/detail
 
-- 字节跳动｜后端开发工程师（社交） - TikTok研发
-  地点：北京
+- 字节跳动｜大模型Agent算法工程师 - 中国交易与广告
+  地点：北京、杭州、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669449274456246581/detail
+  https://jobs.bytedance.com/campus/position/7665169571847850245/detail
 
-- 字节跳动｜基于多模态大模型的智能审核关键技术研究-国际化商业安全（北京/上海）
-  地点：北京
+- 字节跳动｜基于多模态大模型的智能审核关键技术研究 - 国际化商业安全
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628882816541575429/detail
+  https://jobs.bytedance.com/campus/position/7670033388814534917/detail
 
 - 字节跳动｜Agent应用开发工程师 - 豆包手机助手
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668235538637457717/detail
 
+- 字节跳动｜后端开发工程师（社交） - TikTok研发
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669449274456246581/detail
+
 - 字节跳动｜AIGC算法工程师 - 中国交易与广告
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669711970535278901/detail
+
+- 字节跳动｜基于多模态大模型的智能审核关键技术研究-国际化商业安全（北京/上海）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628882816541575429/detail
 
 - 字节跳动｜全栈开发/测试开发工程师 - TikTok研发
   地点：北京
@@ -5275,25 +5277,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668148182379940149/detail
 
-- 字节跳动｜推荐大模型算法工程师 - 抖音电商
-  地点：北京、上海、杭州、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667569338216483125/detail
-
 - 字节跳动｜推荐算法工程师 - 抖音电商
   地点：上海、深圳、北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667568481436944693/detail
 
-- 字节跳动｜端到端视频编解码算法工程师 - 音视频技术
-  地点：北京、杭州、上海
+- 字节跳动｜推荐大模型算法工程师 - 抖音电商
+  地点：北京、上海、杭州、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664640729823234309/detail
+  https://jobs.bytedance.com/campus/position/7667569338216483125/detail
 
 - 字节跳动｜大模型应用算法工程师（AI Agent方向） - 巨量AI工作台
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668698983221119237/detail
+
+- 字节跳动｜端到端视频编解码算法工程师 - 音视频技术
+  地点：北京、杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664640729823234309/detail
 
 - 字节跳动｜Camera显示效果开发工程师 - 移动OS
   地点：深圳
@@ -5335,6 +5337,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628624331531995397/detail
 
+- 字节跳动｜大模型应用算法研发工程师 - 隐私和数据保护办公室
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669663726564673845/detail
+
 - 字节跳动｜推荐+广告大模型算法工程师 - 中国交易与广告
   地点：北京、上海、深圳
   官网届别文字：2027届
@@ -5345,25 +5352,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669711925295843589/detail
 
-- 字节跳动｜机器学习系统研发工程师 - 端变现
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667885273452382469/detail
-
 - 字节跳动｜营销算法工程师 - TikTok Shop
   地点：上海、北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667817420166318389/detail
 
+- 字节跳动｜机器学习系统研发工程师 - 端变现
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667885273452382469/detail
+
 - 字节跳动｜推荐算法工程师 - 中国交易与广告
   地点：北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672981062763727157/detail
-
-- 字节跳动｜大模型应用算法研发工程师 - 隐私和数据保护办公室
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669663726564673845/detail
 
 - 字节跳动｜推荐算法工程师 - TikTok Shop
   地点：上海、北京、杭州
@@ -5380,30 +5382,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670092828767095045/detail
 
-- 字节跳动｜大模型搜索算法工程师 - 搜索
-  地点：北京、上海、杭州
+- 字节跳动｜搜索大模型算法工程师 - 番茄小说/红果短剧/番茄畅听
+  地点：北京、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667167698007968005/detail
+  https://jobs.bytedance.com/campus/position/7675704557938788661/detail
 
 - 字节跳动｜AI测试开发工程师 - 抖音
   地点：北京、上海、杭州、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665980778266970373/detail
 
-- 字节跳动｜搜索大模型算法工程师 - 番茄小说/红果短剧/番茄畅听
-  地点：北京、深圳
+- 字节跳动｜研发工程师（AI垂直场景Agent方向） - 集团信息系统
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7675704557938788661/detail
+  https://jobs.bytedance.com/campus/position/7670076745041348869/detail
+
+- 字节跳动｜大模型搜索算法工程师 - 搜索
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667167698007968005/detail
 
 - 字节跳动｜数据科学 - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664446595187083525/detail
-
-- 字节跳动｜研发工程师（AI垂直场景Agent方向） - 集团信息系统
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670076745041348869/detail
 
 - 字节跳动｜大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-今日头条（北京/上海/杭州）
   地点：北京
@@ -5430,30 +5432,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668622489120688389/detail
 
-- 字节跳动｜多模态大模型算法工程师 - 抖音电商
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667578131151079733/detail
-
 - 字节跳动｜AI Coding算法工程师 - AI Platform
   地点：杭州、上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667950653440526645/detail
+
+- 字节跳动｜多模态大模型算法工程师 - 抖音电商
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667578131151079733/detail
 
 - 字节跳动｜Agent Infra研发工程师 - Commercial AI
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668201492008110389/detail
 
-- 字节跳动｜EMG算法工程师 - PICO
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672270818409957637/detail
-
 - 字节跳动｜多模态大模型算法工程师 - PICO
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7676331141710416133/detail
+
+- 字节跳动｜EMG算法工程师 - PICO
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672270818409957637/detail
 
 - 字节跳动｜通信空间建模工程师 - 豆包手机助手
   地点：北京
@@ -5469,6 +5471,11 @@ Wind万得：没有新增
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21008
+
+- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳）
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628626095277099269/detail
 
 - 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳）
   地点：上海
@@ -5495,25 +5502,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669682046642293045/detail
 
-- 字节跳动｜国际直播前端开发工程师（营收AI工程方向） - TikTok直播
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668613580803508533/detail
-
 - 字节跳动｜BSP开发工程师 - 豆包手机助手
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668307344628730117/detail
 
-- 字节跳动｜后端开发工程师 - 开发者服务
+- 字节跳动｜国际直播前端开发工程师（营收AI工程方向） - TikTok直播
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667862065905682741/detail
+  https://jobs.bytedance.com/campus/position/7668613580803508533/detail
 
 - 字节跳动｜代码智能大模型算法研究员 - TRAE
   地点：北京、上海、深圳、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667144702417750277/detail
+
+- 字节跳动｜后端开发工程师 - 开发者服务
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667862065905682741/detail
 
 - 字节跳动｜AI数据运营（生态专项方向） - TikTok
   地点：上海
@@ -5534,11 +5541,6 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669629758774872325/detail
-
-- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳）
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628626095277099269/detail
 
 - 字节跳动｜客户端开发工程师（AI Music） - TikTok研发
   地点：上海
@@ -5570,6 +5572,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7679727632775104821/detail
 
+- 字节跳动｜面向大模型与AI Agent的AI云原生基础设施关键技术研究-计算
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628936427621927173/detail
+
 - 字节跳动｜大模型Agent研发工程师（Agent Harness与平台方向） - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
@@ -5579,11 +5586,6 @@ Wind万得：没有新增
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665348578872903989/detail
-
-- 字节跳动｜面向大模型与AI Agent的AI云原生基础设施关键技术研究-计算
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628936427621927173/detail
 
 - 字节跳动｜集团内控业务伙伴 - 内控
   地点：北京、上海、深圳
@@ -5705,45 +5707,45 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667050433923287301/detail
 
-- 字节跳动｜AI Agent研发工程师 - 剪映CapCut
-  地点：深圳、北京、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672741461658994997/detail
-
 - 字节跳动｜AI Agent后端研发工程师（小云雀Pippit） - 剪映CapCut
   地点：深圳、北京、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668223463953549621/detail
-
-- 字节跳动｜Agent算法工程师 - Commercial AI
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667125817365104949/detail
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667124899202238725/detail
 
-- 字节跳动｜全栈开发工程师（用户增长与数据） - 中国交易与广告
+- 字节跳动｜AI Agent研发工程师 - 剪映CapCut
+  地点：深圳、北京、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672741461658994997/detail
+
+- 字节跳动｜Agent算法工程师 - Commercial AI
   地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667922890595715381/detail
+  https://jobs.bytedance.com/campus/position/7667125817365104949/detail
 
 - 字节跳动｜Agent应用算法工程师（AI4SE方向） - 抖音AI
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665611078273370421/detail
 
-- 字节跳动｜客户端开发工程师（图像Agent） - 剪映CapCut
-  地点：深圳、广州
+- 字节跳动｜全栈开发工程师（用户增长与数据） - 中国交易与广告
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667878064660007221/detail
+  https://jobs.bytedance.com/campus/position/7667922890595715381/detail
 
 - 字节跳动｜广告后端架构工程师 - Ads Core
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669710875313948933/detail
+
+- 字节跳动｜客户端开发工程师（图像Agent） - 剪映CapCut
+  地点：深圳、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667878064660007221/detail
 
 - 字节跳动｜广告后端架构工程师 - Ads Core
   地点：北京、上海
@@ -5805,6 +5807,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680935640347101493/detail
 
+- 字节跳动｜数据分析师 - 今日头条
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669712338309089589/detail
+
 - 字节跳动｜内容质量与评估（德语方向） - TikTok
   地点：上海
   官网届别文字：2027届
@@ -5824,11 +5831,6 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680936166642682117/detail
-
-- 字节跳动｜数据分析师 - 今日头条
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669712338309089589/detail
 
 - 字节跳动｜内容质量与评估（西班牙语方向） - TikTok
   地点：上海
@@ -5850,6 +5852,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680939538105043205/detail
 
+- 字节跳动｜Agent效果评测工程师 - 开发者服务
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667106823808305413/detail
+
 - 字节跳动｜广告场景下的生成式搜广推大模型技术研究-Global Ads Infra（北京/上海）
   地点：北京
   官网届别文字：2027届
@@ -5860,105 +5867,100 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668154464083708213/detail
 
-- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音推荐技术（北京/上海/杭州/深圳）
-  地点：上海
+- 字节跳动｜AI数据运营（生活服务方向） - AI数据与安全
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628831003932772613/detail
+  https://jobs.bytedance.com/campus/position/7683493905827989813/detail
 
 - 字节跳动｜联网大模型数据运营 - AI数据与安全
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683465284410116405/detail
 
-- 字节跳动｜AI数据运营（生活服务方向） - AI数据与安全
-  地点：北京
+- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音推荐技术（北京/上海/杭州/深圳）
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7683493905827989813/detail
-
-- 字节跳动｜Agent效果评测工程师 - 开发者服务
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667106823808305413/detail
+  https://jobs.bytedance.com/campus/position/7628831003932772613/detail
 
 - 字节跳动｜直播营收推荐算法工程师（基于LLM的营收意图判断和推荐） - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668322073567807749/detail
 
-- 字节跳动｜后端开发工程师（数据工程） - TikTok内容安全平台
-  地点：北京
+- 字节跳动｜广告算法工程师 - 中国交易与广告
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668295110720145669/detail
+  https://jobs.bytedance.com/campus/position/7669712735105976581/detail
 
 - 字节跳动｜推荐算法工程师（ranking与分发策略） - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669709893340055813/detail
 
-- 字节跳动｜广告算法工程师 - 中国交易与广告
-  地点：上海、北京
+- 字节跳动｜后端开发工程师（数据工程） - TikTok内容安全平台
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669712735105976581/detail
+  https://jobs.bytedance.com/campus/position/7668295110720145669/detail
 
 - 字节跳动｜广告/推荐/营销算法 - 中国交易与广告
   地点：北京、上海、杭州、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670465641355299077/detail
 
-- 字节跳动｜AI数据策略工程师 - 模型数据工程
-  地点：上海、杭州
+- 字节跳动｜直播生态推荐算法工程师（基于大模型与行为理解的直播推荐） - TikTok算法
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670045331435342133/detail
+  https://jobs.bytedance.com/campus/position/7668323994243696949/detail
 
 - 字节跳动｜数据仓库开发工程师 - 集团信息系统
   地点：北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668179479581509893/detail
 
-- 字节跳动｜AI搜索算法工程师 - 搜索
-  地点：北京、杭州
+- 字节跳动｜AI数据策略工程师 - 模型数据工程
+  地点：上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7673035264365758773/detail
+  https://jobs.bytedance.com/campus/position/7670045331435342133/detail
 
 - 字节跳动｜端智能开发工程师 - 今日头条
   地点：深圳、广州、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7671199964656355637/detail
 
-- 字节跳动｜AI算法工程师 - 番茄
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667518404274342197/detail
-
-- 字节跳动｜算法工程师 - 中国交易与广告
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666664969993767173/detail
-
-- 字节跳动｜直播生态推荐算法工程师（基于大模型与行为理解的直播推荐） - TikTok算法
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668323994243696949/detail
-
-- 字节跳动｜客户端开发工程师 - 飞连
+- 字节跳动｜AI搜索算法工程师 - 搜索
   地点：北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667886507939744053/detail
-
-- 字节跳动｜Android开发工程师 - 移动OS
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667881533285566725/detail
+  https://jobs.bytedance.com/campus/position/7673035264365758773/detail
 
 - 字节跳动｜TikTok短剧多模态理解和生成技术研究-TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628072661650737461/detail
 
+- 字节跳动｜算法工程师 - 中国交易与广告
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7666664969993767173/detail
+
+- 字节跳动｜AI算法工程师 - 番茄
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667518404274342197/detail
+
+- 字节跳动｜客户端开发工程师 - 飞连
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667886507939744053/detail
+
 - 字节跳动｜AI数据策略工程师 - 模型数据工程
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669717404471658757/detail
+
+- 字节跳动｜Android开发工程师 - 移动OS
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667881533285566725/detail
 
 - 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音Generative Recommendation（北京/上海/杭州/深圳）
   地点：北京
@@ -5975,15 +5977,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667525558779087157/detail
 
-- 字节跳动｜多模态大模型算法工程师 - TikTok内容安全算法
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669732018301045045/detail
-
 - 字节跳动｜大模型算法研究员 - 小荷健康
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665626194213341445/detail
+
+- 字节跳动｜多模态大模型算法工程师 - TikTok内容安全算法
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669732018301045045/detail
 
 - 字节跳动｜Camera软件开发工程师 - 移动OS
   地点：深圳、北京
@@ -6000,25 +6002,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665248914409621765/detail
 
+- 字节跳动｜后端开发工程师（电商营销） - 中国交易与广告
+  地点：杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667924089921489157/detail
+
 - 字节跳动｜大模型应用（商业化方向） - 内容质量与数据服务平台
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669693515362289925/detail
-
-- 字节跳动｜Agentic AI算法工程师 - 风控
-  地点：杭州、深圳、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667900909641369909/detail
-
-- 字节跳动｜模型运营（广告方向） - 内容质量与数据服务平台
-  地点：成都
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665291531588258053/detail
-
-- 字节跳动｜AI安全后端开发工程师 - Seed 安全研发
-  地点：上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668265470446913797/detail
 
 - 字节跳动｜商城策略运营（欧美市场） - TikTok Shop
   地点：北京
@@ -6030,35 +6022,45 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669731729921329461/detail
 
-- 字节跳动｜TikTok短剧多模态理解和生成技术研究-TikTok研发
-  地点：深圳
+- 字节跳动｜模型运营（广告方向） - 内容质量与数据服务平台
+  地点：成都
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628084628147996933/detail
-
-- 字节跳动｜异构算力研发工程师 - AI算力基础设施
-  地点：北京、西安、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667485694411098373/detail
-
-- 字节跳动｜视觉感知与融合算法工程师 - 豆包手机助手
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668306302950672693/detail
+  https://jobs.bytedance.com/campus/position/7665291531588258053/detail
 
 - 字节跳动｜算法工程师（激励Agent方向） - Ads Core
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669711303696877829/detail
 
+- 字节跳动｜TikTok短剧多模态理解和生成技术研究-TikTok研发
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628084628147996933/detail
+
+- 字节跳动｜Agentic AI算法工程师 - 风控
+  地点：杭州、深圳、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667900909641369909/detail
+
+- 字节跳动｜异构算力研发工程师 - AI算力基础设施
+  地点：北京、西安、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667485694411098373/detail
+
+- 字节跳动｜AI安全后端开发工程师 - Seed 安全研发
+  地点：上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668265470446913797/detail
+
+- 字节跳动｜视觉感知与融合算法工程师 - 豆包手机助手
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668306302950672693/detail
+
 - 字节跳动｜多模态大模型算法工程师 - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669706036090505525/detail
-
-- 字节跳动｜后端开发工程师（电商营销） - 中国交易与广告
-  地点：杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667924089921489157/detail
 
 - 字节跳动｜搜索安全策略运营 - 内容质量与数据服务平台
   地点：北京
@@ -6140,30 +6142,40 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21991
 
+- 小红书｜【2027校招】基础模型算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=23038
+
 - 字节跳动｜多模态大模型算法工程师 - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668281405810460981/detail
-
-- 字节跳动｜大模型安全攻防工程师 - 抖音
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664820200882129205/detail
 
 - 字节跳动｜经营策略分析师 - 抖音生活服务
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668302484166871349/detail
 
-- 字节跳动｜大模型算法工程师（AI Agent方向） - TikTok研发
-  地点：上海
+- 字节跳动｜大模型安全攻防工程师 - 抖音
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667106441702197557/detail
+  https://jobs.bytedance.com/campus/position/7664820200882129205/detail
 
 - 字节跳动｜多模态算法工程师 - 火山引擎
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7688313764001253685/detail
+
+- 字节跳动｜大模型应用开发工程师（AI Coding方向） - AI Platform
+  地点：上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667887564768643333/detail
+
+- 字节跳动｜大模型算法工程师（AI Agent方向） - TikTok研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667106441702197557/detail
 
 - 字节跳动｜广告场景下的生成式搜广推大模型技术研究-国际化电商广告（北京/上海/杭州）
   地点：北京
@@ -6185,35 +6197,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667103029518600453/detail
 
-- 字节跳动｜大模型应用开发工程师（AI Coding方向） - AI Platform
-  地点：上海、杭州
+- 字节跳动｜AI全栈开发工程师（客户端方向） - TikTok研发
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667887564768643333/detail
+  https://jobs.bytedance.com/campus/position/7667052074640148741/detail
 
 - 字节跳动｜服务端开发工程师 - 移动OS
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667869539320793397/detail
 
-- 字节跳动｜AI全栈开发工程师（客户端方向） - TikTok研发
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667052074640148741/detail
-
-- 字节跳动｜AI多模态算法工程师 - 数据平台
-  地点：上海、北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667464295092996405/detail
-
 - 字节跳动｜风控垂域大模型基座和Agentic AI研究-风控
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628639914620766517/detail
 
-- 字节跳动｜计算SRE - AI算力基础设施
-  地点：北京、杭州、上海
+- 字节跳动｜AI多模态算法工程师 - 数据平台
+  地点：上海、北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667093439687772421/detail
+  https://jobs.bytedance.com/campus/position/7667464295092996405/detail
 
 - 字节跳动｜数据分析师 - 抖音效果与创作
   地点：北京
@@ -6230,30 +6232,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667911994129582341/detail
 
+- 字节跳动｜计算SRE - AI算力基础设施
+  地点：北京、杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667093439687772421/detail
+
 - 字节跳动｜视觉算法工程师（眼动追踪方向） - PICO
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7671139204352526597/detail
-
-- 字节跳动｜多模态大模型算法工程师 - 国际化商业安全
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667872367872641333/detail
 
 - 字节跳动｜风控垂域大模型基座和Agentic AI研究-风控（新加坡）Research on Risk Control Vertical LLM Foundation and Agent-Risk Control (Singapore)
   地点：新加坡
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7630866669057411381/detail
 
+- 字节跳动｜多模态大模型算法工程师 - 国际化商业安全
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667872367872641333/detail
+
 - 字节跳动｜大模型安全研发工程师 - 安全与风控
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668599082802039045/detail
-
-- 字节跳动｜面向大模型与AI Agent的AI云原生基础设施关键技术研究-网络（北京//杭州）
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628965614925138229/detail
 
 - 字节跳动｜下一代推荐大模型算法工程师 - TikTok算法
   地点：北京
@@ -6269,6 +6271,11 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667871586088732933/detail
+
+- 字节跳动｜面向大模型与AI Agent的AI云原生基础设施关键技术研究-网络（北京//杭州）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628965614925138229/detail
 
 - 字节跳动｜风控垂域大模型基座和Agentic AI研究-风控
   地点：北京
@@ -6410,6 +6417,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7691255839865473333/detail
 
+- 字节跳动｜多模态Agent算法研究员-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622206477847038213/detail
+
 - 字节跳动｜全球物流网络规划工程师 - TikTok Shop
   地点：深圳、上海、杭州
   官网届别文字：2027届
@@ -6420,85 +6432,80 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669731505744234757/detail
 
-- 字节跳动｜多模态Agent算法研究员-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622206477847038213/detail
-
 - 字节跳动｜项目运营 - 抖音生活服务
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668621579618027781/detail
-
-- 字节跳动｜视觉算法工程师（手势追踪方向） - PICO
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672269064887159045/detail
-
-- 字节跳动｜语音多模态高性能计算研发工程师 - Data语音
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668629851345127685/detail
-
-- 字节跳动｜视觉多模态大模型应用算法工程师-Seed大模型人才校招
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622245198294436149/detail
-
-- 字节跳动｜视觉多模态大模型应用算法工程师 - Seed大模型人才校招
-  地点：北京、上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622244680471529733/detail
-
-- 字节跳动｜多模态大语言模型算法工程师 - TikTok Shop
-  地点：上海、杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667576488259193141/detail
-
-- 字节跳动｜多模态Agent算法研究员-Seed大模型人才校招
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622204674259912965/detail
 
 - 字节跳动｜多模态与世界模型算法研究员-Seed大模型人才校招
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622200663678388533/detail
 
-- 字节跳动｜多传感器融合算法工程师 - PICO
-  地点：北京、上海
+- 字节跳动｜语音多模态高性能计算研发工程师 - Data语音
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672272924247804165/detail
+  https://jobs.bytedance.com/campus/position/7668629851345127685/detail
+
+- 字节跳动｜视觉算法工程师（手势追踪方向） - PICO
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672269064887159045/detail
+
+- 字节跳动｜多模态Agent算法研究员-Seed大模型人才校招
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622204674259912965/detail
+
+- 字节跳动｜视觉多模态大模型应用算法工程师-Seed大模型人才校招
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622245198294436149/detail
+
+- 字节跳动｜多模态大语言模型算法工程师 - TikTok Shop
+  地点：上海、杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667576488259193141/detail
+
+- 字节跳动｜视觉多模态大模型应用算法工程师 - Seed大模型人才校招
+  地点：北京、上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622244680471529733/detail
 
 - 字节跳动｜数据科学家 - 抖音体验
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666007957710522629/detail
 
-- 字节跳动｜模型运营（IP与版权方向） - 内容质量与数据服务平台
-  地点：成都
+- 字节跳动｜多传感器融合算法工程师 - PICO
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7675940689016998149/detail
-
-- 字节跳动｜视觉多模态大模型应用算法工程师-Seed大模型人才校招
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622244847551203589/detail
+  https://jobs.bytedance.com/campus/position/7672272924247804165/detail
 
 - 字节跳动｜多模态与世界模型算法研究员-Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622200210034755845/detail
 
-- 字节跳动｜多模态Agent算法研究员-Seed大模型人才校招
-  地点：深圳
+- 字节跳动｜模型运营（IP与版权方向） - 内容质量与数据服务平台
+  地点：成都
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622204931247966517/detail
+  https://jobs.bytedance.com/campus/position/7675940689016998149/detail
 
 - 字节跳动｜客户端开发工程师 - 抖音研发
   地点：北京、深圳、广州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667473149580019973/detail
+
+- 字节跳动｜多模态Agent算法研究员-Seed大模型人才校招
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622204931247966517/detail
+
+- 字节跳动｜视觉多模态大模型应用算法工程师-Seed大模型人才校招
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622244847551203589/detail
 
 - 字节跳动｜多模态与世界模型算法研究员-Seed大模型人才校招
   地点：深圳
@@ -6550,15 +6557,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665260513205520645/detail
 
-- 字节跳动｜战略经营分析师 - 抖音生活服务
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668298437905434933/detail
-
 - 字节跳动｜数据挖掘工程师（营销方向） - 数据平台
   地点：上海、北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667507228895676677/detail
+
+- 字节跳动｜战略经营分析师 - 抖音生活服务
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668298437905434933/detail
 
 - 字节跳动｜大模型评测工程师 - 模型数据工程
   地点：北京
@@ -6595,6 +6602,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7673910942783457541/detail
 
+- 字节跳动｜行业运营管培生（全托管） - TikTok Shop
+  地点：深圳、广州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667542125177948469/detail
+
 - 字节跳动｜训练推理一体化存储研发工程师 - Data-抖音/直播/电商/剪映
   地点：北京、上海
   官网届别文字：2027届
@@ -6604,11 +6616,6 @@ Wind万得：没有新增
   地点：上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669431732878919941/detail
-
-- 字节跳动｜行业运营管培生（全托管） - TikTok Shop
-  地点：深圳、广州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667542125177948469/detail
 
 - 字节跳动｜大模型与智能体安全——面向Agentic AI的攻防评估与可信安全防御（LLM Security）-安全与风控（北京/深圳）
   地点：深圳
@@ -6625,115 +6632,110 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667889677916260661/detail
 
-- 字节跳动｜抖音广告算法工程师 - 端变现
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667884307688540421/detail
-
 - 字节跳动｜后端研发工程师（AI安全权限方向） - 安全与风控
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668318062462896389/detail
-
-- 字节跳动｜AI大模型优化工程师 - 音视频技术
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7686017568532941061/detail
-
-- 字节跳动｜AI Agent应用研发工程师 - 安全与风控
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668624170959636789/detail
 
 - 字节跳动｜AI Coding大模型算法工程师 - TikTok研发
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667045458893605125/detail
 
-- 字节跳动｜商家增长运营 - 体验与服务
-  地点：北京
+- 字节跳动｜抖音广告算法工程师 - 端变现
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670134818629912885/detail
+  https://jobs.bytedance.com/campus/position/7667884307688540421/detail
 
 - 字节跳动｜基于多模态大模型的视频分析/理解/画质评估及增强与视频智能编码/表达-音视频技术（上海）
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628573927275022645/detail
 
-- 字节跳动｜AI全栈开发工程师 - 抖音研发
-  地点：北京
+- 字节跳动｜AI大模型优化工程师 - 音视频技术
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7671143640540481797/detail
-
-- 字节跳动｜Agent开发工程师（搜索） - TikTok研发
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665985793949993269/detail
-
-- 字节跳动｜PGC内容质量管理（英语方向） - TikTok
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7698954151582026037/detail
+  https://jobs.bytedance.com/campus/position/7686017568532941061/detail
 
 - 字节跳动｜传输智能算法工程师 - 音视频技术
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664558120950384949/detail
 
-- 字节跳动｜AI开发工程师 - 抖音研发中台
+- 字节跳动｜AI Agent应用研发工程师 - 安全与风控
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664536968654620981/detail
+  https://jobs.bytedance.com/campus/position/7668624170959636789/detail
+
+- 字节跳动｜商家增长运营 - 体验与服务
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670134818629912885/detail
+
+- 字节跳动｜AI全栈开发工程师 - 抖音研发
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7671143640540481797/detail
 
 - 字节跳动｜AI Agent策略工程师 - 豆包爱学
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665188768413042997/detail
 
-- 字节跳动｜前端开发工程师（搜索方向） - TikTok研发
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664927757332580661/detail
-
-- 字节跳动｜PGC内容质量管理（日语方向） - TikTok
+- 字节跳动｜PGC内容质量管理（英语方向） - TikTok
   地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7690413231816853765/detail
+  https://jobs.bytedance.com/campus/position/7698954151582026037/detail
 
-- 字节跳动｜体验运营 - 体验与服务
+- 字节跳动｜AI开发工程师 - 抖音研发中台
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670123780908124421/detail
+  https://jobs.bytedance.com/campus/position/7664536968654620981/detail
+
+- 字节跳动｜Agent开发工程师（搜索） - TikTok研发
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665985793949993269/detail
 
 - 字节跳动｜内容运营 - 抖音电商
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667935633642080565/detail
 
-- 字节跳动｜东南亚电商运营管培生计划（越南） - TikTok Shop
+- 字节跳动｜PGC内容质量管理（日语方向） - TikTok
   地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7675720914621876533/detail
+  https://jobs.bytedance.com/campus/position/7690413231816853765/detail
+
+- 字节跳动｜前端开发工程师（搜索方向） - TikTok研发
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664927757332580661/detail
+
+- 字节跳动｜体验运营 - 体验与服务
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670123780908124421/detail
 
 - 字节跳动｜AI模型数据运营 - TikTok
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7681583171540011317/detail
 
-- 字节跳动｜用户体验分析 - 抖音生活服务
-  地点：北京
+- 字节跳动｜东南亚电商运营管培生计划（越南） - TikTok Shop
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668208458525264181/detail
+  https://jobs.bytedance.com/campus/position/7675720914621876533/detail
 
 - 字节跳动｜AI研发工程师（番茄小说） - 抖音研发中台
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664595471457569029/detail
 
-- 字节跳动｜大模型与智能体安全——面向Agentic AI的攻防评估与可信安全防御（隐私计算）-安全与风控（北京/深圳）
-  地点：深圳
+- 字节跳动｜用户体验分析 - 抖音生活服务
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628631273873557765/detail
+  https://jobs.bytedance.com/campus/position/7668208458525264181/detail
 
 - 字节跳动｜东南亚电商运营管培生计划（马来西亚） - TikTok Shop
   地点：上海
@@ -6755,6 +6757,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667452760752998661/detail
 
+- 字节跳动｜大模型与智能体安全——面向Agentic AI的攻防评估与可信安全防御（隐私计算）-安全与风控（北京/深圳）
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628631273873557765/detail
+
 - 字节跳动｜传输智能算法工程师 - 音视频技术
   地点：上海
   官网届别文字：2027届
@@ -6775,25 +6782,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628574276233054469/detail
 
-- 字节跳动｜安全检测工程师 - 安全与风控
-  地点：杭州
+- 字节跳动｜大模型算法工程师 - 国际化商业安全
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667167697989552389/detail
+  https://jobs.bytedance.com/campus/position/7667867573498415365/detail
 
 - 字节跳动｜大模型赋能安全攻防研究-安全与风控（北京/杭州/深圳）
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628565380965583157/detail
 
+- 字节跳动｜安全检测工程师 - 安全与风控
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667167697989552389/detail
+
 - 字节跳动｜集团职能招聘 - 人力与管理部
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667385537558628613/detail
-
-- 字节跳动｜大模型算法工程师 - 国际化商业安全
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667867573498415365/detail
 
 - 字节跳动｜AI模型数据运营（日语方向） - TikTok
   地点：上海
@@ -6890,70 +6897,60 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668582797787203893/detail
 
-- 字节跳动｜搜索算法工程师 - TikTok Shop
-  地点：上海、杭州
+- 字节跳动｜Agent开发工程师 - 抖音
+  地点：深圳、杭州、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667558383895726341/detail
-
-- 字节跳动｜大模型赋能交易与商业场景的技术创新及落地实践研究（AI Infra） - Commercial AI
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628612570892945669/detail
+  https://jobs.bytedance.com/campus/position/7668156130133199109/detail
 
 - 字节跳动｜AI Agent开发工程师 - Data-抖音/直播/电商/剪映
   地点：北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7677585479047563573/detail
 
-- 字节跳动｜Agent开发工程师 - 抖音
-  地点：深圳、杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668156130133199109/detail
-
 - 字节跳动｜广告算法工程师 - 端变现
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668232075413145909/detail
-
-- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音内容技术（北京/上海/杭州/深圳）
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628830728016808245/detail
 
 - 字节跳动｜大模型赋能交易与商业场景的技术创新及落地实践研究（北京/上海） - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628563853727041797/detail
 
-- 字节跳动｜AI应用工程师（Agent方向） - 抖音直播
-  地点：深圳、北京、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667137498080512261/detail
-
 - 字节跳动｜AIGC前端开发工程师（小云雀Pippit） - 剪映CapCut
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7675375199224547589/detail
 
-- 字节跳动｜机器学习系统SRE工程师-Seed大模型人才校招
-  地点：杭州
+- 字节跳动｜AI应用工程师（Agent方向） - 抖音直播
+  地点：深圳、北京、广州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7625971691780884741/detail
+  https://jobs.bytedance.com/campus/position/7667137498080512261/detail
+
+- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音内容技术（北京/上海/杭州/深圳）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628830728016808245/detail
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京、深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667564241175922949/detail
 
+- 字节跳动｜搜索算法工程师 - TikTok算法
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668349808459254069/detail
+
+- 字节跳动｜机器学习系统SRE工程师-Seed大模型人才校招
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7625971691780884741/detail
+
 - 字节跳动｜AIGC与多模态大模型算法工程师 - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667524562944919813/detail
-
-- 字节跳动｜AI Agent算法工程师 - TikTok Shop
-  地点：上海、北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667453198986627381/detail
 
 - 字节跳动｜全栈开发工程师 - 小荷健康
   地点：北京
@@ -6965,20 +6962,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667124780703451397/detail
 
-- 字节跳动｜搜索算法工程师 - TikTok算法
-  地点：北京、上海、杭州
+- 字节跳动｜大模型赋能交易与商业场景的技术创新及落地实践研究（AI Infra） - Commercial AI
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668349808459254069/detail
+  https://jobs.bytedance.com/campus/position/7628612570892945669/detail
+
+- 字节跳动｜AI Agent算法工程师 - TikTok Shop
+  地点：上海、北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667453198986627381/detail
+
+- 字节跳动｜搜索算法工程师 - TikTok Shop
+  地点：上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667558383895726341/detail
+
+- 字节跳动｜搜索大模型算法工程师 - TikTok Shop
+  地点：上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667601553702848773/detail
 
 - 字节跳动｜大模型赋能交易与商业场景的技术创新及落地实践研究（LLM）-Commercial AI（北京/上海）
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628601581411256629/detail
 
-- 字节跳动｜搜索大模型算法工程师 - TikTok Shop
-  地点：上海、杭州
+- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667601553702848773/detail
+  https://jobs.bytedance.com/campus/position/7628080827906427189/detail
 
 - 字节跳动｜智能审核Agent算法工程师 - 中国交易与广告
   地点：北京、上海
@@ -6990,60 +7002,55 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7625971361899890997/detail
 
-- 字节跳动｜语音算法评测工程师 - 语音
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667866107348945157/detail
-
 - 字节跳动｜基于LLM的软件缺陷检测技术的探索和研究-质量技术
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628831582910679301/detail
-
-- 字节跳动｜抖音多业务场景的大模型训练与应用 - 抖音直播
-  地点：北京、上海、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628082393417746693/detail
 
 - 字节跳动｜AI应用工程师（Agent方向） - 抖音直播
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667851701248739637/detail
 
-- 字节跳动｜AI开发工程师（内容体验方向） - 抖音
-  地点：北京
+- 字节跳动｜抖音多业务场景的大模型训练与应用 - 抖音直播
+  地点：北京、上海、深圳、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667044097673677109/detail
-
-- 字节跳动｜抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628080827906427189/detail
+  https://jobs.bytedance.com/campus/position/7628082393417746693/detail
 
 - 字节跳动｜千川运营策略 - 抖音电商
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7685725884202404101/detail
 
+- 字节跳动｜AI Agent工程师 - 豆包
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665235491532736773/detail
+
 - 字节跳动｜经营分析 - 商业化
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669691874189658421/detail
+
+- 字节跳动｜AI开发工程师（内容体验方向） - 抖音
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667044097673677109/detail
 
 - 字节跳动｜广告AIGC算法工程师 - 中国交易与广告
   地点：北京、杭州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665173792972556597/detail
 
-- 字节跳动｜AI Agent工程师 - 豆包
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665235491532736773/detail
-
 - 字节跳动｜抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628081932895815989/detail
+
+- 字节跳动｜语音算法评测工程师 - 语音
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667866107348945157/detail
 
 - 字节跳动｜机器学习系统SRE工程师-Seed大模型人才校招
   地点：北京
@@ -7100,15 +7107,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667551281497737525/detail
 
-- 小红书｜【2027校招】rednote全球增长业务管培生-运营
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22267
-
 - 小红书｜【2027校招】测试开发
   地点：杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22046
+
+- 小红书｜【2027校招】rednote全球增长业务管培生-运营
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22267
 
 - 字节跳动｜后端开发工程师（AI效能工具） - 开发者服务
   地点：北京、上海
@@ -7140,11 +7147,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668318068746078517/detail
 
-- 字节跳动｜前端/跨栈开发工程师 - Seed
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668314365156378885/detail
-
 - 字节跳动｜豆包大模型算法工程师（AIGC Agent方向） - Data AML
   地点：杭州、北京、上海、深圳
   官网届别文字：2027届
@@ -7155,40 +7157,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668317078402828597/detail
 
-- 字节跳动｜全栈开发/测试开发工程师 - TikTok直播
-  地点：深圳
+- 字节跳动｜前端/跨栈开发工程师 - Seed
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668584915644172549/detail
+  https://jobs.bytedance.com/campus/position/7668314365156378885/detail
 
 - 字节跳动｜豆包大模型算法工程师（AIGC Agent方向） - 火山方舟
   地点：杭州、北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672293900385257733/detail
 
+- 字节跳动｜全栈开发/测试开发工程师 - TikTok直播
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668584915644172549/detail
+
 - 字节跳动｜网络工程师 - AI算力基础设施
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668527393919437061/detail
-
-- 字节跳动｜抖音品牌广告运营经理 - 抖音品牌营销与星图达人
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668288077781420341/detail
 
 - 字节跳动｜AIGC算法工程师 - 国际化广告创意与品牌
   地点：北京、杭州、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667108098062829829/detail
 
-- 字节跳动｜AI Agent全栈开发工程师 - 豆包
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668324567166929205/detail
-
 - 字节跳动｜Agent客户端开发工程师（剪映PC） - 剪映CapCut
   地点：深圳、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668588899530901813/detail
+
+- 字节跳动｜AI Agent全栈开发工程师 - 豆包
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668324567166929205/detail
 
 - 字节跳动｜IDC资产管理工程师 - AI算力基础设施
   地点：北京
@@ -7220,6 +7222,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7673098669784566069/detail
 
+- 字节跳动｜AI全栈开发工程师 - 抖音音乐
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665938446780631301/detail
+
 - 字节跳动｜测试开发工程师 - 火山引擎
   地点：北京、上海
   官网届别文字：2027届
@@ -7230,25 +7237,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7673074052210690357/detail
 
-- 字节跳动｜AI全栈开发工程师 - 抖音音乐
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665938446780631301/detail
-
 - 字节跳动｜AI Agent开发工程师（安全与合规） - 剪映CapCut
   地点：深圳、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667530064128444725/detail
 
-- 字节跳动｜面向国际电商场景的大模型应用-国际电商（新加坡）LLM Applications for International E-commerce Scenarios-Global E-Commerce (Singapore)
-  地点：新加坡
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7630869633486358789/detail
-
 - 字节跳动｜Agent应用开发工程师 - Seed
   地点：北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668282271810242821/detail
+
+- 字节跳动｜面向国际电商场景的大模型应用-国际电商（新加坡）LLM Applications for International E-commerce Scenarios-Global E-Commerce (Singapore)
+  地点：新加坡
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7630869633486358789/detail
 
 - 字节跳动｜AI Agent开发工程师 - Gauth
   地点：北京
@@ -7305,6 +7307,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628836655525595445/detail
 
+- 字节跳动｜基于多模态大模型的视频分析/理解/画质评估及增强与视频智能编码/表达-音视频技术（杭州）
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628573292417124661/detail
+
 - 字节跳动｜Agent后端开发工程师 - Aime
   地点：北京
   官网届别文字：2027届
@@ -7325,15 +7332,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667878785178552629/detail
 
-- 字节跳动｜商家金融解决方案 - 国际支付
-  地点：上海
+- 字节跳动｜平台研发工程师（AICC/通用平台方向） - 安全与风控
+  地点：北京、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7701247372194171189/detail
+  https://jobs.bytedance.com/campus/position/7667529880917870901/detail
 
 - 字节跳动｜AI全栈开发工程师（社交） - TikTok研发
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694132784550480133/detail
+
+- 字节跳动｜商家金融解决方案 - 国际支付
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7701247372194171189/detail
 
 - 字节跳动｜算法工程师 - TikTok研发
   地点：北京、上海
@@ -7345,11 +7357,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667420801746848053/detail
 
-- 字节跳动｜基于多模态大模型的视频分析/理解/画质评估及增强与视频智能编码/表达-音视频技术（杭州）
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628573292417124661/detail
-
 - 字节跳动｜Agent后端开发工程师 - Aime
   地点：北京、上海、杭州
   官网届别文字：2027届
@@ -7360,15 +7367,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628573665035389189/detail
 
-- 字节跳动｜安全研发工程师（终端安全） - 安全与风控
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668597842777475333/detail
-
 - 字节跳动｜多模态搜索算法工程师 - 搜索
   地点：北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669641658196134149/detail
+
+- 字节跳动｜安全研发工程师（终端安全） - 安全与风控
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668597842777475333/detail
 
 - 字节跳动｜后端开发工程师 - Global Ads Infra
   地点：北京
@@ -7380,60 +7387,55 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667856861115255093/detail
 
-- 字节跳动｜AI Agent应用研发工程师 - 火山方舟
-  地点：深圳、北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672671254742157621/detail
-
 - 字节跳动｜AIG3D算法工程师 - 音视频技术
   地点：北京、上海、深圳、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665347150176520501/detail
 
-- 字节跳动｜大模型内容安全算法工程师（业务风控） - TikTok研发
-  地点：上海、深圳
+- 字节跳动｜AI Agent应用研发工程师 - 火山方舟
+  地点：深圳、北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667048582088870197/detail
-
-- 字节跳动｜多模态算法工程师（生成模型方向） - TikTok研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669997983338612997/detail
+  https://jobs.bytedance.com/campus/position/7672671254742157621/detail
 
 - 字节跳动｜存储SRE - AI算力基础设施
   地点：北京、杭州、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667094626301511989/detail
 
+- 字节跳动｜大模型内容安全算法工程师（业务风控） - TikTok研发
+  地点：上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667048582088870197/detail
+
 - 字节跳动｜3D视觉算法工程师 - 音视频技术
   地点：北京、杭州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665348886480554245/detail
 
-- 字节跳动｜空间计算图形引擎开发工程师 - 移动OS
-  地点：上海、广州
+- 字节跳动｜多模态算法工程师（生成模型方向） - TikTok研发
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667864269756582197/detail
+  https://jobs.bytedance.com/campus/position/7669997983338612997/detail
 
 - 字节跳动｜XR相机与机器视觉工程师 - PICO
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7678643185066477829/detail
 
-- 字节跳动｜AI OS音频系统工程师 - 豆包手机助手
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668252465908746549/detail
-
 - 字节跳动｜Camera效果开发工程师 - 移动OS
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667150516916586805/detail
 
-- 字节跳动｜平台研发工程师（AICC/通用平台方向） - 安全与风控
-  地点：北京、深圳
+- 字节跳动｜空间计算图形引擎开发工程师 - 移动OS
+  地点：上海、广州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667529880917870901/detail
+  https://jobs.bytedance.com/campus/position/7667864269756582197/detail
+
+- 字节跳动｜AI OS音频系统工程师 - 豆包手机助手
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668252465908746549/detail
 
 - 字节跳动｜智能创作AI Agent工程师（相机方向） - TikTok研发
   地点：北京
@@ -7460,11 +7462,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667875282272405813/detail
 
-- 字节跳动｜AI研发工程师（AI Music） - TikTok研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669439289629247749/detail
-
 - 字节跳动｜Wi-Fi软件工程师 - 移动OS
   地点：北京
   官网届别文字：2027届
@@ -7474,6 +7471,11 @@ Wind万得：没有新增
   地点：北京、深圳、杭州、上海、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668531604902480181/detail
+
+- 字节跳动｜AI研发工程师（AI Music） - TikTok研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669439289629247749/detail
 
 - 字节跳动｜算法工程师（数据湖基础设施与数据分析方向） - 火山方舟
   地点：北京
@@ -7500,15 +7502,15 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21000
 
-- 小红书｜【2027校招】AI数据infra工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22491
-
 - 小红书｜【2027校招】Agent/大模型算法工程师-rednote国际化
   地点：北京市，上海市，新加坡
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21907
+
+- 小红书｜【2027校招】AI数据infra工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22491
 
 - 小红书｜【2027校招】AI算法工程师（AI4SEC方向）
   地点：北京市，上海市，杭州市
@@ -7540,25 +7542,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669684246983952645/detail
 
-- 字节跳动｜多模态大模型算法工程师 - 中国交易与广告
-  地点：北京、上海
+- 字节跳动｜AI全栈开发工程师 - 中国交易与广告
+  地点：杭州、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667504196396288261/detail
+  https://jobs.bytedance.com/campus/position/7669686942389881093/detail
 
 - 字节跳动｜AI搜索算法工程师 - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7662734602167421189/detail
 
-- 字节跳动｜AI全栈开发工程师 - 中国交易与广告
-  地点：杭州、上海
+- 字节跳动｜下一代推荐大模型研究-TikTok算法
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669686942389881093/detail
+  https://jobs.bytedance.com/campus/position/7628208361079212341/detail
 
 - 字节跳动｜全栈开发工程师 - 中国交易与广告
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665997957038180613/detail
+
+- 字节跳动｜Agent研发工程师 - 抖音
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668202433734936885/detail
 
 - 字节跳动｜Agent研发工程师 - 抖音
   地点：北京
@@ -7570,65 +7577,60 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667050005419428101/detail
 
-- 字节跳动｜Agent研发工程师 - 抖音
-  地点：深圳
+- 字节跳动｜多模态大模型算法工程师 - 中国交易与广告
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668202433734936885/detail
-
-- 字节跳动｜后端开发工程师 - 中国交易与广告
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669684051644565765/detail
-
-- 字节跳动｜Agent研发工程师 - 抖音
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667535843305130293/detail
+  https://jobs.bytedance.com/campus/position/7667504196396288261/detail
 
 - 字节跳动｜AI Infra工程师 - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667126080873433397/detail
 
-- 字节跳动｜下一代推荐大模型研究-TikTok算法
+- 字节跳动｜Agent研发工程师 - 抖音
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667535843305130293/detail
+
+- 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628208361079212341/detail
-
-- 字节跳动｜大模型算法工程师 - 中国交易与广告
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667124898678900997/detail
+  https://jobs.bytedance.com/campus/position/7669684051644565765/detail
 
 - 字节跳动｜后端开发工程师（增长） - 番茄小说/红果短剧/番茄畅听
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664522825797323061/detail
 
+- 字节跳动｜大模型算法工程师 - 中国交易与广告
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667124898678900997/detail
+
 - 字节跳动｜Agent研发工程师 - 抖音
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667534821039982853/detail
-
-- 字节跳动｜云网络AI研发工程师 - AI算力基础设施
-  地点：北京、深圳、杭州、上海、成都
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668521542770723077/detail
 
 - 字节跳动｜大前端开发工程师 - 番茄小说/红果短剧/番茄畅听
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667459984777300229/detail
 
+- 字节跳动｜多模态算法工程师 - 抖音
+  地点：杭州、深圳、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667897821824551221/detail
+
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669684366838171957/detail
 
-- 字节跳动｜多模态算法工程师 - 抖音
-  地点：杭州、深圳、上海
+- 字节跳动｜云网络AI研发工程师 - AI算力基础设施
+  地点：北京、深圳、杭州、上海、成都
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667897821824551221/detail
+  https://jobs.bytedance.com/campus/position/7668521542770723077/detail
 
 - 字节跳动｜直播多模态内容理解算法工程师 - 中国交易与广告
   地点：北京、深圳、上海
@@ -7690,15 +7692,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667090834170972421/detail
 
-- 字节跳动｜AgentOps平台研发工程师 - AI Platform
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667884524668160309/detail
-
 - 字节跳动｜数据AI工程师 - 国际支付
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668298552939366661/detail
+
+- 字节跳动｜AgentOps平台研发工程师 - AI Platform
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667884524668160309/detail
 
 - 字节跳动｜行业运营（互动娱乐） - 商业化
   地点：广州
@@ -7715,90 +7717,85 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7702308532503349509/detail
 
+- 字节跳动｜豆包大模型多模态算法工程师 - 火山方舟
+  地点：上海、北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668630538194471221/detail
+
 - 字节跳动｜人力运营 - 人力与管理部
   地点：北京、上海、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667395350599125253/detail
-
-- 字节跳动｜多模态创作大模型研究-智能创作
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628923846978013445/detail
-
-- 字节跳动｜大模型评测工程师（番茄小说） - 抖音研发中台
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664592727619193141/detail
 
 - 字节跳动｜算法工程师 - 集团信息系统
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670013868019009845/detail
 
+- 字节跳动｜多模态创作大模型研究-智能创作
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628923846978013445/detail
+
 - 字节跳动｜算法工程师 - 集团信息系统
   地点：深圳、上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669673992996325637/detail
-
-- 字节跳动｜豆包大模型多模态算法工程师 - 火山方舟
-  地点：上海、北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668630538194471221/detail
-
-- 字节跳动｜渗透测试工程师 - 安全与风控
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666021712866150709/detail
-
-- 字节跳动｜数据科学 - 抖音直播
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667943987598723333/detail
 
 - 字节跳动｜Agent开发工程师 - 集团信息系统
   地点：深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7678589759266081077/detail
 
+- 字节跳动｜安全研发工程师（AI Agent安全方向） - 安全与风控
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668323989529970997/detail
+
+- 字节跳动｜渗透测试工程师 - 安全与风控
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7666021712866150709/detail
+
 - 字节跳动｜应用安全工程师 - 安全与风控
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7674883475540183349/detail
 
-- 字节跳动｜算法大模型评测工程师（抖音算法质量） - 抖音研发中台
-  地点：北京、杭州、上海
+- 字节跳动｜数据科学 - 抖音直播
+  地点：北京、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664994821593483573/detail
+  https://jobs.bytedance.com/campus/position/7667943987598723333/detail
+
+- 字节跳动｜大模型评测工程师（番茄小说） - 抖音研发中台
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664592727619193141/detail
 
 - 字节跳动｜AI算法工程师 - 集团信息系统
   地点：深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668149282316585221/detail
 
-- 字节跳动｜算法大模型评测开发工程师（抖音搜索） - 抖音研发中台
-  地点：北京
+- 字节跳动｜算法大模型评测工程师（抖音算法质量） - 抖音研发中台
+  地点：北京、杭州、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664602088575584565/detail
-
-- 字节跳动｜安全研发工程师（AI Agent安全方向） - 安全与风控
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668323989529970997/detail
-
-- 字节跳动｜多模态创作大模型研究（北京/上海/深圳/杭州） - 智能创作
-  地点：北京、上海、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7626689373107816757/detail
+  https://jobs.bytedance.com/campus/position/7664994821593483573/detail
 
 - 字节跳动｜多模态创作大模型研究-智能创作
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628922858037348613/detail
 
-- 字节跳动｜多模态创作大模型研究-智能创作
-  地点：深圳
+- 字节跳动｜算法大模型评测开发工程师（抖音搜索） - 抖音研发中台
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628923741863938357/detail
+  https://jobs.bytedance.com/campus/position/7664602088575584565/detail
+
+- 字节跳动｜多模态创作大模型研究（北京/上海/深圳/杭州） - 智能创作
+  地点：北京、上海、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7626689373107816757/detail
 
 - 字节跳动｜行业运营（时尚婴宠） - 商业化
   地点：上海
@@ -7810,30 +7807,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670465951632312629/detail
 
+- 字节跳动｜多模态创作大模型研究-智能创作
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628923741863938357/detail
+
 - 字节跳动｜行业运营（生活居家） - 商业化
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669692100606806277/detail
 
-- 字节跳动｜AI测试开发工程师 - 抖音研发中台
-  地点：北京、深圳
+- 字节跳动｜AI测试开发工程师 - 数据平台
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664812227273066757/detail
+  https://jobs.bytedance.com/campus/position/7667550837887535413/detail
 
 - 字节跳动｜AI应用算法工程师 - 小荷健康
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665593225248819461/detail
 
+- 字节跳动｜AI测试开发工程师 - 抖音研发中台
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664812227273066757/detail
+
 - 字节跳动｜算法工程师 - 集团信息系统
   地点：深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669626764651694341/detail
-
-- 字节跳动｜AI测试开发工程师 - 数据平台
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667550837887535413/detail
 
 - 字节跳动｜AI数据运营（生态方向） - TikTok
   地点：上海
@@ -7885,15 +7887,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667456940328765701/detail
 
-- 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
-  地点：广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667458421112932613/detail
-
 - 字节跳动｜大语言模型预训练算法工程师-Seed大模型人才校招
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622492807075137797/detail
+
+- 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
+  地点：广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667458421112932613/detail
 
 - 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
   地点：广州
@@ -7906,14 +7908,14 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7667450141609822469/detail
 
 - 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667447397739596085/detail
-
-- 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
   地点：上海、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667453237851523381/detail
+
+- 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667447397739596085/detail
 
 - 字节跳动｜出海大客户/渠道销售 - Global Business Solutions
   地点：上海
@@ -7930,15 +7932,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667609460127516933/detail
 
-- 字节跳动｜大语言模型预训练算法工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622492139368597765/detail
-
 - 字节跳动｜内容策划 - 剪映CapCut
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667439350594046261/detail
+
+- 字节跳动｜大语言模型预训练算法工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622492139368597765/detail
 
 - 字节跳动｜创作者增长运营 - 体验与服务
   地点：北京
@@ -7950,6 +7952,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669678327510698293/detail
 
+- 字节跳动｜体验运营 - 体验与服务
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670129595102071045/detail
+
 - 字节跳动｜AI应用前端研发工程师（全栈方向） - 剪映CapCut
   地点：广州、深圳
   官网届别文字：2027届
@@ -7959,11 +7966,6 @@ Wind万得：没有新增
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670425498091309317/detail
-
-- 字节跳动｜体验运营 - 体验与服务
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670129595102071045/detail
 
 - 字节跳动｜客户端开发工程师（商业化方向） - 剪映CapCut
   地点：深圳
@@ -7980,6 +7982,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670571518624975109/detail
 
+- 字节跳动｜全栈开发工程师（客户端） - 豆包
+  地点：杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668313449182415109/detail
+
 - 字节跳动｜AI应用客户端开发工程师 - 剪映CapCut
   地点：北京、深圳、广州
   官网届别文字：2027届
@@ -7989,11 +7996,6 @@ Wind万得：没有新增
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667418960191277365/detail
-
-- 字节跳动｜全栈开发工程师（客户端） - 豆包
-  地点：杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668313449182415109/detail
 
 - 字节跳动｜Agent全链路研发工程师 - 剪映CapCut
   地点：深圳、广州
@@ -8080,15 +8082,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672332033945422085/detail
 
-- 字节跳动｜内容作者运营（FR） - 剪映CapCut
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667162136992778549/detail
-
 - 字节跳动｜前端开发工程师（用户增长） - TikTok研发
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667112329872804149/detail
+
+- 字节跳动｜内容作者运营（FR） - 剪映CapCut
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667162136992778549/detail
 
 - 字节跳动｜测试开发工程师 - 抖音研发中台
   地点：北京、深圳
@@ -8100,25 +8102,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668198999834364165/detail
 
+- 字节跳动｜后端开发工程师（PGC Creator Strategy） - TikTok研发
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669432548027828533/detail
+
 - 字节跳动｜数据分析师 - 抖音音乐
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7682681391491025205/detail
 
-- 字节跳动｜模型运维 - 内容质量与数据服务平台
-  地点：北京
+- 字节跳动｜算法工程师（大模型应用防火墙方向） - 安全与风控
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7687518683841349941/detail
+  https://jobs.bytedance.com/campus/position/7668319505182378293/detail
 
 - 字节跳动｜内容作者运营(DE) - 剪映CapCut
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667165600451725573/detail
 
-- 字节跳动｜算法工程师（大模型应用防火墙方向） - 安全与风控
-  地点：深圳
+- 字节跳动｜模型运维 - 内容质量与数据服务平台
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668319505182378293/detail
+  https://jobs.bytedance.com/campus/position/7687518683841349941/detail
 
 - 字节跳动｜内容作者运营（UK） - 剪映CapCut
   地点：上海
@@ -8145,25 +8152,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670917348161767733/detail
 
-- 字节跳动｜后端开发工程师（PGC Creator Strategy） - TikTok研发
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669432548027828533/detail
-
 - 字节跳动｜短剧内容安全策略 - 内容质量与数据服务平台
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7687455038013425973/detail
 
-- 字节跳动｜豆包大模型语音识别算法工程师 - Data语音
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7675294795275307269/detail
-
 - 字节跳动｜企业文化与雇主品牌 - 人力与管理部
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7675212390114035973/detail
+
+- 字节跳动｜豆包大模型语音识别算法工程师 - Data语音
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7675294795275307269/detail
 
 - 字节跳动｜商业分析-「星璨全球」培养计划 - 国际化广告创意与品牌
   地点：北京、上海
@@ -8235,10 +8237,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680790682730006789/detail
 
-- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音智能对话（北京/上海/杭州/深圳）
-  地点：上海
+- 字节跳动｜后端开发工程师 - 中国交易与广告
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628830121033632053/detail
+  https://jobs.bytedance.com/campus/position/7669684016106981685/detail
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：杭州、上海
@@ -8256,19 +8258,19 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7668263410931239173/detail
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
-  地点：北京
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669684016106981685/detail
+  https://jobs.bytedance.com/campus/position/7664983863487629573/detail
+
+- 字节跳动｜基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音智能对话（北京/上海/杭州/深圳）
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628830121033632053/detail
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7662727347221285173/detail
-
-- 字节跳动｜后端开发工程师 - 中国交易与广告
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664983863487629573/detail
 
 - 字节跳动｜客户端开发工程师 - 中国交易与广告
   地点：北京、上海
@@ -8320,55 +8322,60 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694509314568243461/detail
 
-- 字节跳动｜AI训练/推理框架研发工程师 - 火山方舟
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670544380457584949/detail
-
 - 字节跳动｜战略分析师 - 火山引擎
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667548798541531445/detail
-
-- 字节跳动｜行业运营管培生（POP） - TikTok Shop
-  地点：上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667542779799275829/detail
-
-- 字节跳动｜空间多模态感知工程师 - PICO
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7676329914299451653/detail
-
-- 字节跳动｜云网络SRE - AI算力基础设施
-  地点：北京、杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667096139565189381/detail
-
-- 字节跳动｜抖音生活记录垂类运营经理 - 抖音运营
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668288833993214261/detail
-
-- 字节跳动｜大模型算法研究员 - 火山方舟
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7673509678010108213/detail
-
-- 字节跳动｜居家生活行业经营分析 - 抖音电商
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7685652943334279429/detail
 
 - 字节跳动｜网络安全工程师 - 安全与风控
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668630538194078005/detail
 
+- 字节跳动｜AI训练/推理框架研发工程师 - 火山方舟
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670544380457584949/detail
+
+- 字节跳动｜云网络SRE - AI算力基础设施
+  地点：北京、杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667096139565189381/detail
+
+- 字节跳动｜行业运营管培生（POP） - TikTok Shop
+  地点：上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667542779799275829/detail
+
+- 字节跳动｜大模型算法研究员 - 火山方舟
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7673509678010108213/detail
+
+- 字节跳动｜空间多模态感知工程师 - PICO
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7676329914299451653/detail
+
+- 字节跳动｜抖音生活记录垂类运营经理 - 抖音运营
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668288833993214261/detail
+
+- 字节跳动｜居家生活行业经营分析 - 抖音电商
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7685652943334279429/detail
+
 - 字节跳动｜广告模型算法工程师 - Commercial AI
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667090366638295349/detail
+
+- 字节跳动｜企业服务BP - Corporate Services
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7685273998659553541/detail
 
 - 字节跳动｜数据分析师 - 番茄小说
   地点：北京
@@ -8379,11 +8386,6 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672333892670851381/detail
-
-- 字节跳动｜企业服务BP - Corporate Services
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7685273998659553541/detail
 
 - 字节跳动｜经营分析与策略 - 抖音电商
   地点：上海
@@ -8430,6 +8432,11 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22588
 
+- 字节跳动｜大模型算法工程师 - 国际化搜索广告
+  地点：北京、上海、杭州、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670013298822351157/detail
+
 - 字节跳动｜智能对话大模型算法工程师 - TikTok Shop
   地点：上海、杭州、北京
   官网届别文字：2027届
@@ -8440,30 +8447,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665609841746708789/detail
 
-- 字节跳动｜Agent开发工程师 - 抖音
-  地点：北京、成都、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7698666057804089653/detail
-
 - 字节跳动｜后端开发工程师 - 火山引擎
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667561645229279541/detail
 
-- 字节跳动｜大模型算法工程师 - 国际化搜索广告
-  地点：北京、上海、杭州、深圳
+- 字节跳动｜Agent开发工程师 - 抖音
+  地点：北京、成都、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670013298822351157/detail
+  https://jobs.bytedance.com/campus/position/7698666057804089653/detail
+
+- 字节跳动｜大模型算法工程师（广告投放） - Ads Core
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669711950025296133/detail
 
 - 字节跳动｜AI Agent研发工程师（客服方向） - 火山引擎
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668200707203303733/detail
 
-- 字节跳动｜广告场景下的生成式搜广推大模型技术研究-国际化搜索广告（北京/上海/杭州）
-  地点：北京
+- 字节跳动｜大客户销售（互动娱乐） - 商业化
+  地点：上海、广州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628902785446152501/detail
+  https://jobs.bytedance.com/campus/position/7669689412078405941/detail
 
 - 字节跳动｜大模型应用（商业化基模&Agent方向） - 内容质量与数据服务平台
   地点：北京
@@ -8475,15 +8482,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667523973140744453/detail
 
-- 字节跳动｜大模型算法工程师 - TikTok Shop
-  地点：北京、上海、杭州
+- 字节跳动｜广告场景下的生成式搜广推大模型技术研究-国际化搜索广告（北京/上海/杭州）
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667876761523489077/detail
-
-- 字节跳动｜大客户销售（互动娱乐） - 商业化
-  地点：上海、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669689412078405941/detail
+  https://jobs.bytedance.com/campus/position/7628902785446152501/detail
 
 - 字节跳动｜大模型推荐算法工程师 - TikTok算法
   地点：北京、上海
@@ -8500,75 +8502,65 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665612044858558773/detail
 
+- 字节跳动｜大模型算法工程师 - TikTok Shop
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667876761523489077/detail
+
 - 字节跳动｜大客户销售（生活居家） - 商业化
   地点：广州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669689543863748917/detail
-
-- 字节跳动｜全栈开发工程师 - 抖音AI
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665614487081601285/detail
-
-- 字节跳动｜AI Agent开发工程师（抖音服务架构） - 抖音研发
-  地点：北京、深圳、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664603957314226485/detail
-
-- 字节跳动｜多模态大模型算法工程师 - TikTok Shop
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667450368835422469/detail
-
-- 字节跳动｜多模态大模型后端开发工程师 - 智能创作
-  地点：北京、上海、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667108869978540293/detail
 
 - 字节跳动｜头客策划 - 抖音电商
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7685967194091768069/detail
 
+- 字节跳动｜多模态大模型算法工程师 - TikTok Shop
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667450368835422469/detail
+
 - 字节跳动｜大客户销售（时尚婴宠） - 商业化
   地点：北京、上海、广州、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669689677919504645/detail
 
-- 字节跳动｜多模态理解生成算法工程师 - 剪映CapCut
-  地点：深圳、北京、杭州
+- 字节跳动｜多模态大模型后端开发工程师 - 智能创作
+  地点：北京、上海、深圳、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668514037230995717/detail
+  https://jobs.bytedance.com/campus/position/7667108869978540293/detail
+
+- 字节跳动｜全栈开发工程师 - 抖音AI
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665614487081601285/detail
 
 - 字节跳动｜Agent开发工程师 - 豆包
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668616776146487605/detail
 
-- 字节跳动｜Agent开发工程师 - 小荷健康
-  地点：北京
+- 字节跳动｜AI Agent开发工程师（抖音服务架构） - 抖音研发
+  地点：北京、深圳、广州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665597568441534773/detail
+  https://jobs.bytedance.com/campus/position/7664603957314226485/detail
 
 - 字节跳动｜云与AI咨询销售（汽车行业线） - 火山引擎
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694957404425832757/detail
 
-- 字节跳动｜推理优化工程师 - 抖音直播
-  地点：北京、深圳
+- 字节跳动｜多模态理解生成算法工程师 - 剪映CapCut
+  地点：深圳、北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669705874123262213/detail
+  https://jobs.bytedance.com/campus/position/7668514037230995717/detail
 
 - 字节跳动｜广告后端开发工程师（广告投放&智能助手） - Ads Core
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669711843132279093/detail
-
-- 字节跳动｜Agentic AI算法工程师（电商） - 风控
-  地点：杭州、北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668638472237238581/detail
 
 - 字节跳动｜大客户销售（时尚婴宠） - 商业化
   地点：上海、广州、杭州
@@ -8580,55 +8572,65 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694611254162524469/detail
 
-- 字节跳动｜面向大模型与AI Agent的AI云原生基础设施关键技术研究-数据库（北京/深圳/杭州/成都）
+- 字节跳动｜Agent开发工程师 - 小荷健康
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628962366299736325/detail
-
-- 字节跳动｜大模型算法工程师（质量智能） - 开发者服务
-  地点：上海、杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667100326978537781/detail
+  https://jobs.bytedance.com/campus/position/7665597568441534773/detail
 
 - 字节跳动｜Agent开发工程师 - 豆包
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668617888100567301/detail
 
+- 字节跳动｜Agentic AI算法工程师（电商） - 风控
+  地点：杭州、北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668638472237238581/detail
+
+- 字节跳动｜大模型算法工程师（质量智能） - 开发者服务
+  地点：上海、杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667100326978537781/detail
+
 - 字节跳动｜测试开发工程师 - 中国交易与广告
   地点：上海、北京、成都、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667559991893936437/detail
-
-- 字节跳动｜AI全栈开发工程师 - 剪映CapCut
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672240507919862021/detail
 
 - 字节跳动｜Agent开发工程师 - 抖音AI
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665614511443560709/detail
 
+- 字节跳动｜AI全栈开发工程师 - 剪映CapCut
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672240507919862021/detail
+
 - 字节跳动｜AI应用客户端开发工程师 - 剪映CapCut
   地点：深圳、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7663113049242978613/detail
+
+- 字节跳动｜面向大模型与AI Agent的AI云原生基础设施关键技术研究-数据库（北京/深圳/杭州/成都）
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628962366299736325/detail
 
 - 字节跳动｜多模态算法工程师 - TikTok算法
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668321648775022853/detail
 
-- 字节跳动｜AI安全开发工程师（安全模型方向） - TikTok Shop
-  地点：上海、杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667917042193189173/detail
-
 - 字节跳动｜测试工程师（评测方向） - 集团信息系统
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669677571342354693/detail
+
+- 字节跳动｜AI安全开发工程师（安全模型方向） - TikTok Shop
+  地点：上海、杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667917042193189173/detail
 
 - 字节跳动｜测试工程师（评测方向） - 集团信息系统
   地点：北京
@@ -8640,6 +8642,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669779661734234373/detail
 
+- 字节跳动｜推理优化工程师 - 抖音直播
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669705874123262213/detail
+
 - 字节跳动｜AI数据运营（电商方向） - AI数据与安全
   地点：北京
   官网届别文字：2027届
@@ -8649,11 +8656,6 @@ Wind万得：没有新增
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7678266368060229941/detail
-
-- 字节跳动｜大模型算法工程师（广告投放） - Ads Core
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669711950025296133/detail
 
 - 字节跳动｜AI应用后端开发工程师 - 内容质量与数据服务平台
   地点：北京
@@ -8695,25 +8697,20 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21002
 
-- 小红书｜【2027校招】搜广推 × AI 应用工程师
-  地点：深圳市，北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22027
-
 - 小红书｜【2027校招】Agent平台全栈研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22059
 
+- 小红书｜【2027校招】搜广推 × AI 应用工程师
+  地点：深圳市，北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22027
+
 - 小红书｜【2027校招】AI Agent工程师-社区工程
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22018
-
-- 字节跳动｜机器学习/检测算法工程师 - 安全与风控
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7686769243731478837/detail
 
 - 字节跳动｜后端开发工程师 - 音视频技术
   地点：北京、上海
@@ -8725,50 +8722,45 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670912703905892661/detail
 
-- 字节跳动｜市场营销专员（AI提效方向） - 火山引擎
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669838697129314565/detail
-
 - 字节跳动｜稳定性Agent工程师 - 国际支付
   地点：深圳、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668312496296069381/detail
 
-- 字节跳动｜AI全栈开发工程师（供应链平台） - AI算力基础设施
-  地点：北京、杭州
+- 字节跳动｜市场营销专员（AI提效方向） - 火山引擎
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667825146228508933/detail
+  https://jobs.bytedance.com/campus/position/7669838697129314565/detail
 
 - 字节跳动｜AI全栈开发工程师（搜索） - TikTok研发
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665992533729757493/detail
 
+- 字节跳动｜AI全栈开发工程师（供应链平台） - AI算力基础设施
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667825146228508933/detail
+
 - 字节跳动｜存算研发工程师（算法方向/存算与AI） - 芯片研发
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694628710827067653/detail
-
-- 字节跳动｜AI全栈开发工程师（直播营收） - 抖音直播
-  地点：北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668641333339719941/detail
 
 - 字节跳动｜营收活动运营 - 抖音直播
   地点：深圳、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667938305854671157/detail
 
+- 字节跳动｜AI全栈开发工程师（直播营收） - 抖音直播
+  地点：北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668641333339719941/detail
+
 - 字节跳动｜AI Agent开发（数据采集方向） - 内容质量与数据服务平台
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670745533246884101/detail
-
-- 字节跳动｜多模态内容理解算法工程师 - 国际化搜索广告
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670013560051370245/detail
 
 - 字节跳动｜AI agent研发工程师（经营平台方向） - AI算力基础设施
   地点：北京、上海、杭州
@@ -8780,15 +8772,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668515843219163445/detail
 
-- 字节跳动｜国际直播后端开发工程师（Agent架构方向） - TikTok研发
-  地点：北京
+- 字节跳动｜多模态内容理解算法工程师 - 国际化搜索广告
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665695377073031429/detail
+  https://jobs.bytedance.com/campus/position/7670013560051370245/detail
 
 - 字节跳动｜大模型安全训练 - 内容质量与数据服务平台
   地点：成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670743700485949749/detail
+
+- 字节跳动｜国际直播后端开发工程师（Agent架构方向） - TikTok研发
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665695377073031429/detail
 
 - 京东｜算法工程师-数据挖掘
   地点：北京市-北京市
@@ -8805,15 +8802,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667029235818645813/detail
 
-- 字节跳动｜AI全栈工程师（广告业务） - 中国交易与广告
-  地点：深圳
+- 字节跳动｜AI全栈工程师 - 豆包
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664851280653257013/detail
+  https://jobs.bytedance.com/campus/position/7668605191879493893/detail
 
 - 字节跳动｜跨端开发工程师 - 番茄小说/红果短剧/番茄畅听
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666071603221956869/detail
+
+- 字节跳动｜物理安全策略 - Corporate Services
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668299838714906885/detail
 
 - 字节跳动｜C++客户端开发工程师 - 抖音研发
   地点：北京、上海、广州、深圳
@@ -8825,30 +8827,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668203989573404981/detail
 
+- 字节跳动｜AI全栈工程师（广告业务） - 中国交易与广告
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664851280653257013/detail
+
 - 字节跳动｜后端开发工程师 - 番茄小说/红果短剧/番茄畅听
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7674816888404625669/detail
-
-- 字节跳动｜AI全栈工程师（广告业务） - 中国交易与广告
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7663331444258179333/detail
-
-- 字节跳动｜AI全栈工程师（广告业务） - 中国交易与广告
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664850115949562165/detail
 
 - 字节跳动｜客户端开发工程师 - Cross Platform
   地点：深圳、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667967027332811013/detail
 
-- 字节跳动｜物理安全策略 - Corporate Services
-  地点：上海
+- 字节跳动｜AI全栈工程师（广告业务） - 中国交易与广告
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668299838714906885/detail
+  https://jobs.bytedance.com/campus/position/7664850115949562165/detail
 
 - 字节跳动｜后端研发工程师 - 番茄小说/红果短剧/番茄畅听
   地点：北京
@@ -8860,10 +8857,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664849986345568565/detail
 
-- 字节跳动｜AI全栈工程师 - 豆包
+- 字节跳动｜AI全栈工程师（广告业务） - 中国交易与广告
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668605191879493893/detail
+  https://jobs.bytedance.com/campus/position/7663331444258179333/detail
 
 - 字节跳动｜跨端开发工程师 - 番茄小说/红果短剧/番茄畅听
   地点：北京、上海
@@ -8921,29 +8918,29 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7669606964909263157/detail
 
 - 字节跳动｜财务AI后端开发工程师（CIS-Finance） - 集团信息系统
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668160777455978757/detail
-
-- 字节跳动｜财务AI后端开发工程师（CIS-Finance） - 集团信息系统
   地点：中国香港
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669612898079754549/detail
+
+- 字节跳动｜财务AI后端开发工程师（CIS-Finance） - 集团信息系统
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668160777455978757/detail
 
 - 京东｜平台运营
   地点：北京市-北京市、河北省-廊坊市-广阳区、四川省-成都市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2391
 
-- 小红书｜【2027校招】大模型 Infra 工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22061
-
 - 小红书｜【2027校招】用户理解算法工程师
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21270
+
+- 小红书｜【2027校招】大模型 Infra 工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22061
 
 - 小红书｜【2027校招】AI Agent Infra 工程师
   地点：北京市，上海市，杭州市
@@ -8960,45 +8957,45 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22041
 
-- 字节跳动｜ESOP后端开发工程师 - 集团信息系统
-  地点：北京
+- 字节跳动｜离线架构工程师 - Data-抖音/直播/电商/剪映
+  地点：北京、上海、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668240577201473845/detail
+  https://jobs.bytedance.com/campus/position/7665719291404126469/detail
 
 - 字节跳动｜财报核算后端开发工程师 - 集团信息系统
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668164424736213253/detail
 
-- 字节跳动｜离线架构工程师 - Data-抖音/直播/电商/剪映
-  地点：北京、上海、深圳
+- 字节跳动｜ESOP后端开发工程师 - 集团信息系统
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665719291404126469/detail
-
-- 字节跳动｜大模型算法工程师 - 抖音音乐
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665639498325346565/detail
+  https://jobs.bytedance.com/campus/position/7668240577201473845/detail
 
 - 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
   地点：成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7703468775636502789/detail
 
-- 字节跳动｜策略运营 - 抖音生活服务
-  地点：上海、北京
+- 字节跳动｜基础服务与架构后端开发工程师 - 集团信息系统
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668574691846031669/detail
+  https://jobs.bytedance.com/campus/position/7668162735155562757/detail
+
+- 字节跳动｜后端开发工程师（数据引擎） - 集团信息系统
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7671137275039713541/detail
 
 - 字节跳动｜大模型训练系统工程师 - 火山方舟
   地点：杭州、北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669705537843382581/detail
 
-- 字节跳动｜后端开发工程师（数据引擎） - 集团信息系统
-  地点：深圳
+- 字节跳动｜策略运营 - 抖音生活服务
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7671137275039713541/detail
+  https://jobs.bytedance.com/campus/position/7668574691846031669/detail
 
 - 字节跳动｜基于大系统大算力的超大规模推荐模型建模-Data AML（新加坡）Ultra-large-scale Recommendation Modeling Powered by Large-scale Systems and Computing Infrastructure-Data AML (Singapore)
   地点：新加坡
@@ -9010,55 +9007,50 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666755120239757621/detail
 
-- 字节跳动｜Agent开发工程师（AI-基础能力） - 集团信息系统
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7680196825143773493/detail
-
-- 字节跳动｜AI Agent开发工程师 - APM
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667877734431492357/detail
-
 - 字节跳动｜大客户销售（丽人） - 抖音生活服务
   地点：北京、上海、广州、成都、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666765797079157045/detail
 
-- 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
-  地点：太原
+- 字节跳动｜Agent开发工程师（AI-基础能力） - 集团信息系统
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7687459682923186485/detail
+  https://jobs.bytedance.com/campus/position/7680196825143773493/detail
 
 - 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
   地点：昆明
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7687461679454947637/detail
 
+- 字节跳动｜大客户销售（本地服务与亲子教培） - 抖音生活服务
+  地点：上海、广州、杭州、北京、成都、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7666763144032930053/detail
+
 - 字节跳动｜后端开发工程师（数据引擎） - 集团信息系统
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7671137131356489989/detail
 
-- 字节跳动｜大客户销售（本地服务与亲子教培） - 抖音生活服务
-  地点：上海、广州、杭州、北京、成都、深圳
+- 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
+  地点：太原
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666763144032930053/detail
+  https://jobs.bytedance.com/campus/position/7687459682923186485/detail
 
 - 字节跳动｜多模态大模型算法工程师 - TikTok内容安全算法
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669731730924177717/detail
 
-- 字节跳动｜数据治理后端开发工程师 - 集团信息系统
-  地点：深圳
+- 字节跳动｜AI Agent开发工程师 - APM
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668165357592512821/detail
+  https://jobs.bytedance.com/campus/position/7667877734431492357/detail
 
-- 字节跳动｜内容理解多模态大模型算法工程师 - TikTok Shop
-  地点：上海、北京
+- 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
+  地点：重庆
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667452413531490613/detail
+  https://jobs.bytedance.com/campus/position/7687458075242793269/detail
 
 - 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
   地点：郑州
@@ -9070,10 +9062,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7687460003879487797/detail
 
-- 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
-  地点：重庆
+- 字节跳动｜内容理解多模态大模型算法工程师 - TikTok Shop
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7687458075242793269/detail
+  https://jobs.bytedance.com/campus/position/7667452413531490613/detail
 
 - 字节跳动｜大客户销售（交通工具与汽车服务） - 抖音生活服务
   地点：北京、上海、广州、成都、杭州、深圳
@@ -9095,70 +9087,80 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665713568511314229/detail
 
-- 字节跳动｜大客户销售（游玩行业-酒店集团） - 抖音生活服务
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668226002470258949/detail
-
 - 字节跳动｜推荐大模型算法工程师 - TikTok Shop
   地点：上海、北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667817009817159941/detail
-
-- 字节跳动｜后端开发工程师 - 今日头条
-  地点：深圳、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664539253662337333/detail
 
 - 字节跳动｜大客户销售（日用商超） - 抖音生活服务
   地点：上海、广州、杭州、北京、成都、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666766713043749173/detail
 
-- 字节跳动｜Agent开发工程师 - 集团信息系统
-  地点：深圳、上海、广州
+- 字节跳动｜大客户销售（游玩行业-酒店集团） - 抖音生活服务
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668147008355830069/detail
+  https://jobs.bytedance.com/campus/position/7668226002470258949/detail
 
-- 字节跳动｜AIGC视觉生成算法工程师 - TikTok Shop
-  地点：上海、杭州、北京
+- 字节跳动｜数据治理后端开发工程师 - 集团信息系统
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667579581055043893/detail
+  https://jobs.bytedance.com/campus/position/7668165357592512821/detail
 
 - 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
   地点：青岛
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7698996408926931205/detail
 
+- 字节跳动｜后端开发工程师 - 今日头条
+  地点：深圳、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664539253662337333/detail
+
 - 字节跳动｜大客户销售（旅行社及交通） - 抖音生活服务
   地点：北京、广州、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668225738499721525/detail
+
+- 字节跳动｜AIGC视觉生成算法工程师 - TikTok Shop
+  地点：上海、杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667579581055043893/detail
 
 - 字节跳动｜用户运营（粉丝运营） - 红果短剧
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669678684211169589/detail
 
-- 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
-  地点：北京、广州、成都、杭州、深圳、武汉、青岛、南京、厦门、郑州、西安、太原、昆明、重庆
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668225795955788037/detail
-
 - 字节跳动｜大模型与智能体安全——面向Agentic AI的攻防评估与可信安全防御（机密计算）-安全与风控（北京/深圳）
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628630925874563333/detail
 
-- 字节跳动｜基础服务与架构后端开发工程师 - 集团信息系统
-  地点：深圳
+- 字节跳动｜大客户销售（游玩行业） - 抖音生活服务
+  地点：北京、广州、成都、杭州、深圳、武汉、青岛、南京、厦门、郑州、西安、太原、昆明、重庆
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668162735155562757/detail
+  https://jobs.bytedance.com/campus/position/7668225795955788037/detail
+
+- 字节跳动｜Agent开发工程师 - 集团信息系统
+  地点：深圳、上海、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668147008355830069/detail
 
 - 字节跳动｜Agent开发工程师 - 集团信息系统
   地点：深圳、上海、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680195912761166085/detail
+
+- 字节跳动｜质量效能开发工程师 - AI算力基础设施
+  地点：成都、西安
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668524368616540421/detail
+
+- 字节跳动｜后端开发工程师（结算方向） - 集团信息系统
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672341950179739957/detail
 
 - 字节跳动｜大模型训练与推理优化工程师 - TikTok内容安全平台
   地点：北京、上海
@@ -9175,165 +9177,165 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665703027932940549/detail
 
-- 字节跳动｜质量效能开发工程师 - AI算力基础设施
-  地点：成都、西安
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668524368616540421/detail
-
 - 字节跳动｜公有云机器学习系统调度研发工程师 - 火山方舟
   地点：杭州、北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669709917540141317/detail
-
-- 字节跳动｜C++客户端开发工程师 - Seed 桌面OS
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668332388620454149/detail
-
-- 字节跳动｜AI/大模型网络研发工程师 - AI算力基础设施
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668533140160383285/detail
 
 - 字节跳动｜后端开发工程师（CoreHR方向） - 集团信息系统
   地点：北京、广州、成都、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668233279846730037/detail
 
+- 字节跳动｜AI/大模型网络研发工程师 - AI算力基础设施
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668533140160383285/detail
+
+- 字节跳动｜C++客户端开发工程师 - Seed 桌面OS
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668332388620454149/detail
+
 - 字节跳动｜AI全栈开发工程师 - 抖音研发
   地点：北京、杭州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667193024355797301/detail
-
-- 字节跳动｜LLM Infra工程师 - Data-抖音/直播/电商/剪映
-  地点：北京、上海、杭州、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7678911812435544373/detail
-
-- 字节跳动｜大模型平台研发工程师（Agentic Infra） - TikTok内容安全平台
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669272212160547077/detail
 
 - 字节跳动｜AI全栈开发工程师 - 集团信息系统
   地点：成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7688989579291183365/detail
 
-- 字节跳动｜算法工程师 - 国际化内容与服务广告
-  地点：北京、上海
+- 字节跳动｜大模型平台研发工程师（Agentic Infra） - TikTok内容安全平台
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667088263216105781/detail
+  https://jobs.bytedance.com/campus/position/7669272212160547077/detail
 
 - 字节跳动｜AI全栈开发工程师 - 抖音研发
   地点：北京、杭州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670480058276137269/detail
 
-- 字节跳动｜假勤后端开发工程师 - 集团信息系统
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668241780035242293/detail
-
 - 字节跳动｜后端开发工程师（管报计量方向） - 集团信息系统
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7676082379610360069/detail
 
-- 字节跳动｜后端开发工程师（结算方向） - 集团信息系统
-  地点：上海
+- 字节跳动｜假勤后端开发工程师 - 集团信息系统
+  地点：北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672341950179739957/detail
+  https://jobs.bytedance.com/campus/position/7668241780035242293/detail
 
 - 字节跳动｜豆包音视频全双工大模型算法工程师 - Data语音
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7685645329135601925/detail
 
-- 字节跳动｜Agent开发工程师（搜索） - 抖音研发
-  地点：北京
+- 字节跳动｜LLM Infra工程师 - Data-抖音/直播/电商/剪映
+  地点：北京、上海、杭州、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665584080572418309/detail
-
-- 字节跳动｜AIGC图像生成算法工程师 - 火山方舟
-  地点：上海、北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668634222367312133/detail
-
-- 字节跳动｜后端开发工程师（绩效/调级调薪系统方向） - 集团信息系统
-  地点：上海、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668237769248475397/detail
+  https://jobs.bytedance.com/campus/position/7678911812435544373/detail
 
 - 字节跳动｜大模型测试开发工程师 - 火山方舟
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670539988644415797/detail
 
+- 字节跳动｜AIGC图像生成算法工程师 - 火山方舟
+  地点：上海、北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668634222367312133/detail
+
 - 字节跳动｜后端开发工程师（People） - 集团信息系统
   地点：成都、北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7680226382991001909/detail
+
+- 字节跳动｜后端开发工程师（绩效/调级调薪系统方向） - 集团信息系统
+  地点：上海、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668237769248475397/detail
+
+- 字节跳动｜AI全栈开发工程师 - 抖音研发
+  地点：北京、杭州、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7670479533021464837/detail
 
 - 字节跳动｜大模型推理优化工程师 - Data语音
   地点：北京、上海、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668630955884267781/detail
 
+- 字节跳动｜Agent开发工程师（搜索） - 抖音研发
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665584080572418309/detail
+
 - 字节跳动｜C&B后端开发工程师 - 集团信息系统
   地点：杭州、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668242430660397365/detail
-
-- 字节跳动｜Workflow后端开发工程师 - 集团信息系统
-  地点：北京、成都
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668235602924931333/detail
 
 - 字节跳动｜后端开发工程师（业财方向） - 集团信息系统
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668158242089961733/detail
 
-- 字节跳动｜豆包大模型语音合成算法工程师 - Data语音
-  地点：上海、杭州、北京、深圳
+- 字节跳动｜算法工程师 - 国际化内容与服务广告
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668626837901609221/detail
+  https://jobs.bytedance.com/campus/position/7667088263216105781/detail
 
 - 字节跳动｜后端开发工程师（招聘方向） - 集团信息系统
   地点：成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668233967464532229/detail
 
+- 字节跳动｜后端开发工程师（结算方向） - 集团信息系统
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668152385720486149/detail
+
 - 字节跳动｜前端开发工程师（AI方向） - Cross Platform
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667968435116919045/detail
 
-- 字节跳动｜后端开发工程师（结算方向） - 集团信息系统
-  地点：北京
+- 字节跳动｜Workflow后端开发工程师 - 集团信息系统
+  地点：北京、成都
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668152385720486149/detail
+  https://jobs.bytedance.com/campus/position/7668235602924931333/detail
+
+- 字节跳动｜豆包大模型语音合成算法工程师 - Data语音
+  地点：上海、杭州、北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668626837901609221/detail
 
 - 字节跳动｜前端开发工程师（网络） - AI算力基础设施
   地点：北京、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668526256773990709/detail
 
-- 字节跳动｜后端开发工程师（财务系统） - 集团信息系统
-  地点：杭州、上海、深圳、北京、成都、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669674046561437957/detail
-
 - 字节跳动｜后端开发工程师（管报计量方向） - 集团信息系统
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668164013766805813/detail
 
+- 字节跳动｜后端开发工程师（财务系统） - 集团信息系统
+  地点：杭州、上海、深圳、北京、成都、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669674046561437957/detail
+
 - 字节跳动｜Agent开发工程师 - 集团信息系统
   地点：深圳、上海、广州、杭州、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669676519560136965/detail
+
+- 字节跳动｜后端开发工程师 - 集团信息系统
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669625622654077237/detail
 
 - 字节跳动｜审批系统后端开发工程师 - 集团信息系统
   地点：北京
@@ -9344,16 +9346,6 @@ Wind万得：没有新增
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668162146326153477/detail
-
-- 字节跳动｜后端开发工程师 - 集团信息系统
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669625622654077237/detail
-
-- 字节跳动｜AI全栈开发工程师 - 抖音研发
-  地点：北京、杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670479533021464837/detail
 
 - 字节跳动｜法务系统后端开发工程师 - 集团信息系统
   地点：北京
@@ -9445,6 +9437,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665704613723736373/detail
 
+- 字节跳动｜大模型算法工程师 - 抖音音乐
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665639498325346565/detail
+
 - 京东｜技术方向-全栈开发
   地点：北京市-北京市
   官网毕业时间范围：2026年10月1日至2027年9月30日
@@ -9475,11 +9472,6 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22022
 
-- 字节跳动｜安全BP（中国商业化） - 安全与风控
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7663391224867604789/detail
-
 - 字节跳动｜机器学习MLOps工程师 - 国际化广告SRE
   地点：北京
   官网届别文字：2027届
@@ -9499,6 +9491,11 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7700910796603296005/detail
+
+- 字节跳动｜安全BP（中国商业化） - 安全与风控
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7663391224867604789/detail
 
 - 美团｜【LongCat大模型人才校招】基础模型通用 agent 算法研究员
   地点：北京市、上海市、深圳市
@@ -9540,25 +9537,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670143600987261237/detail
 
-- 字节跳动｜家纺日百行业运营 - 抖音电商
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7683889260061739269/detail
-
-- 字节跳动｜AI搜索Agent算法工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622891592143096117/detail
-
 - 字节跳动｜iOS工程师 - 国际支付
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670138457302632709/detail
 
 - 字节跳动｜AI搜索Agent算法工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622891592143096117/detail
+
+- 字节跳动｜AI搜索Agent算法工程师-Seed大模型人才校招
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622891560695793973/detail
+
+- 字节跳动｜家纺日百行业运营 - 抖音电商
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7683889260061739269/detail
 
 - 字节跳动｜国际直播前端开发工程师（消费方向） - TikTok研发
   地点：北京
@@ -9601,11 +9598,6 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7667923725444253957/detail
 
 - 字节跳动｜AI全栈开发工程师（电商/前后端） - 中国交易与广告
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665964918622308661/detail
-
-- 字节跳动｜AI全栈开发工程师（电商/前后端） - 中国交易与广告
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665967242873784629/detail
@@ -9615,15 +9607,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667922399490279685/detail
 
-- 字节跳动｜AI全栈开发工程师（电商/前后端） - 中国交易与广告
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7672248922642843909/detail
-
 - 字节跳动｜AI全栈开发工程师（生活服务/大前端） - 中国交易与广告 - 中国交易与广告
   地点：成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665971096596072709/detail
+
+- 字节跳动｜AI全栈开发工程师（电商/前后端） - 中国交易与广告
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665964918622308661/detail
+
+- 字节跳动｜AI全栈开发工程师（电商/前后端） - 中国交易与广告
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7672248922642843909/detail
 
 - 字节跳动｜全栈开发工程师（生活服务商业平台） - 中国交易与广告
   地点：杭州、北京、上海
@@ -9650,15 +9647,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7698262831493908741/detail
 
-- 字节跳动｜安全开发工程师 - 安全与风控
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667171107864692997/detail
-
 - 字节跳动｜AI搜索算法工程师-Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622888910424000773/detail
+
+- 字节跳动｜安全开发工程师 - 安全与风控
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667171107864692997/detail
 
 - 字节跳动｜Agent算法工程师 - AI for Science
   地点：北京、上海、深圳
@@ -9685,15 +9682,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667526996566280501/detail
 
-- 字节跳动｜内容安全研判运营（阿拉伯语方向） - TikTok
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7680930720002214149/detail
-
 - 字节跳动｜内容安全研判运营（英语方向） - TikTok
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670576812528421125/detail
+
+- 字节跳动｜内容安全研判运营（阿拉伯语方向） - TikTok
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7680930720002214149/detail
 
 - 字节跳动｜光学设计工程师 - PICO
   地点：北京、上海
@@ -9790,25 +9787,35 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2374
 
-- 小红书｜【2027校招】电商算法工程师-内容理解方向
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21003
-
 - 小红书｜【2027校招】Dots-大语言模型基础技术研究员
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=20734
 
-- 小红书｜【2027校招】Dots-大模型评测算法研究员
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22596
-
 - 小红书｜【2027校招】大模型推理加速研发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22056
+
+- 小红书｜【2027校招】网络传输算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22080
+
+- 小红书｜【2027校招】大模型算力平台研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22058
+
+- 小红书｜【2027校招】电商算法工程师-内容理解方向
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21003
+
+- 小红书｜【2027校招】Dots-大模型评测算法研究员
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22596
 
 - 小红书｜【2027校招】业务网关开发工程师
   地点：北京市，上海市，杭州市
@@ -9820,40 +9827,35 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22055
 
-- 小红书｜【2027校招】大模型算力平台研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22058
-
 - 小红书｜【2027校招】Dots-大模型预训练数据算法研究员
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22067
-
-- 小红书｜【2027校招】网络传输算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22080
 
 - 字节跳动｜IDC项目设计工程师 - AI算力基础设施
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668221443137784069/detail
 
+- 字节跳动｜虚拟机编译器开发工程师 - Cross Platform
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667966484363266309/detail
+
 - 字节跳动｜多模态大模型算法工程师 - TikTok内容安全算法
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669731506764253493/detail
 
+- 字节跳动｜后端开发工程师（服务端研发） - TikTok内容安全平台
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668293828973300021/detail
+
 - 字节跳动｜IDC技术工程师 - AI算力基础设施
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668221460524288309/detail
-
-- 字节跳动｜虚拟机编译器开发工程师 - Cross Platform
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667966484363266309/detail
 
 - 字节跳动｜服务器运维工程师 - AI算力基础设施
   地点：北京、上海、深圳
@@ -9865,11 +9867,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664541459256903941/detail
 
-- 字节跳动｜后端开发工程师（服务端研发） - TikTok内容安全平台
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668293828973300021/detail
-
 - 字节跳动｜搜索大模型训练/推理工程师 - 搜索架构
   地点：北京、杭州、上海
   官网届别文字：2027届
@@ -9879,11 +9876,6 @@ Wind万得：没有新增
   地点：北京、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7664886013789129013/detail
-
-- 字节跳动｜云运维工程师 - AI算力基础设施
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668261983750752565/detail
 
 - 字节跳动｜云网络开发工程师 - AI算力基础设施
   地点：北京、深圳、杭州、上海、成都
@@ -9895,15 +9887,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668529021493430533/detail
 
-- 字节跳动｜图像评测工程师 - 抖音
-  地点：深圳
+- 字节跳动｜云运维工程师 - AI算力基础设施
+  地点：北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665700558506395957/detail
+  https://jobs.bytedance.com/campus/position/7668261983750752565/detail
 
 - 字节跳动｜交换机软件开发工程师 - AI算力基础设施
   地点：北京、深圳、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668528921190091013/detail
+
+- 字节跳动｜图像评测工程师 - 抖音
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665700558506395957/detail
 
 - 字节跳动｜AI全栈开发工程师 - 豆包
   地点：上海、北京
@@ -9955,6 +9952,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628565829302765877/detail
 
+- 字节跳动｜安全攻防工程师 - 安全与风控
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7685950945309821237/detail
+
 - 字节跳动｜AI芯片的架构/物理实现和系统设计（3DIC-存算与AI） - 芯片研发
   地点：北京、上海、深圳
   官网届别文字：2027届
@@ -9968,67 +9970,62 @@ Wind万得：没有新增
 - 字节跳动｜安全攻防工程师 - 安全与风控
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7685950945309821237/detail
+  https://jobs.bytedance.com/campus/position/7666037078211332405/detail
 
 - 字节跳动｜具身智能研发工程师 - 火山引擎
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670123048703445253/detail
 
-- 字节跳动｜安全攻防工程师 - 安全与风控
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666037078211332405/detail
-
 - 字节跳动｜文化策略与机制 - 人力与管理部
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7700962728300693765/detail
-
-- 字节跳动｜AI芯片的架构/物理实现和系统设计（模拟设计-存算与AI） - 芯片研发
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7694574834252974389/detail
 
 - 字节跳动｜大模型算法研究员 - Data AML
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7673508946743019781/detail
 
-- 字节跳动｜组织效能 - 人力与管理部
-  地点：北京
+- 字节跳动｜AI芯片的架构/物理实现和系统设计（模拟设计-存算与AI） - 芯片研发
+  地点：北京、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7688665771778083077/detail
+  https://jobs.bytedance.com/campus/position/7694574834252974389/detail
 
 - 字节跳动｜经营分析 - 抖音电商
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669698605365709061/detail
 
+- 字节跳动｜组织效能 - 人力与管理部
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7688665771778083077/detail
+
 - 字节跳动｜房产规划PMO - Corporate Services
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7698218421880850741/detail
-
-- 字节跳动｜数据挖掘工程师 - 安全与风控
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666023046935939381/detail
 
 - 字节跳动｜AI芯片的架构/物理实现和系统设计（芯片物理）-芯片研发（上海）
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628565963559389445/detail
 
-- 字节跳动｜AI芯片的架构/物理实现和系统设计（芯片物理）-芯片研发（深圳）
-  地点：深圳
+- 字节跳动｜数据挖掘工程师 - 安全与风控
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7628566016050202933/detail
+  https://jobs.bytedance.com/campus/position/7666023046935939381/detail
 
 - 字节跳动｜内部风险运营工程师 - 安全与风控
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667169065312422197/detail
+
+- 字节跳动｜AI芯片的架构/物理实现和系统设计（芯片物理）-芯片研发（深圳）
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7628566016050202933/detail
 
 - 字节跳动｜AI芯片的架构/物理实现和系统设计（存算设计-存算与AI） - 芯片研发
   地点：北京、上海、杭州
@@ -10049,6 +10046,11 @@ Wind万得：没有新增
   地点：上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22042
+
+- 字节跳动｜大模型训练推理平台开发工程师 - 智能创作
+  地点：北京、上海、深圳、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667108085156874501/detail
 
 - 字节跳动｜AI Agent前端开发工程师 - 开发者服务
   地点：北京、上海、杭州、广州
@@ -10080,35 +10082,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670180490167109941/detail
 
-- 字节跳动｜安全研发工程师（AI for代码分析） - 安全与风控
-  地点：杭州、深圳
+- 字节跳动｜AI Agent服务端研发工程师 - 开发者服务
+  地点：北京、上海、杭州、深圳、广州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668301513408841989/detail
+  https://jobs.bytedance.com/campus/position/7667098583514024245/detail
 
 - 字节跳动｜大模型Agent工具体系的自动化演进框架：本体自动构建与迭代优化-集团信息系统（深圳）
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7628626095052687621/detail
 
-- 字节跳动｜AI Agent服务端研发工程师 - 开发者服务
-  地点：北京、上海、杭州、深圳、广州
+- 字节跳动｜漏洞运营工程师 - 安全与风控
+  地点：杭州、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667098583514024245/detail
+  https://jobs.bytedance.com/campus/position/7673073981364111669/detail
 
 - 字节跳动｜AI浏览器客户端工程师 - Cross Platform
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667961040244869429/detail
 
-- 字节跳动｜算法工程师（Hiring Agent方向） - 集团信息系统
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669684529498179845/detail
-
 - 字节跳动｜大模型安全工程师 - 火山方舟
   地点：杭州、北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672302920520927541/detail
+
+- 字节跳动｜算法工程师（Hiring Agent方向） - 集团信息系统
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669684529498179845/detail
 
 - 字节跳动｜基础技术AI原生后端开发工程师 - AI算力基础设施
   地点：上海
@@ -10125,55 +10127,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668238560618678533/detail
 
-- 字节跳动｜大模型训练推理平台开发工程师 - 智能创作
-  地点：北京、上海、深圳、广州
+- 字节跳动｜安全研发工程师（AI for代码分析） - 安全与风控
+  地点：杭州、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667108085156874501/detail
+  https://jobs.bytedance.com/campus/position/7668301513408841989/detail
+
+- 字节跳动｜后端开发工程师（国际化内容社区） - TikTok研发
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669426827601398069/detail
 
 - 字节跳动｜基础技术AI原生后端开发工程师 - AI算力基础设施
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665330129765894453/detail
 
-- 字节跳动｜前端全栈开发工程师 - Data AML
-  地点：北京、杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667942779210369285/detail
-
 - 字节跳动｜游戏与AI创新工程师 - 移动OS
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667860951622158597/detail
 
-- 字节跳动｜漏洞运营工程师 - 安全与风控
-  地点：杭州、北京
+- 字节跳动｜前端全栈开发工程师 - Data AML
+  地点：北京、杭州、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7673073981364111669/detail
+  https://jobs.bytedance.com/campus/position/7667942779210369285/detail
 
 - 字节跳动｜内容设计师 - TikTok设计
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667499307406608693/detail
 
-- 字节跳动｜大模型应用算法研究员 - 小荷健康
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665627604036552965/detail
-
-- 字节跳动｜豆包大模型Agent Harness算法工程师 - 火山方舟
-  地点：上海、北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668636414620141877/detail
-
 - 字节跳动｜语音与音频大模型算法工程师 - 抖音
   地点：上海、深圳、北京、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667575829174405429/detail
-
-- 字节跳动｜算法开发工程师（AI面试方向） - 集团信息系统
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669685493646657845/detail
 
 - 字节跳动｜豆包大模型Agent算法工程师（MaaS） - 火山方舟
   地点：北京、上海、杭州
@@ -10185,35 +10172,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668616756222495029/detail
 
+- 字节跳动｜多模态大模型算法工程师 - 抖音
+  地点：上海、深圳、北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667144079176157493/detail
+
+- 字节跳动｜算法开发工程师（AI面试方向） - 集团信息系统
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669685493646657845/detail
+
 - 字节跳动｜基础技术AI原生后端开发工程师 - AI算力基础设施
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665329177879103749/detail
-
-- 字节跳动｜AI Agent研发工程师 - 国际化广告质量效能
-  地点：北京、上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667124448756091189/detail
-
-- 字节跳动｜Agent基础系统研发工程师 - 火山方舟
-  地点：上海、北京、杭州、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669725958044518661/detail
-
-- 字节跳动｜后端开发工程师（国际化内容社区） - TikTok研发
-  地点：上海、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669426827601398069/detail
 
 - 字节跳动｜用户运营经理 - 抖音UGC
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667946642422843701/detail
 
-- 字节跳动｜Agent Harness工程师 - 国际化广告质量效能
+- 字节跳动｜AI Agent研发工程师 - 国际化广告质量效能
   地点：北京、上海、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7675314464131959045/detail
+  https://jobs.bytedance.com/campus/position/7667124448756091189/detail
+
+- 字节跳动｜豆包大模型Agent Harness算法工程师 - 火山方舟
+  地点：上海、北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668636414620141877/detail
+
+- 字节跳动｜Agent基础系统研发工程师 - 火山方舟
+  地点：上海、北京、杭州、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669725958044518661/detail
 
 - 字节跳动｜模型运维工程 - 内容质量与数据服务平台
   地点：北京
@@ -10225,15 +10217,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665614193257367813/detail
 
+- 字节跳动｜Agent Harness工程师 - 国际化广告质量效能
+  地点：北京、上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7675314464131959045/detail
+
+- 字节跳动｜大模型应用算法研究员 - 小荷健康
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665627604036552965/detail
+
 - 字节跳动｜AI应用开发工程师 - 火山方舟
   地点：杭州、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670820522356427013/detail
-
-- 字节跳动｜多模态大模型算法工程师 - 抖音
-  地点：上海、深圳、北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667144079176157493/detail
 
 - 字节跳动｜安全研发工程师（AI for客户端安全） - 安全与风控
   地点：北京、杭州
@@ -10246,14 +10243,14 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7665329324691753221/detail
 
 - 字节跳动｜多模态数据服务工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622232394582870277/detail
-
-- 字节跳动｜多模态数据服务工程师-Seed大模型人才校招
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622231841508903173/detail
+
+- 字节跳动｜多模态数据服务工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622232394582870277/detail
 
 - 字节跳动｜多模态数据开发工程师 - 智能创作
   地点：北京、上海、深圳
@@ -10270,6 +10267,11 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=20904
 
+- 小红书｜【2027校招】全栈工程师-媒体服务
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22015
+
 - 小红书｜【2027校招】大模型算法工程师-内容理解方向
   地点：北京市，上海市
   官网届别文字：2027校招
@@ -10279,11 +10281,6 @@ Wind万得：没有新增
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22060
-
-- 小红书｜【2027校招】全栈工程师-媒体服务
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22015
 
 - 小红书｜【2027校招】图像渲染算法工程师
   地点：北京市，上海市
@@ -10295,25 +10292,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665702118183176453/detail
 
-- 字节跳动｜AI全栈开发工程师（社区方向） - 抖音直播
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665687075878439221/detail
-
 - 字节跳动｜多模态内容理解算法工程师 - 抖音直播
   地点：北京、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669705525936523573/detail
 
-- 字节跳动｜AI全栈工程师（直播营收） - 抖音直播
-  地点：北京、深圳
+- 字节跳动｜AI全栈开发工程师（社区方向） - 抖音直播
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669702883252062517/detail
+  https://jobs.bytedance.com/campus/position/7665687075878439221/detail
 
 - 字节跳动｜3D生成基座算法工程师 - 抖音直播
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667868110661814581/detail
+
+- 字节跳动｜AI全栈工程师（直播营收） - 抖音直播
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669702883252062517/detail
 
 - 字节跳动｜Agent开发工程师（直播营收方向） - 抖音直播
   地点：北京、杭州
@@ -10350,10 +10347,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669429334591162677/detail
 
-- 字节跳动｜Android开发工程师 - 移动OS
-  地点：北京、上海、深圳
+- 字节跳动｜AI综合研发工程师（支付网络&资金方向） - 国际支付
+  地点：上海、杭州、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667784740231874821/detail
+  https://jobs.bytedance.com/campus/position/7664903455752849717/detail
 
 - 字节跳动｜品牌策划（校园招聘方向） - 人力与管理部
   地点：北京
@@ -10370,20 +10367,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7685209267955075333/detail
 
-- 字节跳动｜AI全栈开发工程师（客户端方向） - TikTok研发
-  地点：杭州、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667107369742829877/detail
-
 - 字节跳动｜AI计算效率研发工程师 - Data AML
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670541405150857477/detail
 
-- 字节跳动｜AI综合研发工程师（支付网络&资金方向） - 国际支付
-  地点：上海、杭州、深圳
+- 字节跳动｜AI全栈开发工程师（客户端方向） - TikTok研发
+  地点：杭州、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664903455752849717/detail
+  https://jobs.bytedance.com/campus/position/7667107369742829877/detail
+
+- 字节跳动｜Android开发工程师 - 移动OS
+  地点：北京、上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667784740231874821/detail
 
 - 字节跳动｜算法工程师 - 国际化搜索广告
   地点：北京、上海、深圳、杭州
@@ -10405,15 +10402,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667149898932930869/detail
 
-- 字节跳动｜国际化广告算法工程师（推荐大模型） - Commercial AI
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667090841039948085/detail
-
 - 字节跳动｜行业运营（美妆日化） - 商业化
   地点：上海、广州、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669692124774369589/detail
+
+- 字节跳动｜国际化广告算法工程师（推荐大模型） - Commercial AI
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667090841039948085/detail
 
 - 字节跳动｜安卓开发工程师 - 移动OS
   地点：北京、上海
@@ -10435,6 +10432,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622209461150763317/detail
 
+- 字节跳动｜3D生成算法研究员-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622230869990951221/detail
+
 - 字节跳动｜行业人才研究 - 人力与管理部
   地点：北京、上海
   官网届别文字：2027届
@@ -10444,11 +10446,6 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666350237758064901/detail
-
-- 字节跳动｜3D生成算法研究员-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622230869990951221/detail
 
 - 字节跳动｜企业文化（设计方向） - 人力与管理部
   地点：北京
@@ -10535,45 +10532,10 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668156946983307525/detail
 
-- 字节跳动｜AIGC模型应用算法工程师 - Seed大模型人才校招
-  地点：北京、上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622246709273807109/detail
-
 - 字节跳动｜大模型安全与对齐研究工程师 - Seed大模型人才校招
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7696058395585415477/detail
-
-- 字节跳动｜大语言模型Agent应用架构工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7621893271589472565/detail
-
-- 字节跳动｜云与AI咨询销售 - 火山引擎
-  地点：上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667154812605499653/detail
-
-- 字节跳动｜云与AI咨询销售 - 火山引擎
-  地点：北京、上海、成都、武汉、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667154545639246085/detail
-
-- 字节跳动｜后端开发工程师（客服平台方向） - TikTok Shop
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667146341714970885/detail
-
-- 字节跳动｜前端开发工程师 - 今日头条
-  地点：北京、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664538233856313605/detail
-
-- 字节跳动｜全栈开发工程师（财务系统方向） - 集团信息系统
-  地点：北京、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7678227017668086021/detail
 
 - 字节跳动｜大语言模型Agent算法工程师-Seed大模型人才校招
   地点：北京
@@ -10581,19 +10543,49 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7622493697326582069/detail
 
 - 字节跳动｜云与AI咨询销售 - 火山引擎
+  地点：上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667154812605499653/detail
+
+- 字节跳动｜前端开发工程师 - 今日头条
+  地点：北京、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664538233856313605/detail
+
+- 字节跳动｜后端开发工程师（客服平台方向） - TikTok Shop
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667146341714970885/detail
+
+- 字节跳动｜AIGC模型应用算法工程师 - Seed大模型人才校招
+  地点：北京、上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622246709273807109/detail
+
+- 字节跳动｜云与AI咨询销售 - 火山引擎
+  地点：北京、上海、成都、武汉、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667154545639246085/detail
+
+- 字节跳动｜全栈开发工程师（财务系统方向） - 集团信息系统
+  地点：北京、上海、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7678227017668086021/detail
+
+- 字节跳动｜云与AI咨询销售 - 火山引擎
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667544823326509365/detail
-
-- 字节跳动｜大语言模型Agent应用架构工程师-Seed大模型人才校招
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7621895637840431413/detail
 
 - 字节跳动｜AI全栈开发工程师 - 今日头条
   地点：深圳、广州、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672654026278816053/detail
+
+- 字节跳动｜后端开发工程师（抖音服务架构） - 抖音研发
+  地点：北京、深圳、广州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664600777190377733/detail
 
 - 字节跳动｜后端开发工程师（欧洲业务） - TikTok Shop
   地点：北京、珠海
@@ -10605,25 +10597,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670019292289976581/detail
 
-- 字节跳动｜AI Agent前端开发工程师 - 番茄小说/红果短剧/番茄畅听
+- 字节跳动｜AI大前端/跨端开发工程师 - 番茄小说/红果短剧/番茄畅听
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668208189405661445/detail
-
-- 字节跳动｜后端开发工程师（抖音服务架构） - 抖音研发
-  地点：北京、深圳、广州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664600777190377733/detail
+  https://jobs.bytedance.com/campus/position/7676101529533679877/detail
 
 - 字节跳动｜后端开发工程师（架构方向） - TikTok内容安全平台
   地点：上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669251195547879685/detail
-
-- 字节跳动｜AI大前端/跨端开发工程师 - 番茄小说/红果短剧/番茄畅听
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7676101529533679877/detail
 
 - 字节跳动｜后端开发工程师（资金业务） - TikTok Shop
   地点：北京、杭州、深圳
@@ -10655,20 +10637,30 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667965645803620613/detail
 
+- 字节跳动｜大语言模型Agent应用架构工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7621893271589472565/detail
+
 - 字节跳动｜跨平台研发工程师（开发工具方向） - Cross Platform
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667958790155438341/detail
 
-- 字节跳动｜AIGC模型应用算法工程师-Seed大模型人才校招
-  地点：杭州
+- 字节跳动｜大语言模型Agent应用架构工程师-Seed大模型人才校招
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622246696440924469/detail
+  https://jobs.bytedance.com/campus/position/7621895637840431413/detail
 
 - 字节跳动｜AIGC模型应用算法工程师-Seed大模型人才校招
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622246709557856517/detail
+
+- 字节跳动｜AIGC模型应用算法工程师-Seed大模型人才校招
+  地点：杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622246696440924469/detail
 
 - 字节跳动｜全栈开发工程师（财务系统方向） - 集团信息系统
   地点：上海
@@ -10684,6 +10676,11 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669261044679919877/detail
+
+- 字节跳动｜AI Agent前端开发工程师 - 番茄小说/红果短剧/番茄畅听
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668208189405661445/detail
 
 - 字节跳动｜后端开发工程师（用户体验方向） - TikTok内容安全平台
   地点：上海
@@ -10760,11 +10757,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7672633183888525621/detail
 
-- 字节跳动｜推荐大模型算法工程师 - 番茄
-  地点：上海、深圳、杭州、北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667518399503321349/detail
-
 - 字节跳动｜KA营销活动运营 - 抖音生活服务
   地点：上海、杭州、北京、成都
   官网届别文字：2027届
@@ -10774,6 +10766,11 @@ Wind万得：没有新增
   地点：深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668519606021212421/detail
+
+- 字节跳动｜推荐大模型算法工程师 - 番茄
+  地点：上海、深圳、杭州、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667518399503321349/detail
 
 - 字节跳动｜前端开发工程师 - 中国交易与广告
   地点：北京
@@ -10795,20 +10792,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668621511051380997/detail
 
-- 字节跳动｜国际直播后端开发工程师（基础架构方向） - TikTok研发
-  地点：深圳
+- 字节跳动｜大模型推理系统工程师 - 火山方舟
+  地点：杭州、北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665293565169895685/detail
+  https://jobs.bytedance.com/campus/position/7669717661270608181/detail
 
 - 字节跳动｜基于大系统大算力的超大规模推荐模型建模（算法）-Data AML（北京/杭州）
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7652305502831593733/detail
 
-- 字节跳动｜广告架构工程师 - Global Ads Infra
-  地点：北京、上海
+- 字节跳动｜国际直播后端开发工程师（基础架构方向） - TikTok研发
+  地点：深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668228900427090229/detail
+  https://jobs.bytedance.com/campus/position/7665293565169895685/detail
 
 - 字节跳动｜AI通信库研发工程师 - AI算力基础设施
   地点：北京、杭州
@@ -10820,20 +10817,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665565689764038965/detail
 
-- 字节跳动｜大模型推理系统工程师 - 火山方舟
-  地点：杭州、北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669717661270608181/detail
-
 - 字节跳动｜国际直播后端研发工程师（社交互动方向） - TikTok研发
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665287255104571701/detail
 
-- 字节跳动｜内部沟通 - Corporate Services
-  地点：北京
+- 字节跳动｜AIGC视频生成算法工程师 - 火山方舟
+  地点：上海、北京、深圳、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7696451098462783797/detail
+  https://jobs.bytedance.com/campus/position/7668633107578997045/detail
 
 - 字节跳动｜服务商渠道经理 - 抖音生活服务
   地点：北京
@@ -10845,45 +10837,40 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665565323860969781/detail
 
-- 字节跳动｜AIGC视频生成算法工程师 - 火山方舟
-  地点：上海、北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668633107578997045/detail
-
-- 字节跳动｜抖音泛资讯运营经理 - 抖音内容运营
+- 字节跳动｜内部沟通 - Corporate Services
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668288515014035717/detail
+  https://jobs.bytedance.com/campus/position/7696451098462783797/detail
 
 - 字节跳动｜芯片软件研发工程师（存算与AI） - 芯片研发
   地点：北京、上海、杭州、西安
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694628352997689653/detail
 
-- 字节跳动｜后端研发工程师 - 国际化广告数据平台
-  地点：杭州、上海、北京
+- 字节跳动｜后端研发工程师 - 国际化电商广告
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667122671344240949/detail
+  https://jobs.bytedance.com/campus/position/7667082648126490885/detail
 
 - 字节跳动｜服务商渠道经理 - 抖音生活服务
   地点：成都、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670755718954682677/detail
 
-- 字节跳动｜大模型训推性能优化工程师 - AI算力基础设施
-  地点：北京、杭州、西安
+- 字节跳动｜广告架构工程师 - Global Ads Infra
+  地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664443138685667637/detail
+  https://jobs.bytedance.com/campus/position/7668228900427090229/detail
+
+- 字节跳动｜后端研发工程师 - 国际化广告数据平台
+  地点：杭州、上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667122671344240949/detail
 
 - 字节跳动｜Agent安全后端开发工程师 - Seed 安全研发
   地点：上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668304903009257733/detail
-
-- 字节跳动｜国际直播后端研发工程师（游戏方向） - TikTok研发
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7666002065484138757/detail
 
 - 字节跳动｜撮合策略 - 抖音电商
   地点：北京、上海
@@ -10894,6 +10881,11 @@ Wind万得：没有新增
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666042547547851013/detail
+
+- 字节跳动｜大模型训推性能优化工程师 - AI算力基础设施
+  地点：北京、杭州、西安
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7664443138685667637/detail
 
 - 字节跳动｜国际AI增长销售 - 火山引擎
   地点：深圳
@@ -10915,15 +10907,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670756030309435701/detail
 
-- 字节跳动｜后端研发工程师 - 国际化电商广告
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667082648126490885/detail
-
 - 字节跳动｜国际直播后端开发工程师（主播方向） - TikTok研发
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7666013593671928069/detail
+
+- 字节跳动｜国际直播后端研发工程师（游戏方向） - TikTok研发
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7666002065484138757/detail
 
 - 字节跳动｜全栈平台研发工程师 - AI算力基础设施
   地点：北京、上海、杭州
@@ -11000,6 +10992,26 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21829
 
+- 小红书｜【2027校招】AI音频算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=21014
+
+- 小红书｜【2027校招】大模型MaaS架构研发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22057
+
+- 小红书｜【2027校招】云原生开发工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22048
+
+- 小红书｜【2027校招】流式视频理解算法工程师
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22010
+
 - 小红书｜【2027校招】媒体处理研发工程师-音频AI算法引擎
   地点：北京市，上海市
   官网届别文字：2027校招
@@ -11009,26 +11021,6 @@ Wind万得：没有新增
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22493
-
-- 小红书｜【2027校招】流式视频理解算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22010
-
-- 小红书｜【2027校招】云原生开发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22048
-
-- 小红书｜【2027校招】大模型MaaS架构研发工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22057
-
-- 小红书｜【2027校招】AI音频算法工程师
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=21014
 
 - 拼多多｜运营管培生（区域业务）
   地点：全国多省区
@@ -11130,16 +11122,6 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21001
 
-- 小红书｜【2027校招】规则运营
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22073
-
-- 字节跳动｜渠道销售（全域经营） - 商业化
-  地点：北京、上海、广州、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669690089723889973/detail
-
 - 字节跳动｜大客户销售（互动影视） - 商业化
   地点：北京、上海、广州
   官网届别文字：2027届
@@ -11150,40 +11132,45 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668243422670899509/detail
 
-- 字节跳动｜大模型算法工程师（游戏互动方向） - 抖音直播
-  地点：北京、深圳、上海
+- 字节跳动｜渠道销售（全域经营） - 商业化
+  地点：北京、上海、广州、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667868985950013749/detail
+  https://jobs.bytedance.com/campus/position/7669690089723889973/detail
 
-- 字节跳动｜广告架构工程师 - 中国交易与广告
-  地点：北京、上海、杭州、深圳
+- 字节跳动｜AIGC算法工程师（AI达人/数字人方向） - 国际化搜索广告
+  地点：上海、北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664523343609202949/detail
+  https://jobs.bytedance.com/campus/position/7670013404652980533/detail
 
 - 字节跳动｜大模型算法工程师 - 国际电商
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667568479647287557/detail
 
-- 字节跳动｜大客户销售（教育与平台服务） - 商业化
-  地点：北京、上海、深圳
+- 字节跳动｜广告架构工程师 - 中国交易与广告
+  地点：北京、上海、杭州、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669689472541968645/detail
+  https://jobs.bytedance.com/campus/position/7664523343609202949/detail
 
 - 字节跳动｜云与AI咨询销售 - 火山引擎
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668260451848702261/detail
 
-- 字节跳动｜创意设计师 - TikTok设计
-  地点：上海、北京
+- 字节跳动｜大客户销售（教育与平台服务） - 商业化
+  地点：北京、上海、深圳
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667493338343737653/detail
+  https://jobs.bytedance.com/campus/position/7669689472541968645/detail
 
 - 字节跳动｜渠道销售（创意经营） - 商业化
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669688971358357813/detail
+
+- 字节跳动｜创意设计师 - TikTok设计
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667493338343737653/detail
 
 - 字节跳动｜大客户销售（金融与互动应用） - 商业化
   地点：北京、上海、广州、杭州、深圳
@@ -11194,6 +11181,11 @@ Wind万得：没有新增
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7683442468374022405/detail
+
+- 字节跳动｜大语言模型Agent全栈开发工程师 - 中国交易与广告
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665572754423810357/detail
 
 - 字节跳动｜大客户销售（创意经营） - 商业化
   地点：北京、杭州、广州
@@ -11215,25 +11207,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665573911026747653/detail
 
-- 字节跳动｜AIGC算法工程师（AI达人/数字人方向） - 国际化搜索广告
-  地点：上海、北京
+- 字节跳动｜大模型算法工程师（游戏互动方向） - 抖音直播
+  地点：北京、深圳、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7670013404652980533/detail
+  https://jobs.bytedance.com/campus/position/7667868985950013749/detail
 
 - 字节跳动｜多模态生成算法工程师 - 抖音直播
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670387966980147509/detail
-
-- 字节跳动｜大语言模型Agent全栈开发工程师 - 中国交易与广告
-  地点：成都
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665574114471954693/detail
-
-- 字节跳动｜具身智能数据开发工程师 - Seed大模型人才校招
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7676017320209516853/detail
 
 - 字节跳动｜视频生成算法研究员-Seed大模型人才校招
   地点：上海
@@ -11245,15 +11227,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669661822607411461/detail
 
+- 字节跳动｜大语言模型Agent全栈开发工程师 - 中国交易与广告
+  地点：成都
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665574114471954693/detail
+
+- 字节跳动｜具身智能数据开发工程师 - Seed大模型人才校招
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7676017320209516853/detail
+
 - 字节跳动｜机器人硬件工程师-Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7623631342393936133/detail
-
-- 字节跳动｜大语言模型Agent全栈开发工程师 - 中国交易与广告
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665572754423810357/detail
 
 - 字节跳动｜视频生成算法研究员-Seed大模型人才校招
   地点：北京
@@ -11315,20 +11302,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668634491095009541/detail
 
-- 字节跳动｜直播SDK开发工程师 - TikTok研发
+- 字节跳动｜后端开发工程师（字节云） - AI算力基础设施
   地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664541921172719925/detail
+  https://jobs.bytedance.com/campus/position/7664901885707618613/detail
 
 - 字节跳动｜网络运维工程师 - AI算力基础设施
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668537102596049157/detail
 
-- 字节跳动｜后端开发工程师（字节云） - AI算力基础设施
+- 字节跳动｜直播SDK开发工程师 - TikTok研发
   地点：北京、上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7664901885707618613/detail
+  https://jobs.bytedance.com/campus/position/7664541921172719925/detail
+
+- 字节跳动｜云存储后端开发工程师 - AI算力基础设施
+  地点：北京、上海、杭州、深圳、成都
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7663061770804463877/detail
 
 - 字节跳动｜后端开发工程师 - 豆包
   地点：北京、上海
@@ -11340,25 +11332,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668240065783400709/detail
 
-- 字节跳动｜云存储后端开发工程师 - AI算力基础设施
-  地点：北京、上海、杭州、深圳、成都
+- 字节跳动｜系统软件工程师（AI芯片） - 芯片研发
+  地点：北京、深圳、上海、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7663061770804463877/detail
+  https://jobs.bytedance.com/campus/position/7669738762942957877/detail
 
 - 字节跳动｜网络开发工程师 - AI算力基础设施
   地点：北京、深圳、杭州、上海、成都
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667193024355092789/detail
-
-- 字节跳动｜高性能网络研发工程师 - AI算力基础设施
-  地点：北京、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668519595087759669/detail
-
-- 字节跳动｜系统软件工程师（AI芯片） - 芯片研发
-  地点：北京、深圳、上海、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669738762942957877/detail
 
 - 字节跳动｜AIGC效果创意设计师 - 抖音效果与创作
   地点：深圳
@@ -11374,6 +11356,11 @@ Wind万得：没有新增
   地点：北京、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670896417674201349/detail
+
+- 字节跳动｜高性能网络研发工程师 - AI算力基础设施
+  地点：北京、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668519595087759669/detail
 
 - 字节跳动｜稳定性优化工程师 - 豆包手机助手
   地点：北京
@@ -11410,11 +11397,6 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2373
 
-- 小红书｜【2027校招】大模型数据工程师
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22492
-
 - 小红书｜【2027校招】Agent Harness工程师  - 企业智能方向
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
@@ -11424,6 +11406,11 @@ Wind万得：没有新增
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22045
+
+- 小红书｜【2027校招】大模型数据工程师
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22492
 
 - 字节跳动｜芯片工程师（CPU芯片） - 芯片研发
   地点：北京、上海、杭州、深圳
@@ -11450,25 +11437,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669717024889800965/detail
 
+- 字节跳动｜豆包大模型Agent Harness算法工程师 - Data AML
+  地点：上海、北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668635915050912005/detail
+
 - 字节跳动｜大模型数据算法工程师 - 模型数据工程
   地点：上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669717683562678533/detail
-
-- 字节跳动｜数据分析 - 内容质量与数据服务平台
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7677527047489472821/detail
 
 - 字节跳动｜测试开发工程师（供应链平台） - AI算力基础设施
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667824575801805061/detail
 
-- 字节跳动｜豆包大模型Agent Harness算法工程师 - Data AML
-  地点：上海、北京、深圳、杭州
+- 字节跳动｜数据分析 - 内容质量与数据服务平台
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668635915050912005/detail
+  https://jobs.bytedance.com/campus/position/7677527047489472821/detail
 
 - 字节跳动｜数据分析师（国际化广告数据科学方向） - 国际化广告数据科学
   地点：北京、上海
@@ -11585,15 +11572,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667037562906970373/detail
 
-- 字节跳动｜大客户销售（商家发展运营） - 抖音生活服务
-  地点：成都、武汉
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668226183586826501/detail
-
 - 字节跳动｜大客户销售（餐饮） - 抖音生活服务
   地点：南京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7699366474255763765/detail
+
+- 字节跳动｜大客户销售（商家发展运营） - 抖音生活服务
+  地点：成都、武汉
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668226183586826501/detail
 
 - 字节跳动｜后端开发工程师（供应链金融方向） - 集团信息系统
   地点：上海
@@ -11660,30 +11647,35 @@ Wind万得：没有新增
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=e1d2925a-9895-4495-aad1-e7178c0a4c31
 
+- 字节跳动｜AIOps研发工程师 - 安全与风控
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668642052930750773/detail
+
 - 字节跳动｜渠道策略运营 - 商业化
   地点：北京、上海、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669691566811089157/detail
 
-- 字节跳动｜AIOps研发工程师 - 安全与风控
+- 字节跳动｜公会治理策略运营 - TikTok直播
   地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668642052930750773/detail
+  https://jobs.bytedance.com/campus/position/7706827412290537781/detail
 
 - 字节跳动｜芯片系统软件工程师（CPU芯片） - 芯片研发
   地点：北京、上海、杭州、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669686538323020037/detail
 
-- 小红书｜【2027 校招】Agent 研发工程师-跨境电商 & 交易平台
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027 校招
-  https://job.xiaohongshu.com/campus/position?positionId=22866
-
 - 小红书｜【2027校招】网络工程师-基础技术
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22047
+
+- 小红书｜【2027 校招】Agent 研发工程师-跨境电商 & 交易平台
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027 校招
+  https://job.xiaohongshu.com/campus/position?positionId=22866
 
 - 字节跳动｜大语言模型算法工程师（交互智能方向） - Seed大模型人才校招
   地点：北京、上海
@@ -11725,11 +11717,6 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22036
 
-- 字节跳动｜IT安全运维工程师 - 安全与风控
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667545632513952053/detail
-
 - 字节跳动｜通用基础模型研究员 - AI for Science
   地点：深圳、上海、北京
   官网届别文字：2027届
@@ -11739,6 +11726,11 @@ Wind万得：没有新增
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667537338419611957/detail
+
+- 字节跳动｜IT安全运维工程师 - 安全与风控
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667545632513952053/detail
 
 - 字节跳动｜大模型Agent Infra工程师 - 模型数据工程
   地点：北京、上海
@@ -11755,20 +11747,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669645528939153717/detail
 
-- 字节跳动｜游戏算法工程师（3D方向） - AIGC
-  地点：杭州
+- 字节跳动｜内容质量管理 - TikTok
+  地点：上海
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669716980568049973/detail
+  https://jobs.bytedance.com/campus/position/7675710536562280757/detail
 
 - 字节跳动｜广告后端开发工程师 - Pangle
   地点：北京、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667841819807746357/detail
 
-- 字节跳动｜内容质量管理 - TikTok
-  地点：上海
+- 字节跳动｜游戏算法工程师（3D方向） - AIGC
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7675710536562280757/detail
+  https://jobs.bytedance.com/campus/position/7669716980568049973/detail
 
 - 字节跳动｜AI分子动力学算法研究员 - AI for Science
   地点：深圳、北京、上海
@@ -11790,15 +11782,20 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22009
 
-- 小红书｜【2027校招】数据计算引擎研发工程师-搜广推
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22028
-
 - 小红书｜【2027校招】AI Infra网络通信工程师
   地点：北京市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22054
+
+- 小红书｜【2027校招】内容治理算法工程师-T&S
+  地点：北京市，上海市，杭州市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22071
+
+- 小红书｜【2027校招】数据计算引擎研发工程师-搜广推
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22028
 
 - 小红书｜【2027校招】安全合规治理与数据安全工程师
   地点：北京市，上海市，杭州市
@@ -11809,11 +11806,6 @@ Wind万得：没有新增
   地点：北京市，上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22068
-
-- 小红书｜【2027校招】内容治理算法工程师-T&S
-  地点：北京市，上海市，杭州市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22071
 
 - 小红书｜【2027校招】媒体网络研发工程师-CDN方向
   地点：北京市，深圳市
@@ -11855,15 +11847,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669719522833090821/detail
 
-- 字节跳动｜服务供应链运营 - AI算力基础设施
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7665720847373764869/detail
-
 - 字节跳动｜后端开发工程师 - 国际化广告SRE
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668230422774614325/detail
+
+- 字节跳动｜服务供应链运营 - AI算力基础设施
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7665720847373764869/detail
 
 - 字节跳动｜游戏编辑器Agent工程师 - 抖音直播
   地点：深圳、广州、北京
@@ -11895,15 +11887,15 @@ Wind万得：没有新增
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21293
 
-- 字节跳动｜Global Selling市场营销 - TikTok Shop
-  地点：上海、深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7704991556746889477/detail
-
 - 字节跳动｜AI音乐内容运营 - 番茄小说
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7704523006618749237/detail
+
+- 字节跳动｜国际电商市场营销 - TikTok Shop
+  地点：上海、深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7704991556746889477/detail
 
 - 字节跳动｜音频多模态推理工程师-Seed大模型人才校招
   地点：北京
@@ -11935,11 +11927,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622995836151007541/detail
 
-- 字节跳动｜音频多模态算法工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622995465886026037/detail
-
 - 字节跳动｜AI全栈工程师 - 豆包
   地点：上海、北京
   官网届别文字：2027届
@@ -11960,30 +11947,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622999457064388917/detail
 
+- 字节跳动｜音频多模态算法工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622995465886026037/detail
+
 - 字节跳动｜音频多模态训练工程师-Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7623000244334102837/detail
 
 - 字节跳动｜大语言模型算法工程师-Seed大模型人才校招
-  地点：上海
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622488785499277621/detail
+  https://jobs.bytedance.com/campus/position/7622485584813279541/detail
 
 - 字节跳动｜机器人模型评测工程师 - Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7678970858551216437/detail
 
+- 字节跳动｜大语言模型算法工程师-Seed大模型人才校招
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622488785499277621/detail
+
 - 字节跳动｜音频多模态算法工程师-Seed大模型人才校招
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622996922623297797/detail
-
-- 字节跳动｜大语言模型算法工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622485584813279541/detail
 
 - 字节跳动｜Agent算法工程师（供应链平台） - AI算力基础设施
   地点：杭州
@@ -12085,55 +12077,50 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667112464285124869/detail
 
+- 字节跳动｜客户端开发工程师（国际化内容社区） - TikTok研发
+  地点：上海、北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669416126304700725/detail
+
 - 字节跳动｜物质发现算法研究员 - AI for Science
   地点：深圳、上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665622272039815429/detail
-
-- 字节跳动｜AI算法工具链工程师（存算与AI） - 芯片研发
-  地点：北京、上海、杭州、西安
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7694629373414803717/detail
 
 - 字节跳动｜高通量系统工程师 - AI for Science
   地点：深圳、上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665622000274819381/detail
 
-- 字节跳动｜算法研究员（搜广推大模型） - Data AML
-  地点：北京、杭州
+- 字节跳动｜AI算法工具链工程师（存算与AI） - 芯片研发
+  地点：北京、上海、杭州、西安
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669752384818055477/detail
+  https://jobs.bytedance.com/campus/position/7694629373414803717/detail
 
 - 字节跳动｜机器学习计算材料学研究员 - AI for Science
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665621320987019573/detail
 
-- 字节跳动｜客户端开发工程师（国际化内容社区） - TikTok研发
-  地点：上海、北京
+- 字节跳动｜算法研究员（搜广推大模型） - Data AML
+  地点：北京、杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669416126304700725/detail
-
-- 字节跳动｜AIGC视频生成算法工程师 - Data AML
-  地点：上海、北京、深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668632630972762373/detail
+  https://jobs.bytedance.com/campus/position/7669752384818055477/detail
 
 - 字节跳动｜AIGC模型优化工程师-Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622246696441399605/detail
 
+- 字节跳动｜AIGC视频生成算法工程师 - Data AML
+  地点：上海、北京、深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668632630972762373/detail
+
 - 字节跳动｜AI工具链软件工程师（AI芯片） - 芯片研发
   地点：北京、深圳、上海、杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669736156486322485/detail
-
-- 字节跳动｜游戏算法工程师（强化学习方向） - AIGC
-  地点：杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669716946867374389/detail
 
 - 字节跳动｜AIGC模型优化工程师 - Seed大模型人才校招
   地点：深圳、北京
@@ -12280,11 +12267,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7685765534395042053/detail
 
-- 字节跳动｜教育培训行业运营 - 抖音电商
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7683433731350857989/detail
-
 - 字节跳动｜货架供给策略 - 抖音电商
   地点：上海、北京
   官网届别文字：2027届
@@ -12295,20 +12277,25 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668193298212735285/detail
 
+- 字节跳动｜教育培训行业运营 - 抖音电商
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7683433731350857989/detail
+
 - 字节跳动｜服饰KA行业运营（女装） - 抖音电商
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667952201712585013/detail
 
-- 字节跳动｜酒水电商运营 - 抖音电商
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668190282817063173/detail
-
 - 字节跳动｜图书教育电商运营 - 抖音电商
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670156313842075957/detail
+
+- 字节跳动｜酒水电商运营 - 抖音电商
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668190282817063173/detail
 
 - 字节跳动｜电脑影像行业运营 - 抖音电商
   地点：上海
@@ -12350,6 +12337,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665570008453597493/detail
 
+- 字节跳动｜拉美物流运营（巴西/墨西哥） - TikTok Shop
+  地点：深圳、杭州
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7678931657625471285/detail
+
 - 字节跳动｜安全研发工程师（AI For渗透测试） - 安全与风控
   地点：杭州、北京
   官网届别文字：2027届
@@ -12360,25 +12352,20 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665569665583319301/detail
 
-- 字节跳动｜拉美物流运营（巴西/墨西哥） - TikTok Shop
-  地点：深圳、杭州
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7678931657625471285/detail
-
 - 字节跳动｜芯片定制IP设计工程师（芯片平台） - 芯片研发
   地点：北京、深圳、上海、西安
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669793859006351621/detail
 
-- 小红书｜【2027校招】视频编解码算法工程师
-  地点：北京市，上海市，深圳市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22008
-
 - 小红书｜【2027校招】Java平台开发工程师
   地点：北京市，上海市，杭州市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=21986
+
+- 小红书｜【2027校招】视频编解码算法工程师
+  地点：北京市，上海市，深圳市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22008
 
 - 小红书｜【2027校招】图像增强算法工程师
   地点：北京市，上海市
@@ -12395,15 +12382,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622492807219792181/detail
 
-- 字节跳动｜视觉大模型推理优化工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622230079683053877/detail
-
 - 字节跳动｜大语言模型强化学习算法工程师 - Seed大模型人才校招
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622492141250070789/detail
+
+- 字节跳动｜视觉大模型推理优化工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622230079683053877/detail
 
 - 京东｜移动端开发工程师
   地点：北京市-北京市、上海市-上海市
@@ -12490,15 +12477,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667119903786420485/detail
 
-- 字节跳动｜后端开发工程师 - 火山引擎
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667877341592373509/detail
-
 - 字节跳动｜AI存储固件开发工程师（存算与AI） - 芯片研发
   地点：北京、上海、杭州、西安
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7694631292499593525/detail
+
+- 字节跳动｜后端开发工程师 - 火山引擎
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667877341592373509/detail
 
 - 字节跳动｜市场/销售类组织招聘 - 人力与管理部
   地点：北京、上海、深圳、杭州
@@ -12560,45 +12547,35 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7665710832529164549/detail
 
-- 字节跳动｜游戏图形渲染引擎开发工程师 - 深圳射击项目
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669721257026652421/detail
-
 - 字节跳动｜游戏引擎技术工程师 - 抖音研发
   地点：杭州、深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7667140684885838133/detail
+
+- 字节跳动｜游戏图形渲染引擎开发工程师 - 深圳射击项目
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669721257026652421/detail
 
 - 字节跳动｜大模型训练/推理优化工程师-Seed大模型人才校招
   地点：杭州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622926879775770933/detail
 
+- 字节跳动｜大模型训练/推理优化工程师-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622926628482959669/detail
+
 - 字节跳动｜游戏GamePlay开发工程师 - 深圳射击项目
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669721709076678917/detail
 
-- 字节跳动｜多模态理解生成强化学习研究员-Seed大模型人才校招
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622202605502581045/detail
-
 - 字节跳动｜游戏服务端开发工程师 - 绿洲工作室
   地点：北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669719967269898549/detail
-
-- 字节跳动｜多模态理解生成强化学习研究员-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622201889060440325/detail
-
-- 字节跳动｜大模型训练/推理优化工程师-Seed大模型人才校招
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7622926628482959669/detail
 
 - 字节跳动｜游戏客户端开发工程师 - Glow Studio
   地点：广州
@@ -12611,9 +12588,19 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7622923589034821893/detail
 
 - 字节跳动｜多模态理解生成强化学习研究员-Seed大模型人才校招
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622202605502581045/detail
+
+- 字节跳动｜多模态理解生成强化学习研究员-Seed大模型人才校招
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7622203531886446853/detail
+
+- 字节跳动｜多模态理解生成强化学习研究员-Seed大模型人才校招
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7622201889060440325/detail
 
 - 字节跳动｜后端研发工程师 - 广告度量信号与隐私保护
   地点：上海、北京
@@ -12751,9 +12738,9 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7667118756632168757/detail
 
 - 字节跳动｜AI异构计算优化工程师-Seed大模型人才校招
-  地点：北京
+  地点：杭州
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7626645362587601157/detail
+  https://jobs.bytedance.com/campus/position/7626645158526011653/detail
 
 - 字节跳动｜AI异构计算优化工程师-Seed大模型人才校招
   地点：上海
@@ -12776,9 +12763,9 @@ Wind万得：没有新增
   https://jobs.bytedance.com/campus/position/7669720638752606469/detail
 
 - 字节跳动｜AI异构计算优化工程师-Seed大模型人才校招
-  地点：杭州
+  地点：北京
   官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7626645158526011653/detail
+  https://jobs.bytedance.com/campus/position/7626645362587601157/detail
 
 - 字节跳动｜多模态生成算法优化工程师-Seed大模型人才校招
   地点：深圳
@@ -12840,15 +12827,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669793479326189877/detail
 
-- 字节跳动｜ESL建模工程师（AI芯片） - 芯片研发
-  地点：北京、上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668217388273879349/detail
-
 - 字节跳动｜芯片硅后研发工程师（芯片平台） - 芯片研发
   地点：深圳、上海、北京
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669793768979220789/detail
+
+- 字节跳动｜ESL建模工程师（AI芯片） - 芯片研发
+  地点：北京、上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668217388273879349/detail
 
 - 字节跳动｜芯片验证工程师（AI芯片） - 芯片研发
   地点：北京、上海、深圳、西安、杭州
@@ -12880,6 +12867,11 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4877797178
 
+- 小红书｜【2027校招】媒体网络研发工程师-流媒体方向
+  地点：北京市，上海市
+  官网届别文字：2027校招
+  https://job.xiaohongshu.com/campus/position?positionId=22013
+
 - 小红书｜【2027校招】REDébuilt HR校招生
   地点：北京市，上海市
   官网届别文字：2027校招
@@ -12894,11 +12886,6 @@ Wind万得：没有新增
   地点：上海市
   官网届别文字：2027校招
   https://job.xiaohongshu.com/campus/position?positionId=22152
-
-- 小红书｜【2027校招】媒体网络研发工程师-流媒体方向
-  地点：北京市，上海市
-  官网届别文字：2027校招
-  https://job.xiaohongshu.com/campus/position?positionId=22013
 
 - 字节跳动｜后端开发工程师 - 中国交易与广告
   地点：北京
@@ -13100,11 +13087,6 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669721412357540101/detail
 
-- 字节跳动｜游戏技术美术工程师 - ZERO36工作室
-  地点：上海
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7669718344014350645/detail
-
 - 字节跳动｜游戏客户端开发工程师 - ZERO36工作室
   地点：上海
   官网届别文字：2027届
@@ -13114,6 +13096,11 @@ Wind万得：没有新增
   地点：上海
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669755185292839221/detail
+
+- 字节跳动｜游戏技术美术工程师 - ZERO36工作室
+  地点：上海
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7669718344014350645/detail
 
 - 拼多多｜HR培训生（区域业务）
   地点：全国多省区
@@ -13240,11 +13227,6 @@ Wind万得：没有新增
   官网毕业时间范围：2026年10月1日-2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2456
 
-- 拼多多｜安全工程师
-  地点：上海
-  官网毕业年份字段：2027
-  https://careers.pddglobalhr.com/campus/grad/position/detail?id=951b0c48-3d9b-4e18-a438-10f618581f01
-
 - 字节跳动｜嵌入式开发工程师 - 移动OS
   地点：上海、深圳、北京
   官网届别文字：2027届
@@ -13365,15 +13347,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7670027034417744133/detail
 
-- 字节跳动｜招商运营经理 - 抖音品牌营销与星图达人
-  地点：北京
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7668288833993591093/detail
-
 - 字节跳动｜Agent全栈开发工程师（AI剪辑方向） - 剪映CapCut
   地点：深圳、广州
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7668335125199259909/detail
+
+- 字节跳动｜招商运营经理 - 抖音品牌营销与星图达人
+  地点：北京
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7668288833993591093/detail
 
 - 字节跳动｜AI应用客户端开发工程师（多轨剪辑） - 剪映CapCut
   地点：深圳、广州
@@ -13531,7 +13513,7 @@ Wind万得：没有新增
   https://campus.jd.com/#/jobs?reqId=2365
 
 - 京东｜招标采购
-  地点：北京市-北京市、广东省-广州市、四川省-成都市、江苏省-苏州市-昆山市、英国-伦敦、上海市-上海市、湖北省-武汉市、陕西省-西安市、广东省-深圳市
+  地点：北京市-北京市、广东省-广州市、四川省-成都市、浙江省-杭州市、江苏省-苏州市-昆山市、英国-伦敦、上海市-上海市、湖北省-武汉市、陕西省-西安市、广东省-深圳市
   官网毕业时间范围：2026年10月1日至2027年9月30日
   https://campus.jd.com/#/jobs?reqId=2424
 
@@ -13580,15 +13562,15 @@ Wind万得：没有新增
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669721412320676149/detail
 
-- 字节跳动｜主播运营经理 - 抖音直播
-  地点：深圳
-  官网届别文字：2027届
-  https://jobs.bytedance.com/campus/position/7667942789165877557/detail
-
 - 字节跳动｜游戏UE交互设计师 - 深圳射击项目
   地点：深圳
   官网届别文字：2027届
   https://jobs.bytedance.com/campus/position/7669721500454275381/detail
+
+- 字节跳动｜主播运营经理 - 抖音直播
+  地点：深圳
+  官网届别文字：2027届
+  https://jobs.bytedance.com/campus/position/7667942789165877557/detail
 
 - 京东｜医师（正骨方向）
   地点：北京市-北京市、上海市-上海市、天津市-天津市、山西省-太原市
@@ -13665,7 +13647,7 @@ Wind万得：没有新增
   官网毕业年份字段：2027
   https://careers.pddglobalhr.com/campus/grad/position/detail?id=5ee17eb4-3ed4-45d4-88d3-471c614af16f
 
-## 届别待确认（不推送） · 3424 条
+## 届别待确认（不推送） · 3444 条
 
 - ⭐ 产品重点｜美团｜AI产品增长产品经理
   地点：北京市
@@ -13682,10 +13664,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4230089276
 
+- ⭐ 产品重点｜小米｜AI Native产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670891616316311858/detail
+
 - ⭐ 产品重点｜小米｜数据产品经理-算法平台方向
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923048640809259/detail
+
+- ⭐ 产品重点｜小米｜AI产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885162934716714/detail
 
 - ⭐ 产品重点｜小米｜用户产品经理
   地点：官网未注明
@@ -13721,6 +13713,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4836315962
+
+- ⭐ 产品重点｜美团｜履约平台-运力策略产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4920441806
 
 - ⭐ 产品重点｜美团｜大众点评信息流产品负责人
   地点：上海市
@@ -13817,11 +13814,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4720405808
 
-- ⭐ 产品重点｜美团｜推荐策略产品经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4776750036
-
 - ⭐ 产品重点｜美团｜AI产品经理岗
   地点：北京市、上海市、成都市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -13877,15 +13869,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4691579054
 
-- ⭐ 产品重点｜美团｜外卖广告客户策略产品经理（品牌广告）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4717646557
-
 - ⭐ 产品重点｜美团｜Longcat-MaaS产品经理
   地点：北京市、上海市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4826272862
+
+- ⭐ 产品重点｜美团｜外卖广告客户策略产品经理（品牌广告）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4717646557
 
 - ⭐ 产品重点｜美团｜景点游玩搜索推荐产品专家
   地点：北京市
@@ -13972,6 +13964,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4558058387
 
+- ⭐ 产品重点｜美团｜差旅场景组-产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826532250
+
 - ⭐ 产品重点｜美团｜履约平台-运营系统AI产品
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -13981,11 +13978,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4748339916
-
-- ⭐ 产品重点｜美团｜差旅场景组-产品经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826532250
 
 - ⭐ 产品重点｜美团｜打卡产品经理-大众点评
   地点：上海市
@@ -14067,6 +14059,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4721150231
 
+- ⭐ 产品重点｜小米｜平台产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923615999314239/detail
+
 - ⭐ 产品重点｜美团｜闪购-导购Agent产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -14137,11 +14134,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4648813171
 
-- ⭐ 产品重点｜美团｜后台产品经理-自营业务方向
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4848398295
-
 - ⭐ 产品重点｜美团｜解决方案产品
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -14151,6 +14143,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3021622793
+
+- ⭐ 产品重点｜小米｜AI生态产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923173756733737/detail
 
 - 美团｜账号安全专家
   地点：北京市
@@ -14282,6 +14279,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3810833780
 
+- ⭐ 产品重点｜小米｜中国区-产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7677560509239036166/detail
+
+- ⭐ 产品重点｜小米｜安全策略产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924090912065811/detail
+
 - 美团｜业务分析目标管理专家
   地点：圣保罗
   官网信息未明确适用于2027届，待确认
@@ -14387,15 +14394,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4775406424
 
-- ⭐ 产品重点｜美团｜Keeta - 体验AI产品经理
-  地点：北京市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3841316741
-
 - ⭐ 产品重点｜Soul｜Agent 产品经理
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7697164161813334282/detail
+
+- ⭐ 产品重点｜美团｜商家营销产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4711799436
 
 - ⭐ 产品重点｜美团｜财务产品经理
   地点：北京市
@@ -14406,11 +14413,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4693802654
-
-- ⭐ 产品重点｜美团｜商家营销产品经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4711799436
 
 - ⭐ 产品重点｜美团｜美团闪购-牵牛花Claw-AI产品经理
   地点：北京市
@@ -14427,15 +14429,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4701960271
 
-- ⭐ 产品重点｜美团｜美团评价策略产品
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4794229723
-
 - 小红书｜【REDstar】点点 Agent研发工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21822
+
+- ⭐ 产品重点｜小米｜大模型产品运营
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7697203277666765099/detail
 
 - ⭐ 产品重点｜美团｜无人机-软件产品经理
   地点：深圳市、北京市
@@ -14647,6 +14649,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4406399745
 
+- ⭐ 产品重点｜小米｜商业化产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7671293010621778227/detail
+
 - ⭐ 产品重点｜美团｜零售SaaS高级产品经理（商品方向）
   地点：北京市、成都市
   官网信息未明确适用于2027届，待确认
@@ -14692,15 +14699,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2669092038
 
-- ⭐ 产品重点｜美团｜产品方案专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4217607380
-
 - ⭐ 产品重点｜美团｜用户增长策略产品经理
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4892060662
+
+- ⭐ 产品重点｜美团｜产品方案专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4217607380
 
 - ⭐ 产品重点｜美团｜乐生活行业产品-手艺人方向
   地点：上海市
@@ -14777,15 +14784,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697324893
 
-- ⭐ 产品重点｜美团｜WMS产品经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4836186384
-
 - ⭐ 产品重点｜美团｜财务科技-费控产品（境外财务职能产品）
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4661390088
+
+- ⭐ 产品重点｜美团｜WMS产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4836186384
 
 - ⭐ 产品重点｜美团｜商业化消费医疗行业产品运营
   地点：北京市、上海市
@@ -14811,6 +14818,11 @@ Wind万得：没有新增
   地点：圣保罗、香港特别行政区、利雅得、迪拜、科威特城
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4601826650
+
+- ⭐ 产品重点｜小米｜产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930675747670314/detail
 
 - ⭐ 产品重点｜小米｜产品经理（系统能力）
   地点：官网未注明
@@ -14852,15 +14864,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4494977612
 
-- ⭐ 产品重点｜美团｜LongCat - Agent评测产品经理
-  地点：北京市、上海市
+- 美团｜美团骑行-用户策略运营
+  地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3506281745
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4858108069
 
 - 美团｜无人车-体验运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4850756710
+
+- ⭐ 产品重点｜美团｜LongCat - Agent评测产品经理
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3506281745
 
 - 美团｜治理策略运营专家
   地点：北京市
@@ -14872,11 +14889,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4690717212
 
-- 美团｜美团骑行-用户策略运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4858108069
-
 - 美团｜海外信贷风控算法
   地点：上海市
   官网信息未明确适用于2027届，待确认
@@ -14886,11 +14898,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4831968361
-
-- 美团｜快乐猴商业分析师
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4434955902
 
 - 美团｜海外信贷风控
   地点：上海市
@@ -14967,15 +14974,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3908628189
 
-- ⭐ 产品重点｜小米｜产品经理-战略运营方向
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930765983009078/detail
-
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-俄语
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670885782849407275/detail
+
+- ⭐ 产品重点｜小米｜产品经理-战略运营方向
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930765983009078/detail
 
 - ⭐ 产品重点｜美团｜AI评测产品经理
   地点：上海市
@@ -15067,6 +15074,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3435878373
 
+- ⭐ 产品重点｜美团｜到店餐饮-AI产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4878055215
+
+- 美团｜大模型运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921138245
+
 - ⭐ 产品重点｜美团｜履约基建产品
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15086,6 +15103,11 @@ Wind万得：没有新增
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4855329262
+
+- ⭐ 产品重点｜美团｜后台产品经理-自营业务方向
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4848398295
 
 - ⭐ 产品重点｜美团｜AI产品增长专家
   地点：北京市
@@ -15152,6 +15174,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4736527116
 
+- ⭐ 产品重点｜小米｜相机软件产品经理-手机
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7671295351282321674/detail
+
 - 美团｜美团外卖-品牌商品策略分析
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15162,15 +15189,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4878026270
 
-- 美团｜经营及效率管理负责人（用户端）
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4260003255
-
 - 美团｜运力增长策略运营（裂变方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4773835637
+
+- 美团｜经营及效率管理负责人（用户端）
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4260003255
 
 - 美团｜快乐猴-推广策略运营
   地点：北京市
@@ -15182,15 +15209,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4520877897
 
+- 美团｜到餐特团研发组-全栈高级工程师-北京
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4914362029
+
 - ⭐ 产品重点｜美团｜骑行体验产品
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4680072742
-
-- 美团｜度假用户增长和运营组负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4857131296
 
 - ⭐ 产品重点｜美团｜到餐用户产品经理（选店决策AI应用方向）
   地点：北京市
@@ -15257,15 +15284,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4480738203
 
-- ⭐ 产品重点｜小米｜整车硬件开发系统产品经理-汽车
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918768210643210/detail
-
 - ⭐ 产品重点｜小米｜软件产品经理-OS规划方向
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670892445827811634/detail
+
+- ⭐ 产品重点｜Soul｜产品运营商业化
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://soulapp.jobs.feishu.cn/index/position/7688692264978254121/detail
 
 - ⭐ 产品重点｜美团｜商家解决方案产品经理-外卖
   地点：北京市
@@ -15292,11 +15319,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7669691659659692329/detail
 
-- ⭐ 产品重点｜美团｜M17-Longcat大模型产品运营
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4900731859
-
 - ⭐ 产品重点｜美团｜国际支付解决方案产品经理
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
@@ -15311,6 +15333,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4616097894
+
+- ⭐ 产品重点｜美团｜M17-Longcat大模型产品运营
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4900731859
 
 - ⭐ 产品重点｜美团｜AI医学-产品运营专家
   地点：北京市
@@ -15362,6 +15389,21 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4695142159
 
+- ⭐ 产品重点｜小米｜软件产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7671128410562922788/detail
+
+- 美团｜拼好饭品类运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4771452602
+
+- 美团｜合作商管理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4920192286
+
 - 美团｜大模型应用与训练算法工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15391,21 +15433,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4833756437
-
-- 美团｜跑腿骑手流程优化运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4730867543
-
-- 美团｜跑腿骑手流程优化运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4729974269
-
-- 美团｜拼好饭品类运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4596439344
 
 - 美团｜商业分析（经营规划与绩效分析）
   地点：北京市
@@ -15447,10 +15474,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4882631907
 
+- 美团｜跑腿骑手流程优化运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4730867543
+
+- 美团｜跑腿骑手流程优化运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4729974269
+
 - 美团｜拼好饭品类运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4771452602
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4596439344
 
 - 美团｜用户体验运营专家
   地点：北京市
@@ -15612,15 +15649,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884337122576650/detail
 
+- ⭐ 产品重点｜小米｜保险产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930676523321619/detail
+
 - ⭐ 产品重点｜度小满｜AI产品经理
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://talent.duxiaoman.com/index/position/7678294725943068971/detail
-
-- ⭐ 产品重点｜Soul｜产品运营
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://soulapp.jobs.feishu.cn/index/position/7688692264978254121/detail
 
 - 美团｜下沉市场-安全治理
   地点：北京市
@@ -15682,6 +15719,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20871
 
+- ⭐ 产品重点｜美团｜Keeta Ads预算策略产品
+  地点：北京市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4893957728
+
+- 美团｜无人车体验运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4901308970
+
 - 美团｜特团业务专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15692,11 +15739,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4842149416
 
-- ⭐ 产品重点｜美团｜Keeta Ads预算策略产品
-  地点：北京市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4893957728
-
 - ⭐ 产品重点｜美团｜Product Operations Specialist
   地点：利雅得
   官网信息未明确适用于2027届，待确认
@@ -15706,11 +15748,6 @@ Wind万得：没有新增
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4881547842
-
-- 美团｜骑行城市运营算法负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4748009304
 
 - 美团｜配送商家策略运营
   地点：圣保罗
@@ -15767,6 +15804,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7671290534305155374/detail
 
+- 美团｜Keeta-外卖资源策略规划负责人-阿联酋
+  地点：北京市、迪拜
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4630269054
+
+- 美团｜Keeta-外卖资源策略规划专家-阿联酋
+  地点：迪拜、北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4628730596
+
 - 美团｜渠道增长专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -15781,11 +15828,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4555950254
-
-- 美团｜Keeta-外卖资源策略规划专家-阿联酋
-  地点：迪拜、北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4628730596
 
 - 美团｜行业运营-线索类行业
   地点：上海市
@@ -15856,11 +15898,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4803501121
-
-- 美团｜Keeta-外卖资源策略规划负责人-阿联酋
-  地点：北京市、迪拜
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4630269054
 
 - 美团｜品类规划策略专家
   地点：利雅得
@@ -15937,25 +15974,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20883
 
-- ⭐ 产品重点｜美团｜供应链产品经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4818575186
-
 - 美团｜商业分析师（供给探索方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4419476464
 
-- ⭐ 产品重点｜美团｜零售SaaS高级产品经理（履约方向）
-  地点：北京市、成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4881270854
-
 - 美团｜巴西经营分析专家
   地点：圣保罗
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4532114881
+
+- ⭐ 产品重点｜美团｜供应链产品经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4818575186
+
+- ⭐ 产品重点｜美团｜零售SaaS高级产品经理（履约方向）
+  地点：北京市、成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4881270854
 
 - 美团｜销售数据分析及工具专家
   地点：北京市
@@ -16002,6 +16039,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923940260301075/detail
 
+- 美团｜外卖-商业分析师（补贴策略）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4856387800
+
 - 美团｜冲突治理专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16011,11 +16053,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4460644964
-
-- 美团｜外卖-商业分析师（补贴策略）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4856387800
 
 - 美团｜流量安全专家
   地点：北京市、上海市
@@ -16137,6 +16174,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4494984395
 
+- ⭐ 产品重点｜小米｜远程诊断产品运营-汽车
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670918797348178222/detail
+
 - 美团｜营销增长算法专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16201,6 +16243,11 @@ Wind万得：没有新增
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3381072437
+
+- ⭐ 产品重点｜小米｜信息安全产品经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7703754263457450282/detail
 
 - 美团｜外卖行业客户运营
   地点：北京市
@@ -16286,6 +16333,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4896896005
+
+- 美团｜商业分析师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4907185078
 
 - 美团｜履约平台-高级商业分析师（定价策略）
   地点：北京市
@@ -16462,6 +16514,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4533196877
 
+- ⭐ 产品重点｜美团｜广告推荐策略产品
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4899994149
+
 - 美团｜战略规划分析专家（交通业务）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -16497,15 +16554,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20889
 
-- 小红书｜【REDstar】AI Agent 工程师（大模型 AI Coding方向）-质效研发
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21828
-
 - ⭐ 产品重点｜小红书｜【REDstar】Product Engineer-产品工程师（AI与全栈方向）-增长产品
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21824
+
+- 小红书｜【REDstar】AI Agent 工程师（大模型 AI Coding方向）-质效研发
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21828
 
 - ⭐ 产品重点｜收钱吧｜餐饮SaaS高级产品经理(J11246)
   地点：官网未注明
@@ -16612,15 +16669,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4882664825
 
+- 美团｜沙特配送策略分析
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4639967033
+
 - 美团｜闪购商业分析-品牌BP方向
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4898644369
-
-- 美团｜合作商策略专家（招投标方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4625057056
 
 - 美团｜品类计划岗
   地点：北京市
@@ -16641,6 +16698,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4677856239
+
+- 美团｜合作商策略专家（招投标方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4625057056
 
 - 美团｜高级风控策略专家
   地点：上海市
@@ -16706,11 +16768,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4597359998
-
-- 美团｜沙特配送策略分析
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4639967033
 
 - 美团｜商家策略负责人
   地点：圣保罗
@@ -16852,6 +16909,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3602249206
 
+- ⭐ 产品重点｜小米｜硬件产品经理-家电
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930653174008127/detail
+
+- ⭐ 产品重点｜小米｜产品操盘专员-手机
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884567754901806/detail
+
 - ⭐ 产品重点｜小米｜产品操盘专员-local
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -16867,30 +16934,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7671129972946290986/detail
 
+- ⭐ 产品重点｜小米｜产品操盘专员-手机-法语
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884568408557851/detail
+
 - ⭐ 产品重点｜小米｜产品操盘专员-手机-阿拉伯语
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884383143250202/detail
-
-- ⭐ 产品重点｜小米｜产品操盘专员-AIoT-波兰语-外派
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884718744766770/detail
 
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-土耳其语-外派
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884938706585894/detail
 
-- ⭐ 产品重点｜小米｜产品操盘专员-手机-法语
+- ⭐ 产品重点｜小米｜产品操盘专员-AIoT-波兰语-外派
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884568408557851/detail
-
-- ⭐ 产品重点｜小米｜产品操盘专员-手机
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884567754901806/detail
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884718744766770/detail
 
 - 美团｜人才发展专家
   地点：北京市
@@ -16932,6 +16994,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4113672979
 
+- 小红书｜【REDstar】基础模型算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=23041
+
 - ⭐ 产品重点｜Soul｜商业化产品经理（创新探索）
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -16952,15 +17019,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4358533347
 
-- 美团｜中小城市-行业运营
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=2713196101
-
 - 美团｜精酿品类运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4873361222
+
+- 美团｜高级经营分析专家（全球目标与经营管理方向）
+  地点：北京市、香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4721163866
 
 - 美团｜软件研发专家
   地点：北京市
@@ -16977,10 +17044,10 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4740656641
 
-- 美团｜高级经营分析专家（全球目标与经营管理方向）
-  地点：北京市、香港特别行政区
+- 美团｜中小城市-行业运营
+  地点：上海市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4721163866
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=2713196101
 
 - ⭐ 产品重点｜美团｜闪购-IT赋能业务-产品运营
   地点：北京市
@@ -17147,6 +17214,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4535110575
 
+- ⭐ 产品重点｜小米｜产品运营经理
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670930784789989675/detail
+
+- 美团｜到餐-轻快餐品类运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4461288749
+
 - 美团｜内部控制-职能内控专家（AI工具驱动）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -17161,11 +17238,6 @@ Wind万得：没有新增
   地点：北京市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4091103193
-
-- 美团｜到餐-轻快餐品类运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4461288749
 
 - 美团｜IT 解决方案 / IT Solution
   地点：北京市
@@ -17191,11 +17263,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4757754732
-
-- 美团｜综合内控专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4757682689
 
 - 美团｜无人配送/机器人软件开发工程师
   地点：北京市、深圳市
@@ -17232,15 +17299,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4592577118
 
+- 美团｜Java研发工程师-算法策略工程方向
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4688770910
+
 - 美团｜闪购-鲜花品类商家运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4899187817
-
-- 美团｜Java研发工程师-算法工程方向
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4688770910
 
 - ⭐ 产品重点｜美团｜效果广告投放策略产品
   地点：北京市、上海市
@@ -17307,10 +17374,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20884
 
-- 美团｜仓库租赁商务专家
-  地点：北京市
+- 美团｜无人车-备件管理与运营专家
+  地点：深圳市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885641335
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4784174397
+
+- 美团｜Keeta-沙特闪购商业分析专家
+  地点：利雅得
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4736767760
 
 - 美团｜绩效策略
   地点：北京市
@@ -17392,15 +17464,10 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4688178782
 
-- 美团｜无人车-备件管理与运营专家
-  地点：深圳市
+- 美团｜仓库租赁商务专家
+  地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4784174397
-
-- 美团｜Keeta-沙特闪购商业分析专家
-  地点：利雅得
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4736767760
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885641335
 
 - 美团｜小象超市-品商运营管理专家
   地点：北京市
@@ -17491,6 +17558,11 @@ Wind万得：没有新增
   地点：深圳总部 北京 上海 广州 
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1283126456553382912
+
+- 美团｜供应链规划-销量预测
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4745414622
 
 - 美团｜骑行-数据开发工程师
   地点：北京市
@@ -17762,25 +17834,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3758011281
 
-- ⭐ 产品重点｜美团｜Keeta 产品体验视觉专家
-  地点：北京市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4915777346
-
 - 美团｜大模型评测专家
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4387197037
 
-- ⭐ 产品重点｜美团｜Keeta 产品体验视觉设计
-  地点：北京市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916835075
-
 - 美团｜销售运营-销售策略
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3880052114
+
+- ⭐ 产品重点｜美团｜Keeta 产品体验视觉专家
+  地点：北京市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4915777346
+
+- ⭐ 产品重点｜美团｜Keeta 产品体验视觉设计
+  地点：北京市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916835075
 
 - 美团｜功能安全工程师
   地点：深圳市
@@ -17837,25 +17909,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4656318067
 
-- 美团｜美团外卖-西式快餐品类运营
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4855161073
-
-- 美团｜路线规划研发工程师
+- 美团｜自营商家运营专家（快驴）
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4862385789
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885661027
 
-- 美团｜到餐会员运营负责人
-  地点：北京市
+- 美团｜Keeta卡塔尔经营分析负责人
+  地点：多哈
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531181147
-
-- 美团｜医药-商家治理岗
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4898899744
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4902979076
 
 - 美团｜Keeta-阿联酋商业分析专家
   地点：北京市、迪拜
@@ -17867,10 +17929,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4876302593
 
-- 美团｜Keeta卡塔尔经营分析负责人
-  地点：多哈
+- 美团｜美团外卖-西式快餐品类运营
+  地点：上海市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4902979076
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4855161073
+
+- 美团｜到餐会员运营负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531181147
+
+- 美团｜医药-商家治理岗
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4898899744
+
+- 美团｜路线规划研发工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4862385789
 
 - 美团｜小象超市-自营骑手成本规划
   地点：北京市
@@ -17887,20 +17964,10 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4826211123
 
-- 美团｜商家运营专家（快驴）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885661027
-
 - 美团｜履约-运力策略运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4874516763
-
-- 美团｜品类价格策略运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4528315173
 
 - 美团｜歪马送酒用工运营
   地点：北京市
@@ -18127,15 +18194,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20873
 
-- 小红书｜【REDstar】AI算法工程师（AI4SEC方向）
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21825
-
 - 小红书｜【REDstar】Agent/大模型算法工程师-rednote国际化
   地点：北京市，上海市，新加坡
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20876
+
+- 小红书｜【REDstar】AI算法工程师（AI4SEC方向）
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21825
 
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-外派
   地点：官网未注明
@@ -18227,15 +18294,30 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://soulapp.jobs.feishu.cn/index/position/7310051927549839643/detail
 
-- 美团｜Keeta技术-大模型算法工程师/专家
+- 美团｜高频供给策略运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3008237497
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4905855880
 
 - 美团｜规划分析-财务分析
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4895562854
+
+- 美团｜到餐-连锁策略运营leader
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4677621565
+
+- 美团｜Keeta技术-大模型算法工程师/专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3008237497
+
+- 美团｜点评业务内控BP（AI工具驱动）
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4910696611
 
 - 美团｜供给策略专家
   地点：多哈
@@ -18256,11 +18338,6 @@ Wind万得：没有新增
   地点：科威特城
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4745296557
-
-- 美团｜到餐-连锁策略运营leader
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4677621565
 
 - 美团｜物流规划-招标规划
   地点：北京市
@@ -18392,11 +18469,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4095156667
 
-- 美团｜高级数据科学家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4727882184
-
 - 美团｜供应链规划-库存健康优化
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18417,15 +18489,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4651732247
 
-- 美团｜AI型组织架构师
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3348332465
-
 - 美团｜到餐-营销策略运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4527503150
+
+- 美团｜AI型组织架构师
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3348332465
 
 - 美团｜Rider Operations & Strategy Expert
   地点：迪拜
@@ -18457,6 +18529,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4089006601
 
+- 美团｜用户运营专家
+  地点：利雅得
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4827907290
+
 - 美团｜供应商质量管理与选商标准
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18476,11 +18553,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4407900887
-
-- 美团｜效果营销渠道经理
-  地点：北京市、深圳市、圣保罗
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4444615293
 
 - 美团｜门店经营策略专家-西北
   地点：西安市
@@ -18511,6 +18583,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4663364114
+
+- 美团｜效果营销渠道经理
+  地点：北京市、深圳市、圣保罗
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4444615293
 
 - 美团｜供应链计划运营（S&OP方向）
   地点：北京市
@@ -18777,6 +18854,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4419842142
 
+- ⭐ 产品重点｜小米｜产品操盘专员-AIoT-俄语-外派
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884403308054830/detail
+
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-日语-外派
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -18796,11 +18878,6 @@ Wind万得：没有新增
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
   https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884499672762650/detail
-
-- ⭐ 产品重点｜小米｜产品操盘专员-AIoT-俄语-外派
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://xiaomi.jobs.f.mioffice.cn/campus/position/7670884403308054830/detail
 
 - ⭐ 产品重点｜小米｜产品操盘专员-AIoT-葡语-外派
   地点：官网未注明
@@ -18827,11 +18904,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4916760808
 
-- 美团｜供应链商家履约策略（偏业务/链路分析）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4669501173
-
 - 美团｜合作商管理组负责人
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18852,6 +18924,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4777744065
 
+- 美团｜到餐-策略分析及运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3493772607
+
 - 美团｜美团会员-权益经营规划专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -18861,6 +18938,11 @@ Wind万得：没有新增
   地点：武汉市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4669451731
+
+- 美团｜供应链商家履约策略（偏业务/链路分析）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4669501173
 
 - 美团｜小象超市-库位布局标准制定专家
   地点：北京市
@@ -18877,20 +18959,10 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4571229152
 
-- 美团｜到餐-策略分析及运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3493772607
-
 - 美团｜闪购-垂类连锁KA 商家运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4855243716
-
-- 美团｜门店和经营分析负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4541115192
 
 - 美团｜场地规划
   地点：北京市
@@ -19017,6 +19089,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://iflytek.zhiye.com/campus/detail?jobAdId=8dc3e06b-c960-4031-81c2-ee498604e611
 
+- 美团｜沙特SMB销售运营
+  地点：利雅得
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4721183269
+
 - 美团｜AI开发工程师
   地点：成都市
   官网信息未明确适用于2027届，待确认
@@ -19137,15 +19214,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20875
 
-- 小红书｜【REDstar】搜广推 × AI 应用工程师
-  地点：北京市，上海市，深圳市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21820
-
 - 小红书｜【REDstar】AI Agent工程师-社区工程
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21821
+
+- 小红书｜【REDstar】搜广推 × AI 应用工程师
+  地点：北京市，上海市，深圳市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21820
 
 - 美团｜闪购歪马财务BP（FPA方向）
   地点：北京市
@@ -19207,10 +19284,10 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1284317600528245760
 
-- 美团｜资金管理-资金运营
+- 美团｜美团外卖品牌营销岗
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4218398056
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4858116299
 
 - 美团｜闪购-便利店闪电仓-营销商业化专家
   地点：北京市
@@ -19222,20 +19299,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4806741197
 
-- 美团｜美团外卖-餐饮代购业务运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826804920
-
 - 美团｜商家营销策略运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4712572312
 
-- 美团｜美团外卖品牌营销岗
+- 美团｜资金管理-资金运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4858116299
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4218398056
+
+- 美团｜美团外卖-餐饮代购业务运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4826804920
 
 - 美团｜无人车业务部-自动驾驶决策规划算法工程师（Machine Learning Planner方向）
   地点：北京市
@@ -19366,11 +19443,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4800404367
-
-- 美团｜商品商业分析
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4701132270
 
 - 美团｜光电成像系统研发工程师
   地点：深圳市
@@ -19512,6 +19584,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4643283834
 
+- 美团｜到餐-业务合规专家（到餐业务）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3839144245
+
 - 美团｜下沉市场 - 场景增长运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19531,11 +19608,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4711913524
-
-- 美团｜到餐-业务合规专家（到餐业务）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3839144245
 
 - 美团｜信贷风控大模型算法专家
   地点：上海市
@@ -19622,25 +19694,40 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4158083555
 
-- 小红书｜【REDstar】大模型 Infra 工程师
-  地点：北京市，上海市，杭州市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20622
-
 - 小红书｜【REDstar】用户理解算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20868
+
+- 小红书｜【REDstar】大模型 Infra 工程师
+  地点：北京市，上海市，杭州市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=20622
 
 - 小红书｜【REDstar】AI Agent Infra 工程师
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21899
 
+- ⭐ 产品重点｜迅雷｜产品运营
+  地点：官网未注明
+  官网信息未明确适用于2027届，待确认
+  https://campus.xunlei.com/campus-recruitment/xunlei/26600/#/job/804dd24e-5b4a-4d73-9b6f-d7048c75aad5
+
+- 美团｜联运游戏供给运营经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4899915730
+
 - 美团｜闪购-垂类连锁KA 商品运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4855970494
+
+- 美团｜美团实验平台开发工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4865899838
 
 - 美团｜外卖-高级软件开发工程师
   地点：成都市
@@ -19661,11 +19748,6 @@ Wind万得：没有新增
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4881395550
-
-- 美团｜商业分析-物流方向
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4616952700
 
 - 美团｜点评技术-数仓 AI Builder
   地点：北京市、上海市
@@ -19732,6 +19814,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3545041592
 
+- 小红书｜【REDstar】图像增强算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21304
+
 - 小红书｜【REDstar】交互技术研究员/Agent 工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
@@ -19741,21 +19828,6 @@ Wind万得：没有新增
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21819
-
-- 小红书｜【REDstar】图像增强算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21304
-
-- ⭐ 产品重点｜迅雷｜产品运营
-  地点：官网未注明
-  官网信息未明确适用于2027届，待确认
-  https://campus.xunlei.com/campus-recruitment/xunlei/26600/#/job/804dd24e-5b4a-4d73-9b6f-d7048c75aad5
-
-- 美团｜组织发展专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4449373230
 
 - 美团｜外卖-华北大区策略运营
   地点：北京市
@@ -19777,6 +19849,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4677613395
 
+- 美团｜连锁资源管理与分析岗
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4611108262
+
+- 美团｜到餐-生态业务-供给策略运营岗位
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4187823022
+
 - 美团｜到餐-营销财务BP（策略分析方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19786,6 +19868,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4724789001
+
+- 美团｜组织发展专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4449373230
 
 - 美团｜高级策略运营专家
   地点：圣保罗
@@ -19806,16 +19893,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4837936732
-
-- 美团｜连锁资源管理与分析岗
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4611108262
-
-- 美团｜到餐-生态业务-供给策略运营岗位
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4187823022
 
 - 美团｜IDC 智能安全运营
   地点：北京市
@@ -19877,11 +19954,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4742142230
 
-- 美团｜景点玩乐服务流程运营
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4718245519
-
 - 美团｜战略与投资分析师
   地点：北京市、上海市、深圳市
   官网信息未明确适用于2027届，待确认
@@ -19896,11 +19968,6 @@ Wind万得：没有新增
   地点：南昌市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4677586223
-
-- 美团｜库存优化专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4663352268
 
 - 美团｜Agent工程师（商业智能）
   地点：北京市、上海市
@@ -19927,11 +19994,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4326779580
 
-- 美团｜进场零售-服饰鞋包行业商家及供给运营
-  地点：上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4062531477
-
 - 美团｜小象超市-华北大区设备运维主管
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -19941,6 +20003,16 @@ Wind万得：没有新增
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4258888433
+
+- 美团｜美团充电宝直营-城市经理（江浙沪base多地可选）
+  地点：上海市、盐城市、扬州市、苏州市、杭州市、宁波市、温州市、嘉兴市、金华市、合肥市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921456253
+
+- 美团｜充电宝-浙皖区域-BD
+  地点：杭州市、宁波市、温州市、金华市、嘉兴市、绍兴市、湖州市、合肥市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4891955305
 
 - 美团｜履约方案与交付经理
   地点：深圳市
@@ -20011,11 +20083,6 @@ Wind万得：没有新增
   地点：张家口市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3786121814
-
-- ⭐ 产品重点｜美团｜小象超市-水产品控管理
-  地点：合肥市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4807337849
 
 - 美团｜无人车业务部-自动驾驶决策规划算法工程师
   地点：深圳市
@@ -20132,10 +20199,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4686627348
 
-- 美团｜物流规划专家
+- 美团｜小象超市-配送效率运营专家（调度方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4742074516
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4904752475
+
+- 美团｜商品信息信息核验
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4898602501
 
 - 美团｜反洗钱合规和公共事务高级专家（AI增强）
   地点：北京市
@@ -20152,30 +20224,35 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4686264809
 
+- 美团｜到餐连锁品牌-广告策略运营专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4611117659
+
 - 美团｜供应链解决方案专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4566579169
 
-- 美团｜小象超市-配送效率运营专家（调度方向）
-  地点：北京市
+- 美团｜沙特-运营质控专家
+  地点：利雅得
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4904752475
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916108266
 
 - 美团｜安全算法工程师
   地点：北京市、上海市、杭州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4868810045
 
+- 美团｜物流规划专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4742074516
+
 - 美团｜用户运营-外部流量方向
   地点：迪拜
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4894079362
-
-- 美团｜到餐连锁品牌-广告策略运营专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4611117659
 
 - 美团｜无人车业务部-射频天线工程师（车载无人驾驶方向）
   地点：北京市、上海市、深圳市
@@ -20312,6 +20389,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=16670
 
+- 小红书｜【REDstar】网络传输算法工程师
+  地点：北京市，上海市
+  官网信息未明确适用于2027届，待确认
+  https://job.xiaohongshu.com/campus/position?positionId=21867
+
 - 小红书｜【REDstar】Dots-大模型评测算法研究员
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
@@ -20321,11 +20403,6 @@ Wind万得：没有新增
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20365
-
-- 小红书｜【REDstar】网络传输算法工程师
-  地点：北京市，上海市
-  官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21867
 
 - 美团｜机器人-Linux内核/平台软件工程专家
   地点：北京市、深圳市
@@ -20407,6 +20484,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4427806108
 
+- 美团｜酒店开发区域负责人
+  地点：金华市、合肥市、郑州市、广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=2866589010
+
+- 美团｜无人车业务部-业务类项目管理（PMO）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4785782715
+
 - 美团｜Keeta -国家总经理 Country GM
   地点：利雅得、圣保罗、其他
   官网信息未明确适用于2027届，待确认
@@ -20456,11 +20543,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4800252756
-
-- 美团｜商业分析师（供应链物流方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4626670064
 
 - 美团｜供应链解决方案负责人
   地点：北京市
@@ -20727,11 +20809,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4629397876
 
-- 美团｜LongCat - 基座agent评测分析算法研究员（生产力方向）
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4381199673
-
 - 美团｜风险投诉客服经理
   地点：武汉市
   官网信息未明确适用于2027届，待确认
@@ -20802,15 +20879,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=20872
 
-- 美团｜下沉市场-营销商业化运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4671177816
-
 - 美团｜自动驾驶云控客户端研发
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4799017530
+
+- 美团｜下沉市场-营销商业化运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4671177816
 
 - 美团｜无人车财务BP（资产管理方向）
   地点：北京市
@@ -20842,15 +20919,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4884812314
 
-- 美团｜领导力发展专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4521853024
-
 - 美团｜Logistics Operations Analysis & Enablement Expert  履约经营分析与赋能专家
   地点：利雅得
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4751700815
+
+- 美团｜领导力发展专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4521853024
 
 - 美团｜规划分析-管报规则和业财数据
   地点：北京市
@@ -20876,11 +20953,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4859345402
-
-- 美团｜小象超市-物流城市用工负责人（武汉）
-  地点：武汉市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4812984608
 
 - 美团｜Auto-research算法专家（搜广推ToC方向）
   地点：北京市、上海市
@@ -20932,15 +21004,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4535111708
 
-- 美团｜【LongCat大模型人才校招】多模态交互算法研究员
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531804534
-
 - 美团｜【LongCat大模型人才校招】具身智能算法研究员
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4531804398
+
+- 美团｜【LongCat大模型人才校招】多模态交互算法研究员
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4531804534
 
 - 美团｜【LongCat大模型人才校招】基座大模型工程架构专家
   地点：北京市、上海市
@@ -21042,30 +21114,30 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1274481034578500625
 
-- 美团｜绩效管理专家
-  地点：北京市
+- 美团｜AI安全技术专家
+  地点：北京市、成都市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4862384149
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4791236953
 
 - 美团｜骑手体验治理策略运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4621428660
 
-- 美团｜AI安全技术专家
-  地点：北京市、成都市
+- 美团｜到餐-连锁业务分析专家
+  地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4791236953
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4147412034
+
+- 美团｜绩效管理专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4862384149
 
 - 美团｜拼好饭-测品运营
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4653547985
-
-- 美团｜到餐-连锁业务分析专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4147412034
 
 - 美团｜小象超市-品控内控稽核岗
   地点：北京市
@@ -21127,11 +21199,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4882379216
 
-- 美团｜闪购-品牌-品类商务专家（酒水）
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4767337541
-
 - 美团｜闪购-品牌-品牌商务（酒水）
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
@@ -21146,6 +21213,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4826626023
+
+- 美团｜闪购-品牌-品类商务专家（酒水）
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4767337541
 
 - 美团｜后端开发工程师（履约运力方向）
   地点：北京市
@@ -21206,11 +21278,6 @@ Wind万得：没有新增
   地点：北京市、武汉市、长沙市、广州市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3977605577
-
-- 美团｜沙特SMB销售运营
-  地点：利雅得
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4721183269
 
 - 美团｜AI Agent工程师
   地点：北京市、上海市
@@ -21302,25 +21369,30 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=16673
 
-- 小红书｜【REDstar】流式视频理解算法工程师
+- 小红书｜【REDstar】AI音频算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=21818
+  https://job.xiaohongshu.com/campus/position?positionId=20869
 
 - 小红书｜【REDstar】云原生开发工程师
   地点：北京市，上海市，杭州市
   官网信息未明确适用于2027届，待确认
   https://job.xiaohongshu.com/campus/position?positionId=21826
 
-- 小红书｜【REDstar】AI音频算法工程师
+- 小红书｜【REDstar】流式视频理解算法工程师
   地点：北京市，上海市
   官网信息未明确适用于2027届，待确认
-  https://job.xiaohongshu.com/campus/position?positionId=20869
+  https://job.xiaohongshu.com/campus/position?positionId=21818
 
 - 美团｜充电宝-香港BD
   地点：香港特别行政区
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3040020228
+
+- 美团｜投资关系维护
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4887836203
 
 - 美团｜配送安全经理
   地点：天津市、石家庄市、唐山市、秦皇岛市、邯郸市、保定市、廊坊市、太原市、西安市
@@ -21336,11 +21408,6 @@ Wind万得：没有新增
   地点：苏州市、常州市、杭州市、宁波市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4883037882
-
-- 美团｜投资关系维护
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4887836203
 
 - 美团｜高端招聘专家
   地点：北京市
@@ -21567,11 +21634,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4645800885
 
-- 美团｜物流运营专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4211688350
-
 - 美团｜物流计划专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -21697,6 +21759,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4901244337
 
+- 美团｜车辆运营主管-兰州
+  地点：兰州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916461697
+
 - 美团｜美团骑行-车辆运营主管（重庆）
   地点：重庆市
   官网信息未明确适用于2027届，待确认
@@ -21706,6 +21773,11 @@ Wind万得：没有新增
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4848288899
+
+- 美团｜到餐-连锁策略运营专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3864066847
 
 - 美团｜督导经理
   地点：北京市、石家庄市、上海市、杭州市、武汉市、广州市、深圳市、成都市、西安市
@@ -21751,11 +21823,6 @@ Wind万得：没有新增
   地点：合肥市、南京市、杭州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4865184806
-
-- 美团｜到餐-连锁策略运营专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3864066847
 
 - 美团｜小象超市-线下店经营运营岗
   地点：北京市
@@ -22082,10 +22149,10 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4884269405
 
-- 美团｜小象超市-线下店店总-深圳
-  地点：深圳市
+- 美团｜美团买药大客户营销专家
+  地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4731501333
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916920048
 
 - 美团｜闪购-歪马-稽核运营岗
   地点：北京市
@@ -22126,6 +22193,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4737366989
+
+- 美团｜小象超市-线下店店总-深圳
+  地点：深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4731501333
 
 - 美团｜运营督导
   地点：广州市
@@ -22168,7 +22240,7 @@ Wind万得：没有新增
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4049659479
 
 - 美团｜小象超市-线下店门店店总
-  地点：北京市、太原市、沈阳市、苏州市、深圳市、成都市
+  地点：北京市、太原市、沈阳市、大连市、苏州市、济南市、青岛市、深圳市、成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4730928262
 
@@ -22262,11 +22334,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4637215010
 
-- 美团｜小象超市-配送城市运营（南京）
-  地点：南京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4796145870
-
 - 美团｜美团游戏电竞营销
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -22352,6 +22419,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4530698258
 
+- 美团｜无人车业务部-车身结构SQE
+  地点：上海市、北京市、深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4881630886
+
 - 美团｜具身智能可靠性工程师
   地点：深圳市
   官网信息未明确适用于2027届，待确认
@@ -22362,11 +22434,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4613644495
 
-- 美团｜整车计划管理专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4836583547
-
 - 美团｜美团无人车城市群运营负责人
   地点：济南市、青岛市、福州市、厦门市
   官网信息未明确适用于2027届，待确认
@@ -22376,6 +22443,11 @@ Wind万得：没有新增
   地点：佛山市、东莞市、中山市、珠海市、济南市、临沂市、潍坊市、青岛市、烟台市、淄博市、南通市、苏州市、南京市、温州市、杭州市、宁波市、深圳市、广州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4605195784
+
+- 美团｜整车计划管理专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4836583547
 
 - 美团｜小象超市-商品陈列
   地点：北京市
@@ -22872,6 +22944,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1296891644968402945
 
+- 美团｜无人车业务部-底盘SQE工程师
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4880324473
+
 - 美团｜内容流量运营专家
   地点：香港特别行政区
   官网信息未明确适用于2027届，待确认
@@ -22907,15 +22984,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4832339225
 
+- 美团｜到餐-销售策略运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4807909522
+
 - 美团｜小象超市地面推广BDM
   地点：深圳市、广州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4650542356
-
-- 美团｜城市运营主管
-  地点：拉萨市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4550398756
 
 - 美团｜闪购-歪马-督导经理（山东/辽宁/吉林/黑龙江）
   地点：济南市、沈阳市、长春市、哈尔滨市
@@ -22932,15 +23009,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4775045128
 
-- 美团｜Keemart招聘
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4572733127
-
 - 美团｜自动驾驶云控平台 服务端技术专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4797791967
+
+- 美团｜城市运营主管
+  地点：拉萨市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4550398756
+
+- 美团｜Keemart招聘
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4572733127
 
 - 美团｜资产区域经理
   地点：广州市、南宁市
@@ -22971,11 +23053,6 @@ Wind万得：没有新增
   地点：郑州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4902553173
-
-- 美团｜到餐-销售策略运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4807909522
 
 - 美团｜全球签证专家- Global Visa Manager
   地点：北京市、上海市
@@ -23176,11 +23253,6 @@ Wind万得：没有新增
   地点：青岛市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4712480835
-
-- 美团｜PC加工主管
-  地点：天津市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4695203399
 
 - 美团｜AI大模型后台开发
   地点：北京市
@@ -23527,15 +23599,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4701195047
 
+- 美团｜小象超市-休食PB专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4454458787
+
 - 美团｜无人车劳动力规划
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4585838595
 
-- 美团｜小象超市-休食PB专家
+- 美团｜到餐-AI赋能运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4454458787
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4346627453
 
 - 美团｜下沉市场-广告渠道销售运营
   地点：北京市
@@ -23561,11 +23638,6 @@ Wind万得：没有新增
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4807557942
-
-- 美团｜到餐-AI赋能运营专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4346627453
 
 - 美团｜行业运营专家
   地点：北京市、上海市
@@ -23922,11 +23994,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4566481225
 
-- 美团｜合作商管理专家（成本管理方向）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4796421000
-
 - 美团｜盈亏改善与资源管理
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -23947,6 +24014,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4873092841
 
+- 美团｜合作商管理专家（成本管理方向）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4796421000
+
 - 美团｜美团骑行-策略运营TL
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -23957,11 +24029,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4841331233
 
-- 美团｜市调运营
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4473801400
-
 - 美团｜食品安全专家（零售方向）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -23971,11 +24038,6 @@ Wind万得：没有新增
   地点：广州市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4754259832
-
-- 美团｜小象超市-服务站分区经理-西安
-  地点：西安市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4500705180
 
 - 美团｜物流运营岗
   地点：北京市
@@ -24257,25 +24319,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3043132559
 
+- 美团｜产业研究与投资-AI方向
+  地点：北京市、上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4718542796
+
 - 美团｜信贷政府事务专家-消保方向（AI工具驱动）
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4592399602
 
-- 美团｜Business Development
-  地点：香港特别行政区
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4385335905
-
-- 美团｜产业研究与投资-科技方向分析师
-  地点：北京市、上海市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4718542796
-
 - 美团｜加盟投资人服务与关系管理负责人
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4449824624
+
+- 美团｜Business Development
+  地点：香港特别行政区
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4385335905
 
 - 美团｜到餐-品类负责人
   地点：北京市
@@ -24622,10 +24684,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1313264749181623296
 
+- 美团｜餐饮系统-解决方案负责人
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4892757114
+
 - 美团｜产教融合渠道管理
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4897067887
+
+- 美团｜设备物资主管-合肥
+  地点：合肥市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921064012
+
+- 美团｜设备物资专员
+  地点：广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921005003
 
 - 美团｜无人车业务部-动态感知算法专家
   地点：北京市、深圳市
@@ -24752,6 +24829,16 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1284528300198503424
 
+- 美团｜美团骑行-资产经营主管（广州）
+  地点：广州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684145065
+
+- 美团｜美团外卖-浣熊食堂-资产管理经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885006456
+
 - 美团｜美团闪购-自有商品成本核价
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -24826,16 +24913,6 @@ Wind万得：没有新增
   地点：郑州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4902606624
-
-- 美团｜美团骑行-资产经营主管（广州）
-  地点：广州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4684145065
-
-- 美团｜美团外卖-浣熊食堂-资产管理经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4885006456
 
 - 美团｜入库主管
   地点：深圳市
@@ -25171,6 +25248,11 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4888203893
+
+- 美团｜校园配送解决方案运营
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4905584198
 
 - 美团｜拼好饭-供应链负责人
   地点：北京市
@@ -25527,10 +25609,30 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1292597531922250752
 
+- 美团｜无人车数据工具研发工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4919960379
+
+- 美团｜医美SKA丽格组-大客户销售
+  地点：上海市、北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4892699621
+
 - 美团｜美团打车政府事务
   地点：成都市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4612117869
+
+- 美团｜美团骑行-渠道经理（贵州）
+  地点：贵阳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921211492
+
+- 美团｜美团骑行-渠道经理（成都）
+  地点：成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4584463893
 
 - 美团｜医美KA大客户销售
   地点：成都市
@@ -25588,7 +25690,7 @@ Wind万得：没有新增
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4815732086
 
 - 美团｜小象超市-配送主管（宁波）
-  地点：宁波市
+  地点：温州市、金华市、衢州市、台州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4813510882
 
@@ -25611,6 +25713,11 @@ Wind万得：没有新增
   地点：宁波市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4533782675
+
+- 美团｜无人车智能研发工程师
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4921014819
 
 - 美团｜医美SKA科邦组-大客户销售
   地点：北京市、上海市、杭州市、广州市
@@ -25646,11 +25753,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4856930503
-
-- 美团｜医美SKA丽格组-大客户销售
-  地点：上海市、北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4892699621
 
 - 美团｜无人车业务部-公共事务发展经理-华中
   地点：武汉市、西安市、北京市、上海市、成都市
@@ -25922,11 +26024,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4141329072
 
-- 美团｜美团骑行-渠道经理（成都）
-  地点：成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4584463893
-
 - 美团｜前置仓品控-快驴佛山
   地点：佛山市
   官网信息未明确适用于2027届，待确认
@@ -26022,11 +26119,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4746190048
 
-- 美团｜Dammann Vender Management
-  地点：达曼
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4811275820
-
 - 美团｜Keeta Customer Experience Finance BP-Middle East
   地点：北京市、利雅得
   官网信息未明确适用于2027届，待确认
@@ -26082,6 +26174,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4855718281
 
+- 美团｜产业研究与投资-酒旅及服务零售方向
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=2059290704
+
 - 美团｜行业经营咨询专家（餐饮连锁方向）
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
@@ -26096,11 +26193,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4377993940
-
-- 美团｜产业研究与投资-酒旅及服务零售方向
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=2059290704
 
 - 美团｜区域行业BD
   地点：北京市
@@ -26246,11 +26338,6 @@ Wind万得：没有新增
   地点：北京市、上海市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4611918252
-
-- 美团｜无人车业务部-商超零售行业KA
-  地点：北京市、上海市、深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4611956079
 
 - 美团｜无人车业务部-华南-公共事务发展经理
   地点：广州市、深圳市、东莞市、中山市
@@ -26542,10 +26629,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1311025530992286720
 
+- 美团｜快乐猴-华北片区经理
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4580216352
+
 - 美团｜美团平台-数据开发工程师
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4208447290
+
+- 美团｜Java 研发工程师
+  地点：上海市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4900812968
 
 - 美团｜下沉市场-渠道经理（粤海区域）
   地点：广州市、海口市
@@ -26732,11 +26829,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4815321293
 
-- 美团｜快乐猴-华北片区经理
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4580216352
-
 - 美团｜安全事务经理
   地点：北京市、石家庄市、合肥市、济南市、郑州市、武汉市、成都市、西安市
   官网信息未明确适用于2027届，待确认
@@ -26818,19 +26910,19 @@ Wind万得：没有新增
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4521705293
 
 - 美团｜交易系统平台部-订单履约售后-高级Java开发工程师
-  地点：北京市、上海市
+  地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2227465898
-
-- 美团｜充电宝大客户销售（公共服务方向）
-  地点：上海市、杭州市、广州市、深圳市、武汉市、西安市、北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4919366993
 
 - 美团｜大连蔬菜地采
   地点：大连市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4905155562
+
+- 美团｜充电宝大客户销售（公共服务方向）
+  地点：上海市、杭州市、广州市、深圳市、武汉市、西安市、北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4919366993
 
 - 美团｜供应链生鲜品控主管-长沙
   地点：长沙市
@@ -26901,11 +26993,6 @@ Wind万得：没有新增
   地点：厦门市、福州市、杭州市、无锡市、宁波市、北京市、温州市、苏州市、天津市、惠州市、石家庄市、上海市、成都市、长春市、珠海市、济南市、青岛市、广州市、深圳市、武汉市、合肥市、南京市、沈阳市、大连市、南宁市、西安市、哈尔滨市、昆明市、长沙市、湛江市、重庆市、东莞市、南昌市、中山市、佛山市、郑州市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4697227230
-
-- 美团｜医药广告运营
-  地点：石家庄市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4225467712
 
 - 美团｜生鲜供应链品控（果蔬）
   地点：济南市
@@ -27602,6 +27689,11 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://campus.jd.com/#/jobs?reqId=2512
 
+- 美团｜美团骑行-资产主管（北京路面）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4601639883
+
 - 美团｜小象超市-配送经理（合肥）
   地点：合肥市
   官网信息未明确适用于2027届，待确认
@@ -27657,15 +27749,25 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4776023518
 
-- 美团｜美团快驴-CKA城市质量主管
-  地点：宁波市、深圳市、杭州市、石家庄市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4649794285
-
 - 美团｜Android技术专家-系统方向
   地点：北京市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4705827999
+
+- 美团｜资管经理-河南长沙
+  地点：郑州市、周口市、新乡市、商丘市、洛阳市、长沙市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916540507
+
+- 美团｜资管城市经理-湘赣鄂
+  地点：南昌市、怀化市、常德市、赣州市、九江市、武汉市、襄阳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4914641614
+
+- 美团｜美团骑行-资管城市经理-江苏
+  地点：常州市、南通市、苏州市、镇江市、淮安市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4911433467
 
 - 美团｜小象超市-骑手物资管理
   地点：北京市
@@ -27677,35 +27779,20 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4870567290
 
-- 美团｜小象超市天津/石家庄BDM
-  地点：天津市、沈阳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4306392038
-
 - 美团｜闪购-官旗-城市运营-前置仓方向
   地点：天津市、徐州市、苏州市、合肥市、厦门市、济南市、东莞市、昆明市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4288095608
 
-- 美团｜业务培训专家
-  地点：北京市
+- 美团｜前置仓-装修项目经理
+  地点：北京市、上海市、成都市、广州市、深圳市、杭州市
   官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4912191873
-
-- 美团｜风险客诉高投（六险一金）
-  地点：石家庄市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4896931801
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4915798320
 
 - 美团｜无人车业务部-城市BDM（廊坊、石家庄、洛阳、济南）
   地点：石家庄市、廊坊市、济南市、洛阳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4796199775
-
-- 美团｜仓储经理
-  地点：深圳市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4914499549
 
 - 美团｜商家運營實習生
   地点：香港特别行政区
@@ -27717,6 +27804,31 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4803667562
 
+- 美团｜美团快驴-CKA城市质量主管
+  地点：宁波市、深圳市、杭州市、石家庄市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4649794285
+
+- 美团｜小象超市天津/石家庄BDM
+  地点：天津市、沈阳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4306392038
+
+- 美团｜业务培训专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4912191873
+
+- 美团｜风险客诉高投（六险一金）
+  地点：石家庄市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4896931801
+
+- 美团｜仓储经理
+  地点：深圳市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4914499549
+
 - 美团｜生产主管
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -27726,11 +27838,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4912553466
-
-- 美团｜美团骑行-资产主管（北京路面）
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4601639883
 
 - 美团｜生产主管
   地点：东莞市
@@ -28617,15 +28724,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4535133451
 
-- 美团｜美团 快驴业务商品方向HRBP
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4842265476
-
 - 美团｜售后项目经理
   地点：深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4881744553
+
+- 美团｜美团 快驴业务商品方向HRBP
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4842265476
 
 - 美团｜快驴 - 招商HRBP
   地点：北京市、成都市
@@ -28947,11 +29054,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4155441908
 
-- 美团｜小象超市-低温乳品采购专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4386892906
-
 - 美团｜小象超市-冷冻米面豆制品采购负责人（华北）
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -29167,11 +29269,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4787591522
 
-- 美团｜PB粮油干调采购专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4758265300
-
 - 美团｜松鼠便利物流组华中大区南昌城市群仓配经理
   地点：南昌市
   官网信息未明确适用于2027届，待确认
@@ -29337,15 +29434,15 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4494006595
 
-- 美团｜苏州干货调味招商专员
-  地点：苏州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4897880666
-
 - 美团｜上海干货调味招商专员
   地点：上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4705876162
+
+- 美团｜苏州干货调味招商专员
+  地点：苏州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4897880666
 
 - 美团｜招商直播运营经理
   地点：郑州市
@@ -29492,11 +29589,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4865943298
 
-- 美团｜自营蔬菜北京蔬菜采购
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4806471000
-
 - 美团｜硬件开发工程师（整车电子电气架构开发方向）
   地点：官网未注明
   官网信息未明确适用于2027届，待确认
@@ -29556,6 +29648,11 @@ Wind万得：没有新增
   地点：重庆市、成都市、贵阳市、昆明市、西安市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4777207902
+
+- 美团｜小象HRBP
+  地点：北京市、上海市、杭州市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4906876047
 
 - 美团｜运营支持专员-电销方向
   地点：成都市、石家庄市
@@ -29792,11 +29889,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://careers.tencent.com/jobdesc.html?postId=1307787912720646144
 
-- 美团｜快乐猴-北京地推主管
-  地点：北京市、天津市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4507344576
-
 - 美团｜半熟调自营研发采购
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -29837,11 +29929,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4650477966
 
-- 美团｜电销运营中心-电话销售A
-  地点：成都市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3382722506
-
 - 美团｜南京、合肥蔬菜招商采购专家
   地点：南京市、合肥市
   官网信息未明确适用于2027届，待确认
@@ -29871,6 +29958,11 @@ Wind万得：没有新增
   地点：北京市、武汉市、广州市、成都市、苏州市、深圳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4885648910
+
+- 美团｜里白酒店内部员工及门店员工培训专家
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4882634743
 
 - 美团｜全国蔬菜集采采购
   地点：北京市
@@ -29922,6 +30014,21 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4647544743
 
+- 美团｜小象超市-水果采购专家（区域）
+  地点：北京市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4178266808
+
+- 美团｜快乐猴-北京地推主管
+  地点：北京市、天津市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4507344576
+
+- 美团｜电销运营中心-电话销售A
+  地点：成都市
+  官网信息未明确适用于2027届，待确认
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3382722506
+
 - 美团｜Keemart-商管用工专家
   地点：北京市、利雅得
   官网信息未明确适用于2027届，待确认
@@ -29946,11 +30053,6 @@ Wind万得：没有新增
   地点：深圳市、上海市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4892840714
-
-- 美团｜餐饮系统-售前解决方案负责人
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4892757114
 
 - 美团｜餐饮收银SAAS大客户商务经理
   地点：天津市、北京市
@@ -30087,11 +30189,6 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4813834509
 
-- 美团｜里白酒店内部员工及门店员工培训专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4882634743
-
 - 美团｜理货运营专家
   地点：北京市
   官网信息未明确适用于2027届，待确认
@@ -30161,16 +30258,6 @@ Wind万得：没有新增
   地点：北京市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4861754546
-
-- 美团｜水饮料采购专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4642250042
-
-- 美团｜水饮料品类采购专家
-  地点：北京市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4747373363
 
 - 美团｜履约业务HRBP
   地点：北京市、上海市、杭州市、广州市、深圳市、西安市、成都市、石家庄市、武汉市
@@ -30436,11 +30523,6 @@ Wind万得：没有新增
   地点：沈阳市
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4796893615
-
-- 美团｜广州冻肉招商采购
-  地点：广州市
-  官网信息未明确适用于2027届，待确认
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4764861766
 
 - 美团｜小象超市 - 禽类采购
   地点：北京市
@@ -30787,7 +30869,7 @@ Wind万得：没有新增
   官网信息未明确适用于2027届，待确认
   https://zhaopin.meituan.com/jobdetail?jobUnionId=1553972946
 
-## 实习参考（不推送） · 873 条
+## 实习参考（不推送） · 874 条
 
 - ⭐ 产品重点｜美团｜流量策略产品经理实习生
   地点：北京市
@@ -30849,11 +30931,6 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3662722414
 
-- 美团｜商业分析实习生
-  地点：北京市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4832754800
-
 - ⭐ 产品重点｜美团｜金融解决方案产品实习生
   地点：北京市
   实习单列，不发正式校招提醒
@@ -30878,6 +30955,11 @@ Wind万得：没有新增
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4888248664
+
+- 美团｜商业分析实习生
+  地点：北京市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4832754800
 
 - 美团｜大模型数据运营实习生-Agent方向
   地点：北京市
@@ -30973,11 +31055,6 @@ Wind万得：没有新增
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4877633096
-
-- 美团｜HR招聘实习生
-  地点：深圳市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4611399961
 
 - 美团｜香港商分实习-用户研究方向
   地点：香港特别行政区
@@ -31159,6 +31236,11 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4773915984
 
+- 美团｜内容运营实习生
+  地点：杭州市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4916495907
+
 - 美团｜【2027】Keeta-商业分析实习生
   地点：北京市
   实习单列，不发正式校招提醒
@@ -31243,11 +31325,6 @@ Wind万得：没有新增
   地点：北京市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3394467312
-
-- 美团｜商业化广告运营实习生
-  地点：上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4868177133
 
 - 美团｜机器人传感器开发实习生（力感知方向）
   地点：深圳市
@@ -31589,15 +31666,15 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3396084629
 
-- 美团｜多模态模型研究-具身智能方向算法实习生
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3358279441
-
 - 美团｜多模态大模型评测分析实习生
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=2997413577
+
+- 美团｜多模态模型研究-具身智能方向算法实习生
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3358279441
 
 - 美团｜大模型数据实习生
   地点：北京市、上海市
@@ -31889,11 +31966,6 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4747382881
 
-- 美团｜招聘实习生（服体-6月）
-  地点：武汉市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4526687319
-
 - 腾讯｜算法-数据科学方向
   地点：深圳总部 北京 上海 广州 成都 
   实习单列，不发正式校招提醒
@@ -31983,6 +32055,11 @@ Wind万得：没有新增
   地点：上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4177311305
+
+- 美团｜【北斗实习】广告大模型训练推理工程师-【生成式广告大模型】
+  地点：北京市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4177281953
 
 - 美团｜【北斗实习】大模型应用算法工程师-【推荐大模型】
   地点：北京市
@@ -32324,6 +32401,11 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://careers.tencent.com/jobdesc.html?postId=1293315231581667328
 
+- 美团｜高精地图建图算法实习生
+  地点：北京市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4104639996
+
 - 美团｜AI 设计实习生（模型训练、评测等工作）
   地点：北京市
   实习单列，不发正式校招提醒
@@ -32384,15 +32466,15 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4570930537
 
-- 美团｜【LongCat实习】原生多模态大模型研究
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600051151
-
 - 美团｜【LongCat实习】Longcat 大模型研究员-Interpretability
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4600025247
+
+- 美团｜【LongCat实习】原生多模态大模型研究
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4600051151
 
 - 美团｜具身智能前沿研究实习
   地点：上海市、北京市
@@ -32414,15 +32496,15 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4346554693
 
-- 美团｜【大模型北斗实习】Post-training 前沿算法研究
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3155417212
-
 - 美团｜【大模型北斗实习】长周期人机协作能力探索和评测
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3153985521
+
+- 美团｜【大模型北斗实习】Post-training 前沿算法研究
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3155417212
 
 - 美团｜【大模型北斗实习】统一化的检索生成框架探索与评测
   地点：北京市、上海市
@@ -32704,15 +32786,15 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4348841233
 
-- 美团｜【基座大模型北斗实习】虚拟人交互前沿路线研究
-  地点：北京市、上海市、深圳市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=4346603206
-
 - 美团｜【基座大模型北斗实习】多模态推理前沿研究
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4347161746
+
+- 美团｜【基座大模型北斗实习】虚拟人交互前沿路线研究
+  地点：北京市、上海市、深圳市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4346603206
 
 - 美团｜JAVA开发工程师（实习）
   地点：上海市
@@ -32729,15 +32811,15 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=4177333359
 
-- 美团｜【大模型北斗实习】虚拟人交互前沿路线研究
-  地点：北京市、上海市
-  实习单列，不发正式校招提醒
-  https://zhaopin.meituan.com/jobdetail?jobUnionId=3155435203
-
 - 美团｜【大模型北斗实习】音频内容生成算法研究
   地点：北京市、上海市
   实习单列，不发正式校招提醒
   https://zhaopin.meituan.com/jobdetail?jobUnionId=3155431042
+
+- 美团｜【大模型北斗实习】虚拟人交互前沿路线研究
+  地点：北京市、上海市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=3155435203
 
 - 美团｜【大模型北斗实习】多模态融合及多模态实时交互算法研究
   地点：北京市、上海市
@@ -34345,7 +34427,7 @@ Wind万得：没有新增
   https://careers.tencent.com/jobdesc.html?postId=1226875888789263360
 
 - 腾讯｜公共事务
-  地点：北京 重庆 成都 中国香港 
+  地点：北京 重庆 成都 
   实习单列，不发正式校招提醒
   https://careers.tencent.com/jobdesc.html?postId=1226957086077102080
 
@@ -34804,6 +34886,11 @@ Wind万得：没有新增
   实习单列，不发正式校招提醒
   https://careers.tencent.com/jobdesc.html?postId=1238177252446073856
 
+- 美团｜商品零售高端招聘实习岗
+  地点：北京市
+  实习单列，不发正式校招提醒
+  https://zhaopin.meituan.com/jobdetail?jobUnionId=4654822825
+
 - 腾讯｜游戏客户端开发
   地点：深圳总部 北京 上海 杭州 
   实习单列，不发正式校招提醒
@@ -35157,11 +35244,11 @@ Wind万得：没有新增
 ## 信源状态
 
 - watch-tencent：抓取 882 条
-- watch-byte：抓取 2197 条
+- watch-byte：抓取 2193 条
 - watch-jd：抓取 132 条
-- watch-meituan：抓取 3369 条
-- watch-xhs：抓取 203 条
-- watch-pdd：抓取 37 条
+- watch-meituan：抓取 3372 条
+- watch-xhs：抓取 204 条
+- watch-pdd：抓取 36 条
 - watch-sheet-005：抓取 9 条
 - watch-sheet-009：抓取 16 条
 - watch-sheet-011：抓取 21 条
@@ -35171,8 +35258,8 @@ Wind万得：没有新增
 - watch-sheet-017：抓取 0 条
 - watch-sheet-018：抓取 0 条
 - watch-sheet-019：抓取 23 条
-- watch-sheet-020：抓取 12 条
-- watch-sheet-021：抓取 56 条
+- watch-sheet-020：抓取 13 条
+- watch-sheet-021：抓取 72 条
 - watch-sheet-022：抓取 0 条
 - watch-sheet-023：抓取 14 条
 - watch-sheet-029：抓取 5 条
@@ -35181,7 +35268,7 @@ Wind万得：没有新增
 - watch-sheet-038：抓取 2 条
 - watch-sheet-040：抓取 0 条
 - watch-sheet-046：抓取 0 条
-- watch-sheet-062：抓取 3 条
+- watch-sheet-062：RuntimeError: RuntimeError: 未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 - watch-sheet-079：抓取 6 条
 - watch-sheet-089：抓取 7 条
 - watch-sheet-094：抓取 2 条
@@ -35200,6 +35287,6 @@ Wind万得：没有新增
 - watch-sheet-153：抓取 6 条
 - watch-sheet-157：抓取 0 条
 
-监控清单 43 家；本轮尝试 43 个信源；正常 41，异常/待适配 2。
+监控清单 43 家；本轮尝试 43 个信源；正常 40，异常/待适配 3。
 
 异常不等于没有新增。首次成功读取的新公司仅建立现有岗位基线，后续出现的新职位再提醒。

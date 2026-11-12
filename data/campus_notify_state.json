@@ -25270,6 +25270,14 @@
     "蚂蚁集团:677159bde1fa0786ba1f4fa3": {
       "sent_at": "2026-11-11T07:46:24.414706+00:00",
       "title": "WorldFirst AI产品经理"
+    },
+    "字节跳动:7677445885550168373": {
+      "sent_at": "2026-11-12T08:15:40.043870+00:00",
+      "title": "后端开发工程师（抖音搜索） - 抖音用户产品"
+    },
+    "Shopee:ead43772a07aacca1c602814": {
+      "sent_at": "2026-11-12T08:15:40.043870+00:00",
+      "title": "（27届秋招）保险核心系统产品经理 - 深圳"
     }
   },
   "scope_baselines": {
@@ -25302,18 +25310,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-07T09:00+08:00": {
-      "jobs": {
-        "得物App:0b82fafd4f374ffb77e1e5ab": {
-          "company_name": "得物App",
-          "source_id": "watch-sheet-019",
-          "title": "【27届校招】数据分析师(偏数据产品方向)-95分",
-          "official_url": "https://campus.dewu.com/578078/position/7705247320661739812/detail",
-          "location": ""
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-07T15:00+08:00": {
       "jobs": {},
       "first_sources": []
@@ -25360,6 +25356,25 @@
           "title": "WorldFirst AI产品经理",
           "official_url": "https://talent.antgroup.com/campus-position?positionId=261110012839589",
           "location": "杭州"
+        }
+      },
+      "first_sources": []
+    },
+    "2026-11-12T09:00+08:00": {
+      "jobs": {
+        "字节跳动:7677445885550168373": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "后端开发工程师（抖音搜索） - 抖音用户产品",
+          "official_url": "https://jobs.bytedance.com/campus/position/7677445885550168373/detail",
+          "location": "北京、上海"
+        },
+        "Shopee:ead43772a07aacca1c602814": {
+          "company_name": "Shopee",
+          "source_id": "watch-sheet-020",
+          "title": "（27届秋招）保险核心系统产品经理 - 深圳",
+          "official_url": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b",
+          "location": ""
         }
       },
       "first_sources": []

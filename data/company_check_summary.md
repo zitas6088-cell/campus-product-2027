@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-11 09:00（北京时间）
-完成时间：2026-11-11 15:46
-共43家公司：新增2家；没有新增39家；异常2家。
+2027届产品岗逐公司检查结果｜2026-11-12 09:00（北京时间）
+完成时间：2026-11-12 16:15
+共43家公司：新增2家；没有新增38家；异常3家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/42981109654
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43180556118
 第1/1条
 
 360集团：没有新增
@@ -35,10 +35,7 @@
 
 快手：没有新增
 
-蚂蚁集团：新增 1个岗位
-
-  蚂蚁集团｜WorldFirst AI产品经理
-https://talent.antgroup.com/campus-position?positionId=261110012839589
+蚂蚁集团：没有新增
 
 美团：没有新增
 
@@ -70,19 +67,16 @@ https://talent.antgroup.com/campus-position?positionId=261110012839589
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：没有新增
+迅雷：异常（未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.）
 
 用友网络：没有新增
 
 知乎：没有新增
 
-字节跳动：新增 2个岗位
+字节跳动：新增 1个岗位
 
-  字节跳动｜内容产品经理 - TikTok生活服务
-https://jobs.bytedance.com/campus/position/7667548693747075333/detail
-
-  字节跳动｜治理产品运营 - TikTok直播
-https://jobs.bytedance.com/campus/position/7706547850606332165/detail
+  字节跳动｜后端开发工程师（抖音搜索） - 抖音用户产品
+https://jobs.bytedance.com/campus/position/7677445885550168373/detail
 
 作业帮：没有新增
 
@@ -92,7 +86,10 @@ OPPO：没有新增
 
 SHEIN：没有新增
 
-Shopee：没有新增
+Shopee：新增 1个岗位
+
+  Shopee｜（27届秋招）保险核心系统产品经理 - 深圳
+https://app.mokahr.com/campus-recruitment/shopee/2962#/job/31c63e97-28ee-4900-a6d9-94b9c356343b
 
 Soul：没有新增
 
