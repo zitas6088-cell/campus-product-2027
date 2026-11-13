@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-12 15:00（北京时间）
-完成时间：2026-11-13 00:00
-共43家公司：新增1家；没有新增38家；异常4家。
+2027届产品岗逐公司检查结果｜2026-11-13 09:00（北京时间）
+完成时间：2026-11-13 15:52
+共43家公司：新增1家；没有新增40家；异常2家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43252578304
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43387946908
 第1/1条
 
 360集团：没有新增
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：异常（职位列表分页未完成；标题详情未读: TimeoutError; 标题详情未读: TimeoutError; RuntimeError: 下一页未发生变化，无法确认完整列表）
+海康威视：没有新增
 
 京东：没有新增
 
@@ -67,7 +67,7 @@
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：异常（未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.）
+迅雷：没有新增
 
 用友网络：没有新增
 
@@ -75,8 +75,8 @@
 
 字节跳动：新增 1个岗位
 
-  字节跳动｜技术支持工程师 - Seed 产品研发
-https://jobs.bytedance.com/campus/position/7707279121335814405/detail
+  字节跳动｜内容安全产品运营 - 剪映CapCut
+https://jobs.bytedance.com/campus/position/7707496469913487669/detail
 
 作业帮：没有新增
 
