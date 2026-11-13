@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-13T09:00+08:00",
-  "generated_at": "2026-11-13 15:52",
+  "slot": "2026-11-13T15:00+08:00",
+  "generated_at": "2026-11-13 23:21",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -33,8 +33,8 @@
     {
       "company": "传音控股",
       "source_id": "watch-sheet-046",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -75,15 +75,15 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
       "jobs": []
     },
     {
@@ -96,8 +96,8 @@
     {
       "company": "科大讯飞",
       "source_id": "watch-sheet-029",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -159,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -222,8 +222,8 @@
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://hr.xunlei.com/\", waiting until \"domcontentloaded\"",
       "jobs": []
     },
     {
@@ -243,17 +243,9 @@
     {
       "company": "字节跳动",
       "source_id": "watch-byte",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "内容安全产品运营 - 剪映CapCut",
-          "official_url": "https://jobs.bytedance.com/campus/position/7707496469913487669/detail",
-          "location": "北京"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "作业帮",
@@ -300,8 +292,8 @@
     {
       "company": "vivo",
       "source_id": "watch-sheet-022",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator(\"[class*=\\\"JobTitle\\\"]\").first to be visible",
       "jobs": []
     },
     {
