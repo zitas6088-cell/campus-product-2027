@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "33676bcbcbcfc080",
+    "source_id": "watch-sheet-021",
+    "company_name": "小米",
+    "title": "软件产品经理-互联互通方向",
+    "location": "",
+    "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670892040776108297/detail",
+    "first_seen": "2026-11-01T12:57:37.525665+00:00",
+    "last_seen": "2026-11-13T15:15:01.357299+00:00",
+    "archived_at": "2026-11-14T07:30:51.470072+00:00",
+    "match_score": 179
+  },
+  {
+    "dedup_key": "2aa4f8295821fa9f",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "AI组织转型专家",
+    "location": "深圳市、北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4629474238",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-13T15:15:01.357299+00:00",
+    "archived_at": "2026-11-14T07:30:51.470072+00:00",
+    "match_score": 165
+  },
+  {
+    "dedup_key": "2ba1df6d01d44486",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "Mars Project Brazil 2026",
+    "location": "圣保罗",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4453551472",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-13T15:15:01.357299+00:00",
+    "archived_at": "2026-11-14T07:30:51.470072+00:00",
+    "match_score": 101
+  },
+  {
+    "dedup_key": "d7ed228d21459d4a",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "Global Sourcing 采购经理",
+    "location": "北京市、利雅得",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=3848053538",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-13T15:15:01.357299+00:00",
+    "archived_at": "2026-11-14T07:30:51.470072+00:00",
+    "match_score": 50
+  },
+  {
     "dedup_key": "22a16cc6b3a79d4e",
     "source_id": "watch-sheet-021",
     "company_name": "小米",
