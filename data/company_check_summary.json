@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-14T09:00+08:00",
-  "generated_at": "2026-11-14 15:36",
+  "slot": "2026-11-14T15:00+08:00",
+  "generated_at": "2026-11-14 22:08",
   "companies": [
     {
       "company": "360集团",
@@ -83,7 +83,7 @@
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://campushr.hikvision.com/school?schoolType=nozxf\", waiting until ",
+      "detail": "TimeoutError:",
       "jobs": []
     },
     {
@@ -208,8 +208,8 @@
     {
       "company": "小米",
       "source_id": "watch-sheet-021",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "抓取量跌为 0（历史峰值 84，疑似改版/失效）",
       "jobs": []
     },
     {

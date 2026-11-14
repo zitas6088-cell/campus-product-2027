@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-14 09:00（北京时间）
-完成时间：2026-11-14 15:36
-共43家公司：新增0家；没有新增40家；异常3家。
+2027届产品岗逐公司检查结果｜2026-11-14 15:00（北京时间）
+完成时间：2026-11-14 22:08
+共43家公司：新增0家；没有新增39家；异常4家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43571392928
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43602683428
 第1/1条
 
 360集团：没有新增
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://campushr.hikvision.com/school?schoolType=nozxf", waiting until ）
+海康威视：异常（TimeoutError:）
 
 京东：没有新增
 
@@ -63,7 +63,7 @@
 
 小红书：没有新增
 
-小米：没有新增
+小米：异常（抓取量跌为 0（历史峰值 84，疑似改版/失效））
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
