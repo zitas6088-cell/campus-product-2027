@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-14T15:00+08:00",
-  "generated_at": "2026-11-14 22:08",
+  "slot": "2026-11-15T09:00+08:00",
+  "generated_at": "2026-11-15 09:47",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -75,15 +75,15 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "异常",
-      "detail": "TimeoutError:",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -159,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -208,8 +208,8 @@
     {
       "company": "小米",
       "source_id": "watch-sheet-021",
-      "status": "异常",
-      "detail": "抓取量跌为 0（历史峰值 84，疑似改版/失效）",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {

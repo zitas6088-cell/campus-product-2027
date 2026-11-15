@@ -1,5 +1,113 @@
 [
   {
+    "dedup_key": "3ba9a6800a3841c8",
+    "source_id": "watch-sheet-128",
+    "company_name": "Soul",
+    "title": "会员产品经理",
+    "location": "",
+    "official_url": "https://soulapp.jobs.feishu.cn/index/position/7697224495613872410/detail",
+    "first_seen": "2026-11-14T07:30:51.470072+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 195
+  },
+  {
+    "dedup_key": "18301768cd11922e",
+    "source_id": "watch-sheet-021",
+    "company_name": "小米",
+    "title": "产品认证工程师",
+    "location": "",
+    "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671287965008431406/detail",
+    "first_seen": "2026-11-07T06:58:41.297923+00:00",
+    "last_seen": "2026-11-14T07:30:51.470072+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 114
+  },
+  {
+    "dedup_key": "68d9c7db33f32d80",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "美团评价产品负责人",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4571026555",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 173
+  },
+  {
+    "dedup_key": "0cc9113bda658011",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "医药健康-销售运营经理",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4251626273",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 135
+  },
+  {
+    "dedup_key": "3a9d154b65d5231a",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "境外门票-商务总监",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4255793475",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 130
+  },
+  {
+    "dedup_key": "63436a039a3fc328",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "快乐猴-区域配送运营经理",
+    "location": "天津市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4544976208",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 120
+  },
+  {
+    "dedup_key": "31bcfcd640155187",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "快乐猴物流运输主管（厦门）",
+    "location": "厦门市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4745596042",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 80
+  },
+  {
+    "dedup_key": "68e1f0e254eedc07",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "小象超市-线下店后场副店",
+    "location": "扬州市、蚌埠市、武汉市、重庆市、成都市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4646665606",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 73
+  },
+  {
+    "dedup_key": "99937ed383dbcde2",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "进场零售-商场CKA",
+    "location": "广州市、武汉市、安庆市、亳州市、长沙市、常州市、池州市、滁州市、鄂州市、恩施土家族苗族自治州、抚州市、阜阳市、赣州市、贵阳市、杭州市、合肥市、河源市、淮北市、淮南市、黄冈市、黄山市、黄石市、惠州市、吉林市、金华市、荆州市、琼海市、万宁市、临沂市、六安市、漯河市、马鞍山市、南通市、南阳市、萍乡市、衢州市、日照市、苏州市、宿州市、泰安市、泰州市、铜陵市、威海市、无锡市、芜湖市、西宁市、咸宁市、信阳市、宣城市、烟台市、伊犁哈萨克自治州、宜昌市、宜春市、岳阳市、镇江市、深圳市、肇庆市、清远市、韶关市、云浮市、南宁市、柳州市、玉林市、钦州市、北海市、贵港市、梧州市、贺州市、河池市、百色市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=1695391997",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-14T14:01:57.659037+00:00",
+    "archived_at": "2026-11-15T01:41:43.126017+00:00",
+    "match_score": 64
+  },
+  {
     "dedup_key": "33676bcbcbcfc080",
     "source_id": "watch-sheet-021",
     "company_name": "小米",
@@ -58,18 +166,6 @@
     "last_seen": "2026-11-13T07:45:22.831195+00:00",
     "archived_at": "2026-11-13T15:15:01.357299+00:00",
     "match_score": 168
-  },
-  {
-    "dedup_key": "3ba9a6800a3841c8",
-    "source_id": "watch-sheet-128",
-    "company_name": "Soul",
-    "title": "会员产品经理",
-    "location": "",
-    "official_url": "https://soulapp.jobs.feishu.cn/index/position/7697224495613872410/detail",
-    "first_seen": "2026-11-10T07:39:24.968468+00:00",
-    "last_seen": "2026-11-13T07:45:22.831195+00:00",
-    "archived_at": "2026-11-13T15:15:01.357299+00:00",
-    "match_score": 195
   },
   {
     "dedup_key": "4843edd93cdd8133",
@@ -4510,18 +4606,6 @@
     "last_seen": "2026-11-06T07:50:52.200860+00:00",
     "archived_at": "2026-11-06T14:55:04.840574+00:00",
     "match_score": 126
-  },
-  {
-    "dedup_key": "18301768cd11922e",
-    "source_id": "watch-sheet-021",
-    "company_name": "小米",
-    "title": "产品认证工程师",
-    "location": "",
-    "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671287965008431406/detail",
-    "first_seen": "2026-11-04T15:17:58.574319+00:00",
-    "last_seen": "2026-11-06T07:50:52.200860+00:00",
-    "archived_at": "2026-11-06T14:55:04.840574+00:00",
-    "match_score": 114
   },
   {
     "dedup_key": "d577f4e47fbb87cb",
