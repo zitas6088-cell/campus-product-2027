@@ -1,11 +1,11 @@
-2027届产品岗逐公司检查结果｜2026-11-15 09:00（北京时间）
-完成时间：2026-11-15 09:47
+2027届产品岗逐公司检查结果｜2026-11-15 15:00（北京时间）
+完成时间：2026-11-15 15:42
 共43家公司：新增0家；没有新增38家；异常5家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43664245652
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43690706622
 第1/1条
 
-360集团：异常（未验证到可读职位列表；）
+360集团：没有新增
 
 爱奇艺：没有新增
 
@@ -25,9 +25,9 @@
 
 度小满：没有新增
 
-哈啰：异常（未验证到可读职位列表；）
+哈啰：没有新增
 
-海康威视：没有新增
+海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】海外产品售前工程师）
 
 京东：没有新增
 
@@ -49,7 +49,7 @@
 
 商汤科技：没有新增
 
-收钱吧：异常（未验证到可读职位列表；）
+收钱吧：没有新增
 
 顺丰科技：没有新增
 
@@ -63,11 +63,11 @@
 
 小红书：没有新增
 
-小米：没有新增
+小米：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://xiaomi.jobs.f.mioffice.cn/campus/", waiting until "domcontentlo）
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：没有新增
+迅雷：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://hr.xunlei.com/", waiting until "domcontentloaded"）
 
 用友网络：没有新增
 

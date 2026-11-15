@@ -1,5 +1,17 @@
 [
   {
+    "dedup_key": "d66bbc8baa72fb56",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "沙特SMB销售运营",
+    "location": "利雅得",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4721183269",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-15T01:41:43.126017+00:00",
+    "archived_at": "2026-11-15T07:37:00.424711+00:00",
+    "match_score": 129
+  },
+  {
     "dedup_key": "3ba9a6800a3841c8",
     "source_id": "watch-sheet-128",
     "company_name": "Soul",
