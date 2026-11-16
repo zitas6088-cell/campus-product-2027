@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-16 09:00（北京时间）
-完成时间：2026-11-16 15:56
-共43家公司：新增1家；没有新增39家；异常3家。
+2027届产品岗逐公司检查结果｜2026-11-16 15:00（北京时间）
+完成时间：2026-11-17 01:00
+共43家公司：新增0家；没有新增39家；异常4家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43826514210
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/43912411277
 第1/1条
 
 360集团：没有新增
@@ -11,7 +11,7 @@
 
 百度：没有新增
 
-哔哩哔哩：没有新增
+哔哩哔哩：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://jobs.bilibili.com/campus/", waiting until "domcontentloaded" ; ）
 
 传音控股：没有新增
 
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：没有新增
+海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师）
 
 京东：没有新增
 
@@ -73,14 +73,11 @@
 
 知乎：没有新增
 
-字节跳动：新增 1个岗位
-
-  字节跳动｜内容安全产品运营 - 剪映CapCut
-https://jobs.bytedance.com/campus/position/7708648172504402181/detail
+字节跳动：没有新增
 
 作业帮：没有新增
 
-BOSS直聘：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://www.zhipin.com/campus/pc/job", waiting until "domcontentloaded"）
+BOSS直聘：没有新增
 
 OPPO：没有新增
 
