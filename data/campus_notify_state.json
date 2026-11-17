@@ -25322,18 +25322,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-13T09:00+08:00": {
-      "jobs": {
-        "字节跳动:7707496469913487669": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "内容安全产品运营 - 剪映CapCut",
-          "official_url": "https://jobs.bytedance.com/campus/position/7707496469913487669/detail",
-          "location": "北京"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-13T15:00+08:00": {
       "jobs": {},
       "first_sources": []
@@ -25367,6 +25355,10 @@
       "first_sources": []
     },
     "2026-11-16T15:00+08:00": {
+      "jobs": {},
+      "first_sources": []
+    },
+    "2026-11-17T09:00+08:00": {
       "jobs": {},
       "first_sources": []
     }
