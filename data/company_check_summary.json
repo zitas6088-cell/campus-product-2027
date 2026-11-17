@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-17T09:00+08:00",
-  "generated_at": "2026-11-17 17:04",
+  "slot": "2026-11-17T15:00+08:00",
+  "generated_at": "2026-11-18 00:55",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -33,8 +33,8 @@
     {
       "company": "传音控股",
       "source_id": "watch-sheet-046",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -75,15 +75,15 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "TimeoutError:",
       "jobs": []
     },
     {
@@ -96,8 +96,8 @@
     {
       "company": "科大讯飞",
       "source_id": "watch-sheet-029",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -159,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -201,8 +201,8 @@
     {
       "company": "小红书",
       "source_id": "watch-xhs",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
       "jobs": []
     },
     {
@@ -222,8 +222,8 @@
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
       "jobs": []
     },
     {
@@ -257,8 +257,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -292,8 +292,8 @@
     {
       "company": "vivo",
       "source_id": "watch-sheet-022",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator(\"[class*=\\\"JobTitle\\\"]\").first to be visible",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
