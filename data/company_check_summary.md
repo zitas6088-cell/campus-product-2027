@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-17 15:00（北京时间）
-完成时间：2026-11-18 00:55
-共43家公司：新增0家；没有新增37家；异常6家。
+2027届产品岗逐公司检查结果｜2026-11-18 09:00（北京时间）
+完成时间：2026-11-18 16:31
+共43家公司：新增1家；没有新增35家；异常7家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/44129821689
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/44266665648
 第1/1条
 
 360集团：没有新增
@@ -13,7 +13,7 @@
 
 哔哩哔哩：没有新增
 
-传音控股：没有新增
+传音控股：异常（未验证到可读职位列表；）
 
 得物App：没有新增
 
@@ -27,11 +27,11 @@
 
 哈啰：没有新增
 
-海康威视：异常（TimeoutError:）
+海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师）
 
 京东：没有新增
 
-科大讯飞：没有新增
+科大讯飞：异常（未验证到可读职位列表；）
 
 快手：没有新增
 
@@ -61,19 +61,22 @@
 
 网易互联网：异常（浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理）
 
-小红书：异常（URLError: <urlopen error _ssl.c:994: The handshake operation timed out>）
+小红书：没有新增
 
 小米：没有新增
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：异常（未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.）
+迅雷：没有新增
 
 用友网络：没有新增
 
 知乎：没有新增
 
-字节跳动：没有新增
+字节跳动：新增 1个岗位
+
+  字节跳动｜云图数据产品经理（抖音AI产品人才校招） - 抖音品牌营销与星图达人
+https://jobs.bytedance.com/campus/position/7708703823301085493/detail
 
 作业帮：没有新增
 
@@ -87,6 +90,6 @@ Shopee：没有新增
 
 Soul：没有新增
 
-vivo：没有新增
+vivo：异常（未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator("[class*=\"JobTitle\"]").first to be visible）
 
 Wind万得：没有新增
