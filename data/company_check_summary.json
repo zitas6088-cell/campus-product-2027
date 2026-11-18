@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-18T09:00+08:00",
-  "generated_at": "2026-11-18 16:31",
+  "slot": "2026-11-18T15:00+08:00",
+  "generated_at": "2026-11-19 00:26",
   "companies": [
     {
       "company": "360集团",
@@ -33,8 +33,8 @@
     {
       "company": "传音控股",
       "source_id": "watch-sheet-046",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -96,8 +96,8 @@
     {
       "company": "科大讯飞",
       "source_id": "watch-sheet-029",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -208,8 +208,8 @@
     {
       "company": "小米",
       "source_id": "watch-sheet-021",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://xiaomi.jobs.f.mioffice.cn/campus/\", waiting until \"domcontentlo",
       "jobs": []
     },
     {
@@ -243,17 +243,9 @@
     {
       "company": "字节跳动",
       "source_id": "watch-byte",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "云图数据产品经理（抖音AI产品人才校招） - 抖音品牌营销与星图达人",
-          "official_url": "https://jobs.bytedance.com/campus/position/7708703823301085493/detail",
-          "location": "上海、北京"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "作业帮",
@@ -265,8 +257,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -300,8 +292,8 @@
     {
       "company": "vivo",
       "source_id": "watch-sheet-022",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator(\"[class*=\\\"JobTitle\\\"]\").first to be visible",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
