@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-19T09:00+08:00",
-  "generated_at": "2026-11-19 16:45",
+  "slot": "2026-11-19T15:00+08:00",
+  "generated_at": "2026-11-20 00:35",
   "companies": [
     {
       "company": "360集团",
@@ -26,8 +26,8 @@
     {
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\" ; ",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -68,15 +68,15 @@
     {
       "company": "度小满",
       "source_id": "watch-sheet-113",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "产品标题尚未取得可验证岗位详情：产品经理",
       "jobs": []
     },
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -110,17 +110,9 @@
     {
       "company": "蚂蚁集团",
       "source_id": "watch-sheet-005",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "蚂蚁集团",
-          "source_id": "watch-sheet-005",
-          "title": "AI产品经理-智能金融方向",
-          "official_url": "https://talent.antgroup.com/campus-position?positionId=260721010991747",
-          "location": "杭州"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "美团",
@@ -167,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -216,8 +208,8 @@
     {
       "company": "小米",
       "source_id": "watch-sheet-021",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://xiaomi.jobs.f.mioffice.cn/campus/\", waiting until \"domcontentlo",
       "jobs": []
     },
     {
@@ -265,8 +257,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
