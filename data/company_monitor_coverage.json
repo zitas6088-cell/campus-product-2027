@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19 00:26",
+  "generated_at": "2026-11-19 16:45",
   "configured_companies": 43,
   "attempted_sources": 43,
   "healthy_sources": 39,
@@ -7,7 +7,7 @@
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 26,
+      "consecutive_failures": 27,
       "status": "blocked",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -16,33 +16,33 @@
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-021",
+      "source_id": "watch-sheet-016",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
-      "last_success_at": "2026-11-18T08:31:07.537632+00:00",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://xiaomi.jobs.f.mioffice.cn/campus/\", waiting until \"domcontentloaded\"\n",
-      "last_count": 66,
-      "peak_count": 84,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-079",
-      "adapter": "watch_official",
-      "consecutive_failures": 3,
-      "status": "unstable",
-      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师",
-      "last_success_at": "2026-11-17T09:04:43.604680+00:00",
-      "last_count": 6,
-      "peak_count": 6,
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\"\n; TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.bilibili.com/campus/positions\", waiting until \"domcontentloaded\"\n",
+      "last_success_at": "2026-11-18T16:26:40.549173+00:00",
+      "last_count": 2,
+      "peak_count": 2,
       "alert": ""
     },
     {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 41,
+      "consecutive_failures": 42,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
+    },
+    {
+      "source_id": "watch-sheet-126",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
+      "last_success_at": "2026-11-18T16:26:40.551457+00:00",
+      "last_count": 4,
+      "peak_count": 4,
+      "alert": ""
     }
   ]
 }
