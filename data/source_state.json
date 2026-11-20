@@ -2,7 +2,7 @@
   "watch-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:32:08.166097+00:00",
+    "last_success_at": "2026-11-20T08:22:40.750483+00:00",
     "last_error": "",
     "last_count": 881,
     "peak_count": 890,
@@ -11,16 +11,16 @@
   "watch-byte": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:33:23.515552+00:00",
+    "last_success_at": "2026-11-20T08:23:51.245100+00:00",
     "last_error": "",
-    "last_count": 2157,
+    "last_count": 2152,
     "peak_count": 2298,
     "alert": ""
   },
   "watch-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:33:26.238455+00:00",
+    "last_success_at": "2026-11-20T08:23:54.464659+00:00",
     "last_error": "",
     "last_count": 132,
     "peak_count": 132,
@@ -29,16 +29,16 @@
   "watch-meituan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:34:40.679293+00:00",
+    "last_success_at": "2026-11-20T08:25:06.580379+00:00",
     "last_error": "",
-    "last_count": 3382,
+    "last_count": 3361,
     "peak_count": 3410,
     "alert": ""
   },
   "watch-xhs": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:11.452162+00:00",
+    "last_success_at": "2026-11-20T08:25:11.976840+00:00",
     "last_error": "",
     "last_count": 204,
     "peak_count": 210,
@@ -47,7 +47,7 @@
   "watch-pdd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.699723+00:00",
+    "last_success_at": "2026-11-20T08:25:15.929120+00:00",
     "last_error": "",
     "last_count": 35,
     "peak_count": 37,
@@ -66,7 +66,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.699914+00:00",
+    "last_success_at": "2026-11-20T08:25:15.929323+00:00",
     "last_count": 9,
     "peak_count": 9,
     "alert": ""
@@ -75,7 +75,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.700394+00:00",
+    "last_success_at": "2026-11-20T08:25:15.929956+00:00",
     "last_count": 16,
     "peak_count": 16,
     "alert": ""
@@ -84,7 +84,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.700954+00:00",
+    "last_success_at": "2026-11-20T08:25:15.930651+00:00",
     "last_count": 21,
     "peak_count": 23,
     "alert": ""
@@ -104,7 +104,7 @@
     "last_error": "RuntimeError: RuntimeError: 校招投递转至已被浏览器站点安全策略拦截的campus.163.com；暂停自动读取，保留原数据，等待用户处理"
   },
   "watch-sheet-014": {
-    "consecutive_failures": 28,
+    "consecutive_failures": 29,
     "status": "blocked",
     "last_success_at": "2026-11-04T15:24:23.507808+00:00",
     "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -115,17 +115,17 @@
   "watch-sheet-015": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.701089+00:00",
+    "last_success_at": "2026-11-20T08:25:15.930691+00:00",
     "last_error": "",
-    "last_count": 3,
+    "last_count": 0,
     "peak_count": 11,
-    "alert": ""
+    "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
   },
   "watch-sheet-016": {
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.701160+00:00",
+    "last_success_at": "2026-11-20T08:25:15.930787+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -133,7 +133,7 @@
   "watch-sheet-017": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.701170+00:00",
+    "last_success_at": "2026-11-20T08:25:15.930799+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
@@ -143,7 +143,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.701176+00:00",
+    "last_success_at": "2026-11-20T08:25:15.930808+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -151,27 +151,27 @@
   "watch-sheet-019": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.701979+00:00",
+    "last_success_at": "2026-11-20T08:25:15.931685+00:00",
     "last_error": "",
-    "last_count": 23,
+    "last_count": 20,
     "peak_count": 29,
     "alert": ""
   },
   "watch-sheet-020": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.702306+00:00",
+    "last_success_at": "2026-11-20T08:25:15.932084+00:00",
     "last_error": "",
     "last_count": 13,
     "peak_count": 13,
     "alert": ""
   },
   "watch-sheet-021": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T08:45:01.134421+00:00",
-    "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://xiaomi.jobs.f.mioffice.cn/campus/\", waiting until \"domcontentloaded\"\n",
-    "last_count": 72,
+    "last_success_at": "2026-11-20T08:25:15.934052+00:00",
+    "last_error": "",
+    "last_count": 65,
     "peak_count": 84,
     "alert": ""
   },
@@ -179,7 +179,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.702329+00:00",
+    "last_success_at": "2026-11-20T08:25:15.934071+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": "",
@@ -201,7 +201,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.702715+00:00",
+    "last_success_at": "2026-11-20T08:25:15.934530+00:00",
     "last_count": 14,
     "peak_count": 14,
     "alert": ""
@@ -251,7 +251,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.702888+00:00",
+    "last_success_at": "2026-11-20T08:25:15.934735+00:00",
     "last_count": 5,
     "peak_count": 23,
     "alert": ""
@@ -260,7 +260,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.702943+00:00",
+    "last_success_at": "2026-11-20T08:25:15.934807+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -306,7 +306,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.703043+00:00",
+    "last_success_at": "2026-11-20T08:25:15.934933+00:00",
     "last_count": 3,
     "peak_count": 6,
     "alert": ""
@@ -324,7 +324,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.703111+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935019+00:00",
     "last_count": 2,
     "peak_count": 2,
     "alert": ""
@@ -341,7 +341,7 @@
   "watch-sheet-040": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.703119+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935029+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 1,
@@ -396,7 +396,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.703126+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935037+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -525,9 +525,9 @@
     "alert": ""
   },
   "watch-sheet-062": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
-    "last_error": "",
+    "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
     "last_success_at": "2026-11-19T16:35:14.703190+00:00",
     "last_count": 2,
     "peak_count": 3,
@@ -658,9 +658,9 @@
     "alert": ""
   },
   "watch-sheet-079": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
-    "last_error": "",
+    "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师",
     "last_success_at": "2026-11-19T16:35:14.703382+00:00",
     "last_count": 6,
     "peak_count": 6,
@@ -743,7 +743,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.703567+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935300+00:00",
     "last_count": 7,
     "peak_count": 7,
     "alert": ""
@@ -775,7 +775,7 @@
   "watch-sheet-094": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.703631+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935384+00:00",
     "last_error": "",
     "last_count": 2,
     "peak_count": 3,
@@ -810,7 +810,7 @@
     "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：AI-数据产品经理、AI产品经理-海创汇、工业AI平台产品经理"
   },
   "watch-sheet-099": {
-    "consecutive_failures": 43,
+    "consecutive_failures": 44,
     "status": "blocked",
     "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
   },
@@ -869,7 +869,7 @@
   "watch-sheet-108": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.703838+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935626+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 6,
@@ -890,7 +890,7 @@
     "alert": ""
   },
   "watch-sheet-111": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "status": "active",
     "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
     "last_success_at": "2026-11-19T08:45:01.135808+00:00",
@@ -908,10 +908,10 @@
     "alert": ""
   },
   "watch-sheet-113": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T08:45:01.135861+00:00",
-    "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：产品经理",
+    "last_success_at": "2026-11-20T08:25:15.935722+00:00",
+    "last_error": "",
     "last_count": 2,
     "peak_count": 7,
     "alert": ""
@@ -937,7 +937,7 @@
   "watch-sheet-116": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.704041+00:00",
+    "last_success_at": "2026-11-20T08:25:15.935953+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 9,
@@ -1004,7 +1004,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.704164+00:00",
+    "last_success_at": "2026-11-20T08:25:15.936106+00:00",
     "last_count": 4,
     "peak_count": 4,
     "alert": ""
@@ -1013,7 +1013,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.704308+00:00",
+    "last_success_at": "2026-11-20T08:25:15.936289+00:00",
     "last_count": 5,
     "peak_count": 12,
     "alert": ""
@@ -1021,7 +1021,7 @@
   "watch-sheet-128": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.704665+00:00",
+    "last_success_at": "2026-11-20T08:25:15.936740+00:00",
     "last_error": "",
     "last_count": 13,
     "peak_count": 13,
@@ -1049,7 +1049,7 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.704682+00:00",
+    "last_success_at": "2026-11-20T08:25:15.936752+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
@@ -1099,13 +1099,13 @@
     "consecutive_failures": 0,
     "status": "active",
     "last_error": "",
-    "last_success_at": "2026-11-19T16:35:14.704690+00:00",
+    "last_success_at": "2026-11-20T08:25:15.936761+00:00",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
   },
   "watch-sheet-138": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "status": "active",
     "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
     "last_success_at": "2026-11-19T08:45:01.136558+00:00",
@@ -1114,9 +1114,9 @@
     "alert": ""
   },
   "watch-sheet-139": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
-    "last_error": "",
+    "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
     "last_success_at": "2026-11-19T16:35:14.704746+00:00",
     "last_count": 1,
     "peak_count": 5,
@@ -1218,7 +1218,7 @@
   "watch-sheet-153": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.704937+00:00",
+    "last_success_at": "2026-11-20T08:25:15.937016+00:00",
     "last_error": "",
     "last_count": 6,
     "peak_count": 6,
@@ -1250,7 +1250,7 @@
   "watch-sheet-157": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-19T16:35:14.704945+00:00",
+    "last_success_at": "2026-11-20T08:25:15.937027+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,

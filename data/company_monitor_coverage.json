@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20 00:35",
+  "generated_at": "2026-11-20 16:25",
   "configured_companies": 43,
   "attempted_sources": 43,
-  "healthy_sources": 37,
+  "healthy_sources": 35,
   "unhealthy_sources": [
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "status": "blocked",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -16,27 +16,49 @@
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-021",
+      "source_id": "watch-sheet-015",
+      "adapter": "watch_official",
+      "consecutive_failures": 0,
+      "status": "active",
+      "last_success_at": "2026-11-20T08:25:15.930691+00:00",
+      "last_error": "",
+      "last_count": 0,
+      "peak_count": 11,
+      "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
+    },
+    {
+      "source_id": "watch-sheet-062",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
-      "last_success_at": "2026-11-19T08:45:01.134421+00:00",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://xiaomi.jobs.f.mioffice.cn/campus/\", waiting until \"domcontentloaded\"\n",
-      "last_count": 72,
-      "peak_count": 84,
+      "last_error": "RuntimeError: RuntimeError: 职位列表分页未完成；RuntimeError: 下一页未发生变化，无法确认完整列表",
+      "last_success_at": "2026-11-19T16:35:14.703190+00:00",
+      "last_count": 2,
+      "peak_count": 3,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-sheet-079",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师",
+      "last_success_at": "2026-11-19T16:35:14.703382+00:00",
+      "last_count": 6,
+      "peak_count": 6,
       "alert": ""
     },
     {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 43,
+      "consecutive_failures": 44,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     },
     {
       "source_id": "watch-sheet-111",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
       "last_success_at": "2026-11-19T08:45:01.135808+00:00",
@@ -45,25 +67,25 @@
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-113",
-      "adapter": "watch_official",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_success_at": "2026-11-19T08:45:01.135861+00:00",
-      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：产品经理",
-      "last_count": 2,
-      "peak_count": 7,
-      "alert": ""
-    },
-    {
       "source_id": "watch-sheet-138",
       "adapter": "watch_official",
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
       "last_success_at": "2026-11-19T08:45:01.136558+00:00",
       "last_count": 3,
       "peak_count": 3,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-sheet-139",
+      "adapter": "watch_official",
+      "consecutive_failures": 1,
+      "status": "active",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
+      "last_success_at": "2026-11-19T16:35:14.704746+00:00",
+      "last_count": 1,
+      "peak_count": 5,
       "alert": ""
     }
   ]
