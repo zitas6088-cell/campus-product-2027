@@ -1,5 +1,29 @@
 [
   {
+    "dedup_key": "31cc39c3a0e4e092",
+    "source_id": "watch-sheet-021",
+    "company_name": "小米",
+    "title": "产品经理（开发者服务）",
+    "location": "",
+    "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923940260301075/detail",
+    "first_seen": "2026-11-20T08:18:56.339787+00:00",
+    "last_seen": "2026-11-21T08:10:37.918878+00:00",
+    "archived_at": "2026-11-21T15:13:19.264582+00:00",
+    "match_score": 161
+  },
+  {
+    "dedup_key": "55d25ed7f864cf52",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "【LongCat大模型人才校招】基座评测与认知分析算法研究员-多模态与前沿交互研究",
+    "location": "北京市、上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4530490380",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-21T08:10:37.918878+00:00",
+    "archived_at": "2026-11-21T15:13:19.264582+00:00",
+    "match_score": 120
+  },
+  {
     "dedup_key": "78b13cf6b9335bc8",
     "source_id": "watch-xhs",
     "company_name": "小红书",
@@ -1414,18 +1438,6 @@
     "last_seen": "2026-11-18T16:19:37.199471+00:00",
     "archived_at": "2026-11-19T08:39:26.800586+00:00",
     "match_score": 164
-  },
-  {
-    "dedup_key": "31cc39c3a0e4e092",
-    "source_id": "watch-sheet-021",
-    "company_name": "小米",
-    "title": "产品经理（开发者服务）",
-    "location": "",
-    "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670923940260301075/detail",
-    "first_seen": "2026-11-01T12:57:37.525665+00:00",
-    "last_seen": "2026-11-18T08:24:40.691828+00:00",
-    "archived_at": "2026-11-19T08:39:26.800586+00:00",
-    "match_score": 161
   },
   {
     "dedup_key": "feef0f61bcac2fc7",
