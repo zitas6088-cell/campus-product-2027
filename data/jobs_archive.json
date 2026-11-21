@@ -1,5 +1,29 @@
 [
   {
+    "dedup_key": "78b13cf6b9335bc8",
+    "source_id": "watch-xhs",
+    "company_name": "小红书",
+    "title": "【2027校招】AI安全算法工程师",
+    "location": "北京市，上海市，杭州市",
+    "official_url": "https://job.xiaohongshu.com/campus/position?positionId=22219",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-20T15:59:42.582199+00:00",
+    "archived_at": "2026-11-21T08:10:37.918878+00:00",
+    "match_score": 180
+  },
+  {
+    "dedup_key": "4e15451ab273b2e7",
+    "source_id": "watch-xhs",
+    "company_name": "小红书",
+    "title": "【2027校招】大模型推理加速研发工程师",
+    "location": "北京市，上海市，杭州市",
+    "official_url": "https://job.xiaohongshu.com/campus/position?positionId=22056",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-20T15:59:42.582199+00:00",
+    "archived_at": "2026-11-21T08:10:37.918878+00:00",
+    "match_score": 138
+  },
+  {
     "dedup_key": "66f7e502799e1a8d",
     "source_id": "watch-meituan",
     "company_name": "美团",

@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-20 15:00（北京时间）
-完成时间：2026-11-21 00:06
-共43家公司：新增0家；没有新增38家；异常5家。
+2027届产品岗逐公司检查结果｜2026-11-21 09:00（北京时间）
+完成时间：2026-11-21 16:17
+共43家公司：新增0家；没有新增39家；异常4家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/44768735735
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/44883593138
 第1/1条
 
 360集团：没有新增
@@ -11,7 +11,7 @@
 
 百度：没有新增
 
-哔哩哔哩：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://jobs.bilibili.com/campus/", waiting until "domcontentloaded" ; ）
+哔哩哔哩：没有新增
 
 传音控股：没有新增
 
