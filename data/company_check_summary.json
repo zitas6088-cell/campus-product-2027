@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-22T09:00+08:00",
-  "generated_at": "2026-11-22 16:01",
+  "slot": "2026-11-22T15:00+08:00",
+  "generated_at": "2026-11-22 23:17",
   "companies": [
     {
       "company": "360集团",
@@ -83,7 +83,7 @@
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "TimeoutError:",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://campushr.hikvision.com/school?schoolType=nozxf\", waiting until ",
       "jobs": []
     },
     {
@@ -187,8 +187,8 @@
     {
       "company": "同花顺",
       "source_id": "watch-sheet-089",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://campus.10jqka.com.cn/job/list?type=school\", waiting until \"domc",
       "jobs": []
     },
     {
@@ -222,8 +222,8 @@
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
