@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "cc9442f05a9640bb",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "无人车资深后端研发工程师",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4875184969",
+    "first_seen": "2026-11-20T15:59:42.582199+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 124
+  },
+  {
+    "dedup_key": "3e286ccab3bd372e",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "差旅场景组-产品经理",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4826532250",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 211
+  },
+  {
+    "dedup_key": "ea8c3d9518452594",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "【实习】业务运营管理岗",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4899900915",
+    "first_seen": "2026-11-05T15:17:50.800407+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 159
+  },
+  {
+    "dedup_key": "27f0ce2a311c3670",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "销量预测专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4225235458",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 147
+  },
+  {
+    "dedup_key": "bb1a738d2dda42a9",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "无人车资深后端研发工程师",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4862040547",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 124
+  },
+  {
+    "dedup_key": "4dcf6d2c2c89dd6d",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "生鲜PC采控负责人",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=1883063813",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 110
+  },
+  {
+    "dedup_key": "204d0e4119b07668",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "设备物资主管",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4493377685",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 90
+  },
+  {
+    "dedup_key": "60a18991266196a9",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "自有品牌成本优化专家",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4933516229",
+    "first_seen": "2026-11-17T08:58:21.950364+00:00",
+    "last_seen": "2026-11-21T15:13:19.264582+00:00",
+    "archived_at": "2026-11-22T07:54:48.526040+00:00",
+    "match_score": 80
+  },
+  {
     "dedup_key": "31cc39c3a0e4e092",
     "source_id": "watch-sheet-021",
     "company_name": "小米",
@@ -586,18 +682,6 @@
     "last_seen": "2026-11-19T16:28:33.521368+00:00",
     "archived_at": "2026-11-20T08:18:56.339787+00:00",
     "match_score": 129
-  },
-  {
-    "dedup_key": "cc9442f05a9640bb",
-    "source_id": "watch-meituan",
-    "company_name": "美团",
-    "title": "无人车资深后端研发工程师",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4875184969",
-    "first_seen": "2026-10-31T03:48:09.969659+00:00",
-    "last_seen": "2026-11-19T16:28:33.521368+00:00",
-    "archived_at": "2026-11-20T08:18:56.339787+00:00",
-    "match_score": 124
   },
   {
     "dedup_key": "1c06315c3b372e9b",
