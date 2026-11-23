@@ -25298,6 +25298,10 @@
     "蚂蚁集团:c9f0e34b36472c03a81ba9ea": {
       "sent_at": "2026-11-19T08:45:03.229672+00:00",
       "title": "AI产品经理-智能金融方向"
+    },
+    "字节跳动:7670455265293109509": {
+      "sent_at": "2026-11-23T08:57:06.181424+00:00",
+      "title": "AI产品经理（AgentOS方向） - AI创新业务"
     }
   },
   "scope_baselines": {
@@ -25330,18 +25334,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-19T09:00+08:00": {
-      "jobs": {
-        "蚂蚁集团:c9f0e34b36472c03a81ba9ea": {
-          "company_name": "蚂蚁集团",
-          "source_id": "watch-sheet-005",
-          "title": "AI产品经理-智能金融方向",
-          "official_url": "https://talent.antgroup.com/campus-position?positionId=260721010991747",
-          "location": "杭州"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-19T15:00+08:00": {
       "jobs": {},
       "first_sources": []
@@ -25368,6 +25360,18 @@
     },
     "2026-11-22T15:00+08:00": {
       "jobs": {},
+      "first_sources": []
+    },
+    "2026-11-23T09:00+08:00": {
+      "jobs": {
+        "字节跳动:7670455265293109509": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "AI产品经理（AgentOS方向） - AI创新业务",
+          "official_url": "https://jobs.bytedance.com/campus/position/7670455265293109509/detail",
+          "location": "北京"
+        }
+      },
       "first_sources": []
     }
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 23:17",
+  "generated_at": "2026-11-23 16:57",
   "configured_companies": 43,
   "attempted_sources": 43,
   "healthy_sources": 38,
@@ -7,7 +7,7 @@
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 34,
+      "consecutive_failures": 35,
       "status": "blocked",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -20,7 +20,7 @@
       "adapter": "watch_official",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-22T15:17:25.907825+00:00",
+      "last_success_at": "2026-11-23T08:57:04.037059+00:00",
       "last_error": "",
       "last_count": 0,
       "peak_count": 11,
@@ -29,31 +29,31 @@
     {
       "source_id": "watch-sheet-079",
       "adapter": "watch_official",
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "status": "unstable",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://campushr.hikvision.com/school?schoolType=nozxf\", waiting until \"domcontentloaded\"\n",
+      "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
       "last_success_at": "2026-11-21T08:16:58.687492+00:00",
       "last_count": 6,
       "peak_count": 6,
       "alert": ""
     },
     {
-      "source_id": "watch-sheet-089",
+      "source_id": "watch-sheet-099",
+      "adapter": "watch_official",
+      "consecutive_failures": 50,
+      "status": "blocked",
+      "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
+    },
+    {
+      "source_id": "watch-sheet-131",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://campus.10jqka.com.cn/job/list?type=school\", waiting until \"domcontentloaded\"\n",
-      "last_success_at": "2026-11-22T08:01:47.679425+00:00",
-      "last_count": 7,
-      "peak_count": 7,
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 403",
+      "last_success_at": "2026-11-22T15:17:25.911855+00:00",
+      "last_count": 0,
+      "peak_count": 0,
       "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-099",
-      "adapter": "watch_official",
-      "consecutive_failures": 49,
-      "status": "blocked",
-      "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     }
   ]
 }

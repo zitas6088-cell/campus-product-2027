@@ -1,8 +1,8 @@
-2027届产品岗逐公司检查结果｜2026-11-22 15:00（北京时间）
-完成时间：2026-11-22 23:17
-共43家公司：新增0家；没有新增38家；异常5家。
+2027届产品岗逐公司检查结果｜2026-11-23 09:00（北京时间）
+完成时间：2026-11-23 16:57
+共43家公司：新增1家；没有新增37家；异常5家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/45036813955
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/45141866529
 第1/1条
 
 360集团：没有新增
@@ -27,7 +27,7 @@
 
 哈啰：没有新增
 
-海康威视：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://campushr.hikvision.com/school?schoolType=nozxf", waiting until ）
+海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员）
 
 京东：没有新增
 
@@ -41,7 +41,7 @@
 
 拼多多：没有新增
 
-七猫：没有新增
+七猫：异常（未验证到可读职位列表；HTTP 403）
 
 去哪儿：没有新增
 
@@ -57,7 +57,7 @@
 
 同程旅行：没有新增
 
-同花顺：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://campus.10jqka.com.cn/job/list?type=school", waiting until "domc）
+同花顺：没有新增
 
 网易互联网：异常（浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理）
 
@@ -73,7 +73,10 @@
 
 知乎：没有新增
 
-字节跳动：没有新增
+字节跳动：新增 1个岗位
+
+  字节跳动｜AI产品经理（AgentOS方向） - AI创新业务
+https://jobs.bytedance.com/campus/position/7670455265293109509/detail
 
 作业帮：没有新增
 
