@@ -25302,6 +25302,10 @@
     "字节跳动:7670455265293109509": {
       "sent_at": "2026-11-23T08:57:06.181424+00:00",
       "title": "AI产品经理（AgentOS方向） - AI创新业务"
+    },
+    "字节跳动:7711382775727261957": {
+      "sent_at": "2026-11-23T19:14:11.174630+00:00",
+      "title": "AI产品设计师 - 集团信息系统"
     }
   },
   "scope_baselines": {
@@ -25334,10 +25338,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-19T15:00+08:00": {
-      "jobs": {},
-      "first_sources": []
-    },
     "2026-11-20T09:00+08:00": {
       "jobs": {},
       "first_sources": []
@@ -25370,6 +25370,18 @@
           "title": "AI产品经理（AgentOS方向） - AI创新业务",
           "official_url": "https://jobs.bytedance.com/campus/position/7670455265293109509/detail",
           "location": "北京"
+        }
+      },
+      "first_sources": []
+    },
+    "2026-11-23T15:00+08:00": {
+      "jobs": {
+        "字节跳动:7711382775727261957": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "AI产品设计师 - 集团信息系统",
+          "official_url": "https://jobs.bytedance.com/campus/position/7711382775727261957/detail",
+          "location": "上海"
         }
       },
       "first_sources": []

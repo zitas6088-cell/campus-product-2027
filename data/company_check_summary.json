@@ -1,6 +1,6 @@
 {
-  "slot": "2026-11-23T09:00+08:00",
-  "generated_at": "2026-11-23 16:57",
+  "slot": "2026-11-23T15:00+08:00",
+  "generated_at": "2026-11-24 03:14",
   "companies": [
     {
       "company": "360集团",
@@ -83,7 +83,7 @@
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师、【2027校园招聘】新产品导入工程师",
       "jobs": []
     },
     {
@@ -249,9 +249,9 @@
         {
           "company_name": "字节跳动",
           "source_id": "watch-byte",
-          "title": "AI产品经理（AgentOS方向） - AI创新业务",
-          "official_url": "https://jobs.bytedance.com/campus/position/7670455265293109509/detail",
-          "location": "北京"
+          "title": "AI产品设计师 - 集团信息系统",
+          "official_url": "https://jobs.bytedance.com/campus/position/7711382775727261957/detail",
+          "location": "上海"
         }
       ]
     },
