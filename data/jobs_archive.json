@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "06ab0c8e0202e66e",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "AI产品负责人",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=3021622793",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-24T10:48:09.396515+00:00",
+    "archived_at": "2026-11-24T18:46:37.319900+00:00",
+    "match_score": 201
+  },
+  {
+    "dedup_key": "fac1adbcfffcb863",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "骑行营销算法负责人",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4599894898",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-24T10:48:09.396515+00:00",
+    "archived_at": "2026-11-24T18:46:37.319900+00:00",
+    "match_score": 174
+  },
+  {
+    "dedup_key": "e9b79f073183c4fd",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "LongCat - 多模态算法研究员",
+    "location": "北京市、上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4518445342",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-24T10:48:09.396515+00:00",
+    "archived_at": "2026-11-24T18:46:37.319900+00:00",
+    "match_score": 140
+  },
+  {
+    "dedup_key": "7640a79f49fa3413",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "商业分析师（ 销售及绩效分析）",
+    "location": "上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4772415818",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-24T10:48:09.396515+00:00",
+    "archived_at": "2026-11-24T18:46:37.319900+00:00",
+    "match_score": 105
+  },
+  {
+    "dedup_key": "5d920b7b534bae41",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "区域公共事务管理BP",
+    "location": "北京市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4833726614",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-24T10:48:09.396515+00:00",
+    "archived_at": "2026-11-24T18:46:37.319900+00:00",
+    "match_score": 86
+  },
+  {
+    "dedup_key": "9e1302701d8ec57e",
+    "source_id": "watch-meituan",
+    "company_name": "美团",
+    "title": "小象超市-大连仓收退主管",
+    "location": "大连市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4784218946",
+    "first_seen": "2026-10-31T03:48:09.969659+00:00",
+    "last_seen": "2026-11-24T10:48:09.396515+00:00",
+    "archived_at": "2026-11-24T18:46:37.319900+00:00",
+    "match_score": 68
+  },
+  {
     "dedup_key": "30c5d7f491505cf5",
     "source_id": "watch-meituan",
     "company_name": "美团",

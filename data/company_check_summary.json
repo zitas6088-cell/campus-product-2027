@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-24T09:00+08:00",
-  "generated_at": "2026-11-24 18:54",
+  "slot": "2026-11-24T15:00+08:00",
+  "generated_at": "2026-11-25 02:51",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -26,15 +26,15 @@
     {
       "company": "哔哩哔哩",
       "source_id": "watch-sheet-016",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://jobs.bilibili.com/campus/\", waiting until \"domcontentloaded\" ; ",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
       "company": "传音控股",
       "source_id": "watch-sheet-046",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -75,15 +75,15 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "TimeoutError:",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师",
       "jobs": []
     },
     {
@@ -96,8 +96,8 @@
     {
       "company": "科大讯飞",
       "source_id": "watch-sheet-029",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -159,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -223,7 +223,7 @@
       "company": "迅雷",
       "source_id": "watch-sheet-062",
       "status": "异常",
-      "detail": "未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://hr.xunlei.com/\", waiting until \"domcontentloaded\"",
       "jobs": []
     },
     {
@@ -243,24 +243,9 @@
     {
       "company": "字节跳动",
       "source_id": "watch-byte",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "AI产品经理（短剧方向） - TikTok",
-          "official_url": "https://jobs.bytedance.com/campus/position/7711576634046089525/detail",
-          "location": "北京"
-        },
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "平台产品经理（AI开放方向） - 抖音平台",
-          "official_url": "https://jobs.bytedance.com/campus/position/7710103979951589637/detail",
-          "location": "北京"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "作业帮",
@@ -272,8 +257,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
       "jobs": []
     },
     {
@@ -307,8 +292,8 @@
     {
       "company": "vivo",
       "source_id": "watch-sheet-022",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator(\"[class*=\\\"JobTitle\\\"]\").first to be visible",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
