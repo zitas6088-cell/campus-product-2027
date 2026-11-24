@@ -1,19 +1,19 @@
-2027届产品岗逐公司检查结果｜2026-11-23 15:00（北京时间）
-完成时间：2026-11-24 03:14
-共43家公司：新增1家；没有新增37家；异常5家。
+2027届产品岗逐公司检查结果｜2026-11-24 09:00（北京时间）
+完成时间：2026-11-24 18:54
+共43家公司：新增1家；没有新增29家；异常13家。
 新增仅指官网确认适用2027届的产品相关正式校招。
-运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/45245585530
+运行记录：https://github.com/zitas6088-cell/campus-product-2027/actions/runs/45378142672
 第1/1条
 
-360集团：没有新增
+360集团：异常（未验证到可读职位列表；）
 
 爱奇艺：没有新增
 
 百度：没有新增
 
-哔哩哔哩：没有新增
+哔哩哔哩：异常（未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to "https://jobs.bilibili.com/campus/", waiting until "domcontentloaded" ; ）
 
-传音控股：没有新增
+传音控股：异常（未验证到可读职位列表；）
 
 得物App：没有新增
 
@@ -25,13 +25,13 @@
 
 度小满：没有新增
 
-哈啰：没有新增
+哈啰：异常（未验证到可读职位列表；）
 
-海康威视：异常（产品标题尚未取得可验证岗位详情：【2027校园招聘】产品管理工程师、【2027校园招聘】新产品导入工程师）
+海康威视：异常（TimeoutError:）
 
 京东：没有新增
 
-科大讯飞：没有新增
+科大讯飞：异常（未验证到可读职位列表；）
 
 快手：没有新增
 
@@ -49,7 +49,7 @@
 
 商汤科技：没有新增
 
-收钱吧：没有新增
+收钱吧：异常（未验证到可读职位列表；）
 
 顺丰科技：没有新增
 
@@ -67,16 +67,19 @@
 
 携程集团：异常（产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理）
 
-迅雷：没有新增
+迅雷：异常（未验证到可读职位列表；Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.）
 
 用友网络：没有新增
 
 知乎：没有新增
 
-字节跳动：新增 1个岗位
+字节跳动：新增 2个岗位
 
-  字节跳动｜AI产品设计师 - 集团信息系统
-https://jobs.bytedance.com/campus/position/7711382775727261957/detail
+  字节跳动｜AI产品经理（短剧方向） - TikTok
+https://jobs.bytedance.com/campus/position/7711576634046089525/detail
+
+  字节跳动｜平台产品经理（AI开放方向） - 抖音平台
+https://jobs.bytedance.com/campus/position/7710103979951589637/detail
 
 作业帮：没有新增
 
@@ -90,6 +93,6 @@ Shopee：没有新增
 
 Soul：没有新增
 
-vivo：没有新增
+vivo：异常（未验证到可读职位列表；TimeoutError: Locator.wait_for: Timeout 18000ms exceeded. Call log: - waiting for locator("[class*=\"JobTitle\"]").first to be visible）
 
 Wind万得：没有新增
