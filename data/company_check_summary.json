@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-25T09:00+08:00",
-  "generated_at": "2026-11-25 17:50",
+  "slot": "2026-11-25T15:00+08:00",
+  "generated_at": "2026-11-26 02:00",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -201,8 +201,8 @@
     {
       "company": "小红书",
       "source_id": "watch-xhs",
-      "status": "异常",
-      "detail": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -257,8 +257,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {

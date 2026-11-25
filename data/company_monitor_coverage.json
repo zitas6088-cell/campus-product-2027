@@ -1,24 +1,13 @@
 {
-  "generated_at": "2026-11-25 17:50",
+  "generated_at": "2026-11-26 02:00",
   "configured_companies": 43,
   "attempted_sources": 43,
-  "healthy_sources": 36,
+  "healthy_sources": 37,
   "unhealthy_sources": [
-    {
-      "source_id": "watch-xhs",
-      "adapter": "watch_xhs",
-      "consecutive_failures": 1,
-      "status": "active",
-      "last_success_at": "2026-11-24T18:51:48.248032+00:00",
-      "last_error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
-      "last_count": 204,
-      "peak_count": 210,
-      "alert": ""
-    },
     {
       "source_id": "watch-sheet-014",
       "adapter": "watch_official",
-      "consecutive_failures": 39,
+      "consecutive_failures": 40,
       "status": "blocked",
       "last_success_at": "2026-11-04T15:24:23.507808+00:00",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：2022届｜火车票事业群｜产品经理、2023届｜机票事业群｜产品经理",
@@ -31,7 +20,7 @@
       "adapter": "watch_official",
       "consecutive_failures": 0,
       "status": "active",
-      "last_success_at": "2026-11-25T09:50:30.620274+00:00",
+      "last_success_at": "2026-11-25T18:00:40.388527+00:00",
       "last_error": "",
       "last_count": 0,
       "peak_count": 11,
@@ -40,7 +29,7 @@
     {
       "source_id": "watch-sheet-079",
       "adapter": "watch_official",
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
       "last_success_at": "2026-11-21T08:16:58.687492+00:00",
@@ -51,30 +40,30 @@
     {
       "source_id": "watch-sheet-099",
       "adapter": "watch_official",
-      "consecutive_failures": 54,
+      "consecutive_failures": 55,
       "status": "blocked",
       "last_error": "RuntimeError: RuntimeError: 浏览器站点安全策略拒绝访问该招聘域名；暂停自动读取，保留原数据，等待用户处理"
     },
     {
-      "source_id": "watch-sheet-131",
-      "adapter": "watch_official",
-      "consecutive_failures": 5,
-      "status": "unstable",
-      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 403",
-      "last_success_at": "2026-11-22T15:17:25.911855+00:00",
-      "last_count": 0,
-      "peak_count": 0,
-      "alert": ""
-    },
-    {
-      "source_id": "watch-sheet-139",
+      "source_id": "watch-sheet-126",
       "adapter": "watch_official",
       "consecutive_failures": 1,
       "status": "active",
       "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；",
-      "last_success_at": "2026-11-24T18:51:51.871920+00:00",
-      "last_count": 1,
-      "peak_count": 5,
+      "last_success_at": "2026-11-25T09:50:30.625951+00:00",
+      "last_count": 4,
+      "peak_count": 4,
+      "alert": ""
+    },
+    {
+      "source_id": "watch-sheet-131",
+      "adapter": "watch_official",
+      "consecutive_failures": 6,
+      "status": "blocked",
+      "last_error": "RuntimeError: RuntimeError: 未验证到可读职位列表；HTTP 403",
+      "last_success_at": "2026-11-22T15:17:25.911855+00:00",
+      "last_count": 0,
+      "peak_count": 0,
       "alert": ""
     }
   ]
