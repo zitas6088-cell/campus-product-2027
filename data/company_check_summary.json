@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-24T15:00+08:00",
-  "generated_at": "2026-11-25 02:51",
+  "slot": "2026-11-25T09:00+08:00",
+  "generated_at": "2026-11-25 17:50",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "未验证到可读职位列表；",
       "jobs": []
     },
     {
@@ -83,7 +83,7 @@
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
       "jobs": []
     },
     {
@@ -201,8 +201,8 @@
     {
       "company": "小红书",
       "source_id": "watch-xhs",
-      "status": "没有新增",
-      "detail": "",
+      "status": "异常",
+      "detail": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
       "jobs": []
     },
     {
@@ -222,8 +222,8 @@
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://hr.xunlei.com/\", waiting until \"domcontentloaded\"",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -257,8 +257,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
