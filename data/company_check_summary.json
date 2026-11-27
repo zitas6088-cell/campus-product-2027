@@ -1,12 +1,12 @@
 {
-  "slot": "2026-11-27T09:00+08:00",
-  "generated_at": "2026-11-27 17:40",
+  "slot": "2026-11-27T15:00+08:00",
+  "generated_at": "2026-11-28 01:28",
   "companies": [
     {
       "company": "360集团",
       "source_id": "watch-sheet-139",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -75,15 +75,15 @@
     {
       "company": "哈啰",
       "source_id": "watch-sheet-111",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
       "company": "海康威视",
       "source_id": "watch-sheet-079",
       "status": "异常",
-      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】海外产品市场专员",
+      "detail": "产品标题尚未取得可验证岗位详情：【2027校园招聘】产品市场专员、【2027校园招聘】产品管理工程师、【2027校园招聘】产品质量工程师、【2027校园招聘】新产品导入工程师、【2027校园招聘】海外产品售前工程师、【2027校园招聘】海外产品市场专员",
       "jobs": []
     },
     {
@@ -159,8 +159,8 @@
     {
       "company": "收钱吧",
       "source_id": "watch-sheet-138",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {
@@ -208,17 +208,9 @@
     {
       "company": "小米",
       "source_id": "watch-sheet-021",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "小米",
-          "source_id": "watch-sheet-021",
-          "title": "供应商直连产品运营助理",
-          "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7709074945129318666/detail",
-          "location": ""
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "携程集团",
@@ -230,9 +222,24 @@
     {
       "company": "迅雷",
       "source_id": "watch-sheet-062",
-      "status": "没有新增",
+      "status": "新增",
       "detail": "",
-      "jobs": []
+      "jobs": [
+        {
+          "company_name": "迅雷",
+          "source_id": "watch-sheet-062",
+          "title": "【2027校招】数据产品经理",
+          "official_url": "https://campus.xunlei.com/campus_apply/xunlei/26600/#/job/cd8443b7-1ecc-4f8a-b53a-b86a5e5ffb87",
+          "location": ""
+        },
+        {
+          "company_name": "迅雷",
+          "source_id": "watch-sheet-062",
+          "title": "【2027校招】游戏工具产品增长运营",
+          "official_url": "https://campus.xunlei.com/campus_apply/xunlei/26600/#/job/11c0bbd3-0309-4b52-bac5-13ad54f2209f",
+          "location": ""
+        }
+      ]
     },
     {
       "company": "用友网络",
@@ -251,24 +258,9 @@
     {
       "company": "字节跳动",
       "source_id": "watch-byte",
-      "status": "新增",
+      "status": "没有新增",
       "detail": "",
-      "jobs": [
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "模型数据策略与评测产品经理（Seedream） - AI数据与安全",
-          "official_url": "https://jobs.bytedance.com/campus/position/7712701429318158597/detail",
-          "location": "北京"
-        },
-        {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "模型数据策略与评测产品经理（Seedance） - AI数据与安全",
-          "official_url": "https://jobs.bytedance.com/campus/position/7712701296005581061/detail",
-          "location": "北京"
-        }
-      ]
+      "jobs": []
     },
     {
       "company": "作业帮",
@@ -280,8 +272,8 @@
     {
       "company": "BOSS直聘",
       "source_id": "watch-sheet-126",
-      "status": "异常",
-      "detail": "未验证到可读职位列表；Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+      "status": "没有新增",
+      "detail": "",
       "jobs": []
     },
     {

@@ -25326,6 +25326,14 @@
     "小米:3a3ef742049c0dcaa2b6c240": {
       "sent_at": "2026-11-27T09:40:45.888744+00:00",
       "title": "供应商直连产品运营助理"
+    },
+    "迅雷:47bb9110e2ffd9ff5627e5de": {
+      "sent_at": "2026-11-27T17:28:17.590305+00:00",
+      "title": "【2027校招】数据产品经理"
+    },
+    "迅雷:01776ec8258e09e3b9b2e089": {
+      "sent_at": "2026-11-27T17:28:17.590305+00:00",
+      "title": "【2027校招】游戏工具产品增长运营"
     }
   },
   "scope_baselines": {
@@ -25358,18 +25366,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-23T15:00+08:00": {
-      "jobs": {
-        "字节跳动:7711382775727261957": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "AI产品设计师 - 集团信息系统",
-          "official_url": "https://jobs.bytedance.com/campus/position/7711382775727261957/detail",
-          "location": "上海"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-24T09:00+08:00": {
       "jobs": {
         "字节跳动:7711576634046089525": {
@@ -25430,6 +25426,25 @@
           "source_id": "watch-sheet-021",
           "title": "供应商直连产品运营助理",
           "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7709074945129318666/detail",
+          "location": ""
+        }
+      },
+      "first_sources": []
+    },
+    "2026-11-27T15:00+08:00": {
+      "jobs": {
+        "迅雷:47bb9110e2ffd9ff5627e5de": {
+          "company_name": "迅雷",
+          "source_id": "watch-sheet-062",
+          "title": "【2027校招】数据产品经理",
+          "official_url": "https://campus.xunlei.com/campus_apply/xunlei/26600/#/job/cd8443b7-1ecc-4f8a-b53a-b86a5e5ffb87",
+          "location": ""
+        },
+        "迅雷:01776ec8258e09e3b9b2e089": {
+          "company_name": "迅雷",
+          "source_id": "watch-sheet-062",
+          "title": "【2027校招】游戏工具产品增长运营",
+          "official_url": "https://campus.xunlei.com/campus_apply/xunlei/26600/#/job/11c0bbd3-0309-4b52-bac5-13ad54f2209f",
           "location": ""
         }
       },
