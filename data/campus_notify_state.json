@@ -25314,6 +25314,18 @@
     "字节跳动:7710103979951589637": {
       "sent_at": "2026-11-24T10:54:53.465445+00:00",
       "title": "平台产品经理（AI开放方向） - 抖音平台"
+    },
+    "字节跳动:7712701429318158597": {
+      "sent_at": "2026-11-27T09:40:45.888744+00:00",
+      "title": "模型数据策略与评测产品经理（Seedream） - AI数据与安全"
+    },
+    "字节跳动:7712701296005581061": {
+      "sent_at": "2026-11-27T09:40:45.888744+00:00",
+      "title": "模型数据策略与评测产品经理（Seedance） - AI数据与安全"
+    },
+    "小米:3a3ef742049c0dcaa2b6c240": {
+      "sent_at": "2026-11-27T09:40:45.888744+00:00",
+      "title": "供应商直连产品运营助理"
     }
   },
   "scope_baselines": {
@@ -25346,18 +25358,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-23T09:00+08:00": {
-      "jobs": {
-        "字节跳动:7670455265293109509": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "AI产品经理（AgentOS方向） - AI创新业务",
-          "official_url": "https://jobs.bytedance.com/campus/position/7670455265293109509/detail",
-          "location": "北京"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-23T15:00+08:00": {
       "jobs": {
         "字节跳动:7711382775727261957": {
@@ -25407,6 +25407,32 @@
     },
     "2026-11-26T15:00+08:00": {
       "jobs": {},
+      "first_sources": []
+    },
+    "2026-11-27T09:00+08:00": {
+      "jobs": {
+        "字节跳动:7712701429318158597": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "模型数据策略与评测产品经理（Seedream） - AI数据与安全",
+          "official_url": "https://jobs.bytedance.com/campus/position/7712701429318158597/detail",
+          "location": "北京"
+        },
+        "字节跳动:7712701296005581061": {
+          "company_name": "字节跳动",
+          "source_id": "watch-byte",
+          "title": "模型数据策略与评测产品经理（Seedance） - AI数据与安全",
+          "official_url": "https://jobs.bytedance.com/campus/position/7712701296005581061/detail",
+          "location": "北京"
+        },
+        "小米:3a3ef742049c0dcaa2b6c240": {
+          "company_name": "小米",
+          "source_id": "watch-sheet-021",
+          "title": "供应商直连产品运营助理",
+          "official_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7709074945129318666/detail",
+          "location": ""
+        }
+      },
       "first_sources": []
     }
   }
