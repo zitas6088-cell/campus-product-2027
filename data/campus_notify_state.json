@@ -25366,25 +25366,6 @@
     "watch-sheet-009": "2026-11-01-priority24-v1"
   },
   "company_status_contexts": {
-    "2026-11-24T09:00+08:00": {
-      "jobs": {
-        "字节跳动:7711576634046089525": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "AI产品经理（短剧方向） - TikTok",
-          "official_url": "https://jobs.bytedance.com/campus/position/7711576634046089525/detail",
-          "location": "北京"
-        },
-        "字节跳动:7710103979951589637": {
-          "company_name": "字节跳动",
-          "source_id": "watch-byte",
-          "title": "平台产品经理（AI开放方向） - 抖音平台",
-          "official_url": "https://jobs.bytedance.com/campus/position/7710103979951589637/detail",
-          "location": "北京"
-        }
-      },
-      "first_sources": []
-    },
     "2026-11-24T15:00+08:00": {
       "jobs": {},
       "first_sources": []
@@ -25448,6 +25429,10 @@
           "location": ""
         }
       },
+      "first_sources": []
+    },
+    "2026-11-28T09:00+08:00": {
+      "jobs": {},
       "first_sources": []
     }
   }
